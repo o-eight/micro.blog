@@ -7,12 +7,95 @@
 	"items": [
 		
 			{
+				"id": "http://o-eight.micro.blog/2025/02/20/kagi-translatekagiorionkagi-search-iframe-orion.html",
+				
+				"content_html": "<p>Kagi TranslateはKagiが提供する翻訳サービスで、OrionブラウザやKagi Searchに組み込まれている。</p>\n<p>翻訳品質は高いようで、試した範囲では自然な訳文が多いと感じた。これは複数の言語モデルを組み合わせた仕組みによるものである。</p>\n<p>ただし課題もあって——</p>\n<ul>\n<li>iframe方式を採用しているため、動的生成ページやフレーム構造のページが翻訳できない</li>\n<li>翻訳言語を毎回選択し直す必要があるのが面倒</li>\n<li>Orionブラウザでは、ページ内の文章を直接置き換える方式が望ましい</li>\n</ul>\n<p>あと、Orionにおいては要約機能と同じように、別パネルでの翻訳ページ表示オプションがあると便利かもしれない。</p>\n",
+				"content_text": "Kagi TranslateはKagiが提供する翻訳サービスで、OrionブラウザやKagi Searchに組み込まれている。\n\n翻訳品質は高いようで、試した範囲では自然な訳文が多いと感じた。これは複数の言語モデルを組み合わせた仕組みによるものである。\n\nただし課題もあって——\n\n- iframe方式を採用しているため、動的生成ページやフレーム構造のページが翻訳できない\n- 翻訳言語を毎回選択し直す必要があるのが面倒\n- Orionブラウザでは、ページ内の文章を直接置き換える方式が望ましい\n\nあと、Orionにおいては要約機能と同じように、別パネルでの翻訳ページ表示オプションがあると便利かもしれない。\n",
+				"date_published": "2025-02-20T02:40:09+09:00",
+				"url": "https://oeight.space/2025/02/20/kagi-translatekagiorionkagi-search-iframe-orion.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/02/18/ollamaopen-webuillm-ollamaopen-ai-apiapicorsopen.html",
+				
+				"content_html": "<p>OllamaとOpen WebUIを導入して、ローカルでLLMを動かせるようにしてみた。</p>\n<p>OllamaはOpen AI APIとも互換性のあるAPIを提供しているので、CORSの許可などの設定が若干必要だが、Open AI APIを使って動かしたいローカルアプリ（翻訳ツールとか）を動かすこともできる。</p>\n<p>M4 Mac mini (共有メモリ16GB)モデルだとどれぐらいのLLMを動かせるか分からなかったので、Gemmaの2Bをベースに日本語にファインチューンされたモデルを使用してみている。（DeepSeek R1の7Bの日本語ファインチューニングのモデルも普通に動かせはした）</p>\n",
+				"content_text": "OllamaとOpen WebUIを導入して、ローカルでLLMを動かせるようにしてみた。\n\nOllamaはOpen AI APIとも互換性のあるAPIを提供しているので、CORSの許可などの設定が若干必要だが、Open AI APIを使って動かしたいローカルアプリ（翻訳ツールとか）を動かすこともできる。\n\nM4 Mac mini (共有メモリ16GB)モデルだとどれぐらいのLLMを動かせるか分からなかったので、Gemmaの2Bをベースに日本語にファインチューンされたモデルを使用してみている。（DeepSeek R1の7Bの日本語ファインチューニングのモデルも普通に動かせはした）\n",
+				"date_published": "2025-02-18T19:20:16+09:00",
+				"url": "https://oeight.space/2025/02/18/ollamaopen-webuillm-ollamaopen-ai-apiapicorsopen.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/02/16/231331.html",
+				
+				"content_html": "<p>祭壇巡りしたらあっさり終わった。書いてた文の通り、祭壇の効果中しかカウントされてなさそうだな……。</p>\n",
+				"content_text": "祭壇巡りしたらあっさり終わった。書いてた文の通り、祭壇の効果中しかカウントされてなさそうだな……。\n",
+				"date_published": "2025-02-16T23:13:31+09:00",
+				"url": "https://oeight.space/2025/02/16/231331.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/02/16/diablo-pt-lv.html",
+				
+				"content_html": "<p>今回のDiablo 4のイベントが月の祭壇の効果中に敵を倒せというものだと今さっき気づいた……まあ普通に倒してもpt貯まってるのかもしれないけど……19日までであと1 Lvなんだよなー。</p>\n",
+				"content_text": "今回のDiablo 4のイベントが月の祭壇の効果中に敵を倒せというものだと今さっき気づいた……まあ普通に倒してもpt貯まってるのかもしれないけど……19日までであと1 Lvなんだよなー。\n",
+				"date_published": "2025-02-16T23:06:18+09:00",
+				"url": "https://oeight.space/2025/02/16/diablo-pt-lv.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/02/16/kagi-searchultimate.html",
+				
+				"content_html": "<p>Kagi Searchについての記事を書くと言ってまだ書いていないのだけれど、一旦Ultimateにプランを変更して色々試してみることにした。結構お得感もあるけどどうだろう……？</p>\n",
+				"content_text": "Kagi Searchについての記事を書くと言ってまだ書いていないのだけれど、一旦Ultimateにプランを変更して色々試してみることにした。結構お得感もあるけどどうだろう……？\n",
+				"date_published": "2025-02-16T19:28:19+09:00",
+				"url": "https://oeight.space/2025/02/16/kagi-searchultimate.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/02/16/endelbgmbgm-endel-httpsendelreferralpagelinkkbtv.html",
+				
+				"content_html": "<p>今でもときどき使っているEndelの紹介リンクです。リラクゼーションミュージックというか。フォーカス時も使うのでヒーリングだけでもないんですが。歌入りだとBGMにしづらいけどBGM探すのが面倒な人向けですね。</p>\n<p>さあ、</p>\n<p>この無料コードでEndelをお試しください！</p>\n<p>科学的に証明された、集中力、リラックス、睡眠に役立つサウンドを14日間お使いいただけます。</p>\n<p><a href=\"https://endelreferral.page.link/KBTV\">endelreferral.page.link/KBTV</a></p>\n",
+				"content_text": "今でもときどき使っているEndelの紹介リンクです。リラクゼーションミュージックというか。フォーカス時も使うのでヒーリングだけでもないんですが。歌入りだとBGMにしづらいけどBGM探すのが面倒な人向けですね。\n\n\nさあ、\n\nこの無料コードでEndelをお試しください！\n\n科学的に証明された、集中力、リラックス、睡眠に役立つサウンドを14日間お使いいただけます。\n\n[endelreferral.page.link/KBTV](https://endelreferral.page.link/KBTV)\n",
+				"date_published": "2025-02-16T12:58:57+09:00",
+				"url": "https://oeight.space/2025/02/16/endelbgmbgm-endel-httpsendelreferralpagelinkkbtv.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/02/15/html-web.html",
+				
+				"content_html": "<p>スマートフォンの普及で、ブラウザ→サイト用の単機能アプリの流れが続いていたけど、最近実はブラウザでいいんじゃない？　って機運を感じてきた。</p>\n<p>アプリになった理由は単純で、初期のスマートフォンが性能足りなかったんですよね。</p>\n<p>HTML5でアプリだ→いややっぱ無理だ……。って感じで。</p>\n<p>で、最近のスマートフォンが性能足りないわけないし（とは言っても無限に性能は必要なんだが……）、徐々にWebの方が自由でいいのでは？　となり始めたのではないかと……まだ気配しか感じてないけど。</p>\n<p>ある種のロックインだったりプライバシーの問題だったりがあって、アプリだとどうしても囲い込まれるし不透明なところあるしで。</p>\n",
+				"content_text": "スマートフォンの普及で、ブラウザ→サイト用の単機能アプリの流れが続いていたけど、最近実はブラウザでいいんじゃない？　って機運を感じてきた。\n\nアプリになった理由は単純で、初期のスマートフォンが性能足りなかったんですよね。\n\nHTML5でアプリだ→いややっぱ無理だ……。って感じで。\n\nで、最近のスマートフォンが性能足りないわけないし（とは言っても無限に性能は必要なんだが……）、徐々にWebの方が自由でいいのでは？　となり始めたのではないかと……まだ気配しか感じてないけど。\n\nある種のロックインだったりプライバシーの問題だったりがあって、アプリだとどうしても囲い込まれるし不透明なところあるしで。\n",
+				"date_published": "2025-02-15T18:01:31+09:00",
+				"url": "https://oeight.space/2025/02/15/html-web.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/02/14/193409.html",
+				
+				"content_html": "<p>昨日Arcはいいぞ、と言ったばかりだが、Zen Browserも​試して、最終的には​Kagiの作っている​Orionをしばらく使っていくことにした。​</p>\n<p>macOSで使っているが、現状完成度が一番高いのはArcでZen Browserもそこそこ、Orionもそこそこだけどエラーでクラッシュする頻度は高くてちょっとバギーな印象。</p>\n<p>Appleでサインインすると落ちる、機能拡張入れると落ちる、みたいな感じで大分ロックなブラウザである。二回目やりなおすとうまく行くのだが。</p>\n<p>このOrionの特徴は、ArcやZen Browserみたいに縦型タブが得意で（普通のタブ表示も出来るが）、PiP周りの挙動が同じような感じで……WebKitベースで作られている。</p>\n<p>ArcはChromium(Blink)、ZenはFirefox(Servo)、OrionはWebKitの系統という感じ。エンジンとブラウザがごちゃついてる雑な分類になってしまうが。</p>\n<p>SafariがWebKitなので、わりとmacOSネイティブっぽさを感じる出来である。</p>\n<p>体感的にはmacOS環境だとWebKitの方が多少リソースの消費が軽い印象をもっている。とはいっても、こういうのは時期やら機能拡張やらで軽く変わりえるんだけど。</p>\n<p>正直、このOrionブラウザ自体は結構趣味の品かなあ……というところなのだけれど、今後に期待してOrion+というプレミアムプランにしばらく入ってみるつもり。なお無料版と比較して、特典らしい特典はあまりない。</p>\n<p>一方で、同じKagiが作っている、Kagi SearchというGoogleやBingやDuck Duck GoやEcosiaあたりのライバルになる検索エンジンについても利用を開始した。</p>\n<p>こちらについてはまた後で記事を書きたい。</p>",
+				"content_text": "昨日Arcはいいぞ、と言ったばかりだが、Zen Browserも​試して、最終的には​Kagiの作っている​Orionをしばらく使っていくことにした。​\n\n<!--more-->\n\nmacOSで使っているが、現状完成度が一番高いのはArcでZen Browserもそこそこ、Orionもそこそこだけどエラーでクラッシュする頻度は高くてちょっとバギーな印象。\n\nAppleでサインインすると落ちる、機能拡張入れると落ちる、みたいな感じで大分ロックなブラウザである。二回目やりなおすとうまく行くのだが。\n\nこのOrionの特徴は、ArcやZen Browserみたいに縦型タブが得意で（普通のタブ表示も出来るが）、PiP周りの挙動が同じような感じで……WebKitベースで作られている。\n\nArcはChromium(Blink)、ZenはFirefox(Servo)、OrionはWebKitの系統という感じ。エンジンとブラウザがごちゃついてる雑な分類になってしまうが。\n\nSafariがWebKitなので、わりとmacOSネイティブっぽさを感じる出来である。\n\n体感的にはmacOS環境だとWebKitの方が多少リソースの消費が軽い印象をもっている。とはいっても、こういうのは時期やら機能拡張やらで軽く変わりえるんだけど。\n\n正直、このOrionブラウザ自体は結構趣味の品かなあ……というところなのだけれど、今後に期待してOrion+というプレミアムプランにしばらく入ってみるつもり。なお無料版と比較して、特典らしい特典はあまりない。\n\n一方で、同じKagiが作っている、Kagi SearchというGoogleやBingやDuck Duck GoやEcosiaあたりのライバルになる検索エンジンについても利用を開始した。\n\nこちらについてはまた後で記事を書きたい。\n\n",
+				"date_published": "2025-02-14T19:34:09+09:00",
+				"url": "https://oeight.space/2025/02/14/193409.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/02/13/arc-heres-a-link-to.html",
+				
+				"content_html": "<p>Arcの公式へのリンクも貼っておくか。</p>\n<blockquote>\n<p>Here’s a link to download Arc, the browser I was telling you about!</p>\n<p><a href=\"https://arc.net/gift/fe0fd1ec\">arc.net/gift/fe0f&hellip;</a></p>\n</blockquote>\n<p>生成AIは便利だけどどういう風に組み込むかという問題があって、シームレスに使えるように組み込むにはどうすれば……ってやつの中間回答みたいな感じですね。</p>\n<p>次のmacOSのバージョンアップで、日本からもApple Intelligenceが使えるようになるだろうけど、どれぐらい統合できてるか実際使ってみるのが楽しみだなあ。</p>\n<p>#blog</p>\n",
+				"content_text": "Arcの公式へのリンクも貼っておくか。\n\n> Here’s a link to download Arc, the browser I was telling you about!\n> \n> [arc.net/gift/fe0f...](https://arc.net/gift/fe0fd1ec)\n\n生成AIは便利だけどどういう風に組み込むかという問題があって、シームレスに使えるように組み込むにはどうすれば……ってやつの中間回答みたいな感じですね。\n\n次のmacOSのバージョンアップで、日本からもApple Intelligenceが使えるようになるだろうけど、どれぐらい統合できてるか実際使ってみるのが楽しみだなあ。\n\n#blog\n",
+				"date_published": "2025-02-13T22:03:51+09:00",
+				"url": "https://oeight.space/2025/02/13/arc-heres-a-link-to.html",
+				"tags": ["Blog"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/02/13/215830.html",
+				
+				"content_html": "<p>あとArcはmacOSじゃないとあんまり安定してない、みたいな話があるらしい。</p>\n<p>ちょっと特殊なブラウザだけどすごくいいのに、そこまで知名度が高くなかったのはそのせいかな。（自分はiPhone版は前に試したんだけど、そのときにmacOS版があること自体知らなかった……か、どたばたして試すの忘れてそのままになったか）</p>\n<p>好きな機能は色々あるけれど、YouTube視聴中にタブを変えたら自動でPiPにしてくれて戻したら戻してくれるやつとか、フリックで切り替えられるSpaces機能とかがいいかなあ。</p>\n<p>クイックコマンドからPerplexityとかChatGPTに聞けるのもいいんだけど、クイックコマンド方式はやっぱりパワーユーザー向けという気がするし、その辺が一般化の妨げにはなってそう。</p>\n<p>今はDiaっての開発してるらしいけど……うーん。</p>\n<p>#blog</p>\n",
+				"content_text": "あとArcはmacOSじゃないとあんまり安定してない、みたいな話があるらしい。\n\nちょっと特殊なブラウザだけどすごくいいのに、そこまで知名度が高くなかったのはそのせいかな。（自分はiPhone版は前に試したんだけど、そのときにmacOS版があること自体知らなかった……か、どたばたして試すの忘れてそのままになったか）\n\n好きな機能は色々あるけれど、YouTube視聴中にタブを変えたら自動でPiPにしてくれて戻したら戻してくれるやつとか、フリックで切り替えられるSpaces機能とかがいいかなあ。\n\nクイックコマンドからPerplexityとかChatGPTに聞けるのもいいんだけど、クイックコマンド方式はやっぱりパワーユーザー向けという気がするし、その辺が一般化の妨げにはなってそう。\n\n今はDiaっての開発してるらしいけど……うーん。\n\n#blog\n",
+				"date_published": "2025-02-13T21:58:30+09:00",
+				"url": "https://oeight.space/2025/02/13/215830.html",
+				"tags": ["Blog"]
+			},
+			{
 				"id": "http://o-eight.micro.blog/2025/02/13/215320.html",
 				
-				"content_html": "<p>これまでVivaldiを良く使っていたのだが（時々Safariに戻したりもしていた）、Arcブラウザを試してみたところ、これが非常によかった。でもなんか開発活発じゃないらしい。Zen Browserというものもあって、こっちは今からって感じのブラウザかな。</p>\n<p>前者がChromiumベースで後者がFirefoxベースなので、機能拡張とかの差がちょっと気になるとこはあるけど、ArcがダメならZenに行くのでもいいかなと思った。</p>\n<p>ただ、Vivaldiにあるウェブパネル機能は欲しい。あれMastodonとかXとかをブラウザで表示するのに使えるので。クライアントいらなくなるし。</p>\n",
-				"content_text": "これまでVivaldiを良く使っていたのだが（時々Safariに戻したりもしていた）、Arcブラウザを試してみたところ、これが非常によかった。でもなんか開発活発じゃないらしい。Zen Browserというものもあって、こっちは今からって感じのブラウザかな。\r\n\r\n前者がChromiumベースで後者がFirefoxベースなので、機能拡張とかの差がちょっと気になるとこはあるけど、ArcがダメならZenに行くのでもいいかなと思った。\r\n\r\nただ、Vivaldiにあるウェブパネル機能は欲しい。あれMastodonとかXとかをブラウザで表示するのに使えるので。クライアントいらなくなるし。\n",
+				"content_html": "<p>これまでVivaldiを良く使っていたのだが（時々Safariに戻したりもしていた）、Arcブラウザを試してみたところ、これが非常によかった。でもなんか開発活発じゃないらしい。Zen Browserというものもあって、こっちは今からって感じのブラウザかな。</p>\n<p>前者がChromiumベースで後者がFirefoxベースなので、機能拡張とかの差がちょっと気になるとこはあるけど、ArcがダメならZenに行くのでもいいかなと思った。</p>\n<p>ただ、Vivaldiにあるウェブパネル機能は欲しい。あれMastodonとかXとかをブラウザで表示するのに使えるので。クライアントいらなくなるし。</p>\n<p>#blog</p>\n",
+				"content_text": "これまでVivaldiを良く使っていたのだが（時々Safariに戻したりもしていた）、Arcブラウザを試してみたところ、これが非常によかった。でもなんか開発活発じゃないらしい。Zen Browserというものもあって、こっちは今からって感じのブラウザかな。\r\n\r\n前者がChromiumベースで後者がFirefoxベースなので、機能拡張とかの差がちょっと気になるとこはあるけど、ArcがダメならZenに行くのでもいいかなと思った。\r\n\r\nただ、Vivaldiにあるウェブパネル機能は欲しい。あれMastodonとかXとかをブラウザで表示するのに使えるので。クライアントいらなくなるし。\n\n#blog\n",
 				"date_published": "2025-02-13T21:53:20+09:00",
-				"url": "https://oeight.space/2025/02/13/215320.html"
+				"url": "https://oeight.space/2025/02/13/215320.html",
+				"tags": ["Blog"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/12/185800.html",
@@ -36,7 +119,7 @@
 				"id": "http://o-eight.micro.blog/2025/02/10/macendel.html",
 				
 				"content_html": "<p>最近のMacのアクセシビリティ機能のオプションに追加されてるバックグラウンドサウンドいいよね。昔はこういうの別アプリとかを導入したものだけれど……まあ実はまだEndel続けているんですが。</p>\n<!-- raw HTML omitted -->\n<p>日本語のファイル名で画像アップロードすると自動でファイル名設定してくれる感じかなこれ？　いいね。</p>\n<p>#blog</p>\n",
-				"content_text": "最近のMacのアクセシビリティ機能のオプションに追加されてるバックグラウンドサウンドいいよね。昔はこういうの別アプリとかを導入したものだけれど……まあ実はまだEndel続けているんですが。\n\n<img src=\"uploads/2025/image.png\" width=\"600\" height=\"281\" alt=\"\">\n\n日本語のファイル名で画像アップロードすると自動でファイル名設定してくれる感じかなこれ？　いいね。\n\n#blog\n",
+				"content_text": "最近のMacのアクセシビリティ機能のオプションに追加されてるバックグラウンドサウンドいいよね。昔はこういうの別アプリとかを導入したものだけれど……まあ実はまだEndel続けているんですが。\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/image.png\" width=\"600\" height=\"281\" alt=\"\">\n\n日本語のファイル名で画像アップロードすると自動でファイル名設定してくれる感じかなこれ？　いいね。\n\n#blog\n",
 				"date_published": "2025-02-10T18:34:46+09:00",
 				"url": "https://oeight.space/2025/02/10/macendel.html",
 				"tags": ["Blog"]
