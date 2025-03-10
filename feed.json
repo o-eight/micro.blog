@@ -1,11 +1,155 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "o8.micro",
+	"title": "oeight.space",
 	"icon": "https://micro.blog/o_eight/avatar.jpg",
 	"home_page_url": "https://oeight.space/",
 	"feed_url": "https://oeight.space/feed.json",
 	"items": [
 		
+			{
+				"id": "http://o-eight.micro.blog/2025/03/10/130826.html",
+				
+				"content_html": "<p>本日(3/10)の15:00からカクヨムにて『転生賢者の異世界商会』の連載を開始します。</p>\n<p>AIを使用した作品なので、AI Poweredというコレクションに入れることにしました。</p>\n<p>いくつかの習作はnoteにて公開していましたが、長編が書きづらいという問題について対応したものになります。15時に第一話が公開されると以下に入ってくると思います。</p>\n<p><a href=\"https://kakuyomu.jp/users/oeight/collections\">kakuyomu.jp/users/oei&hellip;</a></p>\n<p>今後の展望としては、やはりネット小説らしい大長編へのチャレンジでしょうか。</p>\n<p>あと、文体（遊びがちょっと足りてない）やキャラクター（名前は自分でつけたほうが良さそう、こっちも遊びが足りてない）についても、もう一段上を目指したいと思います。</p>\n",
+				"content_text": "本日(3/10)の15:00からカクヨムにて『転生賢者の異世界商会』の連載を開始します。\n\nAIを使用した作品なので、AI Poweredというコレクションに入れることにしました。\n\nいくつかの習作はnoteにて公開していましたが、長編が書きづらいという問題について対応したものになります。15時に第一話が公開されると以下に入ってくると思います。\n\n[kakuyomu.jp/users/oei...](https://kakuyomu.jp/users/oeight/collections)\n\n今後の展望としては、やはりネット小説らしい大長編へのチャレンジでしょうか。\n\nあと、文体（遊びがちょっと足りてない）やキャラクター（名前は自分でつけたほうが良さそう、こっちも遊びが足りてない）についても、もう一段上を目指したいと思います。\n",
+				"date_published": "2025-03-10T13:08:26+09:00",
+				"url": "https://oeight.space/2025/03/10/130826.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/10/oeight-is-on-buymeacoffee-you.html",
+				
+				"content_html": "<p>ブログに広告つけようかとか考えたんですが、まずは広告モデルじゃない方法を準備しておくことで、とりあえず（みんな嬉しくない広告は）様子見したいなと思いました。</p>\n<p>o_eight is on buymeacoffee!🎉</p>\n<p>You can support by buying a coffee ☕ here —\n<a href=\"https://buymeacoffee.com/oeight\">buymeacoffee.com/oeight</a></p>\n",
+				"content_text": "ブログに広告つけようかとか考えたんですが、まずは広告モデルじゃない方法を準備しておくことで、とりあえず（みんな嬉しくない広告は）様子見したいなと思いました。\n\no_eight is on buymeacoffee!🎉\n\nYou can support by buying a coffee ☕ here —\n[buymeacoffee.com/oeight](https://buymeacoffee.com/oeight) \n",
+				"date_published": "2025-03-10T00:07:35+09:00",
+				"url": "https://oeight.space/2025/03/10/oeight-is-on-buymeacoffee-you.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/08/181323.html",
+				
+				"content_html": "<p>あ、お金がたくさんあれば両方契約したままにしますので、そういう意味では機能的には完全に満足していますね。</p>\n",
+				"content_text": "あ、お金がたくさんあれば両方契約したままにしますので、そういう意味では機能的には完全に満足していますね。\n",
+				"date_published": "2025-03-08T18:13:23+09:00",
+				"url": "https://oeight.space/2025/03/08/181323.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/08/kagiclaude-haiku.html",
+				
+				"content_html": "<p>KagiのクイックアンサーはClaude 3 Haikuなんですが、インターネットの記事まとめる程度ならそれぐらいでもいいよね、というのと、1-2年経てばこの規模の言語モデルで何も問題ないことになりそうなのもありました。</p>\n",
+				"content_text": "KagiのクイックアンサーはClaude 3 Haikuなんですが、インターネットの記事まとめる程度ならそれぐらいでもいいよね、というのと、1-2年経てばこの規模の言語モデルで何も問題ないことになりそうなのもありました。\n",
+				"date_published": "2025-03-08T18:11:18+09:00",
+				"url": "https://oeight.space/2025/03/08/kagiclaude-haiku.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/08/180913.html",
+				
+				"content_html": "<p>Kagi Ultimateから一旦Professionalにしてみる。</p>\n<p>日割り計算方式なので変えるのが気楽なんですよね……AI関係の機能でもクイックアンサーとかはProfessionalについてくるみたいなので、Assistantを使うかどうか？　なのかなと思って……。</p>\n<p>Assistant自体は高度なAIを色々使えていいんですが、色々試した結果Claude 3.7 Sonnetが一番好きだし、特定のAIをがっつり使うんなら、そっちで上位プランに入った方がリミット的に緩いよね、というのがありまして。</p>\n<p>まあ試してみている感じです。めちゃくちゃ利用者本位の日割り方式なので、Ultimate自体は時々契約するのは各社のAIの状況チェックの目的でもアリだと思う。</p>\n<p>これまでアドだと思っていた検索インデックスをKagiにして、高度なAIでインターネット検索……については、クイックアンサーで結構用が足りそうなのと、なんかあれこれ試してみたところ、用途によってはインターネットをソースにしない方が結果の水準が高い場合がある、というのがあったので、そこまででもないか？　と。</p>\n",
+				"content_text": "Kagi Ultimateから一旦Professionalにしてみる。\n\n日割り計算方式なので変えるのが気楽なんですよね……AI関係の機能でもクイックアンサーとかはProfessionalについてくるみたいなので、Assistantを使うかどうか？　なのかなと思って……。\n\nAssistant自体は高度なAIを色々使えていいんですが、色々試した結果Claude 3.7 Sonnetが一番好きだし、特定のAIをがっつり使うんなら、そっちで上位プランに入った方がリミット的に緩いよね、というのがありまして。\n\nまあ試してみている感じです。めちゃくちゃ利用者本位の日割り方式なので、Ultimate自体は時々契約するのは各社のAIの状況チェックの目的でもアリだと思う。\n\nこれまでアドだと思っていた検索インデックスをKagiにして、高度なAIでインターネット検索……については、クイックアンサーで結構用が足りそうなのと、なんかあれこれ試してみたところ、用途によってはインターネットをソースにしない方が結果の水準が高い場合がある、というのがあったので、そこまででもないか？　と。\n",
+				"date_published": "2025-03-08T18:09:13+09:00",
+				"url": "https://oeight.space/2025/03/08/180913.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/08/duckai-duck-duck-go-gpto.html",
+				
+				"content_html": "<p>Duck.aiってこないだまではベータでしたっけ。</p>\n<p>前までちょっと試しましたけど、コスト高の高度なモデルは使えないのですが無料でかつプライバシーに配慮した作りなのはDuck Duck Goらしいと思いました。</p>\n<p>将来的には高度なモデルを使える有料プランも検討しているらしいですが、軽量モデルもどんどんレベル上がっているのもあり、1-2年後ぐらいには無料か低コストで十分実用レベルになると思います。今でも用途によっては十分ですしね。</p>\n<p>GPT-4o miniやClaude 3を無料かつ匿名で誰でも使える「Duck.ai」 が登場 - GIGAZINE\n<a href=\"https://gigazine.net/news/20250307-duck-ai-chatbot/\">gigazine.net/news/2025&hellip;</a></p>\n",
+				"content_text": "Duck.aiってこないだまではベータでしたっけ。\n\n前までちょっと試しましたけど、コスト高の高度なモデルは使えないのですが無料でかつプライバシーに配慮した作りなのはDuck Duck Goらしいと思いました。\n\n将来的には高度なモデルを使える有料プランも検討しているらしいですが、軽量モデルもどんどんレベル上がっているのもあり、1-2年後ぐらいには無料か低コストで十分実用レベルになると思います。今でも用途によっては十分ですしね。\n\nGPT-4o miniやClaude 3を無料かつ匿名で誰でも使える「Duck.ai」 が登場 - GIGAZINE\n[gigazine.net/news/2025...](https://gigazine.net/news/20250307-duck-ai-chatbot/)\n",
+				"date_published": "2025-03-08T12:19:25+09:00",
+				"url": "https://oeight.space/2025/03/08/duckai-duck-duck-go-gpto.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/08/120832.html",
+				
+				"content_html": "<p>KagiのAssistantですが、実際には1M/月ぐらいのトークン制限があるらしいですね。</p>\n<p>初月は超過してたんですが引っ掛からなかったのでどういう運用なのかは分かりませんが。（まあモデルによってトークンあたりのコストが全然違いますし、Claudeとかはinとoutで違ったりするので……）</p>\n<p>この辺の制限については近々サイトで詳しく説明して明らかにする予定というのをKagiのdiscordで見ました。</p>\n<p>Kagi Professional + Claude Proが自分的には一番いいってなりそうかなあ。</p>\n",
+				"content_text": "KagiのAssistantですが、実際には1M/月ぐらいのトークン制限があるらしいですね。\n\n初月は超過してたんですが引っ掛からなかったのでどういう運用なのかは分かりませんが。（まあモデルによってトークンあたりのコストが全然違いますし、Claudeとかはinとoutで違ったりするので……）\n\nこの辺の制限については近々サイトで詳しく説明して明らかにする予定というのをKagiのdiscordで見ました。\n\nKagi Professional + Claude Proが自分的には一番いいってなりそうかなあ。\n",
+				"date_published": "2025-03-08T12:08:32+09:00",
+				"url": "https://oeight.space/2025/03/08/120832.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/08/120601.html",
+				
+				"content_html": "<p>手紙ってなんだ……？　保存ボタンのアイコン（フロッピーディスク）ぐらいに意味がわからない。</p>\n<p>という時代が来るんですね。</p>\n<p>2025年12月30日をもって手紙の配達を終了するとデンマークの郵便局が発表 - GIGAZINE\n<a href=\"https://gigazine.net/news/20250307-postnord-stop-deiver-letter/\">gigazine.net/news/2025&hellip;</a></p>\n",
+				"content_text": "手紙ってなんだ……？　保存ボタンのアイコン（フロッピーディスク）ぐらいに意味がわからない。\n\nという時代が来るんですね。\n\n2025年12月30日をもって手紙の配達を終了するとデンマークの郵便局が発表 - GIGAZINE\n[gigazine.net/news/2025...](https://gigazine.net/news/20250307-postnord-stop-deiver-letter/)\n",
+				"date_published": "2025-03-08T12:06:01+09:00",
+				"url": "https://oeight.space/2025/03/08/120601.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/08/002123.html",
+				
+				"content_html": "<p>Firefoxの136、垂直タブも嬉しいですが、macOS向けにはHEVCのハードウェアアクセラレーションも有効化されるということなので、これ結構嬉しいアップデートっぽいですね。</p>\n<p>「Firefox 136」正式版リリース、垂直タブが使用可能に - GIGAZINE\n<a href=\"https://gigazine.net/news/20250305-firefox-136/\">gigazine.net/news/2025&hellip;</a></p>\n",
+				"content_text": "Firefoxの136、垂直タブも嬉しいですが、macOS向けにはHEVCのハードウェアアクセラレーションも有効化されるということなので、これ結構嬉しいアップデートっぽいですね。\n\n「Firefox 136」正式版リリース、垂直タブが使用可能に - GIGAZINE\n[gigazine.net/news/2025...](https://gigazine.net/news/20250305-firefox-136/)\n",
+				"date_published": "2025-03-08T00:21:23+09:00",
+				"url": "https://oeight.space/2025/03/08/002123.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/08/claudevoice-modegemini.html",
+				
+				"content_html": "<p>Claudeの双方向のVoice modeのリリースもなんとなく近そうだし、単に待っておくのが良さそう。それまではGeminiでも使うか。</p>\n",
+				"content_text": "Claudeの双方向のVoice modeのリリースもなんとなく近そうだし、単に待っておくのが良さそう。それまではGeminiでも使うか。\n",
+				"date_published": "2025-03-08T00:03:17+09:00",
+				"url": "https://oeight.space/2025/03/08/claudevoice-modegemini.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/07/234712.html",
+				
+				"content_html": "<p>GeminiはmacOS向けのアプリないから、音声対話モードが使えるのはスマートフォンだけなんだよなー。</p>\n<p>とするとChatGPTかなぁ……まあ一度はChatGPT Plusを契約してみるのはアリかもしれない。Apple Intelligenceからも呼べるようになるわけだし。でもぶっちゃけiPhoneから呼ぶ程度の用途なら無料のGPT-4o miniでなんも困らない気はする。</p>\n",
+				"content_text": "GeminiはmacOS向けのアプリないから、音声対話モードが使えるのはスマートフォンだけなんだよなー。\n\nとするとChatGPTかなぁ……まあ一度はChatGPT Plusを契約してみるのはアリかもしれない。Apple Intelligenceからも呼べるようになるわけだし。でもぶっちゃけiPhoneから呼ぶ程度の用途なら無料のGPT-4o miniでなんも困らない気はする。\n",
+				"date_published": "2025-03-07T23:47:12+09:00",
+				"url": "https://oeight.space/2025/03/07/234712.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/07/endel-ai.html",
+				
+				"content_html": "<p>Endelも安いから契約更新止めてもあまり変わらないなあ。</p>\n<p>チャットAI、まあリソースたくさん使うんだから仕方ないんだろうけど、ちょっとばかし高いんだよなー。</p>\n",
+				"content_text": "Endelも安いから契約更新止めてもあまり変わらないなあ。\n\nチャットAI、まあリソースたくさん使うんだから仕方ないんだろうけど、ちょっとばかし高いんだよなー。\n",
+				"date_published": "2025-03-07T23:36:36+09:00",
+				"url": "https://oeight.space/2025/03/07/endel-ai.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/07/kagi-ultimatethe-assistant-ui.html",
+				
+				"content_html": "<p>Kagi UltimateのThe Assistantがお得すぎるのもあるんですよね、日本語ってトークン消費が多いので、$25でこんなに使ってはまずいんじゃないかみたいな気持ちがある。</p>\n<p>大口契約とかなら割引あったりしてそんな問題ないのかなあ。</p>\n<p>一応は音声入力もファイル添付してコンテキストに追加するのも対応しているので（UI的にちょっと足りなさはあるが）、これとあと一つぐらいにはしたいよね。</p>\n",
+				"content_text": "Kagi UltimateのThe Assistantがお得すぎるのもあるんですよね、日本語ってトークン消費が多いので、$25でこんなに使ってはまずいんじゃないかみたいな気持ちがある。\n\n大口契約とかなら割引あったりしてそんな問題ないのかなあ。\n\n一応は音声入力もファイル添付してコンテキストに追加するのも対応しているので（UI的にちょっと足りなさはあるが）、これとあと一つぐらいにはしたいよね。\n",
+				"date_published": "2025-03-07T23:33:02+09:00",
+				"url": "https://oeight.space/2025/03/07/kagi-ultimatethe-assistant-ui.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/07/232701.html",
+				
+				"content_html": "<p>Claude 3.7 Sonnetはめちゃくちゃ気に入っていて、Claudeの書く文章が一番肌に合うなーという感じがあるんですが、音声で会話できるモデルもゲームしながら話しかけたりできるのいいのでは？　と思ったりして。</p>\n<p>GeminiかChatGPTか……Geminiは無料でもかなり話してくれるけど、ChatGPTは高音質モードというかで話してもらうためにはProにする必要があり……。</p>\n<p>Geminiのコンテキストのデカさは小説とかやらせるのに良さそうという気持ちもあるし、ChatGPTは画像生成とかもできるしな……というのもあり……。</p>\n<p>あとGeminiの文体が実はちょっと好きではない。</p>\n<p>そもそもお金の問題が先にあるので、とりあえずパッとMubert解約しちゃったんだけど、再契約するとかなり料金高くなるらしくて（契約を続けていれば多分安いまま更新できた？）マズったかという気はしている。</p>\n<p>とはいえ……Endelとかあんま上手く使えてないし、これも止めるかなあ。</p>\n<p>iCloud Driveの容量増加(2TB)を契約しているんですが、Gemini AdvancedはGoogle Oneがついてくるので、Google Driveの2TBも使えるんですよね。</p>\n<p>でもGoogleに依存するのやめたいよね。難しいなあ。</p>",
+				"content_text": "Claude 3.7 Sonnetはめちゃくちゃ気に入っていて、Claudeの書く文章が一番肌に合うなーという感じがあるんですが、音声で会話できるモデルもゲームしながら話しかけたりできるのいいのでは？　と思ったりして。\n\nGeminiかChatGPTか……Geminiは無料でもかなり話してくれるけど、ChatGPTは高音質モードというかで話してもらうためにはProにする必要があり……。\n\n<!--more-->\n\nGeminiのコンテキストのデカさは小説とかやらせるのに良さそうという気持ちもあるし、ChatGPTは画像生成とかもできるしな……というのもあり……。\n\nあとGeminiの文体が実はちょっと好きではない。\n\nそもそもお金の問題が先にあるので、とりあえずパッとMubert解約しちゃったんだけど、再契約するとかなり料金高くなるらしくて（契約を続けていれば多分安いまま更新できた？）マズったかという気はしている。\n\nとはいえ……Endelとかあんま上手く使えてないし、これも止めるかなあ。\n\niCloud Driveの容量増加(2TB)を契約しているんですが、Gemini AdvancedはGoogle Oneがついてくるので、Google Driveの2TBも使えるんですよね。\n\nでもGoogleに依存するのやめたいよね。難しいなあ。\n",
+				"date_published": "2025-03-07T23:27:01+09:00",
+				"url": "https://oeight.space/2025/03/07/232701.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/07/orionlinuxonion-httpskagicomchangelog.html",
+				
+				"content_html": "<p>私が最近なんとかメインで使っているOrionブラウザーのLinux版の開発が開始されました。（Onionではないですよ、オリオンです）</p>\n<p>まだ開発を開始したというニュースにすぎませんが、いいですね。</p>\n<p><a href=\"https://kagi.com/changelog#6479\">kagi.com/changelog</a></p>\n",
+				"content_text": "私が最近なんとかメインで使っているOrionブラウザーのLinux版の開発が開始されました。（Onionではないですよ、オリオンです）\n\nまだ開発を開始したというニュースにすぎませんが、いいですね。\n\n[kagi.com/changelog](https://kagi.com/changelog#6479)\n",
+				"date_published": "2025-03-07T23:04:36+09:00",
+				"url": "https://oeight.space/2025/03/07/orionlinuxonion-httpskagicomchangelog.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/07/iphone-e.html",
+				
+				"content_html": "<p>iPhone 16eを最速で手に入れて使っていますが、ほぼ完全に満足しています。</p>\n<p>アクションボタンに何を割り当てるかで悩むぐらいでしょうか。今は消音モード切り替えにしているけどビジュアルインテリジェンスが実装されたらどうしようみたいな。</p>\n",
+				"content_text": "iPhone 16eを最速で手に入れて使っていますが、ほぼ完全に満足しています。\n\nアクションボタンに何を割り当てるかで悩むぐらいでしょうか。今は消音モード切り替えにしているけどビジュアルインテリジェンスが実装されたらどうしようみたいな。\n",
+				"date_published": "2025-03-07T21:16:46+09:00",
+				"url": "https://oeight.space/2025/03/07/iphone-e.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/06/190842.html",
+				
+				"content_html": "<p>実際みんなチャットAIをどういうふうに使ってるの？\nというのは気になる点ですよね。音声で会話できるものもありますが、試してみても何を喋ればいいかよくわからなくて……。</p>\n<p>チャットAIユーザーの21％がクリエイティブなライティングやロールプレイにAIを使用していることが判明 - GIGAZINE\n<a href=\"https://gigazine.net/news/20240806-chatgpt-use-ai-chatbot-conversations/\">gigazine.net/news/2024&hellip;</a></p>\n",
+				"content_text": "実際みんなチャットAIをどういうふうに使ってるの？\nというのは気になる点ですよね。音声で会話できるものもありますが、試してみても何を喋ればいいかよくわからなくて……。\n\nチャットAIユーザーの21％がクリエイティブなライティングやロールプレイにAIを使用していることが判明 - GIGAZINE\n[gigazine.net/news/2024...](https://gigazine.net/news/20240806-chatgpt-use-ai-chatbot-conversations/)\n",
+				"date_published": "2025-03-06T19:08:42+09:00",
+				"url": "https://oeight.space/2025/03/06/190842.html"
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/05/191100.html",
+				
+				"content_html": "<p>Orion、よく落ちるなあと言っていたが、最新のアップデートでその辺の修正がいくつも入ったようなのでこれでだいぶ良くなることを期待。</p>\n<p>（自分はOrion+の特典でRelease Candidate版を使っているため、通常版への反映はもう少しかかるかもしれない）</p>\n<p>リリースノートはこちら。\n<a href=\"https://kagi.com/orion/updates/orion-release-notes.html\">kagi.com/orion/upd&hellip;</a></p>\n",
+				"content_text": "Orion、よく落ちるなあと言っていたが、最新のアップデートでその辺の修正がいくつも入ったようなのでこれでだいぶ良くなることを期待。\n\n（自分はOrion+の特典でRelease Candidate版を使っているため、通常版への反映はもう少しかかるかもしれない）\n\nリリースノートはこちら。\n[kagi.com/orion/upd...](https://kagi.com/orion/updates/orion-release-notes.html)\n",
+				"date_published": "2025-03-05T19:11:00+09:00",
+				"url": "https://oeight.space/2025/03/05/191100.html"
+			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/05/volume-sound-normalizer-prochrome-vtuber.html",
 				
@@ -211,11 +355,10 @@
 			{
 				"id": "http://o-eight.micro.blog/2025/02/13/arc-heres-a-link-to.html",
 				
-				"content_html": "<p>Arcの公式へのリンクも貼っておくか。</p>\n<blockquote>\n<p>Here’s a link to download Arc, the browser I was telling you about!</p>\n<p><a href=\"https://arc.net/gift/fe0fd1ec\">arc.net/gift/fe0f&hellip;</a></p>\n</blockquote>\n<p>生成AIは便利だけどどういう風に組み込むかという問題があって、シームレスに使えるように組み込むにはどうすれば……ってやつの中間回答みたいな感じですね。</p>\n<p>次のmacOSのバージョンアップで、日本からもApple Intelligenceが使えるようになるだろうけど、どれぐらい統合できてるか実際使ってみるのが楽しみだなあ。</p>\n<p>#blog</p>\n",
-				"content_text": "Arcの公式へのリンクも貼っておくか。\n\n> Here’s a link to download Arc, the browser I was telling you about!\n> \n> [arc.net/gift/fe0f...](https://arc.net/gift/fe0fd1ec)\n\n生成AIは便利だけどどういう風に組み込むかという問題があって、シームレスに使えるように組み込むにはどうすれば……ってやつの中間回答みたいな感じですね。\n\n次のmacOSのバージョンアップで、日本からもApple Intelligenceが使えるようになるだろうけど、どれぐらい統合できてるか実際使ってみるのが楽しみだなあ。\n\n#blog\n",
+				"content_html": "<p>Arcの公式へのリンクも貼っておくか。</p>\n<blockquote>\n<p>Here’s a link to download Arc, the browser I was telling you about!</p>\n<p><a href=\"https://arc.net/gift/fe0fd1ec\">arc.net/gift/fe0f&hellip;</a></p>\n</blockquote>\n<p>生成AIは便利だけどどういう風に組み込むかという問題があって、シームレスに使えるように組み込むにはどうすれば……ってやつの中間回答みたいな感じですね。</p>\n<p>次のmacOSのバージョンアップで、日本からもApple Intelligenceが使えるようになるだろうけど、どれぐらい統合できてるか実際使ってみるのが楽しみだなあ。</p>\n",
+				"content_text": "Arcの公式へのリンクも貼っておくか。\n\n> Here’s a link to download Arc, the browser I was telling you about!\n> \n> [arc.net/gift/fe0f...](https://arc.net/gift/fe0fd1ec)\n\n生成AIは便利だけどどういう風に組み込むかという問題があって、シームレスに使えるように組み込むにはどうすれば……ってやつの中間回答みたいな感じですね。\n\n次のmacOSのバージョンアップで、日本からもApple Intelligenceが使えるようになるだろうけど、どれぐらい統合できてるか実際使ってみるのが楽しみだなあ。\n",
 				"date_published": "2025-02-13T22:03:51+09:00",
-				"url": "https://oeight.space/2025/02/13/arc-heres-a-link-to.html",
-				"tags": ["Blog"]
+				"url": "https://oeight.space/2025/02/13/arc-heres-a-link-to.html"
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/13/215830.html",
