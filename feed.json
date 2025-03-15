@@ -7,12 +7,670 @@
 	"items": [
 		
 			{
-				"id": "http://o-eight.micro.blog/2025/03/10/130826.html",
+				"id": "http://o-eight.micro.blog/2025/03/15/132632.html",
 				
+				"content_html": "<p>さっきのを投稿せずに作業始めたので、リブランディングが先に終わってしまった。</p>\n",
+				"content_text": "さっきのを投稿せずに作業始めたので、リブランディングが先に終わってしまった。\n",
+				"date_published": "2025-03-15T13:26:32+09:00",
+				"url": "https://oeight.space/2025/03/15/132632.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/youtube-o-games-oomediaostudiooplus.html",
+				
+				"content_html": "<p>さて……YouTubeのリブランディングやるかー。</p>\n<p>目的別チャンネルに分けた方がいいという話があったので今のo8 Gamesを作ったんだけど、小規模でやることではなかったように思っている。</p>\n<p>o8なんちゃら構文を使ってo8mediaとかo8studioとかが一つの手だけど、o8plusでもいいな。</p>\n",
+				"content_text": "さて……YouTubeのリブランディングやるかー。\n\n目的別チャンネルに分けた方がいいという話があったので今のo8 Gamesを作ったんだけど、小規模でやることではなかったように思っている。\n\no8なんちゃら構文を使ってo8mediaとかo8studioとかが一つの手だけど、o8plusでもいいな。\n",
+				"date_published": "2025-03-15T13:26:05+09:00",
+				"url": "https://oeight.space/2025/03/15/youtube-o-games-oomediaostudiooplus.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/105308.html",
+				
+				"content_html": "<p>数学何もわからんから死ぬまでに学び直したい気持ちはある。しかし……。</p>\n",
+				"content_text": "数学何もわからんから死ぬまでに学び直したい気持ちはある。しかし……。\n",
+				"date_published": "2025-03-15T10:53:08+09:00",
+				"url": "https://oeight.space/2025/03/15/105308.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/twitteruimicrosoft.html",
+				
+				"content_html": "<p>昔、Twitterで「モニターはどんどん横長になっているのに、リボンという縦幅を取るUIを採用したMicrosoftは何かがおかしい」って書いたことあるけど、ようやくブラウザのタブも左右の空いてるスペースを使うのが正解だとなってきたんですな。</p>\n",
+				"content_text": "昔、Twitterで「モニターはどんどん横長になっているのに、リボンという縦幅を取るUIを採用したMicrosoftは何かがおかしい」って書いたことあるけど、ようやくブラウザのタブも左右の空いてるスペースを使うのが正解だとなってきたんですな。\n",
+				"date_published": "2025-03-15T10:39:47+09:00",
+				"url": "https://oeight.space/2025/03/15/twitteruimicrosoft.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/windowschromiummacoswebkit-firefoxlinux.html",
+				
+				"content_html": "<p>Windowsの人はChromiumを基本的に使っていて、macOSの人はWebKitを愛していて（異論は認めない）。</p>\n<p>……。</p>\n<p>FirefoxってLinuxの人がやっぱ多いのかな？</p>\n",
+				"content_text": "Windowsの人はChromiumを基本的に使っていて、macOSの人はWebKitを愛していて（異論は認めない）。\n\n……。\n\nFirefoxってLinuxの人がやっぱ多いのかな？\n",
+				"date_published": "2025-03-15T10:37:54+09:00",
+				"url": "https://oeight.space/2025/03/15/windowschromiummacoswebkit-firefoxlinux.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/edge-firefoxzen-browser.html",
+				
+				"content_html": "<p>タブの縦スタックなんか結構人気で、Edgeとかでもサポートしてますよね。ワークスペースも分割もあるし。</p>\n<p>FirefoxベースだとZen Browserが強力なライバルなんですかねえ。</p>\n",
+				"content_text": "タブの縦スタックなんか結構人気で、Edgeとかでもサポートしてますよね。ワークスペースも分割もあるし。\n\nFirefoxベースだとZen Browserが強力なライバルなんですかねえ。\n",
+				"date_published": "2025-03-15T10:36:23+09:00",
+				"url": "https://oeight.space/2025/03/15/edge-firefoxzen-browser.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/pc.html",
+				
+				"content_html": "<p>日本はオープンソース開発十分強くもあり、その一方でなんかちょっと弱いよねという感もあり。</p>\n<p>雰囲気だけでものを言っているんですが。</p>\n<p>それなりに存在感はあるものの、人口を考えるとちょっと物足りないけどPC使ってるような世代と人口考えればこんなもんかもしれないなーみたいな。</p>\n<p>まあ、英語がネックになってるところはあるんだろうな……。アジアだと中国がもうずっと元気よくてすごいなーとは思ってる。</p>\n",
+				"content_text": "日本はオープンソース開発十分強くもあり、その一方でなんかちょっと弱いよねという感もあり。\n\n雰囲気だけでものを言っているんですが。\n\nそれなりに存在感はあるものの、人口を考えるとちょっと物足りないけどPC使ってるような世代と人口考えればこんなもんかもしれないなーみたいな。\n\nまあ、英語がネックになってるところはあるんだろうな……。アジアだと中国がもうずっと元気よくてすごいなーとは思ってる。\n",
+				"date_published": "2025-03-15T10:24:23+09:00",
+				"url": "https://oeight.space/2025/03/15/pc.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/webkitmacos-youtubemobile-safaripip.html",
+				
+				"content_html": "<p>WebKit使うのは信仰ということにしているけど、なんだかんだでmacOS上では一番軽くない？　ってのはある。</p>\n<p>YouTubeの動作はなんか妙に重い気がするのは何か闇を感じるけど（Mobile Safariのpip制限してる実績はあるし……）。</p>\n",
+				"content_text": "WebKit使うのは信仰ということにしているけど、なんだかんだでmacOS上では一番軽くない？　ってのはある。\n\nYouTubeの動作はなんか妙に重い気がするのは何か闇を感じるけど（Mobile Safariのpip制限してる実績はあるし……）。\n",
+				"date_published": "2025-03-15T10:21:30+09:00",
+				"url": "https://oeight.space/2025/03/15/webkitmacos-youtubemobile-safaripip.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/floorp-firefoxapplewebkitchromium.html",
+				
+				"content_html": "<p>Floorp、自分もちょっと触ってみた。縦スタックのタブのブラウザに慣れてきたので、その手のものを使いたかったので。開発形態は日本の学生ベースでやってるということで、いいねーって感じだった。</p>\n<p>Firefoxベースだと自分の場合はどうしても常用が難しいところもあり（Apple信者として気持ちの上ではWebKitベースを使いたいし、拡張機能などの観点からはChromiumベースを使いたい）、多少試した程度で終わってしまったけど。</p>\n",
+				"content_text": "Floorp、自分もちょっと触ってみた。縦スタックのタブのブラウザに慣れてきたので、その手のものを使いたかったので。開発形態は日本の学生ベースでやってるということで、いいねーって感じだった。\n\nFirefoxベースだと自分の場合はどうしても常用が難しいところもあり（Apple信者として気持ちの上ではWebKitベースを使いたいし、拡張機能などの観点からはChromiumベースを使いたい）、多少試した程度で終わってしまったけど。\n",
+				"date_published": "2025-03-15T10:18:23+09:00",
+				"url": "https://oeight.space/2025/03/15/floorp-firefoxapplewebkitchromium.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/youtube-oeightspace-microblog-lofi-zen.html",
+				
+				"content_html": "<p>やりたいことたくさんある。</p>\n<ul>\n<li>YouTubeをリブランディングしてジャンルの縛りを減らす</li>\n<li>ショート動画を作る</li>\n<li>oeight.spaceのサイト構造を見直したい</li>\n<li>Micro.blog向けにサイトテーマを作りたい</li>\n<li>公開中の小説の10-20話あたりを再チェック</li>\n<li>Lo-Fi Zen（仮称）をあれこれ見直し</li>\n</ul>\n<p>パワーはない。</p>\n",
+				"content_text": "やりたいことたくさんある。\n\n- YouTubeをリブランディングしてジャンルの縛りを減らす\n- ショート動画を作る\n- oeight.spaceのサイト構造を見直したい\n- Micro.blog向けにサイトテーマを作りたい\n- 公開中の小説の10-20話あたりを再チェック\n- Lo-Fi Zen（仮称）をあれこれ見直し\n\nパワーはない。\n",
+				"date_published": "2025-03-15T09:45:25+09:00",
+				"url": "https://oeight.space/2025/03/15/youtube-oeightspace-microblog-lofi-zen.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/093414.html",
+				
+				"content_html": "<p>BlogとMicroを分けるという案もあったから、</p>\n<ul>\n<li>oeight.space</li>\n<li>blog.oeight.space</li>\n<li>micro.oeight.space</li>\n<li>narrative.oeight.space</li>\n<li>plus.oeight.space</li>\n</ul>\n<p>みたいな感じで5個使い切るのはちょっと勿体無いか。</p>\n<p>シングルページは別に作れるらしいし、oeight.spaceはシングルページにして、今のoeight.spaceをblog.oeight.spaceにして……。</p>\n<p>そうすると後4枠使えるから、narrativeとかreviewとかnewsとかmiscとかplusとかtestとかからなんか使えるか。</p>\n<p>デザインをカスタムするための場所いるけど、プレビュー用はなんかあるっぽいから……とりあえずご飯が先だなー。</p>\n",
+				"content_text": "BlogとMicroを分けるという案もあったから、\n\n- oeight.space\n- blog.oeight.space\n- micro.oeight.space\n- narrative.oeight.space\n- plus.oeight.space\n\nみたいな感じで5個使い切るのはちょっと勿体無いか。\n\nシングルページは別に作れるらしいし、oeight.spaceはシングルページにして、今のoeight.spaceをblog.oeight.spaceにして……。\n\nそうすると後4枠使えるから、narrativeとかreviewとかnewsとかmiscとかplusとかtestとかからなんか使えるか。\n\nデザインをカスタムするための場所いるけど、プレビュー用はなんかあるっぽいから……とりあえずご飯が先だなー。\n",
+				"date_published": "2025-03-15T09:34:14+09:00",
+				"url": "https://oeight.space/2025/03/15/093414.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/092924.html",
+				
+				"content_html": "<p>ブログ新しく増やすやつ、いずれ取るであろうドメイン名を考え始めてから方向がおかしくなったんだよな。</p>\n<p>やりたいことは2点ぐらいあるけど、o8plus.micro.blogの方はどちらでもないMisc.になってる。o8plus.infoとかのドメインをとって、aaaa.o8plus.infoみたいな感じで増やしていくかとか考えたんですよ。</p>\n<p>で、結局、既存のoeight.space使って、plus.oeight.spaceとかblog.oeight.spaceするのでも全然構わないということに気づいたんですよね。narrativeと……もう一個はファンサイトみたいなのやりたいんだよな。</p>\n<p>こっちはブログ形式だとあんまり向いてないかもだけど。更新しやすさはあるし……。</p>\n",
+				"content_text": "ブログ新しく増やすやつ、いずれ取るであろうドメイン名を考え始めてから方向がおかしくなったんだよな。\n\nやりたいことは2点ぐらいあるけど、o8plus.micro.blogの方はどちらでもないMisc.になってる。o8plus.infoとかのドメインをとって、aaaa.o8plus.infoみたいな感じで増やしていくかとか考えたんですよ。\n\nで、結局、既存のoeight.space使って、plus.oeight.spaceとかblog.oeight.spaceするのでも全然構わないということに気づいたんですよね。narrativeと……もう一個はファンサイトみたいなのやりたいんだよな。\n\nこっちはブログ形式だとあんまり向いてないかもだけど。更新しやすさはあるし……。\n",
+				"date_published": "2025-03-15T09:29:24+09:00",
+				"url": "https://oeight.space/2025/03/15/092924.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/025100.html",
+				
+				"content_html": "<p>理解を拒絶するのが一つの方向性なんだけど、実装方針についてちょっと考えが足りなかった感はある。難しい話は理解しようとしてしまうので良くない。うさぎとか亀とか出して数十匹いる家族の説明とかするのが一番だと思う。</p>\n",
+				"content_text": "理解を拒絶するのが一つの方向性なんだけど、実装方針についてちょっと考えが足りなかった感はある。難しい話は理解しようとしてしまうので良くない。うさぎとか亀とか出して数十匹いる家族の説明とかするのが一番だと思う。\n",
+				"date_published": "2025-03-15T02:51:00+09:00",
+				"url": "https://oeight.space/2025/03/15/025100.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/note.html",
+				
+				"content_html": "<p>noteはダークモードないのか……？　これを眠くなると称して公開するの、ひどい罠じゃない？　ブラウザのリーダーモードとか、ダークモードの機能拡張とかを使ってくださいね……ごめんね。</p>\n",
+				"content_text": "noteはダークモードないのか……？　これを眠くなると称して公開するの、ひどい罠じゃない？　ブラウザのリーダーモードとか、ダークモードの機能拡張とかを使ってくださいね……ごめんね。\n",
+				"date_published": "2025-03-15T02:47:55+09:00",
+				"url": "https://oeight.space/2025/03/15/note.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/note-httpsnotecomoeightnnccecbffcsubrtsharesb.html",
+				
+				"content_html": "<p>眠くなる物語の実験その1です。</p>\n<p>環状の記憶｜折口詠人 #note\n<a href=\"https://note.com/o_eight/n/n21cce4c2bffc?sub_rt=share_sb\">note.com/o_eight/n&hellip;</a></p>\n",
+				"content_text": "眠くなる物語の実験その1です。\n\n環状の記憶｜折口詠人 #note \n[note.com/o_eight/n...](https://note.com/o_eight/n/n21cce4c2bffc?sub_rt=share_sb) \n",
+				"date_published": "2025-03-15T02:45:41+09:00",
+				"url": "https://oeight.space/2025/03/15/note-httpsnotecomoeightnnccecbffcsubrtsharesb.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/claude.html",
+				
+				"content_html": "<p>今のClaudeの欠点は、長めの生成処理を入れると、応答無くなったり途中切断でエラーになりがちなことだ……。</p>\n",
+				"content_text": "今のClaudeの欠点は、長めの生成処理を入れると、応答無くなったり途中切断でエラーになりがちなことだ……。\n",
+				"date_published": "2025-03-15T02:19:49+09:00",
+				"url": "https://oeight.space/2025/03/15/claude.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/chatgptdallemacos-claude-sonnetuiapple-id-llm.html",
+				
+				"content_html": "<p>色々できる汎用性があるという意味ではChatGPTがいいんだけどね。ライブ対話機能もいいし、DALL-Eで画像も作れるし、まだ使ってないけど後で通知するタスク機能とかアプリと直接連携できたりとか。（macOSの場合）</p>\n<p>体感的に文章が一番しっくり来るのはClaude 3.7 Sonnetで（3.5を試した時点から文章は好き）、コーディング性能も非常に高いし……。でも喋ったりアプリと直接的な連携はしてくれないし、UIにまだ英語残ってたり、アカウントをApple ID連携で作れなかったり……。</p>\n<p>LLMの性能だけで戦ってる感じ。</p>\n",
+				"content_text": "色々できる汎用性があるという意味ではChatGPTがいいんだけどね。ライブ対話機能もいいし、DALL-Eで画像も作れるし、まだ使ってないけど後で通知するタスク機能とかアプリと直接連携できたりとか。（macOSの場合）\n\n体感的に文章が一番しっくり来るのはClaude 3.7 Sonnetで（3.5を試した時点から文章は好き）、コーディング性能も非常に高いし……。でも喋ったりアプリと直接的な連携はしてくれないし、UIにまだ英語残ってたり、アカウントをApple ID連携で作れなかったり……。\n\nLLMの性能だけで戦ってる感じ。\n",
+				"date_published": "2025-03-15T01:24:22+09:00",
+				"url": "https://oeight.space/2025/03/15/chatgptdallemacos-claude-sonnetuiapple-id-llm.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/gpt.html",
+				
+				"content_html": "<p>GPTのパーソナライズとメモリはいろんな用途に使うにはあんまり良くない気がするなぁ。人格が違う人になって指示することもあるから、プロファイルが正確じゃないな。</p>\n<p>まあ普通はこれがいいんですかね、オフれるからオフってもいいんだろうけど。</p>\n",
+				"content_text": "GPTのパーソナライズとメモリはいろんな用途に使うにはあんまり良くない気がするなぁ。人格が違う人になって指示することもあるから、プロファイルが正確じゃないな。\n\nまあ普通はこれがいいんですかね、オフれるからオフってもいいんだろうけど。\n",
+				"date_published": "2025-03-15T01:17:07+09:00",
+				"url": "https://oeight.space/2025/03/15/gpt.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/chatgptogpto-chatgpt-chatgpt-claude.html",
+				
+				"content_html": "<p>ChatGPTのo1にアプローチに対する提案をしながら推論してもらったらだいぶいい感じの方法論を構築してくれたので、実際にGPT-4oに執筆してもらったら……。</p>\n<p>ChatGPTは小説が下手なんだよな。</p>\n<p>もうちょっとしっかりプロンプト書いてあげないといけないんだろうな、物語が描けてるようで描けてない。というかなんか直裁的にすぎるんですよね、ChatGPT系は。テクニカルライティングは上手いんだけど。</p>\n<p>この辺はClaudeじゃないと面倒だな……。</p>\n",
+				"content_text": "ChatGPTのo1にアプローチに対する提案をしながら推論してもらったらだいぶいい感じの方法論を構築してくれたので、実際にGPT-4oに執筆してもらったら……。\n\nChatGPTは小説が下手なんだよな。\n\nもうちょっとしっかりプロンプト書いてあげないといけないんだろうな、物語が描けてるようで描けてない。というかなんか直裁的にすぎるんですよね、ChatGPT系は。テクニカルライティングは上手いんだけど。\n\nこの辺はClaudeじゃないと面倒だな……。\n",
+				"date_published": "2025-03-15T01:13:03+09:00",
+				"url": "https://oeight.space/2025/03/15/chatgptogpto-chatgpt-chatgpt-claude.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/003633.html",
+				
+				"content_html": "<p>推論を使わせても同じような手法だ……うーん。悲しみ。</p>\n",
+				"content_text": "推論を使わせても同じような手法だ……うーん。悲しみ。\n",
+				"date_published": "2025-03-15T00:36:33+09:00",
+				"url": "https://oeight.space/2025/03/15/003633.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/grok.html",
+				
+				"content_html": "<p>よく眠れるストーリーを書いてください。方法は任せます。</p>\n<p>と指定されたGrok3くん、既存の眠れるストーリーを探して、心が穏やかになるような童話的な（ただし毒のない）ストーリーにすれば眠れると思ったようだ。</p>\n<p>ストーリーはガンガン組み立てるけど、そのアプローチはあまりにも「浅く」ないかね？　眠気や落ち着きを連想させるものだけじゃないか。</p>\n<p>そして最後エラーで終わった……。推論を使わせた方がいいかなあ。脳科学的な観点も取り入れてくださいと書いてもいいけど、それじゃつまらないし。</p>\n",
+				"content_text": "よく眠れるストーリーを書いてください。方法は任せます。\n\nと指定されたGrok3くん、既存の眠れるストーリーを探して、心が穏やかになるような童話的な（ただし毒のない）ストーリーにすれば眠れると思ったようだ。\n\nストーリーはガンガン組み立てるけど、そのアプローチはあまりにも「浅く」ないかね？　眠気や落ち着きを連想させるものだけじゃないか。\n\nそして最後エラーで終わった……。推論を使わせた方がいいかなあ。脳科学的な観点も取り入れてくださいと書いてもいいけど、それじゃつまらないし。\n",
+				"date_published": "2025-03-15T00:35:05+09:00",
+				"url": "https://oeight.space/2025/03/15/grok.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/chatgptdeepresearchgrok.html",
+				
+				"content_html": "<p>ChatGPTのDeepResearchを……使うのはもったいないからGrok3にやらせよう。</p>\n",
+				"content_text": "ChatGPTのDeepResearchを……使うのはもったいないからGrok3にやらせよう。\n",
+				"date_published": "2025-03-15T00:29:05+09:00",
+				"url": "https://oeight.space/2025/03/15/chatgptdeepresearchgrok.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/002729.html",
+				
+				"content_html": "<p>AIってもしかして人間の理解を拒絶するような支離滅裂な話を書くのはできなかったりするかな？</p>\n",
+				"content_text": "AIってもしかして人間の理解を拒絶するような支離滅裂な話を書くのはできなかったりするかな？\n",
+				"date_published": "2025-03-15T00:27:29+09:00",
+				"url": "https://oeight.space/2025/03/15/002729.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/ai.html",
+				
+				"content_html": "<p>学校の授業を聞いていると眠くなる法則を解明して、眠くなる動画（というか音声か）を作りたいと思ってたの忘れてた。</p>\n<p>自分はあんまり学校の授業では眠くならなかったけど、AIを使って最初はなんとなく分かるが途中から話が飛びまくって短期記憶を破壊して眠れるようになる……みたいなアプローチができると思うんですよね。</p>\n",
+				"content_text": "学校の授業を聞いていると眠くなる法則を解明して、眠くなる動画（というか音声か）を作りたいと思ってたの忘れてた。\n\n自分はあんまり学校の授業では眠くならなかったけど、AIを使って最初はなんとなく分かるが途中から話が飛びまくって短期記憶を破壊して眠れるようになる……みたいなアプローチができると思うんですよね。\n",
+				"date_published": "2025-03-15T00:26:00+09:00",
+				"url": "https://oeight.space/2025/03/15/ai.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/m-mac-minicpucpu-apple.html",
+				
+				"content_html": "<p>実質ほぼファンレスのM4 Mac miniくん（なお多少CPU熱くなってもほとんどファンの速度上げないのに、CPUぶん回してセンサーの温度100度を超えると急に全開で回り出す模様……）。</p>\n<p>ファンの回転数コントロールするツールが滑らかに回転数上げるオプションつけてたのは笑った。Appleの熱設計ほんま見栄を重視している。</p>\n",
+				"content_text": "実質ほぼファンレスのM4 Mac miniくん（なお多少CPU熱くなってもほとんどファンの速度上げないのに、CPUぶん回してセンサーの温度100度を超えると急に全開で回り出す模様……）。\n\nファンの回転数コントロールするツールが滑らかに回転数上げるオプションつけてたのは笑った。Appleの熱設計ほんま見栄を重視している。\n",
+				"date_published": "2025-03-15T00:23:13+09:00",
+				"url": "https://oeight.space/2025/03/15/m-mac-minicpucpu-apple.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/001010.html",
+				
+				"content_html": "<p>昔は料理してない頃は買ってなかった醤油をなぜ買うようになったかというと、最近減塩なのかコストダウンなのか……コストダウンだな……で醤油がついてこないことが多いから。</p>\n<p>ファミマののり弁って醤油もソースもないのちょっと変じゃない？</p>\n<p>ソース派ではないけどソースが付いてた方がまだ流派の違いということで納得できた。</p>\n",
+				"content_text": "昔は料理してない頃は買ってなかった醤油をなぜ買うようになったかというと、最近減塩なのかコストダウンなのか……コストダウンだな……で醤油がついてこないことが多いから。\n\nファミマののり弁って醤油もソースもないのちょっと変じゃない？\n\nソース派ではないけどソースが付いてた方がまだ流派の違いということで納得できた。\n",
+				"date_published": "2025-03-15T00:10:10+09:00",
+				"url": "https://oeight.space/2025/03/15/001010.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/ml-httpswwwkikkomancojpproductskdetailkhtml.html",
+				
+				"content_html": "<p>デカい醤油使いきれないので、コンビニでキッコーマンの小さい醤油(100ml)買ってきたけど、注ぎ口が最近のプッシュ式とかじゃなくて大量に出て使いづらい……。</p>\n<p>リンク先のやつです。\n<a href=\"https://www.kikkoman.co.jp/products/K05/detail/K051005.html\">www.kikkoman.co.jp/products/&hellip;</a></p>\n",
+				"content_text": "デカい醤油使いきれないので、コンビニでキッコーマンの小さい醤油(100ml)買ってきたけど、注ぎ口が最近のプッシュ式とかじゃなくて大量に出て使いづらい……。\n\nリンク先のやつです。\n[www.kikkoman.co.jp/products/...](https://www.kikkoman.co.jp/products/K05/detail/K051005.html)\n",
+				"date_published": "2025-03-15T00:07:23+09:00",
+				"url": "https://oeight.space/2025/03/15/ml-httpswwwkikkomancojpproductskdetailkhtml.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/000419.html",
+				
+				"content_html": "<p>まずい、ご飯食べてない……いや軽くパン食べたんですけど、消費期限があるお弁当がー。</p>\n",
+				"content_text": "まずい、ご飯食べてない……いや軽くパン食べたんですけど、消費期限があるお弁当がー。\n",
+				"date_published": "2025-03-15T00:04:19+09:00",
+				"url": "https://oeight.space/2025/03/15/000419.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/15/microblogpremium-wordpresscomamebamicroblog.html",
+				
+				"content_html": "<p>Micro.blogのプラン一つ上げてみたら、ブログは増やせるけどユーザーが同じなことが盲点だった。今がPremiumで$10/月だけど、$15/月にしたらユーザーを5人追加できるから、別のアカウント取って別名義で書くということもできそうか。</p>\n<p>でもどうなんでしょうね。</p>\n<p>はてなブログとかWordPress.comとかAmebaブログとかなんかその辺でもいいかもしれない。でもまあ、Micro.blog好きなんだよな。</p>\n",
+				"content_text": "Micro.blogのプラン一つ上げてみたら、ブログは増やせるけどユーザーが同じなことが盲点だった。今がPremiumで$10/月だけど、$15/月にしたらユーザーを5人追加できるから、別のアカウント取って別名義で書くということもできそうか。\n\nでもどうなんでしょうね。\n\nはてなブログとかWordPress.comとかAmebaブログとかなんかその辺でもいいかもしれない。でもまあ、Micro.blog好きなんだよな。\n",
+				"date_published": "2025-03-15T00:03:07+09:00",
+				"url": "https://oeight.space/2025/03/15/microblogpremium-wordpresscomamebamicroblog.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/14/sorayoutube.html",
+				
+				"content_html": "<p>Soraの残りの使い道ないと思ったけど、YouTubeの動画向けには使えなくもない気がする。ゆっくり動画みたいなものは作れるんでは。</p>\n<p>これまで、読み上げは多分サービスでなんとかなるし、台本は動画への最適化は考えないといけないけど、テキストはいいとして……映像めんどいねーって感じだったんだけど。</p>\n",
+				"content_text": "Soraの残りの使い道ないと思ったけど、YouTubeの動画向けには使えなくもない気がする。ゆっくり動画みたいなものは作れるんでは。\n\nこれまで、読み上げは多分サービスでなんとかなるし、台本は動画への最適化は考えないといけないけど、テキストはいいとして……映像めんどいねーって感じだったんだけど。\n",
+				"date_published": "2025-03-14T20:32:42+09:00",
+				"url": "https://oeight.space/2025/03/14/sorayoutube.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/14/202930.html",
+				
+				"content_html": "<p>ふと気づいたけど、配信じゃなくて動画作成の方がいいんじゃない？</p>\n",
+				"content_text": "ふと気づいたけど、配信じゃなくて動画作成の方がいいんじゃない？\n",
+				"date_published": "2025-03-14T20:29:30+09:00",
+				"url": "https://oeight.space/2025/03/14/202930.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/14/chatgpt-oclaude.html",
+				
+				"content_html": "<p>要件を定義してあげて、よろしくね〜したらシェルスクリプトが出てきた。</p>\n<p>ChatGPT 4o君ありがとう。小説はClaude君に任せてるし、君には雑用ばかりを押し付けてごめんな……。</p>\n",
+				"content_text": "要件を定義してあげて、よろしくね〜したらシェルスクリプトが出てきた。\n\nChatGPT 4o君ありがとう。小説はClaude君に任せてるし、君には雑用ばかりを押し付けてごめんな……。\n",
+				"date_published": "2025-03-14T18:40:28+09:00",
+				"url": "https://oeight.space/2025/03/14/chatgpt-oclaude.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/14/kickyoutubetwitch-ai.html",
+				
+				"content_html": "<p>まあKickはずっと配信してたから、今日はYouTubeとTwitchにするか。みたいな感じでやっていくのも良さそう。</p>\n<p>あとは切断時のリトライだな。これはスクリプト書くかー……いやAIに書いてもらおう。</p>\n",
+				"content_text": "まあKickはずっと配信してたから、今日はYouTubeとTwitchにするか。みたいな感じでやっていくのも良さそう。\n\nあとは切断時のリトライだな。これはスクリプト書くかー……いやAIに書いてもらおう。\n",
+				"date_published": "2025-03-14T18:32:25+09:00",
+				"url": "https://oeight.space/2025/03/14/kickyoutubetwitch-ai.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/14/182825.html",
+				
+				"content_html": "<p>現状、コスト的に配信用サーバーを借りるのは不適当だなという思いがあるが、それはそれとして上り回線あんま使ってると怒られそうという気持ちもあって……。</p>\n",
+				"content_text": "現状、コスト的に配信用サーバーを借りるのは不適当だなという思いがあるが、それはそれとして上り回線あんま使ってると怒られそうという気持ちもあって……。\n",
+				"date_published": "2025-03-14T18:28:25+09:00",
+				"url": "https://oeight.space/2025/03/14/182825.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/14/restreamiovpspc.html",
+				
+				"content_html": "<p>Restream.ioを利用する手を使うことにしました。しかし無料だと2ストリームまでなんだよなー。まあ帯域半分になるからこれだけでもありがたい。$19で3ストリームね……VPS3台と思えば……ではあるが、まだ大元はPCから送信してるからなあ。</p>\n",
+				"content_text": "Restream.ioを利用する手を使うことにしました。しかし無料だと2ストリームまでなんだよなー。まあ帯域半分になるからこれだけでもありがたい。$19で3ストリームね……VPS3台と思えば……ではあるが、まだ大元はPCから送信してるからなあ。\n",
+				"date_published": "2025-03-14T18:18:28+09:00",
+				"url": "https://oeight.space/2025/03/14/restreamiovpspc.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/14/kagiprofessionalfastgptllm-kagillmclaude-haiku.html",
+				
+				"content_html": "<p>そういえば、KagiをProfessional以上で契約している人は<a href=\"https://kagi.com/fastgpt\">FastGPT</a>という検索+LLMなサービスも無制限で使えるんですよね。</p>\n<p>自分がこだわっていたKagiのインデックスで検索しつつLLMにまとめさせるという用途ならこれでもいいのかも。Claude 3.5 Haikuなクイックアンサーでもいいんだけど。</p>\n",
+				"content_text": "そういえば、KagiをProfessional以上で契約している人は[FastGPT](https://kagi.com/fastgpt)という検索+LLMなサービスも無制限で使えるんですよね。\n\n自分がこだわっていたKagiのインデックスで検索しつつLLMにまとめさせるという用途ならこれでもいいのかも。Claude 3.5 Haikuなクイックアンサーでもいいんだけど。\n",
+				"date_published": "2025-03-14T18:03:13+09:00",
+				"url": "https://oeight.space/2025/03/14/kagiprofessionalfastgptllm-kagillmclaude-haiku.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/14/163913.html",
+				
+				"content_html": "<p>スペース余りの解決方法、ウィジェットはステージマネージャの上下にも配置できるので、カレンダーとか新規メモとか置いておくとよさげ。</p>\n",
+				"content_text": "スペース余りの解決方法、ウィジェットはステージマネージャの上下にも配置できるので、カレンダーとか新規メモとか置いておくとよさげ。\n",
+				"date_published": "2025-03-14T16:39:13+09:00",
+				"url": "https://oeight.space/2025/03/14/163913.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/14/xui.html",
+				
+				"content_html": "<p>まぁ通知を手動で消せばいいんだけど、XのUIとかでタイプしてるときに上から通知ドーンみたいなことになるのがねー。</p>\n<p>あとステージマネージャの上空いてるのに……空間は有効に使って欲しい。</p>\n",
+				"content_text": "まぁ通知を手動で消せばいいんだけど、XのUIとかでタイプしてるときに上から通知ドーンみたいなことになるのがねー。\n\nあとステージマネージャの上空いてるのに……空間は有効に使って欲しい。\n",
+				"date_published": "2025-03-14T16:35:25+09:00",
+				"url": "https://oeight.space/2025/03/14/xui.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/14/icloudos.html",
+				
+				"content_html": "<p>iCloudプライベートリレーの通知の問題は、多分OSが通知出してる扱いなのかカスタムする方法が分からないんですよね……というか多分出来ないっぽい。システムの重要な通知は変更できない。</p>\n",
+				"content_text": "iCloudプライベートリレーの通知の問題は、多分OSが通知出してる扱いなのかカスタムする方法が分からないんですよね……というか多分出来ないっぽい。システムの重要な通知は変更できない。\n",
+				"date_published": "2025-03-14T16:08:02+09:00",
+				"url": "https://oeight.space/2025/03/14/icloudos.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/14/vpnapple-intelligence-appleapple-intelligence.html",
+				
+				"content_html": "<p>VPN張るとプライベートリレー使えないよ、ってのもバナーじゃなくて通知パネルで出るんですが（まあセキュリティとプライバシーの問題なのでそれは本来は正しい）、これも鬱陶しいんだよなあ。Apple Intelligenceが来たら「お前を消す方法」するんだ。</p>\n<p>でもAppleはApple Intelligenceでユーザーの情報取る気がないアピールしてるから、「お前を消す方法」が何億回書かれようとも気付かないのか……。</p>\n",
+				"content_text": "VPN張るとプライベートリレー使えないよ、ってのもバナーじゃなくて通知パネルで出るんですが（まあセキュリティとプライバシーの問題なのでそれは本来は正しい）、これも鬱陶しいんだよなあ。Apple Intelligenceが来たら「お前を消す方法」するんだ。\n\nでもAppleはApple Intelligenceでユーザーの情報取る気がないアピールしてるから、「お前を消す方法」が何億回書かれようとも気付かないのか……。\n",
+				"date_published": "2025-03-14T16:05:22+09:00",
+				"url": "https://oeight.space/2025/03/14/vpnapple-intelligence-appleapple-intelligence.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/14/appleappleui-iphonemacosmacos-macos-macos.html",
+				
+				"content_html": "<p>ステージマネージャの表示位置変更できない。通知の表示位置も変更できない。いやあ、これがAppleだったわ（Appleが正しいと思うUIから変えさせてくれない）。</p>\n<p>まあそもそも、iPhoneで通知をバナー（一時的）じゃなくて応答するまで消さないようにしていると、macOSでも同じ設定になる（macOSでは違う設定、にはできない）ので、ついつい通知がたまりがちになる問題が出てるんですよね。</p>\n<p>該当のアプリ……ってかヘルスケアの投薬リマインダーなんですが、これだけmacOSには通知出さないようにしようっと。</p>\n<p>てかヘルスケアのアプリとジャーナルアプリはmacOS版早めに出してくださいよ。</p>\n",
+				"content_text": "ステージマネージャの表示位置変更できない。通知の表示位置も変更できない。いやあ、これがAppleだったわ（Appleが正しいと思うUIから変えさせてくれない）。\n\nまあそもそも、iPhoneで通知をバナー（一時的）じゃなくて応答するまで消さないようにしていると、macOSでも同じ設定になる（macOSでは違う設定、にはできない）ので、ついつい通知がたまりがちになる問題が出てるんですよね。\n\n該当のアプリ……ってかヘルスケアの投薬リマインダーなんですが、これだけmacOSには通知出さないようにしようっと。\n\nてかヘルスケアのアプリとジャーナルアプリはmacOS版早めに出してくださいよ。\n",
+				"date_published": "2025-03-14T16:01:29+09:00",
+				"url": "https://oeight.space/2025/03/14/appleappleui-iphonemacosmacos-macos-macos.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/14/macosiphoneiphonemac-xmastodon-xmastodonmacos.html",
+				
+				"content_html": "<p>macOSのiPhoneミラーリングを設定してから、iPhoneの通知もMacに表示させる設定ができるようになって、通知の見逃し減るから助かる〜とか思ってたんですが……。</p>\n<p>右上から通知が並ぶんですけど、通知の量が増えて自然にXもしくはMastodonが占有していた領域に被りがち。</p>\n<p>なら左にXとかMastodon置くかーという感じなんですが、macOSのステージマネージャがそっちにありまして……。右にステージマネージャーの方がいいのか？　ってか設定できるかどうか分からないけど、通知が左でもいいのかもしれない？</p>\n<p>ステージマネージャの上下って空いててデッドスペース感あるんですよね。</p>\n",
+				"content_text": "macOSのiPhoneミラーリングを設定してから、iPhoneの通知もMacに表示させる設定ができるようになって、通知の見逃し減るから助かる〜とか思ってたんですが……。\n\n右上から通知が並ぶんですけど、通知の量が増えて自然にXもしくはMastodonが占有していた領域に被りがち。\n\nなら左にXとかMastodon置くかーという感じなんですが、macOSのステージマネージャがそっちにありまして……。右にステージマネージャーの方がいいのか？　ってか設定できるかどうか分からないけど、通知が左でもいいのかもしれない？\n\nステージマネージャの上下って空いててデッドスペース感あるんですよね。\n",
+				"date_published": "2025-03-14T15:54:02+09:00",
+				"url": "https://oeight.space/2025/03/14/macosiphoneiphonemac-xmastodon-xmastodonmacos.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/14/youtubekicktwitch-p.html",
+				
+				"content_html": "<p>週末にはYouTubeでヘッドレスで配信できるようにしたいですねえ……。KickとTwitchまでサーバー借りるとコストがアレなので、その辺はどうしようかなあというところです。</p>\n<p>楽曲の追加は全然余裕があるし、もっと良いものが作れそうなので、ジャンル違いの曲のストリームもやりたいですよね……回線問題がなあ。1080pとかにするべきではないですね。（見る……というか流す側からしてもエコじゃないし）</p>\n",
+				"content_text": "週末にはYouTubeでヘッドレスで配信できるようにしたいですねえ……。KickとTwitchまでサーバー借りるとコストがアレなので、その辺はどうしようかなあというところです。\n\n楽曲の追加は全然余裕があるし、もっと良いものが作れそうなので、ジャンル違いの曲のストリームもやりたいですよね……回線問題がなあ。1080pとかにするべきではないですね。（見る……というか流す側からしてもエコじゃないし）\n",
+				"date_published": "2025-03-14T00:53:46+09:00",
+				"url": "https://oeight.space/2025/03/14/youtubekicktwitch-p.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/14/httpskickcomoeight.html",
+				
+				"content_html": "<p>思ったより時間かかったので今日はもう寝ます。</p>\n<p>テスト配信は再開しました。楽曲数が8曲になりまして、映像も変わりました。映像はまだクオリティに満足できていませんが、追々やっていきたいですね……。</p>\n<p>なお、テストなので突然止まるかもしれませんがそこはご愛嬌ということで。</p>\n<p><a href=\"https://kick.com/o-eight\">kick.com/o-eight</a></p>\n",
+				"content_text": "思ったより時間かかったので今日はもう寝ます。\n\nテスト配信は再開しました。楽曲数が8曲になりまして、映像も変わりました。映像はまだクオリティに満足できていませんが、追々やっていきたいですね……。\n\nなお、テストなので突然止まるかもしれませんがそこはご愛嬌ということで。\n\n[kick.com/o-eight](https://kick.com/o-eight)\n",
+				"date_published": "2025-03-14T00:47:07+09:00",
+				"url": "https://oeight.space/2025/03/14/httpskickcomoeight.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/13/233414.html",
+				
+				"content_html": "<p>Soraで生成する動画、画像を元にすればいけるかなーと思ったんだけど、今のところ打率が悪すぎる……フォトリアリスティックなやつ以外難しいんだな。</p>\n",
+				"content_text": "Soraで生成する動画、画像を元にすればいけるかなーと思ったんだけど、今のところ打率が悪すぎる……フォトリアリスティックなやつ以外難しいんだな。\n",
+				"date_published": "2025-03-13T23:34:14+09:00",
+				"url": "https://oeight.space/2025/03/13/233414.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/13/aiaiai-ab-cd-e-ai.html",
+				
+				"content_html": "<p>チャットAIで作業するとき、チャットAIが人間の求めるものを回答するイエスマンになりがち、みたいな記事を読んだことがあるけど、自分はチャットAIをおだてまくってる。</p>\n<ul>\n<li>いいですね。AをさらにBのようにしてください</li>\n<li>素晴らしいですね。Cの部分をDにすることはできますか？</li>\n<li>理想的です。バリエーションとして同じようなものをもう一つ作っていただけますか。</li>\n<li>センスがありますね。ここで少し方向性を変えてEの要素をスパイスとして加えてみていただけますか？</li>\n</ul>\n<p>とか書いてるから俺がAIのイエスマンだ。</p>\n",
+				"content_text": "チャットAIで作業するとき、チャットAIが人間の求めるものを回答するイエスマンになりがち、みたいな記事を読んだことがあるけど、自分はチャットAIをおだてまくってる。\n\n- いいですね。AをさらにBのようにしてください\n- 素晴らしいですね。Cの部分をDにすることはできますか？\n- 理想的です。バリエーションとして同じようなものをもう一つ作っていただけますか。\n- センスがありますね。ここで少し方向性を変えてEの要素をスパイスとして加えてみていただけますか？\n\nとか書いてるから俺がAIのイエスマンだ。\n",
+				"date_published": "2025-03-13T23:01:10+09:00",
+				"url": "https://oeight.space/2025/03/13/aiaiai-ab-cd-e-ai.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/13/sora.html",
+				
+				"content_html": "<p>Soraにやらせられるかなーと思った動画生成、多分ダメだなーという雰囲気がしている。テストできなかったからなあ。まあいいや。しゃーない。</p>\n",
+				"content_text": "Soraにやらせられるかなーと思った動画生成、多分ダメだなーという雰囲気がしている。テストできなかったからなあ。まあいいや。しゃーない。\n",
+				"date_published": "2025-03-13T22:22:48+09:00",
+				"url": "https://oeight.space/2025/03/13/sora.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/13/chatgptmacosmacos.html",
+				
+				"content_html": "<p>ChatGPTのmacOSアプリ、macOSのライブ変換と相性悪いのかー。</p>\n<p>前は大丈夫だったと記憶しているけどデグレードしたのかな？</p>\n<p>しかたない、かわせみ4を使おう。（ライブ変換をやめればいいのでは？）</p>\n",
+				"content_text": "ChatGPTのmacOSアプリ、macOSのライブ変換と相性悪いのかー。\n\n前は大丈夫だったと記憶しているけどデグレードしたのかな？\n\nしかたない、かわせみ4を使おう。（ライブ変換をやめればいいのでは？）\n",
+				"date_published": "2025-03-13T22:07:16+09:00",
+				"url": "https://oeight.space/2025/03/13/chatgptmacosmacos.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/13/chatgpt-plus.html",
+				
+				"content_html": "<p>ChatGPT Plus契約して20秒後にキャンセルした。（こうすると30日分は有効だけど自動更新されないので）</p>\n",
+				"content_text": "ChatGPT Plus契約して20秒後にキャンセルした。（こうすると30日分は有効だけど自動更新されないので）\n",
+				"date_published": "2025-03-13T22:04:39+09:00",
+				"url": "https://oeight.space/2025/03/13/chatgpt-plus.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/12/ai.html",
+				
+				"content_html": "<p>チャットAIを使う上で、わりと真面目にこれは意識した方がいい。</p>\n<blockquote>\n<p>まちがいなくそれが答えです。率直なところ、みなさんのほうで究極の疑問が何であるかわかっていなかったところに問題があるのです</p>\n</blockquote>\n<p>——銀河ヒッチハイクガイドより</p>\n",
+				"content_text": "チャットAIを使う上で、わりと真面目にこれは意識した方がいい。\n\n> まちがいなくそれが答えです。率直なところ、みなさんのほうで究極の疑問が何であるかわかっていなかったところに問題があるのです\n\n——銀河ヒッチハイクガイドより\n",
+				"date_published": "2025-03-12T13:03:27+09:00",
+				"url": "https://oeight.space/2025/03/12/ai.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/12/130128.html",
+				
+				"content_html": "<p>世の中にはプロンプト売ってる人もいるらしい。</p>\n<p>それを聞いて、なんかこう……なんかだな……とは思った。</p>\n",
+				"content_text": "世の中にはプロンプト売ってる人もいるらしい。\n\nそれを聞いて、なんかこう……なんかだな……とは思った。\n",
+				"date_published": "2025-03-12T13:01:28+09:00",
+				"url": "https://oeight.space/2025/03/12/130128.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/12/ffmpegai.html",
+				
+				"content_html": "<p>そもそもffmpegで配信するってこと自体、AIに聞かなきゃ気づかなかった気はする。</p>\n",
+				"content_text": "そもそもffmpegで配信するってこと自体、AIに聞かなきゃ気づかなかった気はする。\n",
+				"date_published": "2025-03-12T12:54:39+09:00",
+				"url": "https://oeight.space/2025/03/12/ffmpegai.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/12/aipc-ffmpegai.html",
+				
+				"content_html": "<p>自宅にいるときはチャットAIは常にPCの画面に出しておきたい。</p>\n<p>使う習慣を付けないと使い方がいまいち分からんので……昨日分かったのは、ffmpegみたいな超メジャーだけどオプション多くてパラメータ指定するのも一苦労みたいなツールの、パラメータを作らせたり意味を解説させるのにAIは使えるということ。</p>\n",
+				"content_text": "自宅にいるときはチャットAIは常にPCの画面に出しておきたい。\n\n使う習慣を付けないと使い方がいまいち分からんので……昨日分かったのは、ffmpegみたいな超メジャーだけどオプション多くてパラメータ指定するのも一苦労みたいなツールの、パラメータを作らせたり意味を解説させるのにAIは使えるということ。\n",
+				"date_published": "2025-03-12T12:52:50+09:00",
+				"url": "https://oeight.space/2025/03/12/aipc-ffmpegai.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/12/124405.html",
+				
+				"content_html": "<p>火星の謎の白い小石\n<a href=\"https://www.perplexity.ai/page/mars-mysterious-white-pebbles-9zwevKbxRHqUwSpD9GPx5A\">www.perplexity.ai/page/mars&hellip;</a></p>\n<p>カオリナイトは暖かくて湿った場所でできるものだから、つまり……ということらしいです。面白いですね。</p>\n",
+				"content_text": "火星の謎の白い小石\n[www.perplexity.ai/page/mars...](https://www.perplexity.ai/page/mars-mysterious-white-pebbles-9zwevKbxRHqUwSpD9GPx5A)\n\nカオリナイトは暖かくて湿った場所でできるものだから、つまり……ということらしいです。面白いですね。\n",
+				"date_published": "2025-03-12T12:44:05+09:00",
+				"url": "https://oeight.space/2025/03/12/124405.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/12/124041.html",
+				
+				"content_html": "<p>ループビデオの映像を制作するところが現状コスト的には重くなりそうな感じ。もうちょいいい方法ないかな……。</p>\n",
+				"content_text": "ループビデオの映像を制作するところが現状コスト的には重くなりそうな感じ。もうちょいいい方法ないかな……。\n",
+				"date_published": "2025-03-12T12:40:41+09:00",
+				"url": "https://oeight.space/2025/03/12/124041.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/12/123501.html",
+				
+				"content_html": "<p>あとまあ自分用に欲しかった</p>\n",
+				"content_text": "あとまあ自分用に欲しかった\n",
+				"date_published": "2025-03-12T12:35:01+09:00",
+				"url": "https://oeight.space/2025/03/12/123501.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/12/123446.html",
+				
+				"content_html": "<p>ただまあ切り口とかサイトとかランニングコストの下げ方とか考えると案外ありじゃない？　ってなったし、収益化条件を達成するための投資と思えば悪くないなとか。</p>\n",
+				"content_text": "ただまあ切り口とかサイトとかランニングコストの下げ方とか考えると案外ありじゃない？　ってなったし、収益化条件を達成するための投資と思えば悪くないなとか。\n",
+				"date_published": "2025-03-12T12:34:46+09:00",
+				"url": "https://oeight.space/2025/03/12/123446.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/12/123144.html",
+				
+				"content_html": "<p>前に簡単にできそうだけどかなりレッドオーシャンじゃない？　とも思ったんですけどね。</p>\n",
+				"content_text": "前に簡単にできそうだけどかなりレッドオーシャンじゃない？　とも思ったんですけどね。\n",
+				"date_published": "2025-03-12T12:31:44+09:00",
+				"url": "https://oeight.space/2025/03/12/123144.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/12/122812.html",
+				
+				"content_html": "<p>素材を揃えたらあとはサーバー代だけだからランニングコストは大したことないはず。たまにアップデートはしたいが……。</p>\n",
+				"content_text": "素材を揃えたらあとはサーバー代だけだからランニングコストは大したことないはず。たまにアップデートはしたいが……。\n",
+				"date_published": "2025-03-12T12:28:12+09:00",
+				"url": "https://oeight.space/2025/03/12/122812.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/12/youtube.html",
+				
+				"content_html": "<p>ヘッドレスで安定稼働させる工夫もいるし、チャンネルは別にするべきなんだよな。でも、とりあえずは自分のチャンネル伸ばすのに使うのもありだなと思った。特にYouTubeは複数ストリームやれるし……アーカイブ保存用みたいになってたけど24/365配信もしてもいいかなって。</p>\n",
+				"content_text": "ヘッドレスで安定稼働させる工夫もいるし、チャンネルは別にするべきなんだよな。でも、とりあえずは自分のチャンネル伸ばすのに使うのもありだなと思った。特にYouTubeは複数ストリームやれるし……アーカイブ保存用みたいになってたけど24/365配信もしてもいいかなって。\n",
+				"date_published": "2025-03-12T12:25:18+09:00",
+				"url": "https://oeight.space/2025/03/12/youtube.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/12/httpskickcomoeight.html",
+				
+				"content_html": "<p>とりあえずテストしてる。これを音楽と映像をクオリティ上げて増やしたい。あとサーバーからの配信にしたい。</p>\n<p><a href=\"https://kick.com/o-eight\">kick.com/o-eight</a></p>\n",
+				"content_text": "とりあえずテストしてる。これを音楽と映像をクオリティ上げて増やしたい。あとサーバーからの配信にしたい。\n\n[kick.com/o-eight](https://kick.com/o-eight)\n",
+				"date_published": "2025-03-12T12:19:24+09:00",
+				"url": "https://oeight.space/2025/03/12/httpskickcomoeight.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/12/120725.html",
+				
+				"content_html": "<p>週末には新しいプロジェクト（遊び）を始められそう。でも$25ぐらいかかるんだよな……。</p>\n",
+				"content_text": "週末には新しいプロジェクト（遊び）を始められそう。でも$25ぐらいかかるんだよな……。\n",
+				"date_published": "2025-03-12T12:07:25+09:00",
+				"url": "https://oeight.space/2025/03/12/120725.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/12/macos.html",
+				
+				"content_html": "<p>macOSのデフォルトのスマート引用符の設定、非常に罠だった。</p>\n<p>一旦メモアプリを経由させてコマンド貼り付けたらダブルクォートがスマートクォートになっちゃってて、エラーに。</p>\n<p>下の画像は設定はオンにしたままでスマートクォートじゃなくて通常のダブルクォートに選び直している図。</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "macOSのデフォルトのスマート引用符の設定、非常に罠だった。\n\n一旦メモアプリを経由させてコマンド貼り付けたらダブルクォートがスマートクォートになっちゃってて、エラーに。\n\n下の画像は設定はオンにしたままでスマートクォートじゃなくて通常のダブルクォートに選び直している図。\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/88228709b9.png\" width=\"600\" height=\"378\" alt=\"\">\n",
+				"date_published": "2025-03-12T01:41:37+09:00",
+				"url": "https://oeight.space/2025/03/12/macos.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/12/004808.html",
+				
+				"content_html": "<p>さっきの記事を書いていたら寝る時間超えてた……。</p>\n",
+				"content_text": "さっきの記事を書いていたら寝る時間超えてた……。\n",
+				"date_published": "2025-03-12T00:48:08+09:00",
+				"url": "https://oeight.space/2025/03/12/004808.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/12/apple-arcade.html",
+				"title": "塊魂の新作がApple Arcadeで出るらしい",
+				"content_html": "<p>iOS向けに、塊魂の新作が出るんですって(Apple ArcadeなのでiPadやMacやApple TVも対応するはず……)。</p>\n<p>iPhoneと相性良さそうな予感がしますね。</p>\n<p>Apple Arcade、4月は｢塊魂｣や｢RollerCoaster Tycoon Classic+｣を新たに配信へ\n<a href=\"https://taisy0.com/2025/03/12/209539.html\">taisy0.com/2025/03/1&hellip;</a></p>\n<p>Apple Arcadeはいまいち知られてない気がしますが、Appleのサブスク型のゲームサービスです。</p>\n<p>対象タイトルは、広告なし・追加課金なしになっています。変な中断ないのは最高ですね？</p>\n<p>ただこのApple Arcade、単体だと月900円とゲームだけに使うにはどうなんだろうというお値段……。</p>\n<p>しかし、実はこのApple Arcade、月1200円のApple Oneという統合パックに含まれているんです。含まれているサービスはこちら。</p>\n<ul>\n<li>Apple Music　月1080円</li>\n<li>Apple Arcade　月900円</li>\n<li>Apple TV+　　月900円</li>\n<li>iCloud+ 50GB　月150円</li>\n</ul>\n<p>Apple TV+はAppleオリジナルのドラマが見られて結構面白い（見る時間が足りない）ですし、Apple Musicで利用可能な楽曲数はSpotifyやGoogle Musicと遜色ないです（あとハイレゾ・ロスレスにも対応してますね）。</p>\n<p>iCloud+は容量増加はもちろん、「メールを非公開」という転送メールアドレスを幾つでも作成できる機能が使えるようになるといった利点があり、かなりオススメです。</p>\n<p>まるでAppleの回し者のようなことを言っていますが、価格的には悪くないと思います。</p>\n<p>なんか本題からずれましたが塊魂楽しみですね。他のタイトルもちょっと気になる。</p>\n",
+				"content_text": "iOS向けに、塊魂の新作が出るんですって(Apple ArcadeなのでiPadやMacやApple TVも対応するはず……)。\n\niPhoneと相性良さそうな予感がしますね。\n\nApple Arcade、4月は｢塊魂｣や｢RollerCoaster Tycoon Classic+｣を新たに配信へ\n[taisy0.com/2025/03/1...](https://taisy0.com/2025/03/12/209539.html)\n\n\nApple Arcadeはいまいち知られてない気がしますが、Appleのサブスク型のゲームサービスです。\n\n対象タイトルは、広告なし・追加課金なしになっています。変な中断ないのは最高ですね？\n\nただこのApple Arcade、単体だと月900円とゲームだけに使うにはどうなんだろうというお値段……。\n\nしかし、実はこのApple Arcade、月1200円のApple Oneという統合パックに含まれているんです。含まれているサービスはこちら。\n\n- Apple Music　月1080円\n- Apple Arcade　月900円\n- Apple TV+　　月900円\n- iCloud+ 50GB　月150円\n\n\nApple TV+はAppleオリジナルのドラマが見られて結構面白い（見る時間が足りない）ですし、Apple Musicで利用可能な楽曲数はSpotifyやGoogle Musicと遜色ないです（あとハイレゾ・ロスレスにも対応してますね）。\n\niCloud+は容量増加はもちろん、「メールを非公開」という転送メールアドレスを幾つでも作成できる機能が使えるようになるといった利点があり、かなりオススメです。\n\nまるでAppleの回し者のようなことを言っていますが、価格的には悪くないと思います。\n\nなんか本題からずれましたが塊魂楽しみですね。他のタイトルもちょっと気になる。\n",
+				"date_published": "2025-03-12T00:47:30+09:00",
+				"url": "https://oeight.space/2025/03/12/apple-arcade.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/11/microblog.html",
+				
+				"content_html": "<p>これの契約解除してMicro.blogのプランアップグレードに使うのが一番いいかも……と、ふと思った。</p>\n",
+				"content_text": "これの契約解除してMicro.blogのプランアップグレードに使うのが一番いいかも……と、ふと思った。\n",
+				"date_published": "2025-03-11T21:46:48+09:00",
+				"url": "https://oeight.space/2025/03/11/microblog.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/11/appstore.html",
+				
+				"content_html": "<p>なお、もし契約するときは50%オフぐらいのセールが普通にあるはずだったので、AppStoreとかを経由しない直接契約とかの価格も確認しながら、その辺狙うのがいいかと。</p>\n<p>永久ライセンスの50%オフセールも定期的にやっていますが、高いんですよねー。</p>\n<p>（間違ってsocial.vivaldi.netの方で書いちゃったので再ポストします）</p>\n",
+				"content_text": "なお、もし契約するときは50%オフぐらいのセールが普通にあるはずだったので、AppStoreとかを経由しない直接契約とかの価格も確認しながら、その辺狙うのがいいかと。\n\n永久ライセンスの50%オフセールも定期的にやっていますが、高いんですよねー。\n\n（間違ってsocial.vivaldi.netの方で書いちゃったので再ポストします）\n",
+				"date_published": "2025-03-11T21:44:29+09:00",
+				"url": "https://oeight.space/2025/03/11/appstore.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/11/214143.html",
+				
+				"content_html": "<p>そういや、Endelという「生産性を高めたり、リラックスしたり、睡眠導入しやすくなる音楽」を脳科学に基づいて生成していると称するサービスがありまして……。</p>\n<p>（前はBrain.fmというサービスが流行ってたけど、去年とか一昨年ぐらいはEndelが流行ってるのかな？　とか）</p>\n<p>ただ、最近バイノーラルとか各種カラーノイズとか追加し出してそれでいいのか？　言うほど脳科学的に正しいか？　と思う気持ちがあったり。</p>\n<p>自分はこの手の音楽で集中・睡眠は殆ど効果を感じたことがないのですが、まだプレミアムプランを契約しているので、一応招待コード貼っておきますね。</p>\n<blockquote>\n<p>この無料コードでEndelをお試しください！</p>\n<p>科学的に証明された、集中力、リラックス、睡眠に役立つサウンドを14日間お使いいただけます。</p>\n<p><a href=\"https://endelreferral.page.link/KBTV\">endelreferral.page.link/KBTV</a></p>\n</blockquote>\n",
+				"content_text": "そういや、Endelという「生産性を高めたり、リラックスしたり、睡眠導入しやすくなる音楽」を脳科学に基づいて生成していると称するサービスがありまして……。\n\n（前はBrain.fmというサービスが流行ってたけど、去年とか一昨年ぐらいはEndelが流行ってるのかな？　とか）\n\nただ、最近バイノーラルとか各種カラーノイズとか追加し出してそれでいいのか？　言うほど脳科学的に正しいか？　と思う気持ちがあったり。\n\n自分はこの手の音楽で集中・睡眠は殆ど効果を感じたことがないのですが、まだプレミアムプランを契約しているので、一応招待コード貼っておきますね。\n\n> この無料コードでEndelをお試しください！\n> \n> 科学的に証明された、集中力、リラックス、睡眠に役立つサウンドを14日間お使いいただけます。\n> \n> [endelreferral.page.link/KBTV](https://endelreferral.page.link/KBTV)\n",
+				"date_published": "2025-03-11T21:41:43+09:00",
+				"url": "https://oeight.space/2025/03/11/214143.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/11/oeightspace-bayou-theme-cssclaude.html",
+				
+				"content_html": "<p>oeight.space のテーマを変更して、短文投稿部分とブログ記事部分（タイトルありの長文）に分けて表示されるBayou Themeに変えました。</p>\n<p>ダークモードはこのCSSをベースに自分でデザインしてね、という感じだったので、Claudeにこれをダークモードにしてくれと投げました。そこから少し変えたけどまた微調整はするかも。</p>\n<p>コピーライト表示とサイドバーも追加しました。サイドバーは何を書くかまた考えますがとりあえず。</p>\n",
+				"content_text": "oeight.space のテーマを変更して、短文投稿部分とブログ記事部分（タイトルありの長文）に分けて表示されるBayou Themeに変えました。\n\nダークモードはこのCSSをベースに自分でデザインしてね、という感じだったので、Claudeにこれをダークモードにしてくれと投げました。そこから少し変えたけどまた微調整はするかも。\n\nコピーライト表示とサイドバーも追加しました。サイドバーは何を書くかまた考えますがとりあえず。\n",
+				"date_published": "2025-03-11T21:26:40+09:00",
+				"url": "https://oeight.space/2025/03/11/oeightspace-bayou-theme-cssclaude.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/11/microblogmicroblogmastodon-bluesky-threads-x-sns.html",
+				
+				"content_html": "<p>慣れられるかは別としてようやくMicro.blogの正しい使い方を理解してきた。投稿するときはMicro.blogからの発信→クロスポスト(Mastodon, Bluesky, Threads, と、手動になるけどX)に集約すると良さそう。</p>\n<p>リプライする際は届いた先でやるのが良さそう。</p>\n<p>一個プランあげて、ブログとマイクロSNS的な使い方で分けた方がもっといいかもな……。ブログ投稿（長文）と短文を分けて表示するテーマもあるから、それにするのもありか。</p>\n",
+				"content_text": "慣れられるかは別としてようやくMicro.blogの正しい使い方を理解してきた。投稿するときはMicro.blogからの発信→クロスポスト(Mastodon, Bluesky, Threads, と、手動になるけどX)に集約すると良さそう。\n\nリプライする際は届いた先でやるのが良さそう。\n\n一個プランあげて、ブログとマイクロSNS的な使い方で分けた方がもっといいかもな……。ブログ投稿（長文）と短文を分けて表示するテーマもあるから、それにするのもありか。\n",
+				"date_published": "2025-03-11T20:19:00+09:00",
+				"url": "https://oeight.space/2025/03/11/microblogmicroblogmastodon-bluesky-threads-x-sns.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/11/microblogblog-ai.html",
+				
+				"content_html": "<p>Micro.blogを$10のプランにして、blogを増やすことを真面目に考えている。</p>\n<p>AIで作ったものを置く場所が欲しいとか、小説の英語版公開したくないとか。そういうのちょっと思うんですよね。今$5なので+$5なら500円だし（もちろん計算を間違えている。円高時代の感覚がひどい）……みたいな。</p>\n",
+				"content_text": "Micro.blogを$10のプランにして、blogを増やすことを真面目に考えている。\n\nAIで作ったものを置く場所が欲しいとか、小説の英語版公開したくないとか。そういうのちょっと思うんですよね。今$5なので+$5なら500円だし（もちろん計算を間違えている。円高時代の感覚がひどい）……みたいな。\n",
+				"date_published": "2025-03-11T20:05:27+09:00",
+				"url": "https://oeight.space/2025/03/11/microblogblog-ai.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/11/microblogmicroblogactivity-pub.html",
+				
+				"content_html": "<p>Micro.blogだけにしてしまえばいいのでは……と思ったけど、これフォローできるのはMicro.blogの人だけっぽいんだよな。Activity Pubの人をフォローできればこっちにまとめられるんだけどね。</p>\n",
+				"content_text": "Micro.blogだけにしてしまえばいいのでは……と思ったけど、これフォローできるのはMicro.blogの人だけっぽいんだよな。Activity Pubの人をフォローできればこっちにまとめられるんだけどね。\n",
+				"date_published": "2025-03-11T19:58:07+09:00",
+				"url": "https://oeight.space/2025/03/11/microblogmicroblogactivity-pub.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/11/195523.html",
+				
+				"content_html": "<p>昨日別の小説をそこそこ仕込んでたんだけど、今見たら、これ微妙か〜？　という気持ちになってきた。あとでもう一度見てみるけど一旦中断するか……。</p>\n",
+				"content_text": "昨日別の小説をそこそこ仕込んでたんだけど、今見たら、これ微妙か〜？　という気持ちになってきた。あとでもう一度見てみるけど一旦中断するか……。\n",
+				"date_published": "2025-03-11T19:55:23+09:00",
+				"url": "https://oeight.space/2025/03/11/195523.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/10/130826.html",
+				"title": "カクヨムで新連載を開始します",
 				"content_html": "<p>本日(3/10)の15:00からカクヨムにて『転生賢者の異世界商会』の連載を開始します。</p>\n<p>AIを使用した作品なので、AI Poweredというコレクションに入れることにしました。</p>\n<p>いくつかの習作はnoteにて公開していましたが、長編が書きづらいという問題について対応したものになります。15時に第一話が公開されると以下に入ってくると思います。</p>\n<p><a href=\"https://kakuyomu.jp/users/oeight/collections\">kakuyomu.jp/users/oei&hellip;</a></p>\n<p>今後の展望としては、やはりネット小説らしい大長編へのチャレンジでしょうか。</p>\n<p>あと、文体（遊びがちょっと足りてない）やキャラクター（名前は自分でつけたほうが良さそう、こっちも遊びが足りてない）についても、もう一段上を目指したいと思います。</p>\n",
 				"content_text": "本日(3/10)の15:00からカクヨムにて『転生賢者の異世界商会』の連載を開始します。\n\nAIを使用した作品なので、AI Poweredというコレクションに入れることにしました。\n\nいくつかの習作はnoteにて公開していましたが、長編が書きづらいという問題について対応したものになります。15時に第一話が公開されると以下に入ってくると思います。\n\n[kakuyomu.jp/users/oei...](https://kakuyomu.jp/users/oeight/collections)\n\n今後の展望としては、やはりネット小説らしい大長編へのチャレンジでしょうか。\n\nあと、文体（遊びがちょっと足りてない）やキャラクター（名前は自分でつけたほうが良さそう、こっちも遊びが足りてない）についても、もう一段上を目指したいと思います。\n",
 				"date_published": "2025-03-10T13:08:26+09:00",
-				"url": "https://oeight.space/2025/03/10/130826.html"
+				"url": "https://oeight.space/2025/03/10/130826.html",
+				"tags": ["Longform","Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/10/oeight-is-on-buymeacoffee-you.html",
@@ -20,7 +678,8 @@
 				"content_html": "<p>ブログに広告つけようかとか考えたんですが、まずは広告モデルじゃない方法を準備しておくことで、とりあえず（みんな嬉しくない広告は）様子見したいなと思いました。</p>\n<p>o_eight is on buymeacoffee!🎉</p>\n<p>You can support by buying a coffee ☕ here —\n<a href=\"https://buymeacoffee.com/oeight\">buymeacoffee.com/oeight</a></p>\n",
 				"content_text": "ブログに広告つけようかとか考えたんですが、まずは広告モデルじゃない方法を準備しておくことで、とりあえず（みんな嬉しくない広告は）様子見したいなと思いました。\n\no_eight is on buymeacoffee!🎉\n\nYou can support by buying a coffee ☕ here —\n[buymeacoffee.com/oeight](https://buymeacoffee.com/oeight) \n",
 				"date_published": "2025-03-10T00:07:35+09:00",
-				"url": "https://oeight.space/2025/03/10/oeight-is-on-buymeacoffee-you.html"
+				"url": "https://oeight.space/2025/03/10/oeight-is-on-buymeacoffee-you.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/08/181323.html",
@@ -28,7 +687,8 @@
 				"content_html": "<p>あ、お金がたくさんあれば両方契約したままにしますので、そういう意味では機能的には完全に満足していますね。</p>\n",
 				"content_text": "あ、お金がたくさんあれば両方契約したままにしますので、そういう意味では機能的には完全に満足していますね。\n",
 				"date_published": "2025-03-08T18:13:23+09:00",
-				"url": "https://oeight.space/2025/03/08/181323.html"
+				"url": "https://oeight.space/2025/03/08/181323.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/08/kagiclaude-haiku.html",
@@ -36,7 +696,8 @@
 				"content_html": "<p>KagiのクイックアンサーはClaude 3 Haikuなんですが、インターネットの記事まとめる程度ならそれぐらいでもいいよね、というのと、1-2年経てばこの規模の言語モデルで何も問題ないことになりそうなのもありました。</p>\n",
 				"content_text": "KagiのクイックアンサーはClaude 3 Haikuなんですが、インターネットの記事まとめる程度ならそれぐらいでもいいよね、というのと、1-2年経てばこの規模の言語モデルで何も問題ないことになりそうなのもありました。\n",
 				"date_published": "2025-03-08T18:11:18+09:00",
-				"url": "https://oeight.space/2025/03/08/kagiclaude-haiku.html"
+				"url": "https://oeight.space/2025/03/08/kagiclaude-haiku.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/08/180913.html",
@@ -44,7 +705,8 @@
 				"content_html": "<p>Kagi Ultimateから一旦Professionalにしてみる。</p>\n<p>日割り計算方式なので変えるのが気楽なんですよね……AI関係の機能でもクイックアンサーとかはProfessionalについてくるみたいなので、Assistantを使うかどうか？　なのかなと思って……。</p>\n<p>Assistant自体は高度なAIを色々使えていいんですが、色々試した結果Claude 3.7 Sonnetが一番好きだし、特定のAIをがっつり使うんなら、そっちで上位プランに入った方がリミット的に緩いよね、というのがありまして。</p>\n<p>まあ試してみている感じです。めちゃくちゃ利用者本位の日割り方式なので、Ultimate自体は時々契約するのは各社のAIの状況チェックの目的でもアリだと思う。</p>\n<p>これまでアドだと思っていた検索インデックスをKagiにして、高度なAIでインターネット検索……については、クイックアンサーで結構用が足りそうなのと、なんかあれこれ試してみたところ、用途によってはインターネットをソースにしない方が結果の水準が高い場合がある、というのがあったので、そこまででもないか？　と。</p>\n",
 				"content_text": "Kagi Ultimateから一旦Professionalにしてみる。\n\n日割り計算方式なので変えるのが気楽なんですよね……AI関係の機能でもクイックアンサーとかはProfessionalについてくるみたいなので、Assistantを使うかどうか？　なのかなと思って……。\n\nAssistant自体は高度なAIを色々使えていいんですが、色々試した結果Claude 3.7 Sonnetが一番好きだし、特定のAIをがっつり使うんなら、そっちで上位プランに入った方がリミット的に緩いよね、というのがありまして。\n\nまあ試してみている感じです。めちゃくちゃ利用者本位の日割り方式なので、Ultimate自体は時々契約するのは各社のAIの状況チェックの目的でもアリだと思う。\n\nこれまでアドだと思っていた検索インデックスをKagiにして、高度なAIでインターネット検索……については、クイックアンサーで結構用が足りそうなのと、なんかあれこれ試してみたところ、用途によってはインターネットをソースにしない方が結果の水準が高い場合がある、というのがあったので、そこまででもないか？　と。\n",
 				"date_published": "2025-03-08T18:09:13+09:00",
-				"url": "https://oeight.space/2025/03/08/180913.html"
+				"url": "https://oeight.space/2025/03/08/180913.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/08/duckai-duck-duck-go-gpto.html",
@@ -52,7 +714,8 @@
 				"content_html": "<p>Duck.aiってこないだまではベータでしたっけ。</p>\n<p>前までちょっと試しましたけど、コスト高の高度なモデルは使えないのですが無料でかつプライバシーに配慮した作りなのはDuck Duck Goらしいと思いました。</p>\n<p>将来的には高度なモデルを使える有料プランも検討しているらしいですが、軽量モデルもどんどんレベル上がっているのもあり、1-2年後ぐらいには無料か低コストで十分実用レベルになると思います。今でも用途によっては十分ですしね。</p>\n<p>GPT-4o miniやClaude 3を無料かつ匿名で誰でも使える「Duck.ai」 が登場 - GIGAZINE\n<a href=\"https://gigazine.net/news/20250307-duck-ai-chatbot/\">gigazine.net/news/2025&hellip;</a></p>\n",
 				"content_text": "Duck.aiってこないだまではベータでしたっけ。\n\n前までちょっと試しましたけど、コスト高の高度なモデルは使えないのですが無料でかつプライバシーに配慮した作りなのはDuck Duck Goらしいと思いました。\n\n将来的には高度なモデルを使える有料プランも検討しているらしいですが、軽量モデルもどんどんレベル上がっているのもあり、1-2年後ぐらいには無料か低コストで十分実用レベルになると思います。今でも用途によっては十分ですしね。\n\nGPT-4o miniやClaude 3を無料かつ匿名で誰でも使える「Duck.ai」 が登場 - GIGAZINE\n[gigazine.net/news/2025...](https://gigazine.net/news/20250307-duck-ai-chatbot/)\n",
 				"date_published": "2025-03-08T12:19:25+09:00",
-				"url": "https://oeight.space/2025/03/08/duckai-duck-duck-go-gpto.html"
+				"url": "https://oeight.space/2025/03/08/duckai-duck-duck-go-gpto.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/08/120832.html",
@@ -60,7 +723,8 @@
 				"content_html": "<p>KagiのAssistantですが、実際には1M/月ぐらいのトークン制限があるらしいですね。</p>\n<p>初月は超過してたんですが引っ掛からなかったのでどういう運用なのかは分かりませんが。（まあモデルによってトークンあたりのコストが全然違いますし、Claudeとかはinとoutで違ったりするので……）</p>\n<p>この辺の制限については近々サイトで詳しく説明して明らかにする予定というのをKagiのdiscordで見ました。</p>\n<p>Kagi Professional + Claude Proが自分的には一番いいってなりそうかなあ。</p>\n",
 				"content_text": "KagiのAssistantですが、実際には1M/月ぐらいのトークン制限があるらしいですね。\n\n初月は超過してたんですが引っ掛からなかったのでどういう運用なのかは分かりませんが。（まあモデルによってトークンあたりのコストが全然違いますし、Claudeとかはinとoutで違ったりするので……）\n\nこの辺の制限については近々サイトで詳しく説明して明らかにする予定というのをKagiのdiscordで見ました。\n\nKagi Professional + Claude Proが自分的には一番いいってなりそうかなあ。\n",
 				"date_published": "2025-03-08T12:08:32+09:00",
-				"url": "https://oeight.space/2025/03/08/120832.html"
+				"url": "https://oeight.space/2025/03/08/120832.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/08/120601.html",
@@ -68,7 +732,8 @@
 				"content_html": "<p>手紙ってなんだ……？　保存ボタンのアイコン（フロッピーディスク）ぐらいに意味がわからない。</p>\n<p>という時代が来るんですね。</p>\n<p>2025年12月30日をもって手紙の配達を終了するとデンマークの郵便局が発表 - GIGAZINE\n<a href=\"https://gigazine.net/news/20250307-postnord-stop-deiver-letter/\">gigazine.net/news/2025&hellip;</a></p>\n",
 				"content_text": "手紙ってなんだ……？　保存ボタンのアイコン（フロッピーディスク）ぐらいに意味がわからない。\n\nという時代が来るんですね。\n\n2025年12月30日をもって手紙の配達を終了するとデンマークの郵便局が発表 - GIGAZINE\n[gigazine.net/news/2025...](https://gigazine.net/news/20250307-postnord-stop-deiver-letter/)\n",
 				"date_published": "2025-03-08T12:06:01+09:00",
-				"url": "https://oeight.space/2025/03/08/120601.html"
+				"url": "https://oeight.space/2025/03/08/120601.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/08/002123.html",
@@ -76,7 +741,8 @@
 				"content_html": "<p>Firefoxの136、垂直タブも嬉しいですが、macOS向けにはHEVCのハードウェアアクセラレーションも有効化されるということなので、これ結構嬉しいアップデートっぽいですね。</p>\n<p>「Firefox 136」正式版リリース、垂直タブが使用可能に - GIGAZINE\n<a href=\"https://gigazine.net/news/20250305-firefox-136/\">gigazine.net/news/2025&hellip;</a></p>\n",
 				"content_text": "Firefoxの136、垂直タブも嬉しいですが、macOS向けにはHEVCのハードウェアアクセラレーションも有効化されるということなので、これ結構嬉しいアップデートっぽいですね。\n\n「Firefox 136」正式版リリース、垂直タブが使用可能に - GIGAZINE\n[gigazine.net/news/2025...](https://gigazine.net/news/20250305-firefox-136/)\n",
 				"date_published": "2025-03-08T00:21:23+09:00",
-				"url": "https://oeight.space/2025/03/08/002123.html"
+				"url": "https://oeight.space/2025/03/08/002123.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/08/claudevoice-modegemini.html",
@@ -84,7 +750,8 @@
 				"content_html": "<p>Claudeの双方向のVoice modeのリリースもなんとなく近そうだし、単に待っておくのが良さそう。それまではGeminiでも使うか。</p>\n",
 				"content_text": "Claudeの双方向のVoice modeのリリースもなんとなく近そうだし、単に待っておくのが良さそう。それまではGeminiでも使うか。\n",
 				"date_published": "2025-03-08T00:03:17+09:00",
-				"url": "https://oeight.space/2025/03/08/claudevoice-modegemini.html"
+				"url": "https://oeight.space/2025/03/08/claudevoice-modegemini.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/07/234712.html",
@@ -92,7 +759,8 @@
 				"content_html": "<p>GeminiはmacOS向けのアプリないから、音声対話モードが使えるのはスマートフォンだけなんだよなー。</p>\n<p>とするとChatGPTかなぁ……まあ一度はChatGPT Plusを契約してみるのはアリかもしれない。Apple Intelligenceからも呼べるようになるわけだし。でもぶっちゃけiPhoneから呼ぶ程度の用途なら無料のGPT-4o miniでなんも困らない気はする。</p>\n",
 				"content_text": "GeminiはmacOS向けのアプリないから、音声対話モードが使えるのはスマートフォンだけなんだよなー。\n\nとするとChatGPTかなぁ……まあ一度はChatGPT Plusを契約してみるのはアリかもしれない。Apple Intelligenceからも呼べるようになるわけだし。でもぶっちゃけiPhoneから呼ぶ程度の用途なら無料のGPT-4o miniでなんも困らない気はする。\n",
 				"date_published": "2025-03-07T23:47:12+09:00",
-				"url": "https://oeight.space/2025/03/07/234712.html"
+				"url": "https://oeight.space/2025/03/07/234712.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/07/endel-ai.html",
@@ -100,7 +768,8 @@
 				"content_html": "<p>Endelも安いから契約更新止めてもあまり変わらないなあ。</p>\n<p>チャットAI、まあリソースたくさん使うんだから仕方ないんだろうけど、ちょっとばかし高いんだよなー。</p>\n",
 				"content_text": "Endelも安いから契約更新止めてもあまり変わらないなあ。\n\nチャットAI、まあリソースたくさん使うんだから仕方ないんだろうけど、ちょっとばかし高いんだよなー。\n",
 				"date_published": "2025-03-07T23:36:36+09:00",
-				"url": "https://oeight.space/2025/03/07/endel-ai.html"
+				"url": "https://oeight.space/2025/03/07/endel-ai.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/07/kagi-ultimatethe-assistant-ui.html",
@@ -108,7 +777,8 @@
 				"content_html": "<p>Kagi UltimateのThe Assistantがお得すぎるのもあるんですよね、日本語ってトークン消費が多いので、$25でこんなに使ってはまずいんじゃないかみたいな気持ちがある。</p>\n<p>大口契約とかなら割引あったりしてそんな問題ないのかなあ。</p>\n<p>一応は音声入力もファイル添付してコンテキストに追加するのも対応しているので（UI的にちょっと足りなさはあるが）、これとあと一つぐらいにはしたいよね。</p>\n",
 				"content_text": "Kagi UltimateのThe Assistantがお得すぎるのもあるんですよね、日本語ってトークン消費が多いので、$25でこんなに使ってはまずいんじゃないかみたいな気持ちがある。\n\n大口契約とかなら割引あったりしてそんな問題ないのかなあ。\n\n一応は音声入力もファイル添付してコンテキストに追加するのも対応しているので（UI的にちょっと足りなさはあるが）、これとあと一つぐらいにはしたいよね。\n",
 				"date_published": "2025-03-07T23:33:02+09:00",
-				"url": "https://oeight.space/2025/03/07/kagi-ultimatethe-assistant-ui.html"
+				"url": "https://oeight.space/2025/03/07/kagi-ultimatethe-assistant-ui.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/07/232701.html",
@@ -116,7 +786,8 @@
 				"content_html": "<p>Claude 3.7 Sonnetはめちゃくちゃ気に入っていて、Claudeの書く文章が一番肌に合うなーという感じがあるんですが、音声で会話できるモデルもゲームしながら話しかけたりできるのいいのでは？　と思ったりして。</p>\n<p>GeminiかChatGPTか……Geminiは無料でもかなり話してくれるけど、ChatGPTは高音質モードというかで話してもらうためにはProにする必要があり……。</p>\n<p>Geminiのコンテキストのデカさは小説とかやらせるのに良さそうという気持ちもあるし、ChatGPTは画像生成とかもできるしな……というのもあり……。</p>\n<p>あとGeminiの文体が実はちょっと好きではない。</p>\n<p>そもそもお金の問題が先にあるので、とりあえずパッとMubert解約しちゃったんだけど、再契約するとかなり料金高くなるらしくて（契約を続けていれば多分安いまま更新できた？）マズったかという気はしている。</p>\n<p>とはいえ……Endelとかあんま上手く使えてないし、これも止めるかなあ。</p>\n<p>iCloud Driveの容量増加(2TB)を契約しているんですが、Gemini AdvancedはGoogle Oneがついてくるので、Google Driveの2TBも使えるんですよね。</p>\n<p>でもGoogleに依存するのやめたいよね。難しいなあ。</p>",
 				"content_text": "Claude 3.7 Sonnetはめちゃくちゃ気に入っていて、Claudeの書く文章が一番肌に合うなーという感じがあるんですが、音声で会話できるモデルもゲームしながら話しかけたりできるのいいのでは？　と思ったりして。\n\nGeminiかChatGPTか……Geminiは無料でもかなり話してくれるけど、ChatGPTは高音質モードというかで話してもらうためにはProにする必要があり……。\n\n<!--more-->\n\nGeminiのコンテキストのデカさは小説とかやらせるのに良さそうという気持ちもあるし、ChatGPTは画像生成とかもできるしな……というのもあり……。\n\nあとGeminiの文体が実はちょっと好きではない。\n\nそもそもお金の問題が先にあるので、とりあえずパッとMubert解約しちゃったんだけど、再契約するとかなり料金高くなるらしくて（契約を続けていれば多分安いまま更新できた？）マズったかという気はしている。\n\nとはいえ……Endelとかあんま上手く使えてないし、これも止めるかなあ。\n\niCloud Driveの容量増加(2TB)を契約しているんですが、Gemini AdvancedはGoogle Oneがついてくるので、Google Driveの2TBも使えるんですよね。\n\nでもGoogleに依存するのやめたいよね。難しいなあ。\n",
 				"date_published": "2025-03-07T23:27:01+09:00",
-				"url": "https://oeight.space/2025/03/07/232701.html"
+				"url": "https://oeight.space/2025/03/07/232701.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/07/orionlinuxonion-httpskagicomchangelog.html",
@@ -124,7 +795,8 @@
 				"content_html": "<p>私が最近なんとかメインで使っているOrionブラウザーのLinux版の開発が開始されました。（Onionではないですよ、オリオンです）</p>\n<p>まだ開発を開始したというニュースにすぎませんが、いいですね。</p>\n<p><a href=\"https://kagi.com/changelog#6479\">kagi.com/changelog</a></p>\n",
 				"content_text": "私が最近なんとかメインで使っているOrionブラウザーのLinux版の開発が開始されました。（Onionではないですよ、オリオンです）\n\nまだ開発を開始したというニュースにすぎませんが、いいですね。\n\n[kagi.com/changelog](https://kagi.com/changelog#6479)\n",
 				"date_published": "2025-03-07T23:04:36+09:00",
-				"url": "https://oeight.space/2025/03/07/orionlinuxonion-httpskagicomchangelog.html"
+				"url": "https://oeight.space/2025/03/07/orionlinuxonion-httpskagicomchangelog.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/07/iphone-e.html",
@@ -132,7 +804,8 @@
 				"content_html": "<p>iPhone 16eを最速で手に入れて使っていますが、ほぼ完全に満足しています。</p>\n<p>アクションボタンに何を割り当てるかで悩むぐらいでしょうか。今は消音モード切り替えにしているけどビジュアルインテリジェンスが実装されたらどうしようみたいな。</p>\n",
 				"content_text": "iPhone 16eを最速で手に入れて使っていますが、ほぼ完全に満足しています。\n\nアクションボタンに何を割り当てるかで悩むぐらいでしょうか。今は消音モード切り替えにしているけどビジュアルインテリジェンスが実装されたらどうしようみたいな。\n",
 				"date_published": "2025-03-07T21:16:46+09:00",
-				"url": "https://oeight.space/2025/03/07/iphone-e.html"
+				"url": "https://oeight.space/2025/03/07/iphone-e.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/06/190842.html",
@@ -140,7 +813,8 @@
 				"content_html": "<p>実際みんなチャットAIをどういうふうに使ってるの？\nというのは気になる点ですよね。音声で会話できるものもありますが、試してみても何を喋ればいいかよくわからなくて……。</p>\n<p>チャットAIユーザーの21％がクリエイティブなライティングやロールプレイにAIを使用していることが判明 - GIGAZINE\n<a href=\"https://gigazine.net/news/20240806-chatgpt-use-ai-chatbot-conversations/\">gigazine.net/news/2024&hellip;</a></p>\n",
 				"content_text": "実際みんなチャットAIをどういうふうに使ってるの？\nというのは気になる点ですよね。音声で会話できるものもありますが、試してみても何を喋ればいいかよくわからなくて……。\n\nチャットAIユーザーの21％がクリエイティブなライティングやロールプレイにAIを使用していることが判明 - GIGAZINE\n[gigazine.net/news/2024...](https://gigazine.net/news/20240806-chatgpt-use-ai-chatbot-conversations/)\n",
 				"date_published": "2025-03-06T19:08:42+09:00",
-				"url": "https://oeight.space/2025/03/06/190842.html"
+				"url": "https://oeight.space/2025/03/06/190842.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/05/191100.html",
@@ -148,15 +822,17 @@
 				"content_html": "<p>Orion、よく落ちるなあと言っていたが、最新のアップデートでその辺の修正がいくつも入ったようなのでこれでだいぶ良くなることを期待。</p>\n<p>（自分はOrion+の特典でRelease Candidate版を使っているため、通常版への反映はもう少しかかるかもしれない）</p>\n<p>リリースノートはこちら。\n<a href=\"https://kagi.com/orion/updates/orion-release-notes.html\">kagi.com/orion/upd&hellip;</a></p>\n",
 				"content_text": "Orion、よく落ちるなあと言っていたが、最新のアップデートでその辺の修正がいくつも入ったようなのでこれでだいぶ良くなることを期待。\n\n（自分はOrion+の特典でRelease Candidate版を使っているため、通常版への反映はもう少しかかるかもしれない）\n\nリリースノートはこちら。\n[kagi.com/orion/upd...](https://kagi.com/orion/updates/orion-release-notes.html)\n",
 				"date_published": "2025-03-05T19:11:00+09:00",
-				"url": "https://oeight.space/2025/03/05/191100.html"
+				"url": "https://oeight.space/2025/03/05/191100.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/05/volume-sound-normalizer-prochrome-vtuber.html",
-				
+				"title": "Chrome用の拡張機能「Volume \u0026 Sound Normalizer Pro」を作成開始しました",
 				"content_html": "<p>Volume &amp; Sound Normalizer ProというChrome用の拡張機能を作り始めました。</p>\n<p>これはVTuberやストリーマーのライブ配信を視聴する際、音量バランスがみんなバラバラ……という問題を解決するためのものです。</p>\n<p>現在は、YouTubeとTwitchでチャンネル別にコンプレッサーと音量調整の設定を覚えさせることができます。（バージョン1.4.0としています）</p>\n<p>Chrome Web Storeでの公開は検討中です。近いうちに多言語化もしたいですね。</p>\n<p><a href=\"https://github.com/o-eight/Volume-Sound-Normalizer-Pro\">github.com/o-eight/V&hellip;</a></p>\n",
 				"content_text": "Volume & Sound Normalizer ProというChrome用の拡張機能を作り始めました。\n\nこれはVTuberやストリーマーのライブ配信を視聴する際、音量バランスがみんなバラバラ……という問題を解決するためのものです。\n\n現在は、YouTubeとTwitchでチャンネル別にコンプレッサーと音量調整の設定を覚えさせることができます。（バージョン1.4.0としています）\n\nChrome Web Storeでの公開は検討中です。近いうちに多言語化もしたいですね。\n\n[github.com/o-eight/V...](https://github.com/o-eight/Volume-Sound-Normalizer-Pro)\n",
 				"date_published": "2025-03-05T00:46:08+09:00",
-				"url": "https://oeight.space/2025/03/05/volume-sound-normalizer-prochrome-vtuber.html"
+				"url": "https://oeight.space/2025/03/05/volume-sound-normalizer-prochrome-vtuber.html",
+				"tags": ["Longform","Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/02/iphone-eiphone-se.html",
@@ -164,7 +840,8 @@
 				"content_html": "<p>iPhone 16e、バッテリー保つのがいいねー。これまでの薄いiPhone SEとは大違いだ。</p>\n",
 				"content_text": "iPhone 16e、バッテリー保つのがいいねー。これまでの薄いiPhone SEとは大違いだ。\n",
 				"date_published": "2025-03-02T17:48:49+09:00",
-				"url": "https://oeight.space/2025/03/02/iphone-eiphone-se.html"
+				"url": "https://oeight.space/2025/03/02/iphone-eiphone-se.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/02/sf.html",
@@ -172,7 +849,8 @@
 				"content_html": "<p>今夜はSF小説の三体を読んでて、今二作目の黒暗森林の上に入ったところ。面白い。</p>\n",
 				"content_text": "今夜はSF小説の三体を読んでて、今二作目の黒暗森林の上に入ったところ。面白い。\n",
 				"date_published": "2025-03-02T00:32:50+09:00",
-				"url": "https://oeight.space/2025/03/02/sf.html"
+				"url": "https://oeight.space/2025/03/02/sf.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/28/222303.html",
@@ -180,7 +858,8 @@
 				"content_html": "<p>なるほど、そういう事情も込みでリソースに余裕がないのか。</p>\n<p>Open AIのGPU不足\n<a href=\"https://www.perplexity.ai/page/openai-s-gpu-shortage-KqMUV2cHSomP_DN3dLsFzg\">www.perplexity.ai/page/open&hellip;</a></p>\n",
 				"content_text": "なるほど、そういう事情も込みでリソースに余裕がないのか。\n\nOpen AIのGPU不足\n[www.perplexity.ai/page/open...](https://www.perplexity.ai/page/openai-s-gpu-shortage-KqMUV2cHSomP_DN3dLsFzg)\n",
 				"date_published": "2025-02-28T22:23:03+09:00",
-				"url": "https://oeight.space/2025/02/28/222303.html"
+				"url": "https://oeight.space/2025/02/28/222303.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/28/music-video-httpsyoutubelrjlhgepisijrajvsaovfbisu.html",
@@ -188,7 +867,8 @@
 				"content_html": "<p>new music video. i like it.</p>\n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n<div class='embed-container'><iframe src='https://www.youtube.com/embed/lRj0LhgEP-I' frameborder='0' allowfullscreen></iframe></div>\n",
 				"content_text": "new music video. i like it.\n\n{{< yt \"lRj0LhgEP-I\" >}}\n",
 				"date_published": "2025-02-28T22:07:49+09:00",
-				"url": "https://oeight.space/2025/02/28/music-video-httpsyoutubelrjlhgepisijrajvsaovfbisu.html"
+				"url": "https://oeight.space/2025/02/28/music-video-httpsyoutubelrjlhgepisijrajvsaovfbisu.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/28/iphone-se-iphone-e-android.html",
@@ -196,7 +876,8 @@
 				"content_html": "<p>流石にiPhone SE 第2世代からiPhone 16eだと性能の差がすごくて、ブラウザのタブの切り替えとかの地味なところでも高速になったなーと感じる。</p>\n<p>しかし端末としてはでかいな……まあ我慢ごろではあるんだろうけど。サブのAndroid端末と変わらない程度ではあるか……。</p>\n<p>持ち上げると画面がスリープ解除するのは便利だなと感じるけど、Face IDは正直微妙だ。画面に顔を近づけすぎているので認証のとき離さないといけない。視力がなあ。</p>\n",
 				"content_text": "流石にiPhone SE 第2世代からiPhone 16eだと性能の差がすごくて、ブラウザのタブの切り替えとかの地味なところでも高速になったなーと感じる。\n\nしかし端末としてはでかいな……まあ我慢ごろではあるんだろうけど。サブのAndroid端末と変わらない程度ではあるか……。\n\n持ち上げると画面がスリープ解除するのは便利だなと感じるけど、Face IDは正直微妙だ。画面に顔を近づけすぎているので認証のとき離さないといけない。視力がなあ。\n",
 				"date_published": "2025-02-28T21:21:42+09:00",
-				"url": "https://oeight.space/2025/02/28/iphone-se-iphone-e-android.html"
+				"url": "https://oeight.space/2025/02/28/iphone-se-iphone-e-android.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/28/iphone-e.html",
@@ -204,7 +885,8 @@
 				"content_html": "<p>iPhone 16eへの乗り換えがほぼ完了した。面倒な端末登録があるアプリとかはまだ全部再設定完了してないかもだけど、主だったところはできたと思う。</p>\n",
 				"content_text": "iPhone 16eへの乗り換えがほぼ完了した。面倒な端末登録があるアプリとかはまだ全部再設定完了してないかもだけど、主だったところはできたと思う。\n",
 				"date_published": "2025-02-28T21:06:07+09:00",
-				"url": "https://oeight.space/2025/02/28/iphone-e.html"
+				"url": "https://oeight.space/2025/02/28/iphone-e.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/28/gptpcclaude-gptoapi.html",
@@ -212,7 +894,8 @@
 				"content_html": "<p>GPT-4.5のプレビューが出たようですね。今は出先でPCが使えないので詳しい情報が分かりませんが、Claude 3.7と比較するとなんか微妙なような……？</p>\n<p>スコアは悪くないと思うのですが、かなりの大規模モデルなようで、GPT-4o以上にコストがかかると明言していますし、APIとかのコスト的にどうなの？　という感触が。</p>\n",
 				"content_text": "GPT-4.5のプレビューが出たようですね。今は出先でPCが使えないので詳しい情報が分かりませんが、Claude 3.7と比較するとなんか微妙なような……？\n\nスコアは悪くないと思うのですが、かなりの大規模モデルなようで、GPT-4o以上にコストがかかると明言していますし、APIとかのコスト的にどうなの？　という感触が。\n",
 				"date_published": "2025-02-28T18:30:28+09:00",
-				"url": "https://oeight.space/2025/02/28/gptpcclaude-gptoapi.html"
+				"url": "https://oeight.space/2025/02/28/gptpcclaude-gptoapi.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/28/nd-single-httpsxcomsakuraaoimainstatus.html",
@@ -220,7 +903,8 @@
 				"content_html": "<p>碧依さくら2nd single &ldquo;ひらひら&rdquo; リリース</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "碧依さくら2nd single \"ひらひら\" リリース\n\n<blockquote class=\"twitter-tweet\"><p lang=\"ja\" dir=\"ltr\">碧依さくら2nd single &quot;ひらひら&quot;がリリースされました🌸<br><br>是非たくさん聴いてください♡✨<br><br>そしてMVが28日22:00～公開されますので、また待機所作り次第ポストいたします！<br>そちらもプレミア公開なので一緒に聴きましょうᐕ)ﾉ<br>公開後はいっぱい聴いてください❄️<a href=\"https://t.co/ocQj6TqD9c\">https://t.co/ocQj6TqD9c</a></p>&mdash; 碧依さくら❄️🌸🎧 (@sakura_aoi_main) <a href=\"https://twitter.com/sakura_aoi_main/status/1895126812470231460?ref_src=twsrc%5Etfw\">February 27, 2025</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
 				"date_published": "2025-02-28T00:02:30+09:00",
-				"url": "https://oeight.space/2025/02/28/nd-single-httpsxcomsakuraaoimainstatus.html"
+				"url": "https://oeight.space/2025/02/28/nd-single-httpsxcomsakuraaoimainstatus.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/26/primevideo.html",
@@ -228,7 +912,8 @@
 				"content_html": "<p>PrimeVideoは広告差額制でよかった。他の地域ではサクッとプライム全体を値上げにしてたから、そうならなくてよかったという意味で。</p>\n",
 				"content_text": "PrimeVideoは広告差額制でよかった。他の地域ではサクッとプライム全体を値上げにしてたから、そうならなくてよかったという意味で。\n",
 				"date_published": "2025-02-26T20:24:28+09:00",
-				"url": "https://oeight.space/2025/02/26/primevideo.html"
+				"url": "https://oeight.space/2025/02/26/primevideo.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/26/microblog.html",
@@ -236,7 +921,8 @@
 				"content_html": "<p>Micro.blog、1月ほど使ってみてかなり気に入ったので、一つプランを上げてみた。</p>\n<p>これでテーマが弄れるのでとりあえず日付の形式を変えてみた。あと他サービスへの投稿もオンにした。</p>\n<p>タグの付け方少し見直して、短い呟きはタグなしにして、ブログ記事っぽいものだけにブログって付けようか。</p>\n",
 				"content_text": "Micro.blog、1月ほど使ってみてかなり気に入ったので、一つプランを上げてみた。\n\nこれでテーマが弄れるのでとりあえず日付の形式を変えてみた。あと他サービスへの投稿もオンにした。\n\nタグの付け方少し見直して、短い呟きはタグなしにして、ブログ記事っぽいものだけにブログって付けようか。\n",
 				"date_published": "2025-02-26T20:19:30+09:00",
-				"url": "https://oeight.space/2025/02/26/microblog.html"
+				"url": "https://oeight.space/2025/02/26/microblog.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/25/anthropicclaude-sonnet-today-were-announcing.html",
@@ -245,7 +931,7 @@
 				"content_text": "AnthropicのClaude 3.7 Sonnetが出ましたね。公式の紹介文はこんな感じです。\n\n> Today, we’re announcing Claude 3.7 Sonnet, our most intelligent model to date and the first hybrid reasoning model on the market. Claude 3.7 Sonnet can produce near-instant responses or extended, step-by-step thinking that is made visible to the user. API users also have fine-grained control over how long the model can think for.\n\n[www.anthropic.com/news/clau...](https://www.anthropic.com/news/claude-3-7-sonnet)\n\n<!--more-->\n\n市場初のハイブリッド推論モデルということで、スイッチで時間を使う拡張思考モード（推論ありという理解でいいのかな？）に切り替えることができるようです。\n\n自分はKagiの[The Assistant](https://blog.kagi.com/announcing-assistant)経由（つまりAPI経由）のアクセスになるので、そこはすぐには試せませんが……ちょっとだけ試したところ、日本語の散文生成でも確かに良くなってるような感触を受けました。\n\n前バージョンの3.5はSonnetとHaikuがあって、さらに前バージョンの3にはOpusがあって、規模的にはOpus > Sonnet > Haikuという理解ですが、Sonnetだけ新しくなりましたね。\n\nあまり巨大なモデルは実行の負荷が高いし、規模が小さくレスポンスが早いモデルだと他社との差が少ないし……みたいな理由でしょうか。\n\nClaudeは自然言語の処理にも優れている印象があって、個人的には好きなLLMです（noteの方に生成してみた短編小説を掲載しています）。\n\nKagiのUltimateをやめておまけのLLM利用権を無くして、代わりにClaudeのProにするのもアリだなーと思える程度には。\n\n（年間契約で$18/月とちょっとお安いのも魅力です。Pro版でも使用回数の制限はありますが5時間ごとのリセット方式なようなので、あまり困りそうにもないですし）\n\nなお、無料版でも拡張思考モード（Extended thinking）が使えないだけで、最新のClaude 3.7 Sonnetが使えるようになっているらしいので、試してみてはいかがでしょうか。スマートフォンアプリとWebアプリがあります。\n\n\n#blog\n",
 				"date_published": "2025-02-25T19:48:25+09:00",
 				"url": "https://oeight.space/2025/02/25/anthropicclaude-sonnet-today-were-announcing.html",
-				"tags": ["Blog"]
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/24/slime-sweepkagithe-assistant-powerwash-simulator.html",
@@ -254,7 +940,7 @@
 				"content_text": "Slime Sweepというスマートフォン向けのゲームを始めたのだが、広告が多いので広告解除を買うかどうか迷ってKagiのThe Assistant機能で調べてみた結果がこんな感じ。うーんどうするかなあ。\n\nゲームとしてはPowerWash Simulatorをスマートフォン向けに落とし込んだかな？　という感じなんだけど。\n\n<!--more-->\n\n----\n\n> **Slime Sweep**は、スライムを使って街を掃除する3Dアクションゲームで、プレイヤーからさまざまな評価を受けています。以下にその評判をまとめます。\n> \n> ### 良い評判\n> 1. **可愛らしいゲームデザイン**: スライムのキャラクターやゲームのビジュアルが可愛らしく、プレイヤーを引きつける要素として評価されています[^1]。\n> 2. **多様なアップグレード**: スライムのサイズアップやスピードアップ、バディシステムなど、豊富なアップグレードオプションがゲームの楽しさを増しています[^2][^3]。\n> 3. **多様なステージ**: 街だけでなく、古城や工場など、さまざまなステージが用意されており、探索要素も楽しめます[^2]。\n> 4. **報酬システム**: 汚れを掃除するたびに報酬が得られ、コレクションアイテムを集めることでスライムを強化できる点が好評です[^3][^4]。\n> \n> ### 悪い評判\n> 1. **ゲームメカニクスの説明不足**: ゲームの仕組みが十分に説明されておらず、プレイヤーが試行錯誤しながら進めなければならない点が不満として挙げられています[^5]。\n> 2. **インストールの問題**: 一部のユーザーから、ストレージの空き容量不足やネットワーク接続の不安定さによるインストール失敗の報告があります[^6]。\n> \n> ### 総評\n> **Slime Sweep**は、可愛らしいビジュアルと多様なアップレードオプションが特徴で、特に探索や報酬システムが楽しめるゲームとして評価されています。一方で、ゲームメカニクスの説明不足やインストールに関する問題も指摘されています。全体的には、暇つぶしやリラックス目的でプレイするのに適したゲームと言えるでしょう[^1][^3]。\n> \n[^1]: [Slime Sweep: 3D Cleaning Game - Apps on Google Play](https://play.google.com/store/apps/details?id=com.hpcpj.slimecleaner&hl=en#:~:text=Pros%3A%20It%27s,attention%20grabber)\n[^2]: [ダウンロード Slime Sweep Android/iOS APK -TapTap](https://www.taptap.io/jp/app/33713809#:~:text=%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AF%E8%B1%8A%E5%AF%8C%EF%BC%9A%20%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%92%E5%A4%A7%E3%81%8D%E3%81%8F%E3%81%97%E3%81%A6%E5%90%B8%E5%8F%8E%E5%8A%9B%E3%82%92%E5%A2%97%E3%82%84%E3%81%99%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%A2%E3%83%83%E3%83%97%E3%80%81,%E3%81%8A%E6%8E%83%E9%99%A4%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E3%80%81%E5%BF%98%E3%82%8C%E3%82%89%E3%82%8C%E3%81%AA%E3%81%84%E5%86%92%E9%99%BA%E3%81%AB%E5%87%BA%E7%99%BA%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%E3%80%82%20%E8%A1%97%E3%82%92%E6%95%91%E3%81%84%E3%80%81%E6%9C%80%E5%BC%B7%E3%81%AE%E3%81%8A%E6%8E%83%E9%99%A4%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0%E3%81%B8%E3%81%A8%E6%88%90%E9%95%B7%E3%81%97%E3%80%81%E6%B8%85%E6%8E%83%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E4%BC%9D%E8%AA%AC%E3%82%92%E7%AF%89%E3%81%8D%E4%B8%8A%E3%81%92%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%EF%BC%81)\n[^3]: [スライムスィープ：3Dお掃除アクションゲーム - APKPure.com](https://apkpure.com/jp/slime-sweep-3d-cleaning-game/com.hpcpj.slimecleaner#:~:text=%E9%9B%86%E3%82%81%E3%81%9F%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E3%82%84%E3%81%8A%E9%87%91%E3%81%AE%E5%8A%9B%E3%81%A7%E3%80%81%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%92%E9%A9%9A%E7%95%B0%E7%9A%84%E3%81%AB%E3%82%A2%E3%83%83%E3%83%97%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89%E3%81%97%E3%80%81%E5%B7%A8%E5%A4%A7%E5%8C%96%E3%81%95%E3%81%9B%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%EF%BC%81%20%E3%81%93%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AF%E3%80%81%E5%8D%98%E3%81%AA%E3%82%8B%E6%8E%83%E9%99%A4%E3%81%A7%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82,%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%92%E5%A4%A7%E3%81%8D%E3%81%8F%E3%81%97%E3%81%A6%E5%90%B8%E5%8F%8E%E5%8A%9B%E3%82%92%E5%A2%97%E3%82%84%E3%81%99%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%A2%E3%83%83%E3%83%97%E3%80%81%20%E7%B4%A0%E6%97%A9%E3%81%8F%E5%8B%95%E3%81%8D%E5%9B%9E%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%82%A2%E3%83%83%E3%83%97%E3%80%81)\n[^4]: [Slime Sweep APK for Android Download - APKPure.com](https://apkpure.com/slime-sweep-3d-cleaning-game/com.hpcpj.slimecleaner#:~:text=Become%20one,is%20spotless%21)\n[^5]: [Legend of Slime: Idle RPG War - Apps on Google Play](https://play.google.com/store/apps/details?id=com.loadcomplete.slimeidle&hl=en#:~:text=I%20enjoy,everything%20to)\n[^6]: [スライムスィープ：3Dお掃除アクションゲーム 2.0.6 Android APK ...](https://apkpure.com/jp/slime-sweep-3d-cleaning-game/com.hpcpj.slimecleaner/download#:~:text=%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B9%E3%82%A3%E3%83%BC%E3%83%97%EF%BC%9A3D%E3%81%8A%E6%8E%83%E9%99%A4%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%8C%E5%A4%B1%E6%95%97%E3%81%99%E3%82%8B%E5%8E%9F%E5%9B%A0%E3%81%A8%E3%81%97%E3%81%A6%E3%80%81%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8%E3%81%AE%E7%A9%BA%E3%81%8D%E5%AE%B9%E9%87%8F%E4%B8%8D%E8%B6%B3%E3%80%81%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%8E%A5%E7%B6%9A%E3%81%AE%E4%B8%8D%E5%AE%89%E5%AE%9A%E3%80%81%E3%81%BE%E3%81%9F%E3%81%AF%E3%81%94%E4%BD%BF%E7%94%A8%E3%81%AE%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E3%81%AE%E4%BA%92%E6%8F%9B%E6%80%A7%E3%81%8C%E6%8C%99%E3%81%92%E3%82%89%E3%82%8C%E3%81%BE%E3%81%99%E3%80%82%20%E3%81%9D%E3%81%AE%E3%81%9F%E3%82%81%E3%80%81%E6%9C%80%E4%BD%8E%E8%A6%81%E4%BB%B6%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%97%E3%81%A6%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%97%E3%81%A6%E3%80%81%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B9%E3%82%A3%E3%83%BC%E3%83%97%EF%BC%9A3D%E3%81%8A%E6%8E%83%E9%99%A4%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E3%81%94%E4%BD%BF%E7%94%A8%E3%81%AE%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E3%81%A8%E4%BA%92%E6%8F%9B%E6%80%A7%E3%81%8C%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82,%E9%96%8B%E7%99%BA%E5%85%83%E3%81%8B%E3%82%89%E4%BF%A1%E9%A0%BC%E3%81%95%E3%82%8C%E3%80%81%E6%A4%9C%E8%A8%BC%E3%81%95%E3%82%8C%E3%81%9F%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E7%BD%B2%E5%90%8D%E3%81%8C%E4%BB%98%E3%81%84%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B9%E3%82%A3%E3%83%BC%E3%83%97%EF%BC%9A3D%E3%81%8A%E6%8E%83%E9%99%A4%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E5%8F%A4%E3%81%84%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%81%AF%EF%BC%9F)\n\n#blog\n",
 				"date_published": "2025-02-24T21:52:32+09:00",
 				"url": "https://oeight.space/2025/02/24/slime-sweepkagithe-assistant-powerwash-simulator.html",
-				"tags": ["Blog"]
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/23/234924.html",
@@ -262,7 +948,8 @@
 				"content_html": "<p>ワイヤレスイヤフォン、カナル型は音質はいいんだけど耳を塞いでるせいで都合が悪いことがある（喋った時に違和感あるとか色々）。</p>\n<p>で、インナーイヤー型も使い始めたけど、イヤーカフ型（イヤークリップ型）を買ってみていい感じ……というのは前にも書いたけど、メリットとして一番差があるのはバッテリー持ちかもしれない。</p>\n",
 				"content_text": "ワイヤレスイヤフォン、カナル型は音質はいいんだけど耳を塞いでるせいで都合が悪いことがある（喋った時に違和感あるとか色々）。\n\nで、インナーイヤー型も使い始めたけど、イヤーカフ型（イヤークリップ型）を買ってみていい感じ……というのは前にも書いたけど、メリットとして一番差があるのはバッテリー持ちかもしれない。\n",
 				"date_published": "2025-02-23T23:49:24+09:00",
-				"url": "https://oeight.space/2025/02/23/234924.html"
+				"url": "https://oeight.space/2025/02/23/234924.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/21/httpsamzntowavp-ccw.html",
@@ -270,7 +957,8 @@
 				"content_html": "<p>最近買った中で一番の当たりは多分これ。レンジでラーメン作れる器。</p>\n<p><a href=\"https://amzn.to/437WavP\">amzn.to/437WavP</a></p>\n<p>昔ガラスの買ったこともあるんだけど、プラスチックの方が扱いやすいし、ちょっと高いからか多少高温になっても曲がったりしなさそうでいい。あとコストに見合う程度には細かいところに気が使われている感あります。</p>\n<p>先に水を入れて線で計測する、450ccで500Wなら6分、あとは1分刻みというところだけ覚えておくと良さそう。袋に書いてはあったけど袋取っておくのも大変なので……。</p>\n",
 				"content_text": "最近買った中で一番の当たりは多分これ。レンジでラーメン作れる器。\n\n[amzn.to/437WavP](https://amzn.to/437WavP)\n\n昔ガラスの買ったこともあるんだけど、プラスチックの方が扱いやすいし、ちょっと高いからか多少高温になっても曲がったりしなさそうでいい。あとコストに見合う程度には細かいところに気が使われている感あります。\n\n先に水を入れて線で計測する、450ccで500Wなら6分、あとは1分刻みというところだけ覚えておくと良さそう。袋に書いてはあったけど袋取っておくのも大変なので……。\n",
 				"date_published": "2025-02-21T23:11:58+09:00",
-				"url": "https://oeight.space/2025/02/21/httpsamzntowavp-ccw.html"
+				"url": "https://oeight.space/2025/02/21/httpsamzntowavp-ccw.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/21/ai.html",
@@ -278,7 +966,8 @@
 				"content_html": "<p>小説を生成AIを利用して書けるかどうか試してみたい。構成とかジャンルによってはやれると思うんだけどな。</p>\n",
 				"content_text": "小説を生成AIを利用して書けるかどうか試してみたい。構成とかジャンルによってはやれると思うんだけどな。\n",
 				"date_published": "2025-02-21T01:42:29+09:00",
-				"url": "https://oeight.space/2025/02/21/ai.html"
+				"url": "https://oeight.space/2025/02/21/ai.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/20/204932.html",
@@ -286,7 +975,8 @@
 				"content_html": "<p>Chromeの機能拡張からOllamaのOpenAI API互換APIを叩くにあたって、CORSの設定は以下のようにすれば良いらしい。</p>\n<pre tabindex=\"0\"><code>OLLAMA_ORIGINS=chrome-extension://&lt;&lt;ID&gt;&gt;\n</code></pre><p>自分の場合はlaunchctlで環境変数を設定しているので、こんな感じになった。最初IDの後のスラッシュまで入れたらダメで、スラッシュを削ればOKだった。</p>\n<pre tabindex=\"0\"><code>launchctl setenv OLLAMA_ORIGINS &quot;chrome-extension://aaaaabbbbcccccdddd&quot;\n\n</code></pre><p>情報元はここ。IDは機能拡張の設定ページとか出すのが一番手っ取り早いと思った。（ChromeストアのURLもIDらしいけど）</p>\n<p><a href=\"https://github.com/ollama/ollama/issues/2335\">https://github.com/ollama/ollama/issues/2335</a></p>\n",
 				"content_text": "Chromeの機能拡張からOllamaのOpenAI API互換APIを叩くにあたって、CORSの設定は以下のようにすれば良いらしい。\n\n```\nOLLAMA_ORIGINS=chrome-extension://<<ID>>\n```\n\n自分の場合はlaunchctlで環境変数を設定しているので、こんな感じになった。最初IDの後のスラッシュまで入れたらダメで、スラッシュを削ればOKだった。\n\n```\nlaunchctl setenv OLLAMA_ORIGINS \"chrome-extension://aaaaabbbbcccccdddd\"\n\n```\n\n情報元はここ。IDは機能拡張の設定ページとか出すのが一番手っ取り早いと思った。（ChromeストアのURLもIDらしいけど）\n\nhttps://github.com/ollama/ollama/issues/2335\n",
 				"date_published": "2025-02-20T20:49:32+09:00",
-				"url": "https://oeight.space/2025/02/20/204932.html"
+				"url": "https://oeight.space/2025/02/20/204932.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/20/kagi-translatekagiorionkagi-search-iframe-orion.html",
@@ -294,7 +984,8 @@
 				"content_html": "<p>Kagi TranslateはKagiが提供する翻訳サービスで、OrionブラウザやKagi Searchに組み込まれている。</p>\n<p>翻訳品質は高いようで、試した範囲では自然な訳文が多いと感じた。これは複数の言語モデルを組み合わせた仕組みによるものである。</p>\n<p>ただし課題もあって——</p>\n<ul>\n<li>iframe方式を採用しているため、動的生成ページやフレーム構造のページが翻訳できない</li>\n<li>翻訳言語を毎回選択し直す必要があるのが面倒</li>\n<li>Orionブラウザでは、ページ内の文章を直接置き換える方式が望ましい</li>\n</ul>\n<p>あと、Orionにおいては要約機能と同じように、別パネルでの翻訳ページ表示オプションがあると便利かもしれない。</p>\n",
 				"content_text": "Kagi TranslateはKagiが提供する翻訳サービスで、OrionブラウザやKagi Searchに組み込まれている。\n\n翻訳品質は高いようで、試した範囲では自然な訳文が多いと感じた。これは複数の言語モデルを組み合わせた仕組みによるものである。\n\nただし課題もあって——\n\n- iframe方式を採用しているため、動的生成ページやフレーム構造のページが翻訳できない\n- 翻訳言語を毎回選択し直す必要があるのが面倒\n- Orionブラウザでは、ページ内の文章を直接置き換える方式が望ましい\n\nあと、Orionにおいては要約機能と同じように、別パネルでの翻訳ページ表示オプションがあると便利かもしれない。\n",
 				"date_published": "2025-02-20T02:40:09+09:00",
-				"url": "https://oeight.space/2025/02/20/kagi-translatekagiorionkagi-search-iframe-orion.html"
+				"url": "https://oeight.space/2025/02/20/kagi-translatekagiorionkagi-search-iframe-orion.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/18/ollamaopen-webuillm-ollamaopen-ai-apiapicorsopen.html",
@@ -302,7 +993,8 @@
 				"content_html": "<p>OllamaとOpen WebUIを導入して、ローカルでLLMを動かせるようにしてみた。</p>\n<p>OllamaはOpen AI APIとも互換性のあるAPIを提供しているので、CORSの許可などの設定が若干必要だが、Open AI APIを使って動かしたいローカルアプリ（翻訳ツールとか）を動かすこともできる。</p>\n<p>M4 Mac mini (共有メモリ16GB)モデルだとどれぐらいのLLMを動かせるか分からなかったので、Gemmaの2Bをベースに日本語にファインチューンされたモデルを使用してみている。（DeepSeek R1の7Bの日本語ファインチューニングのモデルも普通に動かせはした）</p>\n",
 				"content_text": "OllamaとOpen WebUIを導入して、ローカルでLLMを動かせるようにしてみた。\n\nOllamaはOpen AI APIとも互換性のあるAPIを提供しているので、CORSの許可などの設定が若干必要だが、Open AI APIを使って動かしたいローカルアプリ（翻訳ツールとか）を動かすこともできる。\n\nM4 Mac mini (共有メモリ16GB)モデルだとどれぐらいのLLMを動かせるか分からなかったので、Gemmaの2Bをベースに日本語にファインチューンされたモデルを使用してみている。（DeepSeek R1の7Bの日本語ファインチューニングのモデルも普通に動かせはした）\n",
 				"date_published": "2025-02-18T19:20:16+09:00",
-				"url": "https://oeight.space/2025/02/18/ollamaopen-webuillm-ollamaopen-ai-apiapicorsopen.html"
+				"url": "https://oeight.space/2025/02/18/ollamaopen-webuillm-ollamaopen-ai-apiapicorsopen.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/16/231331.html",
@@ -310,7 +1002,8 @@
 				"content_html": "<p>祭壇巡りしたらあっさり終わった。書いてた文の通り、祭壇の効果中しかカウントされてなさそうだな……。</p>\n",
 				"content_text": "祭壇巡りしたらあっさり終わった。書いてた文の通り、祭壇の効果中しかカウントされてなさそうだな……。\n",
 				"date_published": "2025-02-16T23:13:31+09:00",
-				"url": "https://oeight.space/2025/02/16/231331.html"
+				"url": "https://oeight.space/2025/02/16/231331.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/16/diablo-pt-lv.html",
@@ -318,7 +1011,8 @@
 				"content_html": "<p>今回のDiablo 4のイベントが月の祭壇の効果中に敵を倒せというものだと今さっき気づいた……まあ普通に倒してもpt貯まってるのかもしれないけど……19日までであと1 Lvなんだよなー。</p>\n",
 				"content_text": "今回のDiablo 4のイベントが月の祭壇の効果中に敵を倒せというものだと今さっき気づいた……まあ普通に倒してもpt貯まってるのかもしれないけど……19日までであと1 Lvなんだよなー。\n",
 				"date_published": "2025-02-16T23:06:18+09:00",
-				"url": "https://oeight.space/2025/02/16/diablo-pt-lv.html"
+				"url": "https://oeight.space/2025/02/16/diablo-pt-lv.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/16/kagi-searchultimate.html",
@@ -326,7 +1020,8 @@
 				"content_html": "<p>Kagi Searchについての記事を書くと言ってまだ書いていないのだけれど、一旦Ultimateにプランを変更して色々試してみることにした。結構お得感もあるけどどうだろう……？</p>\n",
 				"content_text": "Kagi Searchについての記事を書くと言ってまだ書いていないのだけれど、一旦Ultimateにプランを変更して色々試してみることにした。結構お得感もあるけどどうだろう……？\n",
 				"date_published": "2025-02-16T19:28:19+09:00",
-				"url": "https://oeight.space/2025/02/16/kagi-searchultimate.html"
+				"url": "https://oeight.space/2025/02/16/kagi-searchultimate.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/16/endelbgmbgm-endel-httpsendelreferralpagelinkkbtv.html",
@@ -334,7 +1029,8 @@
 				"content_html": "<p>今でもときどき使っているEndelの紹介リンクです。リラクゼーションミュージックというか。フォーカス時も使うのでヒーリングだけでもないんですが。歌入りだとBGMにしづらいけどBGM探すのが面倒な人向けですね。</p>\n<p>さあ、</p>\n<p>この無料コードでEndelをお試しください！</p>\n<p>科学的に証明された、集中力、リラックス、睡眠に役立つサウンドを14日間お使いいただけます。</p>\n<p><a href=\"https://endelreferral.page.link/KBTV\">endelreferral.page.link/KBTV</a></p>\n",
 				"content_text": "今でもときどき使っているEndelの紹介リンクです。リラクゼーションミュージックというか。フォーカス時も使うのでヒーリングだけでもないんですが。歌入りだとBGMにしづらいけどBGM探すのが面倒な人向けですね。\n\n\nさあ、\n\nこの無料コードでEndelをお試しください！\n\n科学的に証明された、集中力、リラックス、睡眠に役立つサウンドを14日間お使いいただけます。\n\n[endelreferral.page.link/KBTV](https://endelreferral.page.link/KBTV)\n",
 				"date_published": "2025-02-16T12:58:57+09:00",
-				"url": "https://oeight.space/2025/02/16/endelbgmbgm-endel-httpsendelreferralpagelinkkbtv.html"
+				"url": "https://oeight.space/2025/02/16/endelbgmbgm-endel-httpsendelreferralpagelinkkbtv.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/15/html-web.html",
@@ -342,7 +1038,8 @@
 				"content_html": "<p>スマートフォンの普及で、ブラウザ→サイト用の単機能アプリの流れが続いていたけど、最近実はブラウザでいいんじゃない？　って機運を感じてきた。</p>\n<p>アプリになった理由は単純で、初期のスマートフォンが性能足りなかったんですよね。</p>\n<p>HTML5でアプリだ→いややっぱ無理だ……。って感じで。</p>\n<p>で、最近のスマートフォンが性能足りないわけないし（とは言っても無限に性能は必要なんだが……）、徐々にWebの方が自由でいいのでは？　となり始めたのではないかと……まだ気配しか感じてないけど。</p>\n<p>ある種のロックインだったりプライバシーの問題だったりがあって、アプリだとどうしても囲い込まれるし不透明なところあるしで。</p>\n",
 				"content_text": "スマートフォンの普及で、ブラウザ→サイト用の単機能アプリの流れが続いていたけど、最近実はブラウザでいいんじゃない？　って機運を感じてきた。\n\nアプリになった理由は単純で、初期のスマートフォンが性能足りなかったんですよね。\n\nHTML5でアプリだ→いややっぱ無理だ……。って感じで。\n\nで、最近のスマートフォンが性能足りないわけないし（とは言っても無限に性能は必要なんだが……）、徐々にWebの方が自由でいいのでは？　となり始めたのではないかと……まだ気配しか感じてないけど。\n\nある種のロックインだったりプライバシーの問題だったりがあって、アプリだとどうしても囲い込まれるし不透明なところあるしで。\n",
 				"date_published": "2025-02-15T18:01:31+09:00",
-				"url": "https://oeight.space/2025/02/15/html-web.html"
+				"url": "https://oeight.space/2025/02/15/html-web.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/14/193409.html",
@@ -350,7 +1047,8 @@
 				"content_html": "<p>昨日Arcはいいぞ、と言ったばかりだが、Zen Browserも​試して、最終的には​Kagiの作っている​Orionをしばらく使っていくことにした。​</p>\n<p>macOSで使っているが、現状完成度が一番高いのはArcでZen Browserもそこそこ、Orionもそこそこだけどエラーでクラッシュする頻度は高くてちょっとバギーな印象。</p>\n<p>Appleでサインインすると落ちる、機能拡張入れると落ちる、みたいな感じで大分ロックなブラウザである。二回目やりなおすとうまく行くのだが。</p>\n<p>このOrionの特徴は、ArcやZen Browserみたいに縦型タブが得意で（普通のタブ表示も出来るが）、PiP周りの挙動が同じような感じで……WebKitベースで作られている。</p>\n<p>ArcはChromium(Blink)、ZenはFirefox(Servo)、OrionはWebKitの系統という感じ。エンジンとブラウザがごちゃついてる雑な分類になってしまうが。</p>\n<p>SafariがWebKitなので、わりとmacOSネイティブっぽさを感じる出来である。</p>\n<p>体感的にはmacOS環境だとWebKitの方が多少リソースの消費が軽い印象をもっている。とはいっても、こういうのは時期やら機能拡張やらで軽く変わりえるんだけど。</p>\n<p>正直、このOrionブラウザ自体は結構趣味の品かなあ……というところなのだけれど、今後に期待してOrion+というプレミアムプランにしばらく入ってみるつもり。なお無料版と比較して、特典らしい特典はあまりない。</p>\n<p>一方で、同じKagiが作っている、Kagi SearchというGoogleやBingやDuck Duck GoやEcosiaあたりのライバルになる検索エンジンについても利用を開始した。</p>\n<p>こちらについてはまた後で記事を書きたい。</p>",
 				"content_text": "昨日Arcはいいぞ、と言ったばかりだが、Zen Browserも​試して、最終的には​Kagiの作っている​Orionをしばらく使っていくことにした。​\n\n<!--more-->\n\nmacOSで使っているが、現状完成度が一番高いのはArcでZen Browserもそこそこ、Orionもそこそこだけどエラーでクラッシュする頻度は高くてちょっとバギーな印象。\n\nAppleでサインインすると落ちる、機能拡張入れると落ちる、みたいな感じで大分ロックなブラウザである。二回目やりなおすとうまく行くのだが。\n\nこのOrionの特徴は、ArcやZen Browserみたいに縦型タブが得意で（普通のタブ表示も出来るが）、PiP周りの挙動が同じような感じで……WebKitベースで作られている。\n\nArcはChromium(Blink)、ZenはFirefox(Servo)、OrionはWebKitの系統という感じ。エンジンとブラウザがごちゃついてる雑な分類になってしまうが。\n\nSafariがWebKitなので、わりとmacOSネイティブっぽさを感じる出来である。\n\n体感的にはmacOS環境だとWebKitの方が多少リソースの消費が軽い印象をもっている。とはいっても、こういうのは時期やら機能拡張やらで軽く変わりえるんだけど。\n\n正直、このOrionブラウザ自体は結構趣味の品かなあ……というところなのだけれど、今後に期待してOrion+というプレミアムプランにしばらく入ってみるつもり。なお無料版と比較して、特典らしい特典はあまりない。\n\n一方で、同じKagiが作っている、Kagi SearchというGoogleやBingやDuck Duck GoやEcosiaあたりのライバルになる検索エンジンについても利用を開始した。\n\nこちらについてはまた後で記事を書きたい。\n\n",
 				"date_published": "2025-02-14T19:34:09+09:00",
-				"url": "https://oeight.space/2025/02/14/193409.html"
+				"url": "https://oeight.space/2025/02/14/193409.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/13/arc-heres-a-link-to.html",
@@ -358,7 +1056,8 @@
 				"content_html": "<p>Arcの公式へのリンクも貼っておくか。</p>\n<blockquote>\n<p>Here’s a link to download Arc, the browser I was telling you about!</p>\n<p><a href=\"https://arc.net/gift/fe0fd1ec\">arc.net/gift/fe0f&hellip;</a></p>\n</blockquote>\n<p>生成AIは便利だけどどういう風に組み込むかという問題があって、シームレスに使えるように組み込むにはどうすれば……ってやつの中間回答みたいな感じですね。</p>\n<p>次のmacOSのバージョンアップで、日本からもApple Intelligenceが使えるようになるだろうけど、どれぐらい統合できてるか実際使ってみるのが楽しみだなあ。</p>\n",
 				"content_text": "Arcの公式へのリンクも貼っておくか。\n\n> Here’s a link to download Arc, the browser I was telling you about!\n> \n> [arc.net/gift/fe0f...](https://arc.net/gift/fe0fd1ec)\n\n生成AIは便利だけどどういう風に組み込むかという問題があって、シームレスに使えるように組み込むにはどうすれば……ってやつの中間回答みたいな感じですね。\n\n次のmacOSのバージョンアップで、日本からもApple Intelligenceが使えるようになるだろうけど、どれぐらい統合できてるか実際使ってみるのが楽しみだなあ。\n",
 				"date_published": "2025-02-13T22:03:51+09:00",
-				"url": "https://oeight.space/2025/02/13/arc-heres-a-link-to.html"
+				"url": "https://oeight.space/2025/02/13/arc-heres-a-link-to.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/13/215830.html",
@@ -367,7 +1066,7 @@
 				"content_text": "あとArcはmacOSじゃないとあんまり安定してない、みたいな話があるらしい。\n\nちょっと特殊なブラウザだけどすごくいいのに、そこまで知名度が高くなかったのはそのせいかな。（自分はiPhone版は前に試したんだけど、そのときにmacOS版があること自体知らなかった……か、どたばたして試すの忘れてそのままになったか）\n\n好きな機能は色々あるけれど、YouTube視聴中にタブを変えたら自動でPiPにしてくれて戻したら戻してくれるやつとか、フリックで切り替えられるSpaces機能とかがいいかなあ。\n\nクイックコマンドからPerplexityとかChatGPTに聞けるのもいいんだけど、クイックコマンド方式はやっぱりパワーユーザー向けという気がするし、その辺が一般化の妨げにはなってそう。\n\n今はDiaっての開発してるらしいけど……うーん。\n\n#blog\n",
 				"date_published": "2025-02-13T21:58:30+09:00",
 				"url": "https://oeight.space/2025/02/13/215830.html",
-				"tags": ["Blog"]
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/13/215320.html",
@@ -376,7 +1075,7 @@
 				"content_text": "これまでVivaldiを良く使っていたのだが（時々Safariに戻したりもしていた）、Arcブラウザを試してみたところ、これが非常によかった。でもなんか開発活発じゃないらしい。Zen Browserというものもあって、こっちは今からって感じのブラウザかな。\r\n\r\n前者がChromiumベースで後者がFirefoxベースなので、機能拡張とかの差がちょっと気になるとこはあるけど、ArcがダメならZenに行くのでもいいかなと思った。\r\n\r\nただ、Vivaldiにあるウェブパネル機能は欲しい。あれMastodonとかXとかをブラウザで表示するのに使えるので。クライアントいらなくなるし。\n\n#blog\n",
 				"date_published": "2025-02-13T21:53:20+09:00",
 				"url": "https://oeight.space/2025/02/13/215320.html",
-				"tags": ["Blog"]
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/12/185800.html",
@@ -385,7 +1084,7 @@
 				"content_text": "このブログでCallouts(コールアウト)、つまりはGFMとかでの:::note infoみたいな記法で、注釈とかアラートを引き立たせる表示にするやつを使いたくなった。\n\nHugoの0.121.0以降で公式サポートしたっぽかったので、このサービスをホストしているMicro.blogが使うHugoのバージョンを0.140.0に切り替えたのだけれども。\n\nテーマのテンプレートで0.124.0以降に.Site.Authorがdeprecatedになってしまっていて、ブログをビルドできなかった。テーマのカスタマイズは$5のコースが必要……一旦保留かな。\n\nでも$5にするのもありだな。\n\n#blog\n",
 				"date_published": "2025-02-12T18:58:00+09:00",
 				"url": "https://oeight.space/2025/02/12/185800.html",
-				"tags": ["Blog"]
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/11/200243.html",
@@ -394,7 +1093,7 @@
 				"content_text": "サンワサプライのBluetoothのマウス（小型）を買った。SLIMOというシリーズ製品らしい（2.4GHz無線ドングルのバリエーションもある）。\n\n[amzn.to/4hTZLSo](https://amzn.to/4hTZLSo)\n\n実際には注文時はBluetoothモデルは在庫があまりなかったので、Amazonではなく、ヨドバシ.comにしたが。\n\n届いたのをみたら、思っていたよりもさらに小型だったが、なかなかいい感じ。マイクラ用に使ってみようと思ったのだが、他でもマウスを使いたい時に使えるかもしれない。（日頃はMagic Trackpadを使っているのでマウス自体ほぼ使わない）\n\n#blog\n",
 				"date_published": "2025-02-11T20:02:43+09:00",
 				"url": "https://oeight.space/2025/02/11/200243.html",
-				"tags": ["Blog"]
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/10/macendel.html",
@@ -403,7 +1102,7 @@
 				"content_text": "最近のMacのアクセシビリティ機能のオプションに追加されてるバックグラウンドサウンドいいよね。昔はこういうの別アプリとかを導入したものだけれど……まあ実はまだEndel続けているんですが。\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/image.png\" width=\"600\" height=\"281\" alt=\"\">\n\n日本語のファイル名で画像アップロードすると自動でファイル名設定してくれる感じかなこれ？　いいね。\n\n#blog\n",
 				"date_published": "2025-02-10T18:34:46+09:00",
 				"url": "https://oeight.space/2025/02/10/macendel.html",
-				"tags": ["Blog"]
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/10/pictwittercomjtnjdtbzst-comptiq-february.html",
@@ -412,7 +1111,7 @@
 				"content_text": "この新しいブログの環境だと埋め込みポストも問題なくできるはず。\n久々にコンプティーク買うか〜。\n\n<blockquote class=\"twitter-tweet\"><p lang=\"ja\" dir=\"ltr\">次号のコンプティーク４月号(３月１０日発売)は、<br>活動１周年を迎えた碧依さくらを特集！❄️🌸<br>未来に向かって突き進む彼女の魅力をお届け♪ <a href=\"https://t.co/jTNJDTBZSt\">pic.twitter.com/jTNJDTBZSt</a></p>&mdash; コンプティーク＆コンプエース (@comptiq) <a href=\"https://twitter.com/comptiq/status/1888868005725061611?ref_src=twsrc%5Etfw\">February 10, 2025</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n#blog\n",
 				"date_published": "2025-02-10T18:05:23+09:00",
 				"url": "https://oeight.space/2025/02/10/pictwittercomjtnjdtbzst-comptiq-february.html",
-				"tags": ["Blog"]
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/09/bt-blog.html",
@@ -421,7 +1120,7 @@
 				"content_text": "久しぶりにマウスを買おうとして、そんなにいいマウスを探してたわけでもないのに、1時間以上かかってしまった。BT接続で充電式で小型で安価で左右対称で……みたいなこと考えてたら結構悩む余地があったというか。\n\n実際どれぐらい使うかはちょっとよく分からないのだけれど。\n\n#blog\n",
 				"date_published": "2025-02-09T22:26:24+09:00",
 				"url": "https://oeight.space/2025/02/09/bt-blog.html",
-				"tags": ["Blog"]
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/09/blog.html",
@@ -430,7 +1129,7 @@
 				"content_text": "カテゴリーのフィルター機能を使って、「本文に特定のハッシュタグが書かれていれば特定のカテゴリに入れる」ということができるので、それでカテゴリ設定の問題が簡単になりそう。\n\n#blog\n",
 				"date_published": "2025-02-09T19:38:56+09:00",
 				"url": "https://oeight.space/2025/02/09/blog.html",
-				"tags": ["Blog"]
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/09/bloguiblog.html",
@@ -439,7 +1138,7 @@
 				"content_text": "記事のカテゴリで、通常のポストは今Blogってつけてるけど、カテゴリつけるためのUIがちょっとアプリだとめんどくさいので、通常のには付けないようにしようかなと。Blogってカテゴリ自体消すかなー。\n\n#blog\n",
 				"date_published": "2025-02-09T18:51:01+09:00",
 				"url": "https://oeight.space/2025/02/09/bloguiblog.html",
-				"tags": ["Blog"]
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/09/kick-iframetwitter-cards.html",
@@ -448,7 +1147,7 @@
 				"content_text": "Kickでの配信はここで行なっています。アーカイブは今のところ残すつもりがあんまりないです。\n\nこっちもiframe埋め込みで共有できる方式なんだけどサイズがうーん……Twitter Cardsあたりとかで増えたんだっけ、このスタイル。\n\n[kick.com/o-eight](https://kick.com/o-eight)\n\n<iframe src=\"https://player.kick.com/o-eight\" width=\"100%\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\"></iframe>\n\n\n#blog\n",
 				"date_published": "2025-02-09T18:48:13+09:00",
 				"url": "https://oeight.space/2025/02/09/kick-iframetwitter-cards.html",
-				"tags": ["Blog"]
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/09/spotify.html",
@@ -457,7 +1156,7 @@
 				"content_text": "Spotifyの埋め込み共有がそのままできるのかな？　ちょっと試してみよう。\n最近聴いてます。\n\n<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/23QIxrDVQoJmzh5ApE56pT?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>\n\n",
 				"date_published": "2025-02-09T17:07:07+09:00",
 				"url": "https://oeight.space/2025/02/09/spotify.html",
-				"tags": ["Blog"]
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/09/soundpeatspearlclip-pro-podcasts.html",
@@ -466,7 +1165,7 @@
 				"content_text": "最近買ったイヤフォンの[SoundpeatsのPearlClip Pro](https://amzn.to/416Mj87)がかなりいい。\n\nイヤーカフ型で密閉されてないタイプで、ながら聞きに使うのに適したイヤフォンなんだけど、価格と性能（機能性）のバランスがちょうどいい。\n\n具体的には、電池持ち（公称6時間）と装着したときの異物感の少なさや、接続等の安定性が良い感じ。用途としては、音楽を聴くのではなく、動画視聴や、ライブ配信の視聴、Podcastsを聴くのに向いている。\n",
 				"date_published": "2025-02-09T11:52:42+09:00",
 				"url": "https://oeight.space/2025/02/09/soundpeatspearlclip-pro-podcasts.html",
-				"tags": ["Blog"]
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/08/kicktwitchwave-xlr.html",
@@ -474,7 +1173,8 @@
 				"content_html": "<p>Kickでちょっと配信してみたけど、感覚的にはTwitchとあんまり変わらないなあと改めて思った。Wave XLRの設定リセットされて、適当に戻したんだけど、マイク音量がデカくなった関係でゲーム音量小さかったから次直したい。</p>\n",
 				"content_text": "Kickでちょっと配信してみたけど、感覚的にはTwitchとあんまり変わらないなあと改めて思った。Wave XLRの設定リセットされて、適当に戻したんだけど、マイク音量がデカくなった関係でゲーム音量小さかったから次直したい。\n",
 				"date_published": "2025-02-08T23:47:25+09:00",
-				"url": "https://oeight.space/2025/02/08/kicktwitchwave-xlr.html"
+				"url": "https://oeight.space/2025/02/08/kicktwitchwave-xlr.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/08/ufoufo.html",
@@ -483,7 +1183,7 @@
 				"content_text": "完全メシのUFO、流石に味がちょっと……で思ってたよりはだいぶがっかりした。UFOの味でこのサイズで完全メシだったら食生活で大事なポジションに入れたような気はするけど、正直このお味は無理です……。\n",
 				"date_published": "2025-02-08T01:44:40+09:00",
 				"url": "https://oeight.space/2025/02/08/ufoufo.html",
-				"tags": ["Blog"]
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/07/213740.html",
@@ -492,7 +1192,7 @@
 				"content_text": "Chromeの機能拡張の話。（実際にはVivaldiで使っているが）\n\n配信を視聴することが多いので、それに適したものとして「Advanced Audio Equalizer」を使い始めた。\n\n[viiny.com/marketpla...](https://viiny.com/marketplace/advanced-audio-equalizer/)\n\n大事なのはコンプレッサーの機能で、音量が過度に小さい、あるいは、バランスがイマイチな配信でもそれなりによく聞こえる。EQやリバーブはほぼ使っていない。\n\nElgatoのWave Link通してオーディオフィルターのプラグイン通して〜とやるよりも簡単でいい。またYouTube用の機能拡張とかと違って全サイトで使えるのも便利なのでこれにした。\n\n現状は無料で使っていて何も不満がないが、今後のために$10の年間ライセンスを1年だけでも課金してみようかな。\n",
 				"date_published": "2025-02-07T21:37:40+09:00",
 				"url": "https://oeight.space/2025/02/07/213740.html",
-				"tags": ["Blog"]
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/07/microblog.html",
@@ -501,7 +1201,7 @@
 				"content_text": "テーマを変えてデザインを変更したり、長文をサマリでカットするようにしたりした。\n\nまあまあ見やすくなったかな？\n\nMicro.blogのサービスの流儀に従って、今後はタイトルなしで書くようにしようと思う。\n\n結論から書かないと読みづらそうで、書き方にも慣れが必要そう。\n",
 				"date_published": "2025-02-07T21:28:09+09:00",
 				"url": "https://oeight.space/2025/02/07/microblog.html",
-				"tags": ["Blog"]
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/07/macoswave-link-os.html",
@@ -510,7 +1210,7 @@
 				"content_text": "macOS版のWave Linkは機能はいいんだけど、安定性だけがちょっと物足りないんだよね。ときどき再起動を余儀なくされるし、そのとき音が出ていたアプリを掴んじゃうのか、再起動しようとしても上がってこなくなったりとか……。\n\nOSごと再起動すればどんな状態になっても当然復活するけど、もうちょい穏当な復帰方法が欲しい。\n",
 				"date_published": "2025-02-07T17:55:08+09:00",
 				"url": "https://oeight.space/2025/02/07/macoswave-link-os.html",
-				"tags": ["Blog"]
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/06/microblogwebmacosmacos-iphone.html",
@@ -519,7 +1219,7 @@
 				"content_text": "Micro.blog、Web版のエディタがmacOSだと日本語入力と相性が悪いのか、入力が若干困難（変換→確定操作を改行入力だと誤解する）なので、macOS向けのアプリから記事を書いている。\n\nまあ別に困らないのでいいかなと……。あと、どっちかというとiPhoneから書くことも増えそうな気はしている。使い勝手が気楽だし、週に何度か更新できるといいな。\n",
 				"date_published": "2025-02-06T23:24:18+09:00",
 				"url": "https://oeight.space/2025/02/06/microblogwebmacosmacos-iphone.html",
-				"tags": ["Blog"]
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/06/elgatowave-linkmacos-sequoiabeta-wave-linkstream.html",
@@ -528,7 +1228,7 @@
 				"content_text": "ElgatoのWave Linkの2.0が出た。macOS Sequoiaでは2.0のbetaじゃないと若干動きがおかしかったので、そちらに変えてはいたけれども、今回が正式版。\n\n正式版ではマイクの新しいノイズリダクション機能が追加されているので、試してみたいと思っている。\n\nWave LinkはStream Deck+やWave XLRというハードにライセンスがついてくる形式なので、普通の人はあまり使わないと思うが、Stream Deck+との組み合わせだとなかなか便利。\n",
 				"date_published": "2025-02-06T23:20:58+09:00",
 				"url": "https://oeight.space/2025/02/06/elgatowave-linkmacos-sequoiabeta-wave-linkstream.html",
-				"tags": ["Blog"]
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/06/oeightspace.html",
@@ -536,7 +1236,8 @@
 				"content_html": "<p>一通りの古い記事の移植が終わったー。なかなか簡単でいいですね。タイトルを基本付けないスタイルも慣れたら気楽に書けていいかも。</p>\n<p>あとはドメインの切り替えをやって、これをoeight.spaceにしますか……。</p>\n",
 				"content_text": "一通りの古い記事の移植が終わったー。なかなか簡単でいいですね。タイトルを基本付けないスタイルも慣れたら気楽に書けていいかも。\n\nあとはドメインの切り替えをやって、これをoeight.spaceにしますか……。\n",
 				"date_published": "2025-02-06T00:01:03+09:00",
-				"url": "https://oeight.space/2025/02/06/oeightspace.html"
+				"url": "https://oeight.space/2025/02/06/oeightspace.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/05/184713.html",
@@ -544,7 +1245,8 @@
 				"content_html": "<p>とりあえず一旦はブログにある古い記事の移植をやってみるか……。</p>\n",
 				"content_text": "とりあえず一旦はブログにある古い記事の移植をやってみるか……。\n",
 				"date_published": "2025-02-05T18:47:13+09:00",
-				"url": "https://oeight.space/2025/02/05/184713.html"
+				"url": "https://oeight.space/2025/02/05/184713.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/02/05/microblog.html",
@@ -552,7 +1254,8 @@
 				"content_html": "<p>micro.blogを始めてみることにした。\n詳しいことはよくわからないので、使いながら理解していくことになりそう。</p>\n<p>これまでの\n<a href=\"https://oeight.space\">公式サイト</a>のブログ部分だけを置き換えるべきなのか、全部置き換えるべきなのかはまだ分からない。</p>\n",
 				"content_text": "micro.blogを始めてみることにした。\r\n詳しいことはよくわからないので、使いながら理解していくことになりそう。\r\n\r\nこれまでの\r\n[公式サイト](https://oeight.space)のブログ部分だけを置き換えるべきなのか、全部置き換えるべきなのかはまだ分からない。\r\n\r\n\r\n",
 				"date_published": "2025-02-05T01:40:44+09:00",
-				"url": "https://oeight.space/2025/02/05/microblog.html"
+				"url": "https://oeight.space/2025/02/05/microblog.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2023/06/10/185200.html",
@@ -561,7 +1264,7 @@
 				"content_text": "Xbox版のDiablo 4をプレイしていて、ベッドでも出来たらな〜と思うようになってきた。\n\nリモートプレイ機能でiPhoneやSteam Deckでプレイしてみるものの、家庭のネットワークの問題もあるのか（5GHz帯の802.11acではあるが、WiFi6とかではない）、たまに画質がちょっと荒くなったり、操作がうまくいかなかったりする。\n\n<!--more-->\n\nそれでも基本的には問題なく楽しめるのだが、そのたまに操作がうまくいかないという現象——1秒ほどスティック入力が一方向に入ったままになって追加のボタン操作は受け付けず、勝手に移動してしまう＆スキルが使えない——のは、プレイフィールとしてはあんまりよくない。\n\nで、クロスプログレッションとか対応してるのかなと思って見てみたら、ディアブロ2 リザレクテッド（リメイク）から対応する方針になってたようで、Diablo 4もプラットフォームを超えてプレイ進捗の同期が可能とのこと。\n\nそして、Steam Deckでの動作報告を見る限り、良好にプレイ可能なよう……。\n\n問題は、ゲームソフトとしてはもう一本買う必要があるという点。\n\nXboxと同じアルティメット版が必要なのか、通常版でいいのかが分からなかったが、小耳に挟んだところによると、Diablo 4を販売しているBlizzardのプラットフォームであるところのBattle.netは上位版への買い替えが差額でできるらしい。\n\nそれに、特典としてのコスメティック（スキン）は正直なくても構わない。今後のバトルパスとDLCがどうなるかは分からないが……DLCはともかくバトルパスがそれぞれ購入必要とも思えない。\n\nということは9800円のでいいはず……いやでも9800円……けれどもボーナス出るし……。\n\nはい。結局、買いました。\n\nなお、買ってみた感じ、Xbox版アルティメットエディションもゲーム本体はスタンダードでそれにDLCとして特典がついてる扱いだからか、Battle.netで確認するとアルティメット版を購入したことになっていた（まあ同じタイトルを別プラットフォームで追加購入しているのだから、それぐらいにはしてほしい……）。\n\nで、Steam外のゲームを追加するためには、素でインストールして細かく設定をするか、その辺をやってくれるツールを使うかだったので、[NonSteamLaunchers][1]というツールを使用することにした。\n\nBattle.netのインストールにかなりの時間がかかるので辛抱強く待たなきゃいけないし、ID・パスワード入力には外付けキーボードが必要（ソフトキーボードはなぜか一文字入れようとするとキーボードが消える。外部ID連携での認証は、おそらくWindows互換APIで動かすBattle.netクライアントとLinuxとして動作するブラウザとの連携に無理があってできない）だったり、Battle.netクライアントを動かす互換レイヤーのProtonは手動で設定しないといけなかったりで、ツールを使ったけどそこまでさくっとできなかったという感じにはなった。\n\nこの辺はYouTubeで色々動画等上がっているのでそれを参考にするのがいいかも。\n\nあと、パフォーマンス設定だが、何もしなくてもわりと普通に動くのだが、fpsはあんまり安定しないし、全力で動くのでファンも全開で回るしで、参考になるサイトを見て調整した。\n\n自分が見たサイトより細かい項目が多い[ここ][2]とか参考になるかも。\n\n最低限やりたいこととしては、リフレッシュレートを40Hzに制限して（ディアブロ4が起動している状態でやると画面が止まってしまう現象が出たので、Battle.netの時点で変更した）、それに合わせて最大fpsを40に制限。\n\nAMD FSR 2.0の設定があるので（Fedelity FXのなんとかかんとかという項目になってる）、それをオンにして品質をクオリティにする。そのかわり、グラフィックの全体設定を低から中に上げる、という感じ。\n\n初回ゲーム起動時でも設定できるフォントサイズは大きめがいいと思う。字幕のスケーリングは2にしたらちょっと大きいかなと思った。\n\nこれでTDPを10Wに制限すると、ファンもそんなに回らない感じで快適にプレイできる。見た目もまあ奇麗。\n\n最初の数回はなんか安定しなくてエラー落ちしたりもしたが、その後はときどきちょっと重いんだなという感じの描画をするが（背景の動きがちょっとラグってるみたいな）、リモートプレイよりも快適に動く。\n\n当然キャラ情報や進捗は引き継ぎである。14000円でフルプライスで買ったゲームに追加で9800円は高いけど、家の中ならどこでもできそうなのは嬉しい。（なお4は3以上にオンライン必須ゲームだと思うので、回線がないところではできないんじゃないだろうか、まあそもそもバッテリー持ちの問題があるから現実的ではないが）\n\nPS5とかXbox Seriesで買って、携帯できるPCでも買ってクロスプログレッションでどこでもDiablo 4だ！　なんてことを実際にやる人はあまりいないと思ったので、メモとして残しておいた。\n\nちなみにLinux搭載機でWindowsゲームは互換で動かしているSteam Deckなので若干あれこれあったわけだが、Windows搭載の携帯ゲーム機として出ているROG ALLYや、ゲーミングノートPCならWindowsの流儀でBattle.netを入れてDiablo 4をインストールするだけなので細かい設定とか考えることはないかも（とはいってもグラフィック設定の調整とかは必要だろう）。\n\n[1]: https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck\n[2]: https://www.steamdeckgaming.net/best-settings/diablo-4-best-settings-for-steam-deck-gameplay\n",
 				"date_published": "2023-06-10T18:52:00+09:00",
 				"url": "https://oeight.space/2023/06/10/185200.html",
-				"tags": ["Blog"]
+				"tags": ["Longform"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2023/02/28/minecraftoptifine.html",
@@ -570,7 +1273,7 @@
 				"content_text": "Steam DeckにWindowsを入れてMinecraft RTXを試してみたものの、流石に重くて、影MODの方が軽いのがあるからというので、古いMacでJava版Minecraftに影MODを入れてみたりしたが、当然こちらもハードが古すぎて重くて……。\n\nなどとやっているうちに、Steam DeckにJava版を入れて影MODやってみたらどうなるんだろう、と思ってPrism Launcherを試していた。\n\n<!--more-->\n\nすると、関連する記事を見ていたら、ちょっと気になる内容があった。\n\nそこには「今はOptiFineじゃなくて、軽量化ならSodium、シェーダーMODならIris」と書かれている……。\n\nまあ確かに、OptiFineはMinecraft最新版への追従があまり早くないし、とりわけMODローダーをFabricで使いたい場合にはOptiFabricがすぐには出なかったりもあって、なんか最新の環境という感じがしないのはあった。\n\nというわけで、今風のMinecraft環境ってやつを作ってみたくなって、MacでPrism Launcherのインストールから設定を行なってみた。\n\nまずPrism Launcherのインストールを行う。\n\nここは特に難しいところはないが、macOSでは署名されていないアプリなのでFinderから「開く」で開いてやる必要がある。\n\n起動できたらMicrosoftアカウントをまず追加する（アプリ連携の許可を与える作業）。\n\nこの辺の解説は探せば出てくると思うので省略する。\n\nで、インスタンスの追加。\n\nできれば最新版を遊びたいので1.19.3を選んで、Fabricを選ぶ。Fabricのバージョンは星が付いている推奨のもの（？）でよさそう。\n\n追加したインスタンスの「編集」ボタンを押して、MODのところから「MODのダウンロード」ボタンを押す。\n\nModrinthからSodiumを検索して、ダウンロードするバージョンの確認ボタン（Select Mod for Install）を押して、さらに確認ボタン（Review and Confirm）を押してインストール。\n\nPrism Launcherの日本語UIは84%程度の完成度なのでこの辺はまだ英語なんだな。Prism Launcher自体、最近始まったもののようなので、むしろ多言語対応が一応できてることがすごい。\n\n（2023-2-28, 18:21追記。PolyMCから分岐して出来たプロジェクトなのかな？　昔PolyMCってのがあった、というのは小耳に挟んではいた）\n\n話がそれた。続いてIrisで検索するとIris Shaderが出てくるのでこちらも同様にインストール。1.19.3に対応している。OptiFineはまだベータなのに。素晴らしい。\n\nシェーダーについては、ダウンロードまでは面倒をみてくれないようなので（まあ現状の配布方式を見ると大半のシェーダーは無理だろうね……）、別途ダウンロードしたものをシェーダーパックの欄に追加する。ここはOptiFineでやってたのと同じ手順。\n\nとりあえずBSLとかComplementaryとかSildur'sとかDrDestensを配置してみて、使うものだけチェックを入れてみる。\n\nMODを色々やりたくて、複数の環境を作りたい場合は、インスタンスをその数だけ作って分けるという感じですね。なるほど。\n\nここまで出来たら起動。初回はMinecraft本体をダウンロードしてくるので少し時間がかかる。\n\nだが、うちのmacOSの場合はJavaが古いせいで怒られる。\n\n前に解説を書いたBedrock Connectの時にOSが勧めてきたJava 8の最新版じゃなくて17系を使えということらしい。これについては解説がある。以下の解説に従ってAdoptiumから最新のJavaをインストールして再設定。\n\n[prismlauncher.org/wiki/gett...](https://prismlauncher.org/wiki/getting-started/installing-java/)\n\n「設定」のところを開くとJavaの設定画面が出るが、上部の「グローバル設定を開く」をクリックして全体の設定を変えることにする。\n\n（全体の設定に対して、個々のインスタンスの設定で上書きが可能ということ。古いMinecraftを起動する場合を除いて古いJavaを使う理由はないので全体設定を変えておく）\n\n下の方にある「自動検出」ボタンをクリックして、「リフレッシュ」を押すと今インストールしたばかりの最新の17.x系のJavaが表示された。そちらに星がついたことを確認してOKを押す。\n\nもう一度起動ボタンを押して、しばらく待つと今度こそ起動する。\n\nLanguage Settingsで英語から日本語に変更して、ビデオ設定を見る。\n\nUIがいつもと違う。これはSodiumの最適化オプションだろう。\n\nシェーダーパックのところをクリックすると、先ほど有効化したシェーダーだけが選べるようになっていた。\n\nここもちょっとUIが違っていて、適応ボタンがあるので選択して適応ボタンをクリックする必要があるようだ。いい感じに動作する。\n\nMacで出来たので、同じことをSteam Deckでもやってみたが、こちらはJavaは落としてきてくれるし非常に簡単だった。ただし、コントローラーのサポートの関係で、Midnight ControlsとFabric APIをMODとして追加する必要があった。\n\nSteam Deckでは素の設定のComprementary ShaderとBare Bonesの組み合わせで60fps出ることが確認できた。（液晶が60Hzまでなので60fpsで制限しているので、実際はさらに出るっぽい）\n\nめちゃくちゃ簡単に環境が整えられるので大変おすすめ。確かにもうOptiFineには戻れないかも。\n\nSteam DeckにWindowsを入れるとファンの制御が機能しない（よく考えたらなんかツールあるかも……）ので、いつも爆音だが、この形でSteamOS上でJava版Minecraftをプレイする分にはファンが適切に制御されるのもありがたい。\n\n知り合いのマルチサーバーの関係など、諸々あるので、Steam OSでBedrock Editionが動くと一番いいのだけれど……。\n",
 				"date_published": "2023-02-28T10:48:00+09:00",
 				"url": "https://oeight.space/2023/02/28/minecraftoptifine.html",
-				"tags": ["Blog"]
+				"tags": ["Longform"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2023/02/27/macjavaminecraftmod.html",
@@ -579,7 +1282,7 @@
 				"content_text": "この記事は古いものです。今はこのやり方は推奨しません。Prism Launcherとかを使う方が楽です。\n\n\nMacでは遊べるMinecraftはJava版である。\n\n……Apple SilliconのMacだとiOSアプリも（対応させていれば？）使えるそうなので、もしかすると統合版（Bedrock Edition）も動くのかもしれないが、自分はまだx64のMacを使用しているので、Java版のMinecraftを前提とする\n\n<!--more-->\n\n（早く新しいiMacを出してくれないだろうか……）\n\n日本ではいわゆる影MODと言われるものだが、正しく言うならShader Packだろう。ともあれ、Minecraftにおいて光の表現を改善することでより美的な景観を実現するもののことである。\n\nで、このシェーダーパックだが、その前提にシェーダーMODが必要で、特定のものをこれまで使っていたのだが、ある時からOptiFineにその機能が含まれるようになった。\n\nOptiFineとは昔からある軽量化のためのMODで、各種オプションを追加することでMinecraftの動作の軽量化が行えるようになるものだが、これにシェーダー系の基礎機能が含まれるようになった、と理解していればいいだろう。\n\nというわけで、見た目を改善するシェーダーを入れたければ、OptiFineを導入して、任意の（好みの）シェーダーを導入するというのが基本の流れになる。\n\nしかし……OptiFineというMODの追加方法にまた複数の流儀がある。\n\n一つは、MinecraftにそのままOptiFineを導入する方法で、もう一つは、各種MODを管理しやすくするMODローダーを入れた上でOptiFineを入れる方法である。\n\n後者は、いわゆるパッケージマネージャみたいなものだと思えば良い。で、このパッケージマネージャが調べた範囲ではMinecraft Forgeというものと、Fabricというものがある。\n\nこの二つは併存できないようなのでどちらかを選ぶのだが、今回はFabricにした。（Fabricの方が後発っぽい）\n\nまず、Minecraftをインストールして、一回ワールドを作成して立ち上げて、抜けておく。\n\nこれはただの動作確認である。\n\n続いて、Fabricのインストーラーを[ここから取得して][1]、インストールを行う。\n\n以下の説明の通りにやるのがいいと思う。Fabricをインストールして、起動構成を編集してゲームフォルダをFabric Loaderのパスに変更しておくということ。\n\nOptiFineの対応しているMinecraftのバージョンがちょっと低い時はFabric Loaderの方で古いMinecraftを選んでおく必要がある。\n\n[devchrist.com/2021/09/2...](https://devchrist.com/2021/09/25/mac-fabric-install/)\n[devchrist.com/2022/04/0...](https://devchrist.com/2022/04/09/mac-fabric-mod-install/)\n\nで、Fabricだけ入ってる状態で起動して終了することで、modsフォルダーが生成されるので、そこに[OptiFine][2]と[OptiFabric][3]を入れる。Jarファイルをおくだけ、簡単。OptiFabricはOptiFineをFabricに対応させるマッピング系のやつだと思う（未確認）。\n\nなおOptiFineは対応Minecraftのバージョンを合わせる必要があり、OptiFabricはOptiFineの対応バージョンと合わせる感じになる。\n\nここまでできたら一度起動して、起動時の画面の左下にOptiFineの文字が出ていることを確認する。起動できない場合は大体バージョン合わせが間違っている。\n\n起動に問題なければ、これでOptiFine前提のシェーダーパックのインストールが可能になる。\n\n例えば[BSL Shaders][4]をダウンロードしてきて、Minecraftの設定画面から「ビデオ設定」→「シェーダーの詳細設定…」と辿り、「シェーダーフォルダ」をクリックするとシェーダーを入れるフォルダが開くので、そこにzipファイルを格納する。\n\nするとMinecraftの画面上でもBSL_v8.2.xx.zipのような感じで表示される。そこをクリックすると再度ロードが走って選択状態になるので、あとは完了を押したら適用されている画面になるという寸法。\n\n意外と楽というか結構面倒というかは微妙なところかな。\n\n\n[1]: https://fabricmc.net/use/installer/\n[2]: https://optifine.net/downloads\n[3]: https://beta.curseforge.com/minecraft/mc-mods/optifabric/files\n[4]: https://www.curseforge.com/minecraft/customization/bsl-shaders/download/4392367\n\n\n",
 				"date_published": "2023-02-27T00:34:00+09:00",
 				"url": "https://oeight.space/2023/02/27/macjavaminecraftmod.html",
-				"tags": ["Blog"]
+				"tags": ["Longform"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2023/02/20/minecraftbedrock-editioncs.html",
@@ -588,7 +1291,7 @@
 				"content_text": "雑に書いてるので分かりにくいかと、すみません。\n\nXboxやSwitchでの現行のマインクラフトは統合版（Bedrock Edition）である（かつてはXbox One版とSwitch版のそれぞれ専用版があった）。\n\n<!--more-->\n\nなので、基本的な仕様はWindowsの統合版とほぼ同一なはずなのだが、CS機ならではのネットワークの方針なのか、外部サーバーに接続する際は「特集サーバー」という、事前にMSのほうでメニュー登録がされているサーバーにしか接続できない。\n\n実はこの対処方法は有名で、YouTubeとか検索するとすぐに解決策が出てくる。\n\nDNSサーバーとして特定のサーバーを指定することで回避できる。……が、そのサーバーはおそらく有志が提供しているものなので、セキュリティ的な面で使いたいと思いにくい部分がある。\n\nというわけで、それらのサーバーが用いているソフトウェアの「[Bedrock Connect][1]」を使用して自前のサーバーを建てることで対応する方法を紹介する。\n\nなお、Xbox版の場合はLAN内にサーバーを建てるとLANサーバー扱いで接続して中継してくれるため、DNS変更すらしなくてよいので普通にメリットがある（PS5も多分これでいけるんじゃないかな？）。\n\nSwitch版は結局DNSの変更が必要だし、もう少し複雑になるので一般の人には難しいかも。一応後のほうでmacOSでの説明は書くけど覚書程度で、Windowsでは頑張ってくださいとしかいえない。\n\nLinuxなら簡単なのでLinuxサブシステムだったかなんだったか使えば案外簡単かも？\n\nさて本題。\n\nまず、上記のリンクからBedrock Connectを入手してくる。\n\nただし、動作環境がJavaなので、Javaランタイムを[別途入手][2]する必要がある。\n\n（2023年2月28日追記）Java 8 は古いような気がするがまあパッチは当たっているので……かな。\n\nツールのシンプルな起動は以下のコマンドでよい。細かい使い方は英語で書かれているが、正直あんまりオプション弄る必要を感じない。\n\n```sh\njava -jar BedrockConnect-1.0-SNAPSHOT.jar nodb=true\n```\nPCでこうやって起動すると、XboxでのMinecraft起動時のワールド選択で、「フレンド」のところに「LANゲーム」として「join To Open Server List」が追加される。\n\n選択すると「ServerList」が表示されるので、「Connect to a Server」を選んでIPなどを入力して、任意のサーバーに接続すればよい。\n\nチェックを入れることで次回以降のためにサーバーの保存はできるが、サーバーに日本語名は使えない。ハイフンもダメなので素直に英数字でなんとかしよう。\n\nゲームしたいときは上のコマンドで都度起動の必要がある。パス移動も当然必要なので、こんな感じでコマンドを実行することになるだろう。スクリプト書いたほうが早いので後で書こうと思います。\n\n```sh\ncd ~/Documents/Minecraft_BedrockConnect\njava -jar BedrockConnect-1.0-SNAPSHOT.jar nodb=true\n```\nで、問題のSwitchである。\n\nSwitchはLANプレイの仕様が違っていて、LANサーバーとして見えない。\n\nというわけで、自前でローカルなDNSサーバーを建てて、特集サーバーのホスト名から引かれるIPを自前のBedrock Connectサーバーに変更してやる形で中継するしかない。\n\nMac（やLinux）ならdnsmasqを使うのが一番楽だと思う。\n\nbrew install dnsmasqして、\n設定ファイルの「 $(brew --prefix)/etc/dnsmasq.conf」の終わりに以下の行を追加する\nホスト名は特集サーバーのホスト名なのでそのままにして、IPアドレスのところだけ自分のネットワークに応じて変更する。\n\nDHCPで都度IPが変わると面倒くさいので、DHCP IDを使うかMACアドレス等で振られるIPを固定してやればよい。今どきのブロードバンドルーターなら設定で多分できるはず。\n\n```conf\nno-hosts\nbogus-priv\naddress=/geo.hivebedrock.network/192.168.1.1\naddress=/hivebedrock.network/192.168.1.1\naddress=/mco.mineplex.com/192.168.1.1\naddress=/play.inpvp.net/192.168.1.1\naddress=/mco.lbsg.net/192.168.1.1\naddress=/mco.cubecraft.net/192.168.1.1\naddress=/play.galaxite.net/192.168.1.1\naddress=/play.pixelparadise.gg/192.168.1.1\n```\nno-hostsとbogus-privは環境によってはなくてもいいかも。\n\nちなみに、macOSだと特定のホストだけdnsmasqに問い合わせるみたいな設定が可能です。今回の件とはあまり関係ない。dnsmasqで検索すれば分かると思う。\n\n\nんでもって、sudo brew services start dnsmasqしてサービス登録する。知らなかった。なにこれ便利。\n\n\nなんだけど、最初sudoなしでやろうとしてハマった。権限不足でポートのリッスンに失敗するらしい。\n\nちなみに、macOSのファイアウォールをONで運用している場合、ちゃんと起動できたらファイアウォールで待ち受け許可するかどうか聞いてくれるので、ファイアウォールONにしてたほうが逆に分かりやすかった……。\n\nポートのリッスン状態は「sudo lsof -i -P | grep \"LISTEN\"  」で確認できる、ちょい時間かかるけど。\n\nゲームしたいときはこちらも動いてないといけない。（基本自動起動するはずだが、メッセージを見ると再起動時はユーザー権限で起動する的なことが書かれているのが不安……）\n\n都度sudo brew services start dnsmasqしなきゃいけないかも。後日確認で。\n\nで、もちろん、SwitchのDNSサーバーの変更も必要（インターネット接続のところで変更できるようになっている。優先を自前のサーバーにして、セカンダリはGoogle DNSの8.8.8.8とかにすればいいと思う）。\n\n一応名前解決だけなので、他ゲーするときに自前サーバー経由する影響は少ないと思う。優先がダメなときはセカンダリになるわけだが、そのときの切り替わりはちょい問題かも。\n\n正直Switchのほうの解決策はuglyだと思うけど、Xboxは実用的だよねと思っている。\n\nとはいえWindowsがあれば必要ないかな……自宅の場合Windowsが動かせる一番よいマシンがSteam Deckで、動くには動くのだが、ファンが常に100%回るし画面は小さくてチャットするときtypoしまくりだし、見た目だけでも大きくしようとHDMIで外部ディスプレイにつなぐと音が本体から出てHDMIに回す方法が分からない（のでヘッドフォン端子からオーディオインターフェースに入れてた……）し……とか、わりと不便だったのでよさげなんですが。\n\n[1]: https://github.com/Pugmatt/BedrockConnect\n[2]: https://www.java.com/ja/download/\n\n",
 				"date_published": "2023-02-20T09:04:00+09:00",
 				"url": "https://oeight.space/2023/02/20/minecraftbedrock-editioncs.html",
-				"tags": ["Blog"]
+				"tags": ["Longform"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2023/01/08/131200.html",
@@ -597,7 +1300,7 @@
 				"content_text": "Steam Deckに限らずSwitchでもSDカードは使用すると思いますが、これまたあんまり知られてなくて「どこどこのメーカーがいいらしい」みたいな情報で買ってる人が沢山いるっぽいので。いわゆる初心者向けガイド記事になります。\n\n<!--more-->\n\n# カードサイズの分類（規格）\n\nSDカードはSDカード、miniSDカード、microSDカードという感じでカードの大きさで3通りに分かれています。現代ではmicroSDカード以外はあまり使われませんが、PCではSDカードが挿せるスロットを準備することでアダプタを使用してmicroSDカードなども挿せるようにしている場合が結構あります。\n\nまあ、Steam DeckとSwitchはmicroSDですので、それだけ覚えておけば良いです。\n\n# 容量の分類\n\nmicroSDカードは（SDカードも）容量によってさらに規格が分かれています。SD＜SDHC＜SDXC＜SDUCの順にカード内の容量が大きくなります。\n\nと言っても、SDUCは規格化されてはいますが1枚あたり2TB〜128TBという巨大な容量のものですので、今のところ現実に見掛けることはまずありません。\n\nSteam DeckとSwitchは、容量64GB〜2TBのSDXCに対応しています。\n\n（Switchは過去のシステムアップデートで対応したので手持ちのSwitchのシステムが古い場合は、インターネットに接続して本体更新をする必要があります。あとまあ、厳密に言えばSDとかSDHCにも対応していますが、64GB未満のカードを使うことなど現代ではないでしょう）\n\n# 転送規格の分類\n\nカードサイズ（microSD）、カード容量（SDXC）と来ましたが、次からはカードのスピード関係の規格です。\n\nまず、カードのインターフェースを表す規格として、UHS（Ultra High Speed）があります。\n\nUHS-I, UHS-IIなどのように表されます。UHS-IよりUHS-IIの方が接点が増えていたりします。\n\nSteam DeckやSwitchはUHS-Iまでしか対応していません。（物理的にカードが刺さらないわけではなく、刺さるけど追加の接点とは接触できないのでUHS-I扱いで電気信号をやり取りするという感じです）\n\nちなみに理論値でUHS-Iは最大104MB/sec、UHS-IIで最大312MB/secとなっています。\n\n現在販売されている一部のmicroSDカードは、UHS-II規格に対応して100MB/secを結構超える速度を実現していますが、UHS-Iまでしか対応していないSteam DeckやSwitchでは104MB/sec以上はどうやっても出ません。\n\n# スピードクラスとは？\n\n続いて、より細かい速度の定義をする規格があります。\n\nUHSスピードクラスと呼ばれるものです。これは一定のラインの最低転送速度が保証されていることを示すものです。過去にはUHSが付かない「スピードクラス」の1〜10がありましたが、これの10は保証する転送速度10MB/sec以上ということで、現代ではほぼ全てのカードが対応しています。\n\nこれに対して、UHSスピードクラスはUの中に1が書かれていればUHSスピードクラス1となり、最低10MB/sec、Uの中に3と書かれていればUHSスピードクラス3で、最低30MB/secが保証されています。\n\nめんどくさいのですが、もう一つありまして、ビデオスピードクラスと呼ばれます。こちらも最低保証速度ですが、V30であれば最低30MB/sec、V60であれば最低60MB/secというふうになっています。\n\nスピードクラスに対してUHSスピードクラスは上位互換の規格なのは当然ですが、ビデオスピードクラスはビデオ用……かと思っていたのですが、SD Associationによる解説によると、ビデオスピードクラスはUHSスピードクラスよりさらに上位の互換規格のようです。\n\n（つまり、今となってはスピードクラスやUHSスピードクラスよりもビデオスピードクラスだけ意識していればいい……ほんとかな？）\n\nまあ、いずれも最低書き込み速度を保証するもののようなので、一番大きなV90（最低90MB/sec以上）とかまで設定されているビデオスピードクラスだけ見てればいいというのは実務上そうなのかもしれません。\n\n# アプリケーションパフォーマンスクラスとは？\n\n最後に、ちょっと毛色の違うものとして、アプリケーションパフォーマンスクラスというものがあります。\n\nこちらはアプリケーション実行向けの指標で、A1とA2が規格化されていて、シーケンシャル最低処理速度はどちらも10MB/secなのですが、IOPSに違いがあります。\n\nA1はランダムリードが1500 IOPS以上、かつ、ランダムライトが500 IOPS以上を保証しています。A2になると、ランダムリード4000 IOPS以上、ランダムライト2000 IOPS以上を保証しています。\n\nIOPSというのは、I/O per secondです。つまり一秒あたりに読み書きできる回数ですね。\n\nビデオなんかは撮影中ずっと書くだけなので、連続したデータをある速度以上書ければOK、というのがビデオスピードクラスなのですが、こちらは1秒間の間で何回読み書きできる？　って値ですね。\n\nゲームの場合は、一気に読み込んでメモリにロードすることが多く、逆に保存するときはメモリに保持していた値をセーブファイルに書き出す……みたいな感じでたまにしか書き出さないわけですから、頻繁にSDカードに読み書きするシチュエーションはあまりピンときません……。\n\n……もしかして、SDカードにOS入れる人とかDB入れる人向けの指標なのかな……と思ったらAndroidとかでアプリケーションを入れて実行することがあるから、とのことで、なるほどなあと納得した次第です。\n\n# Steam Deckには何がいいの？\n\nだいぶ前置きが長くなりましたが、これらの指標を参考にカードを選ぶということになります。\n\nですが……先ほどちょっと書きましたが、ゲームってあんまりデータ書き込みしないし、特にランダムライトはまずしないし、高速にやり取りする必要があるなら、基本メモリ上の処理が多くなるように作るだろうし、ランダムリードのIOPSもそこまで必要とも思えないし……という感じで、あんまり規格が参考にならないなと感じます。\n\nSteam Deckの場合、ゲームのデータ本体はいつでも再DL可能、セーブデータはSteamクラウド対応タイトルならSteamクラウドにありますから（現代でもたまーにセーブデータがローカルにのみ置かれるタイトルがあるので注意）、SDカード内は基本的に仮置き用テーブルみたいなものですから、割と雑に選んでもいいのではないかと思います。\n\nリード性能が高いとロードが短いかもという期待は持てますし、変な作りのゲームがあることも想定して、念のためIOPSも高い方がいいかなとなると、UHS-Iで、UHSスピードクラスは3（ビデオスピードクラスで言うとV30）で、A2あたりがいいのかなあ……という程度です。\n\n（基本的にライト速度よりリード速度が速いので、最低60MB/secのV60は過剰、というよりUHS-IでV60やV90を保証してるカード見たことない。UHS-IIで保証してるカードはUHS-I接続した時にはそこまで速度が出ないわけで……）\n\n容量的には本体が64GBモデルだとシェーダーキャッシュが結構なサイズになるので、512GBが適当かと思います。（1TBはまだGB単価も高いですし）\n\nメーカーについてはあまり云々したくないのですが、まあ定番として知られているのはSanDisk, Samsung, Transcendになりますでしょうか。\n\n私はSwitchとSwitch LiteにはGigastone、Steam Deckにはシリコンパワー（ケチってみたかったので、あえてA1）にしています。\n\n今回初めて買ったシリコンパワーはまだ評価する段階ではありませんが、Switchに買って特に文句なかったGigastoneは、もうSanDiskやSamsungと変わらない値段になってしまいましたのでお買い得とおすすめしても仕方なくなってしまいました……。\n\nあ、もし万が一ですが、SDカードにWindowsを入れて……などと考えている方がいたら、A2の方がいいでしょうね。（代替セクターの数とか違うかもしれないし、OS入れるんなら一流ブランド品にするかな……）\n\n# 重要な注意\n\nなお、Amazonで購入するときは、同じ仕様なのに他のメーカーより異常に安い商品に気をつけましょう。容量偽装だったり、そもそも機能しなかったりするみたいですよ。\n\nロゴすら入ってない（つまり「見た目はmicroSDカードだが、microSDカードだとは言っていない……！」という）やつもありますが、ロゴが入っていてもこの値段はありえないからこれ偽装だな……みたいなことを判断しないといけません。\n\nまあ、Amazonで買うなら販売店がAmazonか、メーカー直営だったり大手家電だったりの信頼できる店舗になってるものがおすすめですね。PCで見た時に「今すぐ購入」のボタンのすぐ下あたりに、\n\n出荷元　Amazon.co.jp\n\n販売元　Amazon.co.jp\n\nと表示がされてると思いますので、そこを確認しましょう。\n",
 				"date_published": "2023-01-08T13:12:00+09:00",
 				"url": "https://oeight.space/2023/01/08/131200.html",
-				"tags": ["Blog"]
+				"tags": ["Longform"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2023/01/08/steam-deckmicro-sd.html",
@@ -606,7 +1309,7 @@
 				"content_text": "Steam Deckを、64GB eMMCモデルに512GBのmicroSDカードの組み合わせで使用していて、現時点ではあまり必要性を感じていないのですが、シェーダーキャッシュの削除の方法を将来に備えて一応調べておいたので覚書としてメモっておきます。\n\n<!--more-->\n\n（なお、私は256GBのSSDに自分で換装しようと思っていますので、さらにこの問題には縁が遠くなりそうです。64GBでも今のところ実害はないのですが、他の機器では空き容量に余裕を持たせるように運用しているので、表示されている空き容量が少ないことに妙なストレスを感じているとか、ゲーム機としてではなく、デスクトップLinuxとしてもうちょっと弄りたいと思うと容量が足りないとかそういう理由です）\n\nさて、具体的な方法ですが……海外の例を見る限り、SDカードに移動させてSymlinkを張るか、いっそのことファイルシステムそのものをBtrFSに変更してSDカードとSSDを見かけ上、同一のディレクトリとして扱うという手があるようです（SteamOS BtrfsというプロジェクトがGitLabにあります。ご参考までに）。\n\n後者はBtrFSをほぼ知らない自分的にはちょっと……なので、お手軽なSymlinkを貼る方法で検討したいところです。\n\nとはいえ、手作業でやるのは面倒だなぁ……と。\n\nで、ちょっと調べたところ、[既にスクリプト化してGitHubに公開][1]されている方がいて、こちらを利用している方がそこそこいる模様ですので、必要になったら私も試してみようかなと思っています。\n\nなお、提供元でも解説の動画が上がっていましたが、Linuxとかコマンドとか触ったことない……という人向けのウォークスルーガイドとしては[こちら][2]の方が分かりやすいかも、と思いました（字幕をオンにして自動翻訳で日本語を選べばまあ分かるかと……）。\n\nこのスクリプトを使うと、シェーダーキャッシュの容量とそのIDが何のゲームなのかを一覧化してくれて、選択して、キャッシュを削除するか、SDカードに実物を移動させてシンボリックリンクを張るか、という作業をチェックとクリックだけで可能にしてくれるようです。\n\nちょっと注意点があるとしたら、後者の解説動画には説明がありましたが、スクリプト内でsudoコマンドを使用しているため、SteamOSがデフォルトで作成するユーザーの場合、まずはパスワード変更してパスワードを作成する必要があるぐらいでしょうか。\n\n（SteamOS的に自動で作成するユーザーはパスワードなしの想定になっていると思うので、パスワードを設定することに伴う副作用がちょっとだけ気になりますが……）\n\nざっとした説明ですが、とりあえずはこんな感じになります。\n\n前からこのスクリプトがあることは知っていたのですが、Steam Deckだけでできるこの方法があまり一般には知られていないようだと気づいて、急きょこの記事を書きました。実際に試してYouTubeの動画とかにしたら再生数取れそうだなあ……とも思ったのですが、風邪からの病み上がりなのでやる気でませんでしたすみません。\n\nそれに加えて、\n\n- ぶっちゃけシェーダーキャッシュの削除とかはSteamOS側がよしなに働けばいいんじゃない？　海外でこれが気になるって言われて結構経ってるだろうし……。\n- っていうかハウスキーピングの処理（設定のシステムの一番下にある「ストレージの保守管理タスク」ってやつ）が自動的にやるようにいずれなるんじゃない？\n- っていうか今でも本格的に容量厳しくなったら自動でキャッシュ消してたりしない？　利用者があまり気づかないだけなんじゃ……？\n\nなどという気もしますので、自分的には必要に迫られるまでは放っておこうかな……という気持ちが強いです。Steam Deckをピュアなゲーム機として使用してて、シェーダーキャッシュが入りきらなくて問題が出たケースって（海外で販売開始してすぐの頃はともかく、2023年に）実際にあるんですかね？\n\n\n[1]: https://github.com/scawp/Steam-Deck.Shader-Cache-Killer\n[2]: https://youtu.be/E3SqOP1-rqY\n",
 				"date_published": "2023-01-08T01:28:00+09:00",
 				"url": "https://oeight.space/2023/01/08/steam-deckmicro-sd.html",
-				"tags": ["Blog"]
+				"tags": ["Longform"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2022/12/30/steam-deckmetro.html",
@@ -615,7 +1318,7 @@
 				"content_text": "Metroシリーズという、ウクライナの4A Gamesという会社が作成しているストーリー重視なFPSゲームがあります。\n\n（S.T.A.L.K.R.シリーズを開発した会社GSC Game Worldの元従業員が設立した会社だそうです）\n\n<!--more-->\n\n原作は小説（それもネット小説）で、ゲームの方のシリーズとしては、\n\n- Metro 2033\n- Metro Last Light\n- Metro Exodus\n\nという感じで3作出ておりまして、時系列が繋がっていて三部作という感じになっています。（なお、2033とLast Lightはリマスターされておりまして、2033 Redux、Last Light Reduxという名前になっています。今から手に入れるならRedux版ということになります）\n\nで、この作品、Exodusは日本語が元から含まれておりまして、ちょいちょいセールになるのですが、どんな感じのゲームなのかなと思ってレビュー等を見ると、三部作だから前作からやった方がいいよと掲示板に書かれていたりします。\n\nですが、前作はPCだと公式には日本語が含まれてない、Xbox版だと日本語がないそれぞれの単体バージョンはよくセールされててめちゃ安いけど、日本語がある2作セットのローカライズ版は全然セールにならないし、古い作品として考えるとちょい高い……ってな感じで、手をつけてなかった方も多いんじゃないかと思います。\n\nただ、Steam版（やGOG版）では2033 ReduxとLast Light Reduxには、[有志の方が作成された非公式な日本語訳のパッチ][1]を当てることで日本語でのプレイが可能です。\n\n（英語字幕を日本語字幕に置き換えているようです。mobキャラと言いますか、その辺を歩いてて名前のないNPCが喋っているセリフについては字幕なしの英語のままになりますが……これは仕方ないですね）\n\nさて、今回の記事の趣旨ですが、このパッチをSteam Deckで試してみたところ、（少なくとも2033 Reduxでは）使えそうでしたよ、という報告になります。\n\nSteam Deckの場合、WindowsではなくSteam OSが採用されていますので、プログラムに手を加える系のバッチだと互換レイヤーのProtonではうまく動作しないケースも考えられますが、Metroの日本語化パッチはリソースのみ（データファイルの置き換えと追加）の方式になっています。\n\nこの手の、ゲーム側である程度ローカライズを想定して作成しているので、プログラムはそのままでデータファイルだけで日本語化を実現しているパッチ（というよりModか）は理屈の上ではおそらく動くはずです。\n\n……と思って適用しましたが、Last Lightのほうはまだ試していませんが、2033は2時間ほどプレイした範囲では、とりあえずいけそうです。\n\n（ただし、パッチの説明にも記載がありますが、1920x1080の解像度を想定して作成されているため、1280x800になるSteam Deckの内蔵ディスプレイでは若干読みづらいところはあります。特にハーフレートシェーディング機能をオンにするとぼやけて可読が難しくなりますのでご注意ください）\n\nパッチの当て方は提供元に書かれていますが、Steam Deck用に補足すると、以下のようになります。\n\n1. Steam Deckをデスクトップモードに切り替えます\n2. デスクトップモードでブラウザを使ってパッチ（zip）をダウンロードしてきます（まだブラウザを入れていない場合は標準のDiscoverを使ってインストールしてください）\n3. zipをダブルクリックで開いて、展開します\n4. Steamクライアントをデスクトップモードで立ち上げて、ゲームごとの設定を変更するための歯車ボタンから「ローカルファイルを閲覧」でゲームフォルダのルートに辿り着きます\n5. 先ほど展開したファイルの中から、パッチの説明に書かれているファイルを上書きでコピーして完了です\n\n\nこれで私も、Exodusをプレイする前に一応ストーリーだけ確認しておくことができそうです。積みゲの山があるのにできるのかって？　……知らんな……。\n\n\n[1]: https://github.com/sisizanohito/MetroRedux_JapaneseMod\n\n",
 				"date_published": "2022-12-30T16:34:00+09:00",
 				"url": "https://oeight.space/2022/12/30/steam-deckmetro.html",
-				"tags": ["Blog"]
+				"tags": ["Longform"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2022/12/28/steam-deck.html",
@@ -624,7 +1327,7 @@
 				"content_text": "\n12月17日より日本でも販売が行われるようになった、Steam Deckでゲームをプレイするとき、[互換性確認済みタイトル][1]であるにもかかわらず、日本語の表示に問題がある場合があります。\n\n<!--more-->\n\n具体的には、ValheimやRimworldが該当します。\n\nこれらのタイトルは、SteamOSとWindows（RimworldはmacOSも）に対応しているため、普通に起動するとSteamOS版が起動するようなのですが、ゲーム側の問題なのかSteamOS側の問題なのかは分かりませんが、正しく日本語フォントをロードできていないように見えます。\n\n（あるいはゲーム内フォントに漢字やひらがなが含まれていないとか）\n\nまた、日本語でセットアップしたSteamOSのロケールに日本語が追加されていないという報告もありますので、こちらが原因になるケースもあると思います。\n\n（こちらについては、対処するスクリプトが有志の方から提供されているのは知っていますが、おそらくSteamOSのアップデートのたびにやり直さないといけないことや、OSの構成変更になることから、今回は紹介しません）\n\nこの辺の問題については、日韓台で発売してありますから、Valveに報告が行っていずれは何らかの対策が行われると思いますが、とりあえずシステムを弄らずに、対応できる場合がある、簡単な対処方法を紹介します。\n\n1. Steamライブラリ画面で、該当ゲームを起動する時の「プレイ」ボタンの右側にある歯車ボタンを押して、「プロパティ」を選びます。\n2. 左側のメニューで「互換性」を探して開きます。\n3. 「特定のSteam Play互換ツールの使用を強制する」にチェックを入れます。\n4. Proton(Windows互換レイヤー)のバージョンを選びます。（初期値ではProton Experimentalが選ばれていますが、これは開発中のバージョンなので、一つ下のが良いでしょう）\n\nこうすることでSteamOS版ではなく、Windows版がProtonとの組み合わせで起動するようになるはずです。あとはゲームを起動して日本語を選べば良いです（なお、設定後はWindows版の実行プログラムを取得しようとするためか、「プレイ」ボタンが「アップデート」になって、初回のみ少しばかり追加ダウンロードが行われます）。\n\n注意点としましては、これらのタイトルについては動作確認をしているのはSteamOS版だと思われますので、Windows版を互換レイヤーであるProtonを通して起動する関係上、本来の動作しない・不具合が発生するタイトルもあるかと。また、もちろんですが、Windows版がないタイトルの場合、この手は使えません。\n\nこれで動けばいいなぐらいの感覚でトライしてみてください。（諦めて既に英語で遊んでる場合は、セーブデータの互換性があるか調べたほうがいいかもです）\n\n\n[1]: https://www.steamdeck.com/ja/verified\n\n",
 				"date_published": "2022-12-28T18:02:00+09:00",
 				"url": "https://oeight.space/2022/12/28/steam-deck.html",
-				"tags": ["Blog"]
+				"tags": ["Longform"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2022/12/27/steam-deckxboxremote-play.html",
@@ -633,7 +1336,7 @@
 				"content_text": "Steam DeckからXboxのRemote Playを利用したかったので、設定してみました。\n\nもちろん、非公式なソフトウェアの導入等を含む内容になりますので、何かあっても自己責任です。\n\n<!--more-->\n\nキーボードや外部ディスプレイの接続は必要ありません（文字入力でちょっとだけ苦労しますが）。開発者モードとかに切り替える必要があるのでは？　と思うかもしれませんが、それも必要ありません。\n\n端的な手順は以下の通りです。\n\n\n1. Steam Deckをデスクトップ（モード）に切り替える\n2. App Image Launcherをダウンロードする（ブラウザがない場合は先にFirefox等のブラウザをインストールする）\n3. App Image Launcherのプロパティを実行可能にし、ターミナルから実行してインストールする\n4. Xbox xCloud Clientをダウンロードする\n5. Xbox xCloud Clientをインストールする（Applicationsフォルダにコピーするだけ）\n6. SteamクライアントアプリからXbox xCloud Clientを起動できるようにする（スタートメニューのXbox-xCloudを右クリックして「Add to Steam」する）\n7. Xbox xCloud Clientの細かい起動設定を行う（起動オプションに --fullscreenを付けたりする）\n8. 最後に忘れてはいけないこと（XboxボタンをL4とかR4とかに割り当てる）\n\nこれだけだと不安な方なために、もう少し詳しいことを書きます。\n\n\nYouTube等には動画での解説をされている方もいます。英語が多いですが、私の説明と照らし合わせればなんとかなるかと思います。\n\n# 1. Steam Deckをデスクトップ（モード）に切り替える\n\nデスクトップ（モード）への切り替えは電源ボタンを長押しして出てきたメニューで「デスクトップへの切り替え」を選ぶだけです。\nSteamOSのデスクトップ画面が表示されます。\n\nなお、本体で操作する場合は、以下のことを覚えておいてください。\n- 右のトラックパッドでカーソルを動かし、R2トリガーボタンで左クリックを行います。\n- L2が右クリックですが、画面長押しも右クリック扱いです。\n- まれにスクロールが必要なときがありますが、R2トリガーボタンを押しながら左トラックパッドで指を滑らせることで可能です。（この記事を書いてしばらく触って気づいたんですが、R2押さずに左トラックパッドだけでいけるかもです……）\n\n\n# 2. App Image Launcherをダウンロードする（ブラウザがない場合は先にFirefox等のブラウザをインストールする）\n\nさて、ここからブラウザを利用してApp Image Laucherをダウンロードしたいのですが、そもそもブラウザが入っていません。\n\nとはいえ、左下のFirefoxのアイコンは「Install Firefox」というインストーラーへのショートカットになっているので、クリックしてインストールを開始するだけです。\n\nパッケージマネージャが開いてInstalボタンを押すだけになっているので、特に難しいことはないと思います。\n\n（ブラウザは別にFirefoxでなくても構いませんし、なんならブラウザじゃなくてもいいんですが、細かいことを言い出すとキリがないので……）\n\nインストールしたブラウザを利用して、[App Image LauncherをGitHubよりダウンロード][1]します。\n\n（私が導入した時の最新版はv2.2.0でした。具体的には、appimagelauncher-lite-2.2.0-travis995-0f91801-x86_64.AppImageです。より新しいバージョンが出ている場合は、そちらでもよいでしょう。ただし、x86_64向けのAppImageが必要です）\n\nURLの入力は、アドレスバーでSteamボタンとXボタンを同時押しすることでスクリーンキーボードを立ち上げて行うことになります。\n\nおそらくここがかなり面倒です。検索から行く手もありますが、この記事を読んでいる方なら私のブログを表示してこの記事に辿りついてからリンクをクリックするのも一つの手かもしれません（このブログのURLはかなり短いので）。\n\nあ、そうそう。スクリーンキーボードをしまう時は、スクリーンキーボード内の右下のキーボードボタンをタップする方が早いと思います。\n（Steamボタン + Xボタン でしまえるはずなのですが、文字入力じゃないところにフォーカスが移っているとダメっぽい）\n\nダウンロードしたファイルは「Downloads」フォルダに入ります。デスクトップのタスクバーにある青いファイラーの形をしたアイコンがSteamOS 3.x系列のファイルマネージャーのDolphinですので、こちらを開いてDownloadsフォルダにあることを確認します。\n\n\n# 3. App Image Launcherのプロパティを実行可能にし、ターミナルから実行してインストールする\n\nここで、アイコンを長押しして右クリックメニューを出し、「Rename」を選んでファイル名を「ail.AppImage」にリネームしておきます。\n\n（やらなくてもいいんですが、この直後の文字入力でとても面倒です。ターミナルでの操作に慣れている人でも、スクリーンキーボードでtabキーを押して「入力補完されないだと……!?」となります）\n\n再び長押しして「Properties」を選んで、上のタブから「Permissions」を選んで「Is executable」のチェックボックスにチェックを入れ、その下のOKボタンをクリックして保存します。（実行が可能になります）\n\n今度はファイルではなくその周りの空いているスペースを長押しして、「Open Terminal Here」を選びます。\n\nターミナルが起動したら「./ail.AppImage install」と入力してスクリーンキーボードの「Enter」ボタンを押します。\n\n折り返し込みで4行程度の文字列が表示されますが、最後の行に「AppImageLauncher Lite has been Installed successfully.」と表示されていればOKです。\n\n\n# 4. Xbox xCloud Clientをダウンロードする\n\n実際に使用するアプリケーションを導入しましょう。\n\nこちらもGitHubで公開されている[Xbox xCloud Client][2]です。\n\nダウンロードは先ほどとほぼ同じ手順で、AppImage形式のファイルを入手します。（私は1.2.0にしました）\n\n\n# 5. Xbox xCloud Clientをインストールする（Applicationsフォルダにコピーするだけ）\n\nApp Image Launcherがインストールされているので、これは簡単です。\n\nダウンロードしたAppImageファイルを長押しして、「Copy」をクリックして、「Home」フォルダにできている「Applications」フォルダを開いて、何もないフォルダ内を長押しして「Paste One File」を選びます。\n\nそれでインストールは完了です。\n\n\n# 6. SteamクライアントアプリからXbox xCloud Clientを起動できるようにする（スタートメニューのXbox-xCloudを右クリックして「Add to Steam」する）\n\nWindowsでいうところのスタートボタン（デスクトップの一番左下にあるSteam Deckアイコンのボタン）をタップして、検索欄に「xb」などと入力してXbox xCloud Clientを探します。（1.2.0の場合はXbox-xCloud(1.2.0)という名前です）\n\n見つけたら長押しして、「Add to Steam」をクリックします。\n\n（なぜだか分からないのですが、Utilitiesに分類されているXbox-xCloudアプリを長押しから同じ操作を行った場合、実際にはSteamライブラリに追加されていませんでした。次の項で見つからないのですぐに分かります）\n\n\n# 7. Xbox xCloud Clientの細かい起動設定を行う（起動オプションに --fullscreenを付けたりする）\n\nデスクトップモードのままSteamを起動します。単にSteamボタンを押して少し待てば起動すると思いますが、デスクトップやスタートメニューから起動してもいいです。\n\nライブラリのゲームの検索欄を使って、「xb」などと入力してXbox-xCloud(1.2.0)を表示させます。歯車ボタンをクリックしてプロパティを表示します。（PCでSteamゲームのプロパティを表示するのと同じ、いつもの操作です）\n\n起動オプションが --no-sandboxになっていると思いますので、その後にスペース区切りでオプションを付け加えます。\n\n「--no-sandbox --fullscreen --connect=(Xbox ネットワーク デバイス ID)」とするのがお勧めです。--fullscreenは文字通りフルスクリーンでの起動のためのオプションです。\n\n--connect=(Xbox ネットワーク デバイス ID)は、接続先のXboxをつど選ぶ画面をスキップして、指定のXboxに接続できるようになります。\n\nXboxネットワークデバイスIDのところは、Xboxで、設定アプリのシステム→本体情報と辿れば表示されています。16桁ぐらいあります。（Xbox Series Sの場合です。Oneの場合はちょっと違うところに書いてあるかも。っていうかこれMACアドレスか。多分そうですね、確認してないですけども）\n\nまあ、connect〜は設定しなくてもいいですが、Xboxが一台しかない場合は設定しておいた方が楽だと思います。\n\n\n# 8. 最後に忘れてはいけないこと（XboxボタンをL4とかR4とかに割り当てる）\n\nDownloadsに残っているファイルは不要なので削除してください。\n\nデスクトップ左上のアイコン「Return to Gaming Mode」アイコンをタップして、デスクトップモードからゲーミングモードに戻ります（戻る時は電源ボタンではないようなので注意した方がいいでしょう）。\n\nあとはXbox-xCloud Clientがゲーム一覧に増えているので、起動すればXbox Remote Playができます。初回はIDとパスワードの認証で時間がかかりますが、サインイン情報を記憶させてしまえば都度入力する必要はなくなります。\n\n（ちなみにですが、通常時のゲーミングモードと、デスクトップモードだとボタンの割り当てが違うので、確認のためにとりあえずデスクトップモードで起動……とかやると「何も操作できないんだが？」となってしまいます。ゲーミングモードに戻ってから確認する方がいいかと思います）\n\nこれで完成……だと思ってしまいますが、多少触っているとXboxコントローラーにはあるXboxボタンが押せなくて困ると思います。\n\nSteamボタンからアプリのコントローラー設定を開いて、背面ボタンのL4とかR4あたりにキーボードのNキーを割り当てましょう。\n\nこれでいい感じにXbox Remote Playが楽しめると思います。\n\n（設定しながらこの記事を書いたので、私自身あまり試せていないのですが……繰り返しになりますが自己責任でお願い致します）\n\nたまに接続に30秒ぐらいかかって、その間Deck側は白い画面で焦ることがあります。\n\nどうしても繋がらないようならSteamボタンを押して一旦「ゲームを終了」すればよいと思います。銀河ヒッチハイク・ガイドにも Don't Panic.（パニくるな） と書かれています。\n\n\n# 2022-12-27 23:01追記。\n\n終了のさせ方というか、切断の仕方に一瞬戸惑ったので。画面の上をタップすると上部にメニューが出ますので、そこからDisconnectで切断するのがよいかと思います。\n\nSteamボタンを押してゲーム終了で落とすと、繋がったまま通信が無くなったみたいな扱いになるので、おそらくセッションなりが維持されて、次に使うときの接続でエラー処理が発生して時間がかかりそう。\n\nあと、この方法というかリモートプレイの技術的な制限なのですが、少しだけ遅延を感じるように思います。Forza Horizon 5を少しプレイしてみましたが、なんかもどかしいというかタイミングが違う感じがありました。ダンガンロンパも触ってみたけどこっちはさほど違和感ないですね。RPGやSLGやノベルゲー向きでしょうか。\n\nCPU使用率は高くて20%ちょい、GPU使用率は20%に届かないぐらいなのでバッテリーは結構持ちそうなのがいいところ。\n\n一瞬ラグったな、みたいなものは時折発生しますが、その辺は仕組み上仕方ないところかと。非公式アプリじゃなくてMicrosoftさんが公式でValveと提携する方向で頑張ってくれればいいんですが……。\n\n（Game Passの乗り入れの話し合いはしてるとか報道はされていましたね、とりあえずハードルの低そうなXbox必須のリモートプレイだけでも投入してくれればいいんだけどなー。Xboxで遊んでて、そろそろ寝ようかと思ったときにベッドでちょっと続きができるのありがたいんですけども）\n\n[1]: https://github.com/TheAssassin/AppImageLauncher/releases\n[2]: https://github.com/unknownskl/xbox-xcloud-client/releases/\n",
 				"date_published": "2022-12-27T19:17:00+09:00",
 				"url": "https://oeight.space/2022/12/27/steam-deckxboxremote-play.html",
-				"tags": ["Blog"]
+				"tags": ["Longform"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2022/12/18/zgmv.html",
@@ -642,7 +1345,7 @@
 				"content_text": "\n最近買って良かったものを羅列する。主に配信に使うような機材だが、単純なゲームやWeb会議でも役立つかもしれない。\n\n<!--more-->\n\nまずはSHUREのMV7。そこそこの値段でいいマイク。2022年12月時点でやや安めのショップだと2.6万円ぐらい。USB接続なしのモデルはもうちょい安い。\n\n[MV7 by SHURE](https://amzn.to/4jMtFtK)\n\nダイナミックマイクらしく、周囲の雑音を拾いにくい。USB接続とオーディオインターフェース等と組み合わせるためのXLR端子接続が可能になっている。ちなみに同時に使用することも可能。USBのときは音量を取りやすいが、XLR端子使用だと感度の問題で多少音量が不足するかも。\n\nなお、標準のマイクカバーは若干吹かれ（マイクに息を吹きかけてしまうこと）に弱く、口を近づけて使う場合はバフバフというポップノイズが気になる場合があるかもしれない。単純にポップガードを別に買う手もあるが、以下のSM7B向けのRK345というカバーを転用する手があって中々いいらしい。\n\n[RK345 by SHURE](https://amzn.to/4jHFph1)\n\nただしこれ、某所で2000円以下で売っているのだが、Amazonの売値がたまにすごいことになっている模様。足元を見られないように注意。\n\nさて、MV7だが、歌を歌っても悪いことはないのだろうが、ポッドキャストとかゲーム配信とかの話し声に向いている。より上位のマイクとしてはド定番のSM7Bが存在するが、こちらは倍ぐらいの価格なのと、XLR端子のみでしかも感度がMV7より低くゲインがさらに必要で、一般の人には敷居がちょい高い。\n\nで、音量問題を解決するのがインラインプリアンプである。MV7でもオーディオインターフェースと声量によっては欲しい。\n\n以下のDM1 DYNAMITEとかCloudlifterのCL-1とかが有名。SHURE自身も出しているみたいだし、サウンドハウスさんとかでよく見かける廉価な製品をよく作ってるCLASSIC PROブランドにも似たようなものがある。\n\n[DM1 DYNAMITE by sE electronics](https://amzn.to/3CQedMi)\n\n実売価格は昔は1万円を割っていたそうだが、ドル円の為替レートの変動等もあり、現在は1.4万円程度だが、12月時点で1.1万円程度で私は入手した。\n\nCloudlifterの方がお高いので質はいいと思うが、直で挿す使い方ができないのが痛し痒しか。SHURE自身が出しているものの存在を後で気がついたのだが、これが案外安いのでそっちでいいかもしれない。製品によって+25dBだったり+28dBだったり、複数の値から切替方式だったりする。\n\n色んなマイクで使いたければ切替方式かなとなるが、この機器がファンタム電源の48Vを必要とするので、マイク自身が48Vを要求することが殆どのコンデンサーマイクとは組み合わせられない。割り切りで25〜28dB分ブーストするのがひとつあればよさそう。\n\nまあ、手持ちのオーディオインターフェースに繋いでみて、「音量が足りない！」となってから検討すればいいので早まってマイクが届く前に買わないように。\n\nさて、そのオーディオインターフェースなのだが、こちらもZG01に乗り換えた。めちゃいい。\n\n[ZG01 by YAMAHA](https://amzn.to/42JRIn4)\n\nYAMAHAの新型のオーディオインターフェース。ゲーム配信用に作ったというだけのことはあって、細かい仕様がめちゃくちゃ便利。Macでも問題なく使える。\n\nなるべく簡単に扱えるように……ということで、本体のボタン類は少なく、ソフトから細かい設定を行うようになっている。PC(Mac含む)が必要であるし、慣れていないとちょっと混乱するかもしれないが、できることは非常に多く、端的に言うとYAMAHA AG03とSteelSeries GameDAC（あるいはastroのMixAmp）とHDMIのセパレーターで実現していたようなことが一つにまとまってしまう。\n\nただしちょっとだけ注意が必要で、HDMIのパススルー上限が60Hzなのは玉に瑕とか、上記のようなダイナミックマイクを扱うとき少しゲインが足りないとかがある。（AG03はD-PREと明記されているが、AG03mk2からD-PREの表記がなくなった。ZG01も同様なので同じマイクプリアンプなのかな？）\n\nマイク入力が1系統だけで、あとは基本的にHDMIかPCからUSBでの入力なので、ギターとかをやる方が配信に使いたいならAG03mk2かもしれない。だが、ゲーム配信ならZG01がいいと思う（少し高くなるがそれだけの価値はある）。\n\n他にも外付SSDとかキャプチャーボードとかも買ったのだが、今回は音関係の話だけにしておこうと思うのでこの辺。あとマイクケーブルも買い替えたけど、ちょっとミスったので書かない。短いのがないという理由で良いと思ったのとは別ブランドにしたのだが、実際繋ぎかえてみたらもうちょい長くてもよかったな〜となってしまったのである。\n\n\n",
 				"date_published": "2022-12-18T22:15:00+09:00",
 				"url": "https://oeight.space/2022/12/18/zgmv.html",
-				"tags": ["Blog"]
+				"tags": ["Longform"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2022/12/18/macos.html",
@@ -651,7 +1354,7 @@
 				"content_text": "使っているMacのmacOSを入れ直しましたので、環境を再度整えて記事を投稿できるようにしました。\n\nただ、HugoのThemeの扱いを変えた方がいいっぽいので、この記事がちゃんと掲載されたらその辺の修正をいたします。\n\n→と思ったのですが、一旦やめました。Git Submodule方式からHugo Module方式に変えたかったのですが。それはそれとして、themeのアップデートがだいぶ貯まってるみたいなので、最新版にしました。なんか日本語に対応とかしてるみたいだから後で最新の情報を見てみます。\n\n",
 				"date_published": "2022-12-18T19:17:00+09:00",
 				"url": "https://oeight.space/2022/12/18/macos.html",
-				"tags": ["Blog"]
+				"tags": ["Longform"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2022/01/02/feedlyproinoreaderpro.html",
@@ -660,7 +1363,7 @@
 				"content_text": "FeedlyとInoreaderに絞って、体験プランで両者を使っている。最初はFeedlyを試していたが、多少の欠点が気になって、Inoreaderを試し始めたが、再びFeedlyを試すフェーズに戻ってきた。\n\n<!--more-->\n\n## FeedlyのCons（よくないとこ）\n- Twitterも取り込んで表示できるが、表示形式がいまいち。リンク先を取り込んでしまったりするのでツイートを扱う感覚で見ることができない。\n- プランの価格・機能リストの比較には書かれていない、隠れた制限が結構ある。（ルールや連携の設定数の上限とか）\n- 結果的にInoreaderとあまり変わらない制限に感じられる。そして価格は倍ぐらい。\n- LeoというAIがあるが、日本語はあまりサポートされていない。\n\n## InoreaderのPros（いいとこ）\n- Twitterの表示がよくできていて、まるでツイートそのものである。\n- 価格が比較的安い。\n\n## InoreaderのCons（よくないとこ）\n- 制限が細かくて、実際に到達するかどうかはともかく、ちょいと気になる。\n- Reddit対応がいまいちっぽい？　自分のアカウントのHomeからの取得とかができないような。\n- フィルター条件が増えてくるとiOSアプリではタイムアウトエラーになったり、Webアプリで適用に妙に長時間かかったりする。\n- iOSアプリで連続して記事を読んでいると、記事の読み込みが重くなって待たされることがちょくちょくある。（Macで見るWebアプリでは滅多にならない。Twitterのように短文記事を次から次へと読んでいると発生頻度が高い）\n- すでに読んだ記事が、未読記事としてゾンビのように蘇る。（Twitterで顕著な模様。個人的にはこれは致命的）\n\n## FeedlyのPros（いいとこ）\n- 高速。\n- ゾンビ記事が発生しない。\n- もうちょっと試してみないと後は分からない。\n\n\n今のところはこんなところ。Inoreaderの不満なところが直せそうなので惜しい。\n\nともあれ、Feedlyはまだ試用できるので、もう少し試してみてから導入を考えたい。しかし、$12/monthは高すぎると思う……。\n\n\n",
 				"date_published": "2022-01-02T01:40:00+09:00",
 				"url": "https://oeight.space/2022/01/02/feedlyproinoreaderpro.html",
-				"tags": ["Blog"]
+				"tags": ["Longform"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2022/01/01/175500.html",
@@ -669,7 +1372,7 @@
 				"content_text": "新年明けましておめでとうございます。\n\n冬休みに入ってから、長らくやっていなかった小説をまた書いてみるかと思いつつ、あまり準備が出来ない昨今です。\n\n<!--more-->\n\nメールの整理しつつ、ニュースやTwitterを読むのを効率化したくて、もしかすると昔使っていたRSSリーダーなんかいいんじゃないかと思ってFeedlyとInoreaderをちょっと試してみていますが、どちらもよいところあるものの足りないところもあり……という感じですね。\n\nいわゆる広告メールみたいなものが全部フィードリーダーに入ればいいんじゃないかと思ったのですが、それを試すところまではいきませんでした。\n\n正直お値段がちょっと高いんですよね、この手のサービス。\n\n話は変わって、Echo Show 5のセール待ちをしているのですが、そのためにAmazonを見ていたら、Maker hartが新しいJust Comboというミキサーを出しています。\n\n[Just Combo by Maker hart](https://amzn.to/3CDaP7w)\n\nこれがなかなかカッコイイというか、この小ささなのに高機能なんですね。\n\n- Bluetoothオーディオ受信対応\n- ファンタム電源必要なマイクを駆動可（ミニプラグで本当にいいのかは知らないが）\n- ミックスした音をUSBでPCにオーディオ出力可\n\n配信向けによく使われるYAMAHAのAG03のようなオーディオインターフェイスと違って、細かな制約はちょこちょこあるんですが（出力ポートはUSB以外に2つあるが音量つまみが1つだけ、とか、USBオーディオ入力はできないとか）。ゲーム配信もやってやれないことはない感があります。\n\nこういう小さいけど高機能、な機材好きな私としてはかなり欲しい。でも、この手のデバイスが欲しい人は、おそらくオーディオインターフェイスをすでに持っている。なので。わざわざこれを買っても使うところがない……。難しいものです。\n\nでも欲しいんだよね。\n\n",
 				"date_published": "2022-01-01T17:55:00+09:00",
 				"url": "https://oeight.space/2022/01/01/175500.html",
-				"tags": ["Blog"]
+				"tags": ["Longform"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2021/12/25/183700.html",
@@ -678,7 +1381,7 @@
 				"content_text": "やる気がでなくて放置していたこと、当時はそうするしかなかったこと、とくに緊急性がなかったことをあれこれ見直そうとしている。\n\n<!--more-->\n\n口座・クレカの整理であったり、より強度の強いパスワードへの更新であったり、2要素認証に利用していたアプリの変更であったり。\n\n口座とクレカの件については、第一世代のiPhone SEの時ぐらいから通知がでるようになったApple Payの設定をしたことがきっかけ。\n\nもともとiPhone SEではクレカぐらいしか登録できなかったからスルーしていたんだけど、iPhone 8でもその辺あまり気にせずに放置してしまっていて、第二世代のiPhone SEへ換えてからApple Payを設定すると、あれこれと気になってきた。\n\n支払い方法はかなり早い時期にクレジットカード主体にしていて、初期のコンタクトレス（iDとかQUICPayだとか）も多少使っていたんだけど、店員の混乱等もあってクレジットカードが安定だなと判断していた。\n\n加えて、小さい財布を採用している関係でカードをたくさん持ち運びたくはないという理由もあった（プリペイド方式のnanacoとかをあまり持ち歩けなかった）。\n\nが、PayPayが流行りだした頃には使えない決済方式が採用されているケースがちょいちょいでてきていたし、Apple Payで滅多に使わない系の決済方式をiPhoneに全部入れてコンパクトに持ち運びできるようになったという後押しがあり、追加と統廃合を考え始めたのである。\n\nとりあえずどうしたかというと、非接触型のクレジットカード方式と比べてそこまでメリットを感じないQRコード方式をとりあえずPayPayだけ追加採用したのと、メインのクレジットカードが非接触型をサポートしててなおかつApple Payに入れられるので、非接触型が使えるという理由だけで契約していたクレジットカードを削減するなどした。nanacoは追加したし、交通系など元から持っていたものもApple Payに入れた。\n\nただまあちょっと難点があり、QUICPayが若干使えない状態にある。\n\nというのも、JCBのオリジナルカードを前から持っていて、Apple Payに入れるだけだと思ったらなぜかエラーになってしまったからだ。おそらくQUICPay搭載型カードをあえて選んだ関係ではないかと思われる。（後で問い合わせようと思って放置してしまっている）\n\n実はJCBのオリジナルカードは今度「コンタクトレス」という海外で流行ってる方式の非接触型決済を取り入れたカードにリニューアルされるのだが、普通のカードは期限前に早めに切り換えることができるのにQUICPay搭載カードは切り換えられないと書いてあるので、なんか特別な扱いっぽいのだ。\n\nまあJCBは日本のブランドだし、日頃お金を使うだけでクレジットカード会社が儲かるんなら日本の会社が儲かったほうが日本人として得がある可能性がある（社員の雇用分ぐらいは得だ）、ぐらいの感覚で維持してきたカードであって、正直あんまり使っていないのでこれを機に整理してもいいのではという感触もある。（ただ年会費を払うだけのカードと化している）\n\nできればApple Cardを早く国内展開して欲しい。国内の還元率ではApple関係3%、Apple Pay利用で2%、その他プラスチックカードとしての利用で1%というキャッシュバック率は無理なような気もするが、最近は日本でも還元率上がりつつあるし、Apple Cardならではのプライバシー保護の仕組みがよいので、これが出るならこれでいいなあという感じである。\n\n現在の提携会社であるゴールドマンサックスが頑張れば提供されるようになるのか、Appleが日本での提携会社を選べば提供されるようになるのかは分からないが、はやく上陸してほしい。無理かな。無理ではないと思うんだが。\n\nちなみに今はAmazonのゴールドカードを頻繁に使っていて、これはリニューアルでAmazon Prime Cardになる予定。Amazonでお買い物をする頻度が多かったのでこれはよかったが、近年やや利用率が低下している気がする。\n\nこの手のストア提携系のカードは昔楽天カードを持っていたこともあるが、使わなくなるときはめっきり使わなくなるので、三井住友カードとJCBカードを維持しているのはそういう理由もある。なお、三井住友カードも使わないカードとなっていたのと、新しくカードレスカード（専用のアプリで番号が見られるので、オンライン決済ではそれを使用する。\n\nまた、Apple Payなどに格納して使うことができるので店頭ではこの利用方式になる。旧来の磁気カードをスリットに通さないといけない端末を使っているところでは利用できない）が出たので、こちらに切り換える手続きをした。\n\n三井住友カードはナンバーレスカードというカード券面に番号が記載されていないカードも少し前に出しており、そちらにするかどうかは迷った。こちらは磁気のスリットに通す方式と非接触式が利用できるので、実質普通のカードである。（オンライン決済に使う時は専用アプリで番号を確認する必要はあるが）\n\nクレジットカードの一番古い方式は表面で凸で印字されている数字を請求書か何かに押しつけて打刻するというやつで、これはナンバーレスカードやカードレスカードではもちろんできない。\n\nというか比較的最近の文字が凸になっておらずプリント印刷だけのカードでもできない。でもこんな方式は日本ではまず見かけることがない。\n\nクレジットカードの話だけで2300文字を超えている。（文字数カウントがないと記事が書きにくいので、VScodeに拡張機能を入れた。[CharcterCount][1]というもので、2018年から更新されていないようだがちゃんと機能するようだ。まあ文字数カウントだし……1年や2年で考え方が変わるようなものではないか……）\n\nついでに[テキスト校正くん][2]も入れておくことにした。これだけの文で漢字の開き忘れが2点あったことと、複文が多くて一文で同一の助詞を使ってるよという指摘が7点だったのでまあセーフというところか。……と思いつつ、Hugo serverで見てみたら酷かった。一文が長すぎる。次から気をつけよう。\n\nとりあえず話が長くなったのでこれで終わりにしよう。\n\n\n最後にこのブログに使っているHugoで採用されているMarkdown記法の話。\n\nあまりリンクを貼らないのでいつも忘れてしまうがこういう感じの注釈スタイルで書くのがよいと思う。\n```\n[link_title][1]\n\n文書の末尾にでも\n[1]: URL\n```\n[1]: https://marketplace.visualstudio.com/items?itemName=8amjp.charactercount\n[2]: https://marketplace.visualstudio.com/items?itemName=ICS.japanese-proofreading\n",
 				"date_published": "2021-12-25T18:37:00+09:00",
 				"url": "https://oeight.space/2021/12/25/183700.html",
-				"tags": ["Blog"]
+				"tags": ["Longform"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2021/12/22/pixiv-fanbox-wwwpixivnetfanboxcr.html",
@@ -687,7 +1390,7 @@
 				"content_text": "Pixiv FANBOXというクリエイター支援プラットフォームがありまして、そちらでユーザーのページを作ってあります。\n\nブログ機能があるので、小説関係についてはそちらを使うことを考えていたのですが、趣味のゲームとか技術関係の話もありますので、基本的には自前のブログのほうがいいと考え直しました。\n\n[www.pixiv.net/fanbox/cr...](https://www.pixiv.net/fanbox/creator/2699365/post)\n\n",
 				"date_published": "2021-12-22T19:47:00+09:00",
 				"url": "https://oeight.space/2021/12/22/pixiv-fanbox-wwwpixivnetfanboxcr.html",
-				"tags": ["Info"]
+				"tags": ["Longform"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2021/12/22/190800.html",
@@ -696,7 +1399,7 @@
 				"content_text": "折口詠人のオンライン小説は、これらのサイトで公開しています。\nサイトによって公開作品が違いますのでよろしくお願いします。そろそろまた新作書きたいなあ。\n\n小説家になろう\n[mypage.syosetu.com/783906/](https://mypage.syosetu.com/783906/)\n\nカクヨム\n[kakuyomu.jp/users/oei...](https://kakuyomu.jp/users/oeight)\n\nmonogatary.com\n[monogatary.com/user_page...](https://monogatary.com/user_page/story/b3874925-ee17-11e8-ba03-0242ac120002)\n\nセルバンテス\n[cervan.jp/profile/7...](https://cervan.jp/profile/790)\n\nもし追加がありましたら更新します。\n",
 				"date_published": "2021-12-22T19:08:00+09:00",
 				"url": "https://oeight.space/2021/12/22/190800.html",
-				"tags": ["Novel"]
+				"tags": ["Longform"]
 			}
 	]
 }
