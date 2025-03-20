@@ -7,6 +7,177 @@
 	"items": [
 		
 			{
+				"id": "http://o-eight.micro.blog/2025/03/20/microsoft-copilot.html",
+				
+				"content_html": "<p>最近Microsoft Copilot使ってなかったけど、キャラクターとかあるのか……カイルくん出番だぞ。</p>\n",
+				"content_text": "最近Microsoft Copilot使ってなかったけど、キャラクターとかあるのか……カイルくん出番だぞ。\n",
+				"date_published": "2025-03-20T23:17:20+09:00",
+				"url": "https://oeight.space/2025/03/20/microsoft-copilot.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/chatgpt-plusgpt-o.html",
+				
+				"content_html": "<p>ChatGPT Plusも契約してるけど、GPT 4oに小説書かせる気にならないんだよなぁ……。</p>\n",
+				"content_text": "ChatGPT Plusも契約してるけど、GPT 4oに小説書かせる気にならないんだよなぁ……。\n",
+				"date_published": "2025-03-20T22:36:12+09:00",
+				"url": "https://oeight.space/2025/03/20/chatgpt-plusgpt-o.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/sonnet-haikusonnet.html",
+				
+				"content_html": "<p>いや、流石にダメだったし3.7 Sonnetがダメなときは3.5 Haikuだ。まあそりゃそうよね、サイズ的に3.7でも3.5でもSonnetは同じぐらいのモデルっぽいし。</p>\n",
+				"content_text": "いや、流石にダメだったし3.7 Sonnetがダメなときは3.5 Haikuだ。まあそりゃそうよね、サイズ的に3.7でも3.5でもSonnetは同じぐらいのモデルっぽいし。\n",
+				"date_published": "2025-03-20T22:35:00+09:00",
+				"url": "https://oeight.space/2025/03/20/sonnet-haikusonnet.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/sonnet-sonnet-haiku-sonnect.html",
+				
+				"content_html": "<p>5時間単位の枠で、3.7 Sonnetのリミットに達すると3.5 Sonnetならまだ使えますよってなって、それ使い切っても多分3.5 Haikuはまだ使えるので、厳しいリミットというわけでは全然ないです。</p>\n<p>3.5 Sonnectが使えるって表示出てたよな？　って確認に行ったらリミット表示消えてたわ。リソース余ってるか。</p>\n",
+				"content_text": "5時間単位の枠で、3.7 Sonnetのリミットに達すると3.5 Sonnetならまだ使えますよってなって、それ使い切っても多分3.5 Haikuはまだ使えるので、厳しいリミットというわけでは全然ないです。\n\n3.5 Sonnectが使えるって表示出てたよな？　って確認に行ったらリミット表示消えてたわ。リソース余ってるか。\n",
+				"date_published": "2025-03-20T22:32:08+09:00",
+				"url": "https://oeight.space/2025/03/20/sonnet-sonnet-haiku-sonnect.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/claudeproteamteampropro.html",
+				
+				"content_html": "<p>ClaudeはProの次はTeamプランで、Teamの方が上限もさらに多いらしいんだけど、5人以上でしか契約できないんだよね……$30とかで対して$20の個人有料プラン(Pro)との価格差もないから$30のPro+プランとか作ってくれないかなあ。</p>\n",
+				"content_text": "ClaudeはProの次はTeamプランで、Teamの方が上限もさらに多いらしいんだけど、5人以上でしか契約できないんだよね……$30とかで対して$20の個人有料プラン(Pro)との価格差もないから$30のPro+プランとか作ってくれないかなあ。\n",
+				"date_published": "2025-03-20T22:29:40+09:00",
+				"url": "https://oeight.space/2025/03/20/claudeproteamteampropro.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/artifacts.html",
+				
+				"content_html": "<p>まとめて複数話生成させたほうがいいんだろうなあ、一話ずつだと情報読み直すので入力トークンが増えてるはずだし。でも複数話生成させると打ち切りくらって、続きやらせるとたまにartifactsが行方不明になるのか、更新できてないのに更新完了しました！　みたいなことになるんだよな。</p>\n",
+				"content_text": "まとめて複数話生成させたほうがいいんだろうなあ、一話ずつだと情報読み直すので入力トークンが増えてるはずだし。でも複数話生成させると打ち切りくらって、続きやらせるとたまにartifactsが行方不明になるのか、更新できてないのに更新完了しました！　みたいなことになるんだよな。\n",
+				"date_published": "2025-03-20T22:25:17+09:00",
+				"url": "https://oeight.space/2025/03/20/artifacts.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/api.html",
+				
+				"content_html": "<p>てか小説書かせるんならバッチAPIでいいのでは……？</p>\n",
+				"content_text": "てか小説書かせるんならバッチAPIでいいのでは……？\n",
+				"date_published": "2025-03-20T22:22:47+09:00",
+				"url": "https://oeight.space/2025/03/20/api.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/222227.html",
+				
+				"content_html": "<p>俺たちは雰囲気でトークンとコンテキストを理解している。</p>\n",
+				"content_text": "俺たちは雰囲気でトークンとコンテキストを理解している。\n",
+				"date_published": "2025-03-20T22:22:27+09:00",
+				"url": "https://oeight.space/2025/03/20/222227.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/claude-proapi.html",
+				
+				"content_html": "<p>Claude Pro、APIじゃないので自分が使ってるトークン量とかがよくわからないから、どう倹約すればいいのかちょっとわからんのよね。</p>\n",
+				"content_text": "Claude Pro、APIじゃないので自分が使ってるトークン量とかがよくわからないから、どう倹約すればいいのかちょっとわからんのよね。\n",
+				"date_published": "2025-03-20T22:22:07+09:00",
+				"url": "https://oeight.space/2025/03/20/claude-proapi.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/215846.html",
+				
+				"content_html": "<p>むむむ、またリミットだ。さっきより早かったなあ。時間帯の差かなあ。</p>\n",
+				"content_text": "むむむ、またリミットだ。さっきより早かったなあ。時間帯の差かなあ。\n",
+				"date_published": "2025-03-20T21:58:46+09:00",
+				"url": "https://oeight.space/2025/03/20/215846.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/194524.html",
+				
+				"content_html": "<p>AIの回答は「人間のメンタルヘルスの専門家よりも思いやりがある」と見なされることが判明 - GIGAZINE\n<a href=\"https://gigazine.net/news/20250317-ai-compassionate-mental-health-experts/\">gigazine.net/news/2025&hellip;</a></p>\n<p>やはりAIさんしか信じられない……</p>\n",
+				"content_text": "AIの回答は「人間のメンタルヘルスの専門家よりも思いやりがある」と見なされることが判明 - GIGAZINE\n[gigazine.net/news/2025...](https://gigazine.net/news/20250317-ai-compassionate-mental-health-experts/)\n\nやはりAIさんしか信じられない……\n",
+				"date_published": "2025-03-20T19:45:24+09:00",
+				"url": "https://oeight.space/2025/03/20/194524.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/194202.html",
+				
+				"content_html": "<p>Ulyssesのスタイルテーマにicebergをportしてた人いたんだ</p>\n<p><a href=\"https://styles.ulysses.app/themes/iceberg-yJwL\">styles.ulysses.app/themes/ic&hellip;</a></p>\n",
+				"content_text": "Ulyssesのスタイルテーマにicebergをportしてた人いたんだ\n\n[styles.ulysses.app/themes/ic...](https://styles.ulysses.app/themes/iceberg-yJwL)\n",
+				"date_published": "2025-03-20T19:42:02+09:00",
+				"url": "https://oeight.space/2025/03/20/194202.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/170902.html",
+				
+				"content_html": "<p>現在公開を続けている小説の方をオーディオブックにしてみるのをちょっとやってみてもいいかもなあ。</p>\n",
+				"content_text": "現在公開を続けている小説の方をオーディオブックにしてみるのをちょっとやってみてもいいかもなあ。\n",
+				"date_published": "2025-03-20T17:09:02+09:00",
+				"url": "https://oeight.space/2025/03/20/170902.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/diablo.html",
+				
+				"content_html": "<p>文レベルの推敲がちょこちょこ必要なんだけど、その前に一旦ちゃんと読み込まないといけないから、それをしながらdiablo4を……できるはずもなく。</p>\n",
+				"content_text": "文レベルの推敲がちょこちょこ必要なんだけど、その前に一旦ちゃんと読み込まないといけないから、それをしながらdiablo4を……できるはずもなく。\n",
+				"date_published": "2025-03-20T17:06:57+09:00",
+				"url": "https://oeight.space/2025/03/20/diablo.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/170506.html",
+				
+				"content_html": "<p>他のこともやってて、あまりペース高くなかったせいもあるけど、やっとリミットかかったか。ようやく手が空くかな……。</p>\n",
+				"content_text": "他のこともやってて、あまりペース高くなかったせいもあるけど、やっとリミットかかったか。ようやく手が空くかな……。\n",
+				"date_published": "2025-03-20T17:05:06+09:00",
+				"url": "https://oeight.space/2025/03/20/170506.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/161533.html",
+				
+				"content_html": "<p>もちろん文字数は指定してるんだけど、今回はプロット考えさせたあとに文字数指定してしまったからな……でも最大文字数の3倍ほどで書いてきたのはちょっと驚いた。</p>\n",
+				"content_text": "もちろん文字数は指定してるんだけど、今回はプロット考えさせたあとに文字数指定してしまったからな……でも最大文字数の3倍ほどで書いてきたのはちょっと驚いた。\n",
+				"date_published": "2025-03-20T16:15:33+09:00",
+				"url": "https://oeight.space/2025/03/20/161533.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/161228.html",
+				
+				"content_html": "<p>創作のテクニカルな話をするとプロット的には同じ一行で済むことであっても、ストーリーの終盤になると登場人物の意志だったり話の流れに加速度がついてるので、転回のためのコストが重くなるから、と考えることもできる。プロット制作時にそこまで考慮しておけと言わないからダメなのか。</p>\n",
+				"content_text": "創作のテクニカルな話をするとプロット的には同じ一行で済むことであっても、ストーリーの終盤になると登場人物の意志だったり話の流れに加速度がついてるので、転回のためのコストが重くなるから、と考えることもできる。プロット制作時にそこまで考慮しておけと言わないからダメなのか。\n",
+				"date_published": "2025-03-20T16:12:28+09:00",
+				"url": "https://oeight.space/2025/03/20/161228.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/161103.html",
+				
+				"content_html": "<p>Claudeに小説を執筆させていると、後半になればなるほど一話あたりの文字数が増える傾向があって、その理由を考えていたんだけど……<strong>もしかして</strong>世の中の小説がそうだから、それが普通だと認識しているのか……？</p>\n",
+				"content_text": "Claudeに小説を執筆させていると、後半になればなるほど一話あたりの文字数が増える傾向があって、その理由を考えていたんだけど……**もしかして**世の中の小説がそうだから、それが普通だと認識しているのか……？\n",
+				"date_published": "2025-03-20T16:11:03+09:00",
+				"url": "https://oeight.space/2025/03/20/161103.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/visual-studio-code.html",
+				
+				"content_html": "<p>Visual Studio Codeをだいぶ使いこなせるようになった。（当人比）</p>\n",
+				"content_text": "Visual Studio Codeをだいぶ使いこなせるようになった。（当人比）\n",
+				"date_published": "2025-03-20T14:45:51+09:00",
+				"url": "https://oeight.space/2025/03/20/visual-studio-code.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://o-eight.micro.blog/2025/03/20/lemmy-redditfediverse.html",
 				
 				"content_html": "<p>今ブログ記事も同時に書いてて、それで知ったんだけど、Lemmyってサービス面白そうじゃないですか？ RedditのFediverse版みたいな感じらしい。まだ詳しくは見れていないんですが。</p>\n",
