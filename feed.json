@@ -7,6 +7,969 @@
 	"items": [
 		
 			{
+				"id": "http://o-eight.micro.blog/2025/03/25/233308.html",
+				
+				"content_html": "<p>小説のルビ入れを自動化したいなあ。自分はルビがほぼいらない人間だからどうしても後回しにしがちだ。</p>\n",
+				"content_text": "小説のルビ入れを自動化したいなあ。自分はルビがほぼいらない人間だからどうしても後回しにしがちだ。\n",
+				"date_published": "2025-03-25T23:33:08+09:00",
+				"url": "https://oeight.space/2025/03/25/233308.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/25/chatgptapple-scriptvs-codevs-code.html",
+				
+				"content_html": "<p>ChatGPTはまず「Apple Scriptで作ったら？」「マクロ系ツール使うのが楽だよ」って言ってきたし、それは正解だと思うけど、小説のことは全部VS codeにまとめたい（なんか言ってること変な感じあるけどVS codeが一番楽だから仕方ない）。</p>\n",
+				"content_text": "ChatGPTはまず「Apple Scriptで作ったら？」「マクロ系ツール使うのが楽だよ」って言ってきたし、それは正解だと思うけど、小説のことは全部VS codeにまとめたい（なんか言ってること変な感じあるけどVS codeが一番楽だから仕方ない）。\n",
+				"date_published": "2025-03-25T23:01:18+09:00",
+				"url": "https://oeight.space/2025/03/25/chatgptapple-scriptvs-codevs-code.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/25/ai.html",
+				
+				"content_html": "<p>逆に開発環境ごとの作法みたいなのはAIに任せる方が楽……いわゆる開発ガイドをちゃんと頭から読めばわかるはずだけど、それが怠い（要点だけ知りたい）ってのはよくあると思う……。</p>\n",
+				"content_text": "逆に開発環境ごとの作法みたいなのはAIに任せる方が楽……いわゆる開発ガイドをちゃんと頭から読めばわかるはずだけど、それが怠い（要点だけ知りたい）ってのはよくあると思う……。\n",
+				"date_published": "2025-03-25T22:58:57+09:00",
+				"url": "https://oeight.space/2025/03/25/ai.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/25/ai-os-urlidurl.html",
+				
+				"content_html": "<p>何ができて何ができないのかを理解している分にはAI任せでもまあサクサクできるよね……</p>\n<p>「クリップボードの中の監視とかは今のOSじゃ無理だな、ボタン押すたびに必要なもの取ってきてあとは貼るだけにしておこう」</p>\n<p>「外部ブラウザに正規のURL渡して開いてもらう分にはまぁ問題ないやろ……シリーズごとにIDらしきものがURLに入る点だけ押さえておけば大丈夫だな」</p>\n<p>みたいな考え方ができなくて、闇雲に頼むとうまくいかないだろうけど。</p>\n",
+				"content_text": "何ができて何ができないのかを理解している分にはAI任せでもまあサクサクできるよね……\n\n「クリップボードの中の監視とかは今のOSじゃ無理だな、ボタン押すたびに必要なもの取ってきてあとは貼るだけにしておこう」\n\n「外部ブラウザに正規のURL渡して開いてもらう分にはまぁ問題ないやろ……シリーズごとにIDらしきものがURLに入る点だけ押さえておけば大丈夫だな」\n\nみたいな考え方ができなくて、闇雲に頼むとうまくいかないだろうけど。\n",
+				"date_published": "2025-03-25T22:57:30+09:00",
+				"url": "https://oeight.space/2025/03/25/ai-os-urlidurl.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/25/225358.html",
+				
+				"content_html": "<p>小説投稿、コピペはいいんだけど、タイトルだけとか本文だけとかやるのめんどくさい……と思っていた時期もあったけどVS Codeの機能拡張作ればいいって気づいた。</p>\n<p>ChatGPTはなかなか有能で、拡張機能のテンプレをzipにまとめましょうかー？　とか言ってくれるんだけど、実際のコードはあんまり良くない（基本的な考慮抜けみたいなバグがある）ので、途中からCopilotのClaude 3.7 SonnetのExtended Thinking頼みで作ってもらった。</p>\n",
+				"content_text": "小説投稿、コピペはいいんだけど、タイトルだけとか本文だけとかやるのめんどくさい……と思っていた時期もあったけどVS Codeの機能拡張作ればいいって気づいた。\n\nChatGPTはなかなか有能で、拡張機能のテンプレをzipにまとめましょうかー？　とか言ってくれるんだけど、実際のコードはあんまり良くない（基本的な考慮抜けみたいなバグがある）ので、途中からCopilotのClaude 3.7 SonnetのExtended Thinking頼みで作ってもらった。\n",
+				"date_published": "2025-03-25T22:53:58+09:00",
+				"url": "https://oeight.space/2025/03/25/225358.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/25/chatgpt.html",
+				
+				"content_html": "<p>ChatGPTがこっちの要求文字数に素直に従わない件、もしかして……従ってはいるけど、言語が日本語ではないのでは？</p>\n",
+				"content_text": "ChatGPTがこっちの要求文字数に素直に従わない件、もしかして……従ってはいるけど、言語が日本語ではないのでは？\n",
+				"date_published": "2025-03-25T19:07:23+09:00",
+				"url": "https://oeight.space/2025/03/25/chatgpt.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/25/apple.html",
+				
+				"content_html": "<p>数年経って、Appleが「ヘッドフォンを再発明した」とか言って有線接続にしてこないだろうな……？</p>\n",
+				"content_text": "数年経って、Appleが「ヘッドフォンを再発明した」とか言って有線接続にしてこないだろうな……？\n",
+				"date_published": "2025-03-25T10:42:09+09:00",
+				"url": "https://oeight.space/2025/03/25/apple.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/25/chatgptmacos-chatgptmacosclaudeclaudeweb.html",
+				
+				"content_html": "<p>ChatGPTのmacOSアプリ更新したらチャット欄に最初に入力するときの説明文と二重になるバグが直ったし、その状態だと入力途中で確定されやすいのも直ったかも。</p>\n<p>ただし、アルファベットの後に日本語を入れると一文字目が消え失せるようになった（カナ入力限定かも？）。</p>\n<p>日本語入力に弱すぎるよChatGPTのmacOSアプリ（ここはClaudeの方がちゃんとやってる。ただし、ClaudeはWebの方がダメだったような……）。</p>\n",
+				"content_text": "ChatGPTのmacOSアプリ更新したらチャット欄に最初に入力するときの説明文と二重になるバグが直ったし、その状態だと入力途中で確定されやすいのも直ったかも。\n\nただし、アルファベットの後に日本語を入れると一文字目が消え失せるようになった（カナ入力限定かも？）。\n\n日本語入力に弱すぎるよChatGPTのmacOSアプリ（ここはClaudeの方がちゃんとやってる。ただし、ClaudeはWebの方がダメだったような……）。\n",
+				"date_published": "2025-03-25T10:38:36+09:00",
+				"url": "https://oeight.space/2025/03/25/chatgptmacos-chatgptmacosclaudeclaudeweb.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/25/max.html",
+				
+				"content_html": "<p>最新のチップのMaxが先行で対応して今後の普及機も将来対応みたいな話かと思ったが……まあロスレスはそうなるんだろうけど、超低遅延（有線接続）はなんだい。</p>\n",
+				"content_text": "最新のチップのMaxが先行で対応して今後の普及機も将来対応みたいな話かと思ったが……まあロスレスはそうなるんだろうけど、超低遅延（有線接続）はなんだい。\n",
+				"date_published": "2025-03-25T10:32:31+09:00",
+				"url": "https://oeight.space/2025/03/25/max.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/25/103001.html",
+				
+				"content_html": "<p>と思ったら超低遅延モードって有線接続じゃないか……</p>\n",
+				"content_text": "と思ったら超低遅延モードって有線接続じゃないか……\n",
+				"date_published": "2025-03-25T10:30:01+09:00",
+				"url": "https://oeight.space/2025/03/25/103001.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/25/102847.html",
+				
+				"content_html": "<p>噂をしていたら来るらしい。</p>\n<p>ロスレスオーディオ対応のAirPods Max\n<a href=\"https://www.perplexity.ai/page/lossless-audio-for-airpods-max-8ldICmfwRieVeEpO9.9CBA\">www.perplexity.ai/page/loss&hellip;</a></p>\n",
+				"content_text": "噂をしていたら来るらしい。\n\nロスレスオーディオ対応のAirPods Max\n[www.perplexity.ai/page/loss...](https://www.perplexity.ai/page/lossless-audio-for-airpods-max-8ldICmfwRieVeEpO9.9CBA)\n",
+				"date_published": "2025-03-25T10:28:47+09:00",
+				"url": "https://oeight.space/2025/03/25/102847.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/25/ai-claude-x-sonnetchatgpto.html",
+				
+				"content_html": "<p>AIは文体がダメみたいな言説を見かけるけど、やらせようとすればできますよ。</p>\n<p>ただ、文体に関しては、Claude 3.x Sonnetの方が文は上手いけど、上手いだけに文体を「均し」てしまうのが悩み。でもChatGPT-4oにやらせると小説にするのに四苦八苦だし……。</p>\n<p>ドラマの作り込みはどっちも指示が必要だと思う。紙上の迷宮の方はそこはフォーカスしてない。運命のミスリードは、三部で使った手法は機能した（ただし早くて2-3ヶ月後のリリースなんだよなあ）</p>\n",
+				"content_text": "AIは文体がダメみたいな言説を見かけるけど、やらせようとすればできますよ。\n\nただ、文体に関しては、Claude 3.x Sonnetの方が文は上手いけど、上手いだけに文体を「均し」てしまうのが悩み。でもChatGPT-4oにやらせると小説にするのに四苦八苦だし……。\n\nドラマの作り込みはどっちも指示が必要だと思う。紙上の迷宮の方はそこはフォーカスしてない。運命のミスリードは、三部で使った手法は機能した（ただし早くて2-3ヶ月後のリリースなんだよなあ）\n",
+				"date_published": "2025-03-25T09:47:23+09:00",
+				"url": "https://oeight.space/2025/03/25/ai-claude-x-sonnetchatgpto.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/25/090218.html",
+				"title": "紙上の迷宮 #03",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p name=\"233f6894-3d14-45e5-9361-c9d74830a0a2\" id=\"233f6894-3d14-45e5-9361-c9d74830a0a2\"># 第3話：音のしない列車</p><p name=\"d0d8de21-f97a-4dae-a77e-0af826d23421\" id=\"d0d8de21-f97a-4dae-a77e-0af826d23421\">（視点：小牧澄人）</p><br/><a href='https://note.com/o_eight/n/n7a5cbc90dfb3'>続きをみる</a>\n",
+				"date_published": "2025-03-25T09:02:18+09:00",
+				"url": "https://oeight.space/2025/03/25/090218.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/25/005325.html",
+				"title": "紙上の迷宮 #02",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p name=\"ddd48211-434e-4b52-a663-854de0b763d9\" id=\"ddd48211-434e-4b52-a663-854de0b763d9\"># 第2話：木の匂いの部屋</p><p name=\"09063e52-5f19-4f0e-a521-f8d1bf4dd346\" id=\"09063e52-5f19-4f0e-a521-f8d1bf4dd346\">（視点：アマンダ・フィッシャー）</p><br/><a href='https://note.com/o_eight/n/n7d025fcc5efb'>続きをみる</a>\n",
+				"date_published": "2025-03-25T00:53:25+09:00",
+				"url": "https://oeight.space/2025/03/25/005325.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/25/setappulyssescraft.html",
+				
+				"content_html": "<p>SetApp使えばUlyssesとCraftと後いくつかの必要なアプリを両方維持しても安上がりだなと気づいた。</p>\n",
+				"content_text": "SetApp使えばUlyssesとCraftと後いくつかの必要なアプリを両方維持しても安上がりだなと気づいた。\n",
+				"date_published": "2025-03-25T00:23:20+09:00",
+				"url": "https://oeight.space/2025/03/25/setappulyssescraft.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/25/note.html",
+				
+				"content_html": "<p>どちらも一応の最終話まで完成しておりますので、途中で途切れることは更新作業ミスらないかぎりないです（noteは一般ユーザーで予約投稿できないからやらかしそー）。</p>\n",
+				"content_text": "どちらも一応の最終話まで完成しておりますので、途中で途切れることは更新作業ミスらないかぎりないです（noteは一般ユーザーで予約投稿できないからやらかしそー）。\n",
+				"date_published": "2025-03-25T00:16:45+09:00",
+				"url": "https://oeight.space/2025/03/25/note.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/25/001552.html",
+				
+				"content_html": "<p>本日はAI Poweredな作品を2つ新しく始めました。</p>\n<p>運命のミスリード〜偽りの賢者と王女の真実の物語〜\n<a href=\"https://kakuyomu.jp/works/16818622171691812800\">kakuyomu.jp/works/168&hellip;</a></p>\n<p>紙上の迷宮(noteのマガジンに入れました。RSSでも取得できるらしい)\n<a href=\"https://note.com/o_eight/m/mccf029007b09\">note.com/o_eight/m&hellip;</a></p>\n<p>後者はめちゃくちゃ実験的な作品になるんで、創作小説マニア向けです。</p>\n",
+				"content_text": "本日はAI Poweredな作品を2つ新しく始めました。\n\n運命のミスリード〜偽りの賢者と王女の真実の物語〜\n[kakuyomu.jp/works/168...](https://kakuyomu.jp/works/16818622171691812800)\n\n紙上の迷宮(noteのマガジンに入れました。RSSでも取得できるらしい)\n[note.com/o_eight/m...](https://note.com/o_eight/m/mccf029007b09)\n\n\n後者はめちゃくちゃ実験的な作品になるんで、創作小説マニア向けです。\n",
+				"date_published": "2025-03-25T00:15:52+09:00",
+				"url": "https://oeight.space/2025/03/25/001552.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/note.html",
+				
+				"content_html": "<p>noteって予約投稿はプレミアムのみなのか！　いやーどこも公開が一番大変だ、自分のブログにあげた方がいいかもしれん……。</p>\n",
+				"content_text": "noteって予約投稿はプレミアムのみなのか！　いやーどこも公開が一番大変だ、自分のブログにあげた方がいいかもしれん……。\n",
+				"date_published": "2025-03-24T23:56:42+09:00",
+				"url": "https://oeight.space/2025/03/24/note.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/235346.html",
+				"title": "紙上の迷宮 #01",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p name=\"5df3d790-63d4-499a-af88-63faabb35267\" id=\"5df3d790-63d4-499a-af88-63faabb35267\"># 第1話：静かなノート</p><p name=\"264cfea6-bf9c-440b-9d63-8bd8295bcbbd\" id=\"264cfea6-bf9c-440b-9d63-8bd8295bcbbd\">（視点：清水まどか）</p><br/><a href='https://note.com/o_eight/n/n26d82deb516a'>続きをみる</a>\n",
+				"date_published": "2025-03-24T23:53:46+09:00",
+				"url": "https://oeight.space/2025/03/24/235346.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/220354.html",
+				
+				"content_html": "<p>カクヨムのルビ入れって全部AIでできないか？</p>\n",
+				"content_text": "カクヨムのルビ入れって全部AIでできないか？\n",
+				"date_published": "2025-03-24T22:03:54+09:00",
+				"url": "https://oeight.space/2025/03/24/220354.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/markdown.html",
+				
+				"content_html": "<p>小説をMarkdownで書かせると場面転換の記号が「&mdash;」になりがち</p>\n",
+				"content_text": "小説をMarkdownで書かせると場面転換の記号が「---」になりがち\n",
+				"date_published": "2025-03-24T21:50:51+09:00",
+				"url": "https://oeight.space/2025/03/24/markdown.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/214824.html",
+				
+				"content_html": "<p>なんとかとかんとかは企業でよく使うやつだけどあえて書かない……。</p>\n",
+				"content_text": "なんとかとかんとかは企業でよく使うやつだけどあえて書かない……。\n",
+				"date_published": "2025-03-24T21:48:24+09:00",
+				"url": "https://oeight.space/2025/03/24/214824.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/sqlvbarpa.html",
+				
+				"content_html": "<p>SQLなら自然言語みたいなもんだから開発者じゃなくても一般人がデータにアクセスできるよねっていう……昔はマジでそれを言っていた。で、マクロとかVBAとかなんとかとかかんとかとかRPAとかになっていった。</p>\n",
+				"content_text": "SQLなら自然言語みたいなもんだから開発者じゃなくても一般人がデータにアクセスできるよねっていう……昔はマジでそれを言っていた。で、マクロとかVBAとかなんとかとかかんとかとかRPAとかになっていった。\n",
+				"date_published": "2025-03-24T21:47:53+09:00",
+				"url": "https://oeight.space/2025/03/24/sqlvbarpa.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/214628.html",
+				
+				"content_html": "<p>だんだんカスタムルールの方が増えてきた。</p>\n<p>数日前からずっと思ってるけど、LLMってエンドユーザーコンピューティング(EUC)をかなり現実のものにするよね。古の昔からあるけどあんまり実現されないEUC。</p>\n<p><a href=\"https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%83%89%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0\">ja.wikipedia.org/wiki/%E3%&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "だんだんカスタムルールの方が増えてきた。\n\n数日前からずっと思ってるけど、LLMってエンドユーザーコンピューティング(EUC)をかなり現実のものにするよね。古の昔からあるけどあんまり実現されないEUC。\n\n\n[ja.wikipedia.org/wiki/%E3%...](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%83%89%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/3cd6d2e639.png\" width=\"600\" height=\"87\" alt=\"\">\n",
+				"date_published": "2025-03-24T21:46:28+09:00",
+				"url": "https://oeight.space/2025/03/24/214628.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/214256.html",
+				
+				"content_html": "<p>!の発想があれば救われた時間が3時間はあった</p>\n",
+				"content_text": "!の発想があれば救われた時間が3時間はあった\n",
+				"date_published": "2025-03-24T21:42:56+09:00",
+				"url": "https://oeight.space/2025/03/24/214256.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/214200.html",
+				
+				"content_html": "<p>textlint（ではなくvscode-textlint）の除外でずっとハマっていたけど、結局.vscode/setting.jsonで除外が書けるとはしらなんだ。</p>\n<p>ターゲットを指定できるだけだと思ってたけど、こうすればいいのね。</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"><code class=\"language-json\" data-lang=\"json\">    <span style=\"color:#e6db74\">&#34;textlint.targetFiles&#34;</span><span style=\"color:#960050;background-color:#1e0010\">:</span> [\n        <span style=\"color:#e6db74\">&#34;**/*.md&#34;</span>,\n        <span style=\"color:#e6db74\">&#34;!**/FateMisreadRevised/rules/**&#34;</span>\n    ]<span style=\"color:#960050;background-color:#1e0010\">,</span>\n</code></pre></div>",
+				"content_text": "textlint（ではなくvscode-textlint）の除外でずっとハマっていたけど、結局.vscode/setting.jsonで除外が書けるとはしらなんだ。\n\nターゲットを指定できるだけだと思ってたけど、こうすればいいのね。\n\n```json\n    \"textlint.targetFiles\": [\n        \"**/*.md\",\n        \"!**/FateMisreadRevised/rules/**\"\n    ],\n```\n",
+				"date_published": "2025-03-24T21:42:00+09:00",
+				"url": "https://oeight.space/2025/03/24/214200.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/chatgpt.html",
+				
+				"content_html": "<p>本当にテクニカルライティング気質だよChatGPTは</p>\n",
+				"content_text": "本当にテクニカルライティング気質だよChatGPTは\n",
+				"date_published": "2025-03-24T19:59:18+09:00",
+				"url": "https://oeight.space/2025/03/24/chatgpt.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/195705.html",
+				
+				"content_html": "<p>ある程度プロット厚くないと無理っぽいなあ、と前回ので思ったから、1話に20行のプロット作らせてるのにそこから原稿書いて1000文字で出してくる……60行のプロットがいるのか？　んなわけ……。</p>\n",
+				"content_text": "ある程度プロット厚くないと無理っぽいなあ、と前回ので思ったから、1話に20行のプロット作らせてるのにそこから原稿書いて1000文字で出してくる……60行のプロットがいるのか？　んなわけ……。\n",
+				"date_published": "2025-03-24T19:57:05+09:00",
+				"url": "https://oeight.space/2025/03/24/195705.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/o.html",
+				
+				"content_html": "<p>4oは小説書けない（結論）。プロットは書けるし、文体の柔軟性もある。でも長く書けない。</p>\n",
+				"content_text": "4oは小説書けない（結論）。プロットは書けるし、文体の柔軟性もある。でも長く書けない。\n",
+				"date_published": "2025-03-24T19:55:09+09:00",
+				"url": "https://oeight.space/2025/03/24/o.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/chatgpto.html",
+				
+				"content_html": "<p>ChatGPT-4oは木で鼻をくくったような文を書く……とまでは言わないけど、とにかく長く書く習慣がないんだよね。</p>\n<p>一話3000文字程度を書くためのプロットって指定して作らせたはずなのに、1000文字で書いてくるし、2-3倍にできる？　って言ったら2000文字にしてきて、6000字ぐらいにしてくれって言ったら2200字にしてきた。</p>\n",
+				"content_text": "ChatGPT-4oは木で鼻をくくったような文を書く……とまでは言わないけど、とにかく長く書く習慣がないんだよね。\n\n一話3000文字程度を書くためのプロットって指定して作らせたはずなのに、1000文字で書いてくるし、2-3倍にできる？　って言ったら2000文字にしてきて、6000字ぐらいにしてくれって言ったら2200字にしてきた。\n",
+				"date_published": "2025-03-24T19:54:32+09:00",
+				"url": "https://oeight.space/2025/03/24/chatgpto.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/195136.html",
+				
+				"content_html": "<p>ChatGPT-4oに書かせた小説プロットやら諸々の設定資料をChatGPT-4oに与えるよりClaude 3.7 Sonnet (Extended Thinking)に与えた方が小説らしくなるのおかしいだろ……。</p>\n<p>いやまあExtended Thinkingが強いのはあるけど、普通のモードでも普通に小説らしく書くからね……。なんなら3.5でも多分小説っぽく書くと思う。</p>\n",
+				"content_text": "ChatGPT-4oに書かせた小説プロットやら諸々の設定資料をChatGPT-4oに与えるよりClaude 3.7 Sonnet (Extended Thinking)に与えた方が小説らしくなるのおかしいだろ……。\n\nいやまあExtended Thinkingが強いのはあるけど、普通のモードでも普通に小説らしく書くからね……。なんなら3.5でも多分小説っぽく書くと思う。\n",
+				"date_published": "2025-03-24T19:51:36+09:00",
+				"url": "https://oeight.space/2025/03/24/195136.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/setapp.html",
+				
+				"content_html": "<p>ああー。SetAppあるの忘れてたなあ。今度あれにするか。</p>\n",
+				"content_text": "ああー。SetAppあるの忘れてたなあ。今度あれにするか。\n",
+				"date_published": "2025-03-24T18:50:53+09:00",
+				"url": "https://oeight.space/2025/03/24/setapp.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/claudechatgptchatgptllm.html",
+				
+				"content_html": "<p>一般の人にはClaudeよりChatGPTが向いてるよなあ、と思うなどした。コーディング能力と執筆能力は高いんだけど、ChatGPTみたいに長く話してると適当にメモリ更新してくれて〜みたいなのないし。LLM以外が足りてないんだよね。</p>\n",
+				"content_text": "一般の人にはClaudeよりChatGPTが向いてるよなあ、と思うなどした。コーディング能力と執筆能力は高いんだけど、ChatGPTみたいに長く話してると適当にメモリ更新してくれて〜みたいなのないし。LLM以外が足りてないんだよね。\n",
+				"date_published": "2025-03-24T16:17:55+09:00",
+				"url": "https://oeight.space/2025/03/24/claudechatgptchatgptllm.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/130833.html",
+				
+				"content_html": "<p>クラウドフレアのボット捕獲AI迷宮\n<a href=\"https://www.perplexity.ai/page/cloudflare-s-bot-trapping-ai-l-6z1w1ENhTPqNfy4h2AEbpQ\">www.perplexity.ai/page/clou&hellip;</a></p>\n<p>シュールだ</p>\n",
+				"content_text": "クラウドフレアのボット捕獲AI迷宮 \n[www.perplexity.ai/page/clou...](https://www.perplexity.ai/page/cloudflare-s-bot-trapping-ai-l-6z1w1ENhTPqNfy4h2AEbpQ)\n\nシュールだ\n",
+				"date_published": "2025-03-24T13:08:33+09:00",
+				"url": "https://oeight.space/2025/03/24/130833.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/web.html",
+				
+				"content_html": "<p>Web小説っていう枠組みだと、文字数というか話数が少ないのは長く楽しめないという欠点のほうが強いからなあ。破綻なく長く続けさせるための方法論を考えていたところはある。</p>\n",
+				"content_text": "Web小説っていう枠組みだと、文字数というか話数が少ないのは長く楽しめないという欠点のほうが強いからなあ。破綻なく長く続けさせるための方法論を考えていたところはある。\n",
+				"date_published": "2025-03-24T13:02:07+09:00",
+				"url": "https://oeight.space/2025/03/24/web.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/125947.html",
+				
+				"content_html": "<p>そろそろ一回今の自分が思う限りのものを詰め込んで、18万字ぐらいで傑作にチャレンジしてもらうかなあ。でも、書かせてみないとわからないことが多いんですよね。まだまだ「なるほど、AIはこれに対してそう書いてくるんだ」ってなること多い。</p>\n",
+				"content_text": "そろそろ一回今の自分が思う限りのものを詰め込んで、18万字ぐらいで傑作にチャレンジしてもらうかなあ。でも、書かせてみないとわからないことが多いんですよね。まだまだ「なるほど、AIはこれに対してそう書いてくるんだ」ってなること多い。\n",
+				"date_published": "2025-03-24T12:59:47+09:00",
+				"url": "https://oeight.space/2025/03/24/125947.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/125439.html",
+				
+				"content_html": "<p>ただまああまりにも生成量が高くてチェックがボトルネックになるという……</p>\n",
+				"content_text": "ただまああまりにも生成量が高くてチェックがボトルネックになるという……\n",
+				"date_published": "2025-03-24T12:54:39+09:00",
+				"url": "https://oeight.space/2025/03/24/125439.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/125352.html",
+				
+				"content_html": "<p>コンテンツクリエイターは「量は才能」（もちろん鍛錬の上で）ですからね</p>\n",
+				"content_text": "コンテンツクリエイターは「量は才能」（もちろん鍛錬の上で）ですからね\n",
+				"date_published": "2025-03-24T12:53:52+09:00",
+				"url": "https://oeight.space/2025/03/24/125352.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/125216.html",
+				
+				"content_html": "<p>自分はまともな原稿生産量にしようとすると体壊れてたからなあ</p>\n",
+				"content_text": "自分はまともな原稿生産量にしようとすると体壊れてたからなあ\n",
+				"date_published": "2025-03-24T12:52:16+09:00",
+				"url": "https://oeight.space/2025/03/24/125216.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/ai.html",
+				
+				"content_html": "<p>AIは原稿執筆の馬力自体はめちゃくちゃある。これが壊滅的だった自分的には本当に嬉しい。100回でも文句言わずに（上限に達しました、を除く）20万字書き直してくれるのはすごい</p>\n",
+				"content_text": "AIは原稿執筆の馬力自体はめちゃくちゃある。これが壊滅的だった自分的には本当に嬉しい。100回でも文句言わずに（上限に達しました、を除く）20万字書き直してくれるのはすごい\n",
+				"date_published": "2025-03-24T12:51:39+09:00",
+				"url": "https://oeight.space/2025/03/24/ai.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/125021.html",
+				
+				"content_html": "<p>言語化できてないような創作の癖（テクニック）でもあるは結構色々あるんですよね……しかも困ったことに自分が物書きとしてはレベルが低いからなあ。指示すべきなのに指示できてないことがどれだけあるんだろうと思ってしまう。</p>\n",
+				"content_text": "言語化できてないような創作の癖（テクニック）でもあるは結構色々あるんですよね……しかも困ったことに自分が物書きとしてはレベルが低いからなあ。指示すべきなのに指示できてないことがどれだけあるんだろうと思ってしまう。\n",
+				"date_published": "2025-03-24T12:50:21+09:00",
+				"url": "https://oeight.space/2025/03/24/125021.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/textlint.html",
+				
+				"content_html": "<p>textlintのカスタムルールは結局3つまで増えた。</p>\n",
+				"content_text": "textlintのカスタムルールは結局3つまで増えた。\n",
+				"date_published": "2025-03-24T12:48:31+09:00",
+				"url": "https://oeight.space/2025/03/24/textlint.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/it-todo.html",
+				
+				"content_html": "<p>今回結構難儀したポイント、次に改善する手法は検討済み。おそらくこれでなんとかなると思いたい。IT的には間違っていないはず。</p>\n<p>それはそれとして自分が容姿描写しない癖があってその文体を真似させてるから容姿描写不足なんだよな。自分なら自然にやる「初出時には容姿描写をちゃんとやっておく」とかの指示が抜けてるのもToDoに入れておかないと。</p>\n",
+				"content_text": "今回結構難儀したポイント、次に改善する手法は検討済み。おそらくこれでなんとかなると思いたい。IT的には間違っていないはず。\n\nそれはそれとして自分が容姿描写しない癖があってその文体を真似させてるから容姿描写不足なんだよな。自分なら自然にやる「初出時には容姿描写をちゃんとやっておく」とかの指示が抜けてるのもToDoに入れておかないと。\n",
+				"date_published": "2025-03-24T12:48:09+09:00",
+				"url": "https://oeight.space/2025/03/24/it-todo.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/24/aiweb-httpskakuyomujpmyworks-aiai.html",
+				
+				"content_html": "<p>AIを使用したWeb小説、『運命のミスリード』の公開を開始しました。</p>\n<p>最初の方は1話あたりの文字数少なめなので、複数回更新から始めます。</p>\n<p><a href=\"https://kakuyomu.jp/my/works/16818622171691812800\">kakuyomu.jp/my/works/&hellip;</a></p>\n<p>この次は方向性を変えて、もっとライトな一人称のものを書いてみたい（書かせてみたい）です。これはわりと早くスタートすると思います。</p>\n<p>そしてその次は、今作の3部に使用した技法に加えて、さらに技法を追加したものを書かせたいと思っています。（創作論的には複合可能。ただし現在のAIでは技術的な問題があるので、AIとバチバチに議論してから……）</p>\n<p>予定は未定。</p>\n",
+				"content_text": "AIを使用したWeb小説、『運命のミスリード』の公開を開始しました。\n\n最初の方は1話あたりの文字数少なめなので、複数回更新から始めます。\n\n[kakuyomu.jp/my/works/...](https://kakuyomu.jp/my/works/16818622171691812800)\n\nこの次は方向性を変えて、もっとライトな一人称のものを書いてみたい（書かせてみたい）です。これはわりと早くスタートすると思います。\n\nそしてその次は、今作の3部に使用した技法に加えて、さらに技法を追加したものを書かせたいと思っています。（創作論的には複合可能。ただし現在のAIでは技術的な問題があるので、AIとバチバチに議論してから……）\n\n予定は未定。\n",
+				"date_published": "2025-03-24T12:39:44+09:00",
+				"url": "https://oeight.space/2025/03/24/aiweb-httpskakuyomujpmyworks-aiai.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/claude-sonnetnodemodule-gemini-flash.html",
+				
+				"content_html": "<p>Claude 3.7 Sonnetくんありがとう。最後に君が「ちゃんとしたnode_moduleにする方が確実だと思うよ」って言ってくれて助かった。</p>\n<p>Gemini 2.0 Flashくんも途中まではありがとう。</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Claude 3.7 Sonnetくんありがとう。最後に君が「ちゃんとしたnode_moduleにする方が確実だと思うよ」って言ってくれて助かった。\n\nGemini 2.0 Flashくんも途中まではありがとう。\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/c620d952c3.png\" width=\"600\" height=\"345\" alt=\"\">\n",
+				"date_published": "2025-03-23T23:06:16+09:00",
+				"url": "https://oeight.space/2025/03/23/claude-sonnetnodemodule-gemini-flash.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/textlintllm.html",
+				
+				"content_html": "<p>「困った…」とかやってるのを直すためのtextlintのルールは導入できたけど、LLMが独創性を発揮して「困った&hellip;」とピリオド3連続で回避してきたので、それに対するルールをカスタムルールで作ろうとして時間を取られている……あのさあ</p>\n",
+				"content_text": "「困った…」とかやってるのを直すためのtextlintのルールは導入できたけど、LLMが独創性を発揮して「困った...」とピリオド3連続で回避してきたので、それに対するルールをカスタムルールで作ろうとして時間を取られている……あのさあ\n",
+				"date_published": "2025-03-23T22:58:09+09:00",
+				"url": "https://oeight.space/2025/03/23/textlintllm.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/215210.html",
+				
+				"content_html": "<p>今日から新しい小説の公開も開始したかったけど、まあ余計なことやってたりとか、完全にプロットの組み直しまで一回戻ったとかはあるんだけど……。</p>\n<p>読む方をサボってて読み終わらないんですよねー……。最後まで読んでから公開したいし。</p>\n",
+				"content_text": "今日から新しい小説の公開も開始したかったけど、まあ余計なことやってたりとか、完全にプロットの組み直しまで一回戻ったとかはあるんだけど……。\n\n読む方をサボってて読み終わらないんですよねー……。最後まで読んでから公開したいし。\n",
+				"date_published": "2025-03-23T21:52:10+09:00",
+				"url": "https://oeight.space/2025/03/23/215210.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/obsidian-vs-codegitsyncgit.html",
+				
+				"content_html": "<p>Obsidianって難しいアプリだね。</p>\n<p>VS Codeと機能拡張とgitを使ってできるようなことが簡単にできる（Syncに加入しているとバージョン管理もついてくるので）……。ただし、gitほどの高度な柔軟性と信頼性は持っていない。</p>\n<p>という感じで一般人向けのアプリだとは思うんだけど、一般人が使うにはカスタマイズ性能が高すぎてちょっと難しい感じある。でもまあプラグインモデルは最高だね。</p>\n",
+				"content_text": "Obsidianって難しいアプリだね。\n\nVS Codeと機能拡張とgitを使ってできるようなことが簡単にできる（Syncに加入しているとバージョン管理もついてくるので）……。ただし、gitほどの高度な柔軟性と信頼性は持っていない。\n\nという感じで一般人向けのアプリだとは思うんだけど、一般人が使うにはカスタマイズ性能が高すぎてちょっと難しい感じある。でもまあプラグインモデルは最高だね。\n",
+				"date_published": "2025-03-23T21:50:30+09:00",
+				"url": "https://oeight.space/2025/03/23/obsidian-vs-codegitsyncgit.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/anthropic-sonnethaiku.html",
+				
+				"content_html": "<p>なるべくAnthropicにお金を落としたい（3.7 Sonnetが非常に優秀なので）んだけど、Haikuとか使えないんだっけ……と思ったらなかった。まあ流石に無理めではあるとは思うが……。</p>\n",
+				"content_text": "なるべくAnthropicにお金を落としたい（3.7 Sonnetが非常に優秀なので）んだけど、Haikuとか使えないんだっけ……と思ったらなかった。まあ流石に無理めではあるとは思うが……。\n",
+				"date_published": "2025-03-23T21:45:09+09:00",
+				"url": "https://oeight.space/2025/03/23/anthropic-sonnethaiku.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/llm.html",
+				
+				"content_html": "<p>まあ正直この程度の直しなら聞かなくて自分の判断でサクッと変えたほうがいいし、賛成しがちなLLMに聞くのなら「異論・反対・提案は歓迎です」って書かないと意味がないかも。</p>\n",
+				"content_text": "まあ正直この程度の直しなら聞かなくて自分の判断でサクッと変えたほうがいいし、賛成しがちなLLMに聞くのなら「異論・反対・提案は歓迎です」って書かないと意味がないかも。\n",
+				"date_published": "2025-03-23T21:36:34+09:00",
+				"url": "https://oeight.space/2025/03/23/llm.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/claude-sonnetgemini-flash.html",
+				
+				"content_html": "<p>簡単な直しはClaude 3.7 SonnetじゃなくてGemini 2.0 Flashの方がレスポンスも早くていいかもなあ。しかし、これができるのは面白いね。</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "簡単な直しはClaude 3.7 SonnetじゃなくてGemini 2.0 Flashの方がレスポンスも早くていいかもなあ。しかし、これができるのは面白いね。\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/8324f1a2b1.png\" width=\"490\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/203843/2025/f505dd7f1a.png\" width=\"547\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-03-23T21:34:56+09:00",
+				"url": "https://oeight.space/2025/03/23/claude-sonnetgemini-flash.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/pop-clipuu-pearl-clip-procc.html",
+				
+				"content_html": "<p>ちょっとだけ聞いた感触だけど、音質的には今度買ったPOP Clip（UU イヤーカフ）より、これまで持っていたPearl Clip Pro（CC イヤーカフ）の方がだいぶよさそう。</p>\n<p>まあ一個イヤフォンがダメになっちゃって、気楽に長く動かせるやつ欲しかったのでこれにしただけなので……。</p>\n",
+				"content_text": "ちょっとだけ聞いた感触だけど、音質的には今度買ったPOP Clip（UU イヤーカフ）より、これまで持っていたPearl Clip Pro（CC イヤーカフ）の方がだいぶよさそう。\n\nまあ一個イヤフォンがダメになっちゃって、気楽に長く動かせるやつ欲しかったのでこれにしただけなので……。\n",
+				"date_published": "2025-03-23T20:01:01+09:00",
+				"url": "https://oeight.space/2025/03/23/pop-clipuu-pearl-clip-procc.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/obsidian.html",
+				
+				"content_html": "<p>ブログ用のワークスペースと小説用のワークスペースで色も分けた方がいいな、Obsidianも別がいい。全てを統一したら全てが同じに見えるようになってきた。</p>\n",
+				"content_text": "ブログ用のワークスペースと小説用のワークスペースで色も分けた方がいいな、Obsidianも別がいい。全てを統一したら全てが同じに見えるようになってきた。\n",
+				"date_published": "2025-03-23T19:05:43+09:00",
+				"url": "https://oeight.space/2025/03/23/obsidian.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/190059.html",
+				
+				"content_html": "<p>自分の目にとって優しいのに統一したかっただけなんですよ……なるほどね。</p>\n",
+				"content_text": "自分の目にとって優しいのに統一したかっただけなんですよ……なるほどね。\n",
+				"date_published": "2025-03-23T19:00:59+09:00",
+				"url": "https://oeight.space/2025/03/23/190059.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/190031.html",
+				
+				"content_html": "<p>当たり前のことを言います。</p>\n<p>全部カラーテーマ同じにしたら一見した範囲ではどれがどれだかわからなくなった（涙）。</p>\n",
+				"content_text": "当たり前のことを言います。\n\n全部カラーテーマ同じにしたら一見した範囲ではどれがどれだかわからなくなった（涙）。\n",
+				"date_published": "2025-03-23T19:00:31+09:00",
+				"url": "https://oeight.space/2025/03/23/190031.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/180840.html",
+				
+				"content_html": "<p>元からアーカイブ全部残すことは考えてないけど、最新のが残らないのはよくないな。</p>\n",
+				"content_text": "元からアーカイブ全部残すことは考えてないけど、最新のが残らないのはよくないな。\n",
+				"date_published": "2025-03-23T18:08:40+09:00",
+				"url": "https://oeight.space/2025/03/23/180840.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/180725.html",
+				
+				"content_html": "<p>あー完全に保存できてない。これは12時間で打ち切って回した方がいいやつか……。</p>\n",
+				"content_text": "あー完全に保存できてない。これは12時間で打ち切って回した方がいいやつか……。\n",
+				"date_published": "2025-03-23T18:07:25+09:00",
+				"url": "https://oeight.space/2025/03/23/180725.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/youtube.html",
+				
+				"content_html": "<p>YouTube、12時間以上だとアーカイブが打ち切られるだけという認識だったけどアーカイブアクセスできませんって出るな、72時間超えたりすると完全にダメとかあるのかな……定期的に開き直した方がよさそうではあるなあ。</p>\n",
+				"content_text": "YouTube、12時間以上だとアーカイブが打ち切られるだけという認識だったけどアーカイブアクセスできませんって出るな、72時間超えたりすると完全にダメとかあるのかな……定期的に開き直した方がよさそうではあるなあ。\n",
+				"date_published": "2025-03-23T17:46:42+09:00",
+				"url": "https://oeight.space/2025/03/23/youtube.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/chatgptgeminigitgit.html",
+				
+				"content_html": "<p>ChatGPTのメモリ機能（Geminiにも似たようなのあるね）の悪いところばかりが目立っていたけど、いいところもあって、自分がいつも「これgitリポジトリに含めるのがベストプラクティス？」って聞いてるせいか、聞かなくても「これはgitに含めたほうがいいぞよ……理由はこれじゃ！」って言ってくれるようになった。</p>\n",
+				"content_text": "ChatGPTのメモリ機能（Geminiにも似たようなのあるね）の悪いところばかりが目立っていたけど、いいところもあって、自分がいつも「これgitリポジトリに含めるのがベストプラクティス？」って聞いてるせいか、聞かなくても「これはgitに含めたほうがいいぞよ……理由はこれじゃ！」って言ってくれるようになった。\n",
+				"date_published": "2025-03-23T17:01:53+09:00",
+				"url": "https://oeight.space/2025/03/23/chatgptgeminigitgit.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/obsidian-oeightme.html",
+				
+				"content_html": "<p><a href=\"https://oeight.me/posts/20250323-1526/\">そうだ、Obsidianにしよう | oeight.me</a></p>\n<p>ブログ更新しましたん。</p>\n",
+				"content_text": "[そうだ、Obsidianにしよう | oeight.me](https://oeight.me/posts/20250323-1526/)\n\nブログ更新しましたん。\n\n",
+				"date_published": "2025-03-23T16:15:08+09:00",
+				"url": "https://oeight.space/2025/03/23/obsidian-oeightme.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/soundpeatspearl-clip-pro.html",
+				
+				"content_html": "<p>前にSoundpeatsのPearl Clip Proというイヤーカフ型のイヤフォンがいいよと書いたことがあったと思いますが。</p>\n<p>結果、こうなりました。イヤフォンが生えるよお。</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "前にSoundpeatsのPearl Clip Proというイヤーカフ型のイヤフォンがいいよと書いたことがあったと思いますが。\n\n結果、こうなりました。イヤフォンが生えるよお。\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/image.jpg\" width=\"277\" height=\"600\" alt=\"A screenshot with the word &quot;Soundpeats POP Clip&quot; marked.\">\n",
+				"date_published": "2025-03-23T16:11:55+09:00",
+				"url": "https://oeight.space/2025/03/23/soundpeatspearl-clip-pro.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/132142.html",
+				
+				"content_html": "<p>環境だいぶ現代的になった。BearのノートをObsidianにインポートしたし、CalendarとTasksを入れて、デイリーノートのテンプレートとか書いて直近で終わらせないといけないタスク拾ってこれるようにしたりして、タスク管理系もある程度できるようにした。</p>\n<p>Smart Composerも入れてGemini APIの無料利用枠でGithub Copilotのチャットっぽい操作ができるようにもした。まだ動かしてないけど。</p>\n<p>とりあえずお寿司でも食べに行くか。</p>\n",
+				"content_text": "環境だいぶ現代的になった。BearのノートをObsidianにインポートしたし、CalendarとTasksを入れて、デイリーノートのテンプレートとか書いて直近で終わらせないといけないタスク拾ってこれるようにしたりして、タスク管理系もある程度できるようにした。\n\nSmart Composerも入れてGemini APIの無料利用枠でGithub Copilotのチャットっぽい操作ができるようにもした。まだ動かしてないけど。\n\nとりあえずお寿司でも食べに行くか。\n",
+				"date_published": "2025-03-23T13:21:42+09:00",
+				"url": "https://oeight.space/2025/03/23/132142.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/ulyssesobsidianvs-code-bearobsidian.html",
+				
+				"content_html": "<p>Ulysses、思い入れもあるけどだいぶ時間が経ってもあんまり更新されてない（いやそうでもないか……でも日本語向けの部分が気が利いてないまま）のが現状だし、これやめてObsidianとVS codeをメインにしていこうかな。</p>\n<p>BearもObsidianにできそう。</p>\n",
+				"content_text": "Ulysses、思い入れもあるけどだいぶ時間が経ってもあんまり更新されてない（いやそうでもないか……でも日本語向けの部分が気が利いてないまま）のが現状だし、これやめてObsidianとVS codeをメインにしていこうかな。\n\nBearもObsidianにできそう。\n",
+				"date_published": "2025-03-23T10:56:34+09:00",
+				"url": "https://oeight.space/2025/03/23/ulyssesobsidianvs-code-bearobsidian.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/001219.html",
+				
+				"content_html": "<p>あれ？　時間が消えたぞ……？</p>\n",
+				"content_text": "あれ？　時間が消えたぞ……？\n",
+				"date_published": "2025-03-23T00:12:19+09:00",
+				"url": "https://oeight.space/2025/03/23/001219.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/23/discordapi.html",
+				
+				"content_html": "<p>自分にメッセージ送ったり通知したかったりしたら、DiscordのAPI使えばいいんでは？　とふと気がついた。</p>\n",
+				"content_text": "自分にメッセージ送ったり通知したかったりしたら、DiscordのAPI使えばいいんでは？　とふと気がついた。\n",
+				"date_published": "2025-03-23T00:06:15+09:00",
+				"url": "https://oeight.space/2025/03/23/discordapi.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/chatgptzshglob.html",
+				
+				"content_html": "<p>ChatGPTにzshでファイルglobしてこのコマンドに渡すワンライナー書けます？　って言ったら「もちろんできますよ」って返事と共に5行のコマンド帰ってきたけど、こんなとき一体どういう顔すればいいんだ……？</p>\n",
+				"content_text": "ChatGPTにzshでファイルglobしてこのコマンドに渡すワンライナー書けます？　って言ったら「もちろんできますよ」って返事と共に5行のコマンド帰ってきたけど、こんなとき一体どういう顔すればいいんだ……？\n",
+				"date_published": "2025-03-22T23:29:45+09:00",
+				"url": "https://oeight.space/2025/03/22/chatgptzshglob.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/macoschatgpt-vs-codegithub-copilot-pro.html",
+				
+				"content_html": "<p>通知はアプリ独自の方式が一応あるっぽい（後で試してみよう）、他のアプリは読めそうにない（そもそもmacOSアプリがない）、おまけのドライブの暗号化については先述だがまあこれはChatGPTにもない……んーまあ、悪くはないか。</p>\n<p>他のアプリ読みたいって言っても現状8割がVS Codeとターミナルだし、そっちはGitHub Copilot Pro契約するのがよさそうだしなあ。</p>\n",
+				"content_text": "通知はアプリ独自の方式が一応あるっぽい（後で試してみよう）、他のアプリは読めそうにない（そもそもmacOSアプリがない）、おまけのドライブの暗号化については先述だがまあこれはChatGPTにもない……んーまあ、悪くはないか。\n\n他のアプリ読みたいって言っても現状8割がVS Codeとターミナルだし、そっちはGitHub Copilot Pro契約するのがよさそうだしなあ。\n",
+				"date_published": "2025-03-22T21:33:54+09:00",
+				"url": "https://oeight.space/2025/03/22/macoschatgpt-vs-codegithub-copilot-pro.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/google-drive.html",
+				
+				"content_html": "<p>Google Driveのクライアントサイド暗号化って法人向けのみなのかー</p>\n",
+				"content_text": "Google Driveのクライアントサイド暗号化って法人向けのみなのかー\n",
+				"date_published": "2025-03-22T21:25:45+09:00",
+				"url": "https://oeight.space/2025/03/22/google-drive.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/211859.html",
+				
+				"content_html": "<p>Geminiも試してみたいから、ChatGPT Plusのライセンス切れたらGemini Advancedをちょっと使ってみるか……Google Oneの特典もあるから、iCloud+のストレージを寄せれたらコスト増を抑えられるんだけどなー。</p>\n<p>でもApple Intelligenceから呼べるようになるまでにはもう少しかかりそうな気もするし……。ドライブの暗号化ができるかどうかと、ChatGPTみたいに通知機能があるかどうかと、他のアプリが読めるかどうか……いやその前にデスクトップアプリか。</p>\n<p>音声のライセンスがちょっと明確じゃないのもアレだし、macOS環境だと総じて微妙か。</p>\n",
+				"content_text": "Geminiも試してみたいから、ChatGPT Plusのライセンス切れたらGemini Advancedをちょっと使ってみるか……Google Oneの特典もあるから、iCloud+のストレージを寄せれたらコスト増を抑えられるんだけどなー。\n\nでもApple Intelligenceから呼べるようになるまでにはもう少しかかりそうな気もするし……。ドライブの暗号化ができるかどうかと、ChatGPTみたいに通知機能があるかどうかと、他のアプリが読めるかどうか……いやその前にデスクトップアプリか。\n\n音声のライセンスがちょっと明確じゃないのもアレだし、macOS環境だと総じて微妙か。\n",
+				"date_published": "2025-03-22T21:18:59+09:00",
+				"url": "https://oeight.space/2025/03/22/211859.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/192657.html",
+				
+				"content_html": "<p>久々に白湯をキメてる。</p>\n<p>ぶっちゃけ暖かいものは白湯の方が地味にうまいような気がする……。</p>\n",
+				"content_text": "久々に白湯をキメてる。\n\nぶっちゃけ暖かいものは白湯の方が地味にうまいような気がする……。\n",
+				"date_published": "2025-03-22T19:26:57+09:00",
+				"url": "https://oeight.space/2025/03/22/192657.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/lofi-zen.html",
+				
+				"content_html": "<p>Lo-Fi Zenもそろそろリポジトリで管理しないとな。</p>\n<p>オーディオとか映像だから……と思ったけどテキストで管理できる要素がたくさんある。</p>\n",
+				"content_text": "Lo-Fi Zenもそろそろリポジトリで管理しないとな。\n\nオーディオとか映像だから……と思ったけどテキストで管理できる要素がたくさんある。\n",
+				"date_published": "2025-03-22T18:30:12+09:00",
+				"url": "https://oeight.space/2025/03/22/lofi-zen.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/lofi-zen-youtubekickonarrativeoeighttwitch.html",
+				
+				"content_html": "<p>Lo-Fi Zen に新曲を6曲追加しました。</p>\n<p>(YouTubeとKickでストリーミング中、ただし私のアカウントのo8narrativeやo_eightで。Twitchでやることもあります)</p>\n",
+				"content_text": "Lo-Fi Zen に新曲を6曲追加しました。\n\n(YouTubeとKickでストリーミング中、ただし私のアカウントのo8narrativeやo_eightで。Twitchでやることもあります)\n\n",
+				"date_published": "2025-03-22T18:10:35+09:00",
+				"url": "https://oeight.space/2025/03/22/lofi-zen-youtubekickonarrativeoeighttwitch.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/kagiai.html",
+				
+				"content_html": "<p>Kagiにこんな機能（検索からのAI画像除外フィルター）が追加されたらしい。</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Kagiにこんな機能（検索からのAI画像除外フィルター）が追加されたらしい。\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/c7a19ebb1b.png\" width=\"600\" height=\"154\" alt=\"\">\n",
+				"date_published": "2025-03-22T17:58:24+09:00",
+				"url": "https://oeight.space/2025/03/22/kagiai.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/134554.html",
+				
+				"content_html": "<p>もっと音楽作らないとな</p>\n",
+				"content_text": "もっと音楽作らないとな\n",
+				"date_published": "2025-03-22T13:45:54+09:00",
+				"url": "https://oeight.space/2025/03/22/134554.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/130038.html",
+				
+				"content_html": "<p>用事を済ませるために外出しているけど、スマホアプリからだと打ち切りでエラーになるのか。</p>\n",
+				"content_text": "用事を済ませるために外出しているけど、スマホアプリからだと打ち切りでエラーになるのか。\n",
+				"date_published": "2025-03-22T13:00:38+09:00",
+				"url": "https://oeight.space/2025/03/22/130038.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/115012.html",
+				
+				"content_html": "<p>あーあの技術も今度やるときは教えておかないとな……</p>\n",
+				"content_text": "あーあの技術も今度やるときは教えておかないとな……\n",
+				"date_published": "2025-03-22T11:50:12+09:00",
+				"url": "https://oeight.space/2025/03/22/115012.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/anthropicai.html",
+				
+				"content_html": "<p>もしかするとAnthropicならではの「倫理性の高いAI」という開発指向の発露かもしれない</p>\n",
+				"content_text": "もしかするとAnthropicならではの「倫理性の高いAI」という開発指向の発露かもしれない\n",
+				"date_published": "2025-03-22T11:49:22+09:00",
+				"url": "https://oeight.space/2025/03/22/anthropicai.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/claude.html",
+				
+				"content_html": "<p>Claudeがガチで頭いいなと思うのは、感動的な展開について考察させたときに（サジェストのために与えた情報がよかったのかもしれないが）「キャラクターを死なせること」を回答として持ってこなかった点。</p>\n",
+				"content_text": "Claudeがガチで頭いいなと思うのは、感動的な展開について考察させたときに（サジェストのために与えた情報がよかったのかもしれないが）「キャラクターを死なせること」を回答として持ってこなかった点。\n",
+				"date_published": "2025-03-22T11:48:06+09:00",
+				"url": "https://oeight.space/2025/03/22/claude.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/114243.html",
+				
+				"content_html": "<p>クロードがウェブ検索を追加\n<a href=\"https://www.perplexity.ai/page/claude-adds-web-search-nCWcOQ73RpOb6iKBLbg0XA\">https://www.perplexity.ai/page/claude-adds-web-search-nCWcOQ73RpOb6iKBLbg0XA</a></p>\n",
+				"content_text": "クロードがウェブ検索を追加 \n<https://www.perplexity.ai/page/claude-adds-web-search-nCWcOQ73RpOb6iKBLbg0XA>\n",
+				"date_published": "2025-03-22T11:42:43+09:00",
+				"url": "https://oeight.space/2025/03/22/114243.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/111537.html",
+				
+				"content_html": "<p>時間もったいないからコンビニにしよう</p>\n",
+				"content_text": "時間もったいないからコンビニにしよう\n",
+				"date_published": "2025-03-22T11:15:37+09:00",
+				"url": "https://oeight.space/2025/03/22/111537.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/githubresolve.html",
+				
+				"content_html": "<p>Githubちゃんと繋がるようになってるな、と思ってステータス見に行ったらresolveのお知らせがでていた</p>\n",
+				"content_text": "Githubちゃんと繋がるようになってるな、と思ってステータス見に行ったらresolveのお知らせがでていた\n",
+				"date_published": "2025-03-22T11:02:16+09:00",
+				"url": "https://oeight.space/2025/03/22/githubresolve.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/ai.html",
+				
+				"content_html": "<p>AIにもう一つやってほしいことを頼んだら結果がよすぎてビビっている。</p>\n<p>俺ができなかったことをお前はできるのか……。</p>\n",
+				"content_text": "AIにもう一つやってほしいことを頼んだら結果がよすぎてビビっている。\n\n俺ができなかったことをお前はできるのか……。\n",
+				"date_published": "2025-03-22T10:37:06+09:00",
+				"url": "https://oeight.space/2025/03/22/ai.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/gpto.html",
+				
+				"content_html": "<p>直せたかと思ったけどこの問題にはGPT-4oの方が向いてるか</p>\n",
+				"content_text": "直せたかと思ったけどこの問題にはGPT-4oの方が向いてるか\n",
+				"date_published": "2025-03-22T10:00:00+09:00",
+				"url": "https://oeight.space/2025/03/22/gpto.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/095247.html",
+				
+				"content_html": "<p>APIないんかーい！　5秒で調査終わってしまった。</p>\n",
+				"content_text": "APIないんかーい！　5秒で調査終わってしまった。\n",
+				"date_published": "2025-03-22T09:52:47+09:00",
+				"url": "https://oeight.space/2025/03/22/095247.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/api.html",
+				
+				"content_html": "<p>シャワーを浴びていたら、ふと問題の原因に気づいた。たぶんこれで正しくできるはず。それはそうとしてあっちのAPIも調べておかなければ……。</p>\n",
+				"content_text": "シャワーを浴びていたら、ふと問題の原因に気づいた。たぶんこれで正しくできるはず。それはそうとしてあっちのAPIも調べておかなければ……。\n",
+				"date_published": "2025-03-22T09:44:17+09:00",
+				"url": "https://oeight.space/2025/03/22/api.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/050212.html",
+				
+				"content_html": "<p>ClaudeとGithubの接続の問題、再認証入ったので引っかかった。悲しみ。</p>\n<p><a href=\"https://status.anthropic.com/incidents/5h3zvkvlqhnj\">https://status.anthropic.com/incidents/5h3zvkvlqhnj</a></p>\n",
+				"content_text": "ClaudeとGithubの接続の問題、再認証入ったので引っかかった。悲しみ。\n\n<https://status.anthropic.com/incidents/5h3zvkvlqhnj>\n",
+				"date_published": "2025-03-22T05:02:12+09:00",
+				"url": "https://oeight.space/2025/03/22/050212.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/22/044535.html",
+				
+				"content_html": "<p>理由はわからないが（いやだいたいは分かってるけども……）、めっちゃ眠くてめっちゃ寝た</p>\n",
+				"content_text": "理由はわからないが（いやだいたいは分かってるけども……）、めっちゃ眠くてめっちゃ寝た\n",
+				"date_published": "2025-03-22T04:45:35+09:00",
+				"url": "https://oeight.space/2025/03/22/044535.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/21/201050.html",
+				
+				"content_html": "<p>まあ完全に最後の要件に合致するから拡張思考のほうがいいはずなんですよね、さっきの続きをやらせようとしたら今度は42秒使用したけど、どの資料をどのような形で読み込んでくれたかが表示されるので大変良い。</p>\n<p>しかし、次はコンセプトとログラインの練り込みがもっと必要だなあと思った。</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "まあ完全に最後の要件に合致するから拡張思考のほうがいいはずなんですよね、さっきの続きをやらせようとしたら今度は42秒使用したけど、どの資料をどのような形で読み込んでくれたかが表示されるので大変良い。\n\nしかし、次はコンセプトとログラインの練り込みがもっと必要だなあと思った。\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/c1cbe03cff.png\" width=\"600\" height=\"434\" alt=\"\">\n",
+				"date_published": "2025-03-21T20:10:50+09:00",
+				"url": "https://oeight.space/2025/03/21/201050.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/21/artifactetc.html",
+				
+				"content_html": "<p>内容はあんまり変わらないと思うけど、思考時間17秒程度だから大差ないし、10倍以上ある出力トークンの範囲でファイルをポコポコ生成してくれてて、応答のチャットでコンテキスト読み直し（途中で打ち切られて再生成、再生成したもののartifactのリンクがおかしくなってて読めないからまた再生成&hellip;etc）とか発生してないから、多分こっちの方がリソース使用が軽い。</p>\n",
+				"content_text": "内容はあんまり変わらないと思うけど、思考時間17秒程度だから大差ないし、10倍以上ある出力トークンの範囲でファイルをポコポコ生成してくれてて、応答のチャットでコンテキスト読み直し（途中で打ち切られて再生成、再生成したもののartifactのリンクがおかしくなってて読めないからまた再生成...etc）とか発生してないから、多分こっちの方がリソース使用が軽い。\n",
+				"date_published": "2025-03-21T19:43:21+09:00",
+				"url": "https://oeight.space/2025/03/21/artifactetc.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/21/194104.html",
+				
+				"content_html": "<p>あっ、これ拡張思考の方がよかったやつだ……。</p>\n",
+				"content_text": "あっ、これ拡張思考の方がよかったやつだ……。\n",
+				"date_published": "2025-03-21T19:41:04+09:00",
+				"url": "https://oeight.space/2025/03/21/194104.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/21/193929.html",
+				
+				"content_html": "<p>とりあえず生成を始めたので比較するのが楽しみだ</p>\n",
+				"content_text": "とりあえず生成を始めたので比較するのが楽しみだ\n",
+				"date_published": "2025-03-21T19:39:29+09:00",
+				"url": "https://oeight.space/2025/03/21/193929.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/21/193416.html",
+				
+				"content_html": "<p>実はまだ拡張思考相当のことを自分がやってるんですよ、まあ創作だからそういうもんなんだけど。</p>\n",
+				"content_text": "実はまだ拡張思考相当のことを自分がやってるんですよ、まあ創作だからそういうもんなんだけど。\n",
+				"date_published": "2025-03-21T19:34:16+09:00",
+				"url": "https://oeight.space/2025/03/21/193416.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/21/claude.html",
+				
+				"content_html": "<p>128,000のトークンを持つClaudeの拡張思考に一発で書かせた方がよくないかと思ったけど、そういうふうには動かなくて、要求を深く考えるのに使うだろうしな……。でもまあ拡張思考で書かせたのも作ってみるか。</p>\n",
+				"content_text": "128,000のトークンを持つClaudeの拡張思考に一発で書かせた方がよくないかと思ったけど、そういうふうには動かなくて、要求を深く考えるのに使うだろうしな……。でもまあ拡張思考で書かせたのも作ってみるか。\n",
+				"date_published": "2025-03-21T19:33:24+09:00",
+				"url": "https://oeight.space/2025/03/21/claude.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/21/gemini-progemini.html",
+				
+				"content_html": "<p>そろそろGemini Proも使ってみたいなあ。Geminiはコンテキストサイズが入力はいいんだよな。出力はどこも拡張思考とか使わない限り8000ぐらいでそれが一番困るんだけども。（小説生成だと分割分割にならざるを得ない……だからこそ英語にすれば……ってなるんですよね）</p>\n",
+				"content_text": "そろそろGemini Proも使ってみたいなあ。Geminiはコンテキストサイズが入力はいいんだよな。出力はどこも拡張思考とか使わない限り8000ぐらいでそれが一番困るんだけども。（小説生成だと分割分割にならざるを得ない……だからこそ英語にすれば……ってなるんですよね）\n",
+				"date_published": "2025-03-21T19:29:44+09:00",
+				"url": "https://oeight.space/2025/03/21/gemini-progemini.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/21/claudechatgptchatgptllm.html",
+				
+				"content_html": "<p>Claudeの最近のトークナイザーチェックしてないけど、日本語の扱いはChatGPTとほとんど変わらなかったはずなんだよね（1文字1-2トークン）。英語もChatGPTと同じで1単語1トークンだろうから、LLMからすると日本語は情報量が少ない……多い……どっちだ？　ともかくコストが悪いんですよね。</p>\n<p>まあでも流石にちょっとそこまでは試せないか、それこそ次の課題だなあ。</p>\n",
+				"content_text": "Claudeの最近のトークナイザーチェックしてないけど、日本語の扱いはChatGPTとほとんど変わらなかったはずなんだよね（1文字1-2トークン）。英語もChatGPTと同じで1単語1トークンだろうから、LLMからすると日本語は情報量が少ない……多い……どっちだ？　ともかくコストが悪いんですよね。\n\nまあでも流石にちょっとそこまでは試せないか、それこそ次の課題だなあ。\n",
+				"date_published": "2025-03-21T19:01:25+09:00",
+				"url": "https://oeight.space/2025/03/21/claudechatgptchatgptllm.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/21/185223.html",
+				
+				"content_html": "<p>同時にちょっと考えていることなんだけど、英語の方がトークン少なめにできるんだから、最初の原稿作成までは英語でやらせて、最後に翻訳して文体調整する方が理に適ってるんじゃないかって。</p>\n",
+				"content_text": "同時にちょっと考えていることなんだけど、英語の方がトークン少なめにできるんだから、最初の原稿作成までは英語でやらせて、最後に翻訳して文体調整する方が理に適ってるんじゃないかって。\n",
+				"date_published": "2025-03-21T18:52:23+09:00",
+				"url": "https://oeight.space/2025/03/21/185223.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/21/185045.html",
+				
+				"content_html": "<p>昨日まで作りかけてた小説だけど作業中に感じてた「次回この辺直さないとな」って点が話数を増やすにつれて効いてきて、この話は面白いとはいえない、という結論に至ったのでやり直すことにした。</p>\n",
+				"content_text": "昨日まで作りかけてた小説だけど作業中に感じてた「次回この辺直さないとな」って点が話数を増やすにつれて効いてきて、この話は面白いとはいえない、という結論に至ったのでやり直すことにした。\n",
+				"date_published": "2025-03-21T18:50:45+09:00",
+				"url": "https://oeight.space/2025/03/21/185045.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/21/webchatgpt-plus.html",
+				
+				"content_html": "<p>Web検索みたいな雑用はChatGPT Plusにやらせとけばいいでしょってなっちゃう。</p>\n",
+				"content_text": "Web検索みたいな雑用はChatGPT Plusにやらせとけばいいでしょってなっちゃう。\n",
+				"date_published": "2025-03-21T18:41:53+09:00",
+				"url": "https://oeight.space/2025/03/21/webchatgpt-plus.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/21/claudewebclaude.html",
+				
+				"content_html": "<p>Claudeに音声対話機能より先にWeb検索が増えるとはねえ。でもClaudeはリミットの心配があるから気楽に使えないんだよな。上位プラン作るようにフィードバック出しておくか……。</p>\n",
+				"content_text": "Claudeに音声対話機能より先にWeb検索が増えるとはねえ。でもClaudeはリミットの心配があるから気楽に使えないんだよな。上位プラン作るようにフィードバック出しておくか……。\n",
+				"date_published": "2025-03-21T18:41:09+09:00",
+				"url": "https://oeight.space/2025/03/21/claudewebclaude.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/21/claude-can-now-search-the.html",
+				
+				"content_html": "<p><a href=\"https://www.anthropic.com/news/web-search\">Claude can now search the web \\ Anthropic</a></p>\n<blockquote>\n<p>Claude can now search the web</p>\n</blockquote>\n<p>US only.</p>\n",
+				"content_text": "[Claude can now search the web \\ Anthropic](https://www.anthropic.com/news/web-search)\n\n> Claude can now search the web\n\nUS only.\n",
+				"date_published": "2025-03-21T18:20:07+09:00",
+				"url": "https://oeight.space/2025/03/21/claude-can-now-search-the.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/21/181656.html",
+				
+				"content_html": "<p>詳細な地図が南極の隠れた地形を示す\n<a href=\"https://www.perplexity.ai/page/detailed-map-shows-antarctica-JbJ1.ahEQKG9qUbh0M.bTQ\">www.perplexity.ai/page/deta&hellip;</a></p>\n",
+				"content_text": "詳細な地図が南極の隠れた地形を示す\n[www.perplexity.ai/page/deta...](https://www.perplexity.ai/page/detailed-map-shows-antarctica-JbJ1.ahEQKG9qUbh0M.bTQ)\n",
+				"date_published": "2025-03-21T18:16:56+09:00",
+				"url": "https://oeight.space/2025/03/21/181656.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/21/textlint.html",
+				
+				"content_html": "<p>昔textlint使ってたのを思い……出した！</p>\n<p>これはもう歳だよ。</p>\n",
+				"content_text": "昔textlint使ってたのを思い……出した！\n\nこれはもう歳だよ。\n",
+				"date_published": "2025-03-21T11:23:12+09:00",
+				"url": "https://oeight.space/2025/03/21/textlint.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/21/104324.html",
+				
+				"content_html": "<p>まあ流石にすでにある。</p>\n<p><a href=\"https://github.com/io-monad/textlint-rule-general-novel-style-ja\">https://github.com/io-monad/textlint-rule-general-novel-style-ja</a></p>\n",
+				"content_text": "まあ流石にすでにある。\n\n<https://github.com/io-monad/textlint-rule-general-novel-style-ja>\n",
+				"date_published": "2025-03-21T10:43:24+09:00",
+				"url": "https://oeight.space/2025/03/21/104324.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/21/lint.html",
+				
+				"content_html": "<p>昨日寝ながら気づいたけど、日本語小説の記号の使用方法の校正レベルの話、プロンプトでガチガチに指定しなくて生成した後で直す形にしたほうが早そう。Lintみたいなの書きたいな</p>\n",
+				"content_text": "昨日寝ながら気づいたけど、日本語小説の記号の使用方法の校正レベルの話、プロンプトでガチガチに指定しなくて生成した後で直す形にしたほうが早そう。Lintみたいなの書きたいな\n",
+				"date_published": "2025-03-21T10:41:17+09:00",
+				"url": "https://oeight.space/2025/03/21/lint.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/switch-bot-alexa.html",
+				
+				"content_html": "<p>Switch Botの拡張機能とかもあるけど、すごいシンプルな機能しかないから、ボタン押したら30分後にライト消えるみたいなの作るのはありかもしれないなあ。</p>\n<p>でもAlexaに消してって言うだけなんだよな。</p>\n",
+				"content_text": "Switch Botの拡張機能とかもあるけど、すごいシンプルな機能しかないから、ボタン押したら30分後にライト消えるみたいなの作るのはありかもしれないなあ。\n\nでもAlexaに消してって言うだけなんだよな。\n",
+				"date_published": "2025-03-20T23:39:17+09:00",
+				"url": "https://oeight.space/2025/03/20/switch-bot-alexa.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/stream-deck-stream-deckvisual-studio.html",
+				
+				"content_html": "<p>Stream Deck自体はアプリ版があるし、無料のままでも6ボタンまでは使えるので、いわゆる左手デバイスみたいなことを余ってるスマートフォンに入れてやらせることもできますよ。</p>\n<p>僕はStream Deck+あるけど、あんま使い方が思いつかない（ぶっちゃけわりとプラグインは色々ある、Visual Studio Codeでフォルダやターミナル開くやつとか）</p>\n",
+				"content_text": "Stream Deck自体はアプリ版があるし、無料のままでも6ボタンまでは使えるので、いわゆる左手デバイスみたいなことを余ってるスマートフォンに入れてやらせることもできますよ。\n\n僕はStream Deck+あるけど、あんま使い方が思いつかない（ぶっちゃけわりとプラグインは色々ある、Visual Studio Codeでフォルダやターミナル開くやつとか）\n",
+				"date_published": "2025-03-20T23:36:31+09:00",
+				"url": "https://oeight.space/2025/03/20/stream-deck-stream-deckvisual-studio.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/20/233323.html",
+				
+				"content_html": "<p>Stream DeckのSDK見てたんだけど、なんか作るのは結構手軽にできそうね。</p>\n<p>ただまあこういうのはネタがあるかどうかなんだよなあ、抱えてる問題ないとできないからね……。</p>\n<p><a href=\"https://docs.elgato.com/streamdeck/sdk/introduction/getting-started\">https://docs.elgato.com/streamdeck/sdk/introduction/getting-started</a></p>\n",
+				"content_text": "Stream DeckのSDK見てたんだけど、なんか作るのは結構手軽にできそうね。\n\nただまあこういうのはネタがあるかどうかなんだよなあ、抱えてる問題ないとできないからね……。\n\n<https://docs.elgato.com/streamdeck/sdk/introduction/getting-started>\n",
+				"date_published": "2025-03-20T23:33:23+09:00",
+				"url": "https://oeight.space/2025/03/20/233323.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://o-eight.micro.blog/2025/03/20/microsoft-copilot.html",
 				
 				"content_html": "<p>最近Microsoft Copilot使ってなかったけど、キャラクターとかあるのか……カイルくん出番だぞ。</p>\n",
