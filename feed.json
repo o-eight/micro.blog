@@ -7,6 +7,348 @@
 	"items": [
 		
 			{
+				"id": "http://o-eight.micro.blog/2025/04/10/claude-promax.html",
+				
+				"content_html": "<p>年間契約のClaude Proがさらに安くなりました。そしてMAX……いいだろう、一月だけ契約する。</p>\n",
+				"content_text": "年間契約のClaude Proがさらに安くなりました。そしてMAX……いいだろう、一月だけ契約する。\n",
+				"date_published": "2025-04-10T12:14:16+09:00",
+				"url": "https://oeight.space/2025/04/10/claude-promax.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/09/claude-pro.html",
+				
+				"content_html": "<p>今のClaude Proだと小説執筆でミスると辛いんだよね……指示をミスると、というか明確性が足りないとプロットの先取りとかしてストーリーをあっさり崩壊させるんだけど、そうなった時に出し直すのが辛い。</p>\n",
+				"content_text": "今のClaude Proだと小説執筆でミスると辛いんだよね……指示をミスると、というか明確性が足りないとプロットの先取りとかしてストーリーをあっさり崩壊させるんだけど、そうなった時に出し直すのが辛い。\n",
+				"date_published": "2025-04-09T22:37:07+09:00",
+				"url": "https://oeight.space/2025/04/09/claude-pro.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/09/claude-promax-x.html",
+				
+				"content_html": "<p>Claude Proの上位プランを契約したいけどMAX 5xは流石に個人には厳しいなあ……</p>\n",
+				"content_text": "Claude Proの上位プランを契約したいけどMAX 5xは流石に個人には厳しいなあ……\n",
+				"date_published": "2025-04-09T22:34:23+09:00",
+				"url": "https://oeight.space/2025/04/09/claude-promax-x.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/09/120741.html",
+				"title": "紙上の迷宮 #20",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p name=\"9b7a4e54-1de9-43b5-bcf7-b21457933c55\" id=\"9b7a4e54-1de9-43b5-bcf7-b21457933c55\"># 第20話：白紙の更新</p><p name=\"1be5df84-6950-4fad-806b-4ceb746dd037\" id=\"1be5df84-6950-4fad-806b-4ceb746dd037\">　ある朝、通知が届いた。狩谷隆志のブログが更新された。</p><br/><a href='https://note.com/o_eight/n/ne3df1f03086e'>続きをみる</a>\n",
+				"date_published": "2025-04-09T12:07:41+09:00",
+				"url": "https://oeight.space/2025/04/09/120741.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/08/claude-desktopclaude.html",
+				
+				"content_html": "<p>Claude Desktop、「予期せぬ容量制限によりClaudeは現在応答できません。しばらくしてから……」が昨日・今日とよく出るなあ。</p>\n",
+				"content_text": "Claude Desktop、「予期せぬ容量制限によりClaudeは現在応答できません。しばらくしてから……」が昨日・今日とよく出るなあ。\n",
+				"date_published": "2025-04-08T23:07:04+09:00",
+				"url": "https://oeight.space/2025/04/08/claude-desktopclaude.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/08/014011.html",
+				
+				"content_html": "<p>Raycastから触ってみるだけじゃなくて、OpenRouterから無料で使えるLlama 4 Maverickで小説生成をちょっと試してみたけど、Gemini 2.0 FlashとかChatGPT-4oクラスかなあ……という感触を得た。</p>\n",
+				"content_text": "Raycastから触ってみるだけじゃなくて、OpenRouterから無料で使えるLlama 4 Maverickで小説生成をちょっと試してみたけど、Gemini 2.0 FlashとかChatGPT-4oクラスかなあ……という感触を得た。\n",
+				"date_published": "2025-04-08T01:40:11+09:00",
+				"url": "https://oeight.space/2025/04/08/014011.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/08/scoutmaverickb.html",
+				
+				"content_html": "<p>と思ったけどScoutもMaverickも17Bでエポック数の違いか……</p>\n",
+				"content_text": "と思ったけどScoutもMaverickも17Bでエポック数の違いか……\n",
+				"date_published": "2025-04-08T00:05:26+09:00",
+				"url": "https://oeight.space/2025/04/08/scoutmaverickb.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/07/llama-scoutraycast.html",
+				
+				"content_html": "<p>Llama 4がだいぶ良さそうだから試してみたいんだよな……ScoutなんかはRaycastみたいに応答速度求められるタイプのワークロードに向いてそうなんだけど。</p>\n",
+				"content_text": "Llama 4がだいぶ良さそうだから試してみたいんだよな……ScoutなんかはRaycastみたいに応答速度求められるタイプのワークロードに向いてそうなんだけど。\n",
+				"date_published": "2025-04-07T23:57:05+09:00",
+				"url": "https://oeight.space/2025/04/07/llama-scoutraycast.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/07/ai.html",
+				
+				"content_html": "<p>あれ？　なんか使ってるうちにいつの間にかAIの反応が日本語になってきたぞ</p>\n",
+				"content_text": "あれ？　なんか使ってるうちにいつの間にかAIの反応が日本語になってきたぞ\n",
+				"date_published": "2025-04-07T23:51:31+09:00",
+				"url": "https://oeight.space/2025/04/07/ai.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/07/extension.html",
+				
+				"content_html": "<p>Extension作ってみてから考えるか……でもまあ多言語対応されてから、のような気はするなあ。</p>\n",
+				"content_text": "Extension作ってみてから考えるか……でもまあ多言語対応されてから、のような気はするなあ。\n",
+				"date_published": "2025-04-07T23:07:06+09:00",
+				"url": "https://oeight.space/2025/04/07/extension.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/07/raycast-pro.html",
+				
+				"content_html": "<p>Raycast Pro、日本語での利用だとだいぶクセはあるけど、それでもこれはかなり良さげかもしれないなあ……。</p>\n",
+				"content_text": "Raycast Pro、日本語での利用だとだいぶクセはあるけど、それでもこれはかなり良さげかもしれないなあ……。\n",
+				"date_published": "2025-04-07T22:43:16+09:00",
+				"url": "https://oeight.space/2025/04/07/raycast-pro.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/07/224059.html",
+				
+				"content_html": "<p>正規ユーザーがいつもと違うデバイスでログインしてしまってすまんな……。</p>\n",
+				"content_text": "正規ユーザーがいつもと違うデバイスでログインしてしまってすまんな……。\n",
+				"date_published": "2025-04-07T22:40:59+09:00",
+				"url": "https://oeight.space/2025/04/07/224059.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/07/instagram.html",
+				
+				"content_html": "<p>Instagramから「最近使ってるデバイスとは違うデバイスからの不審なログインがあったぞ」ってメール届いて、</p>\n<p>「あなた自身が実行したものであれば、特定のセキュリティ設定とアカウント設定に数日間アクセスできなくなります。これらの設定には過去にログイン済みのデバイスから引き続きアクセスできます」</p>\n<p>って書かれてて、システムの狙いは理解できるけど言ってることやばくて笑ってる。</p>\n",
+				"content_text": "Instagramから「最近使ってるデバイスとは違うデバイスからの不審なログインがあったぞ」ってメール届いて、\n\n「あなた自身が実行したものであれば、特定のセキュリティ設定とアカウント設定に数日間アクセスできなくなります。これらの設定には過去にログイン済みのデバイスから引き続きアクセスできます」\n\nって書かれてて、システムの狙いは理解できるけど言ってることやばくて笑ってる。\n",
+				"date_published": "2025-04-07T22:39:56+09:00",
+				"url": "https://oeight.space/2025/04/07/instagram.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/07/chatgpt-plus.html",
+				"title": "ChatGPT Plus一旦やめますか……ね",
+				"content_html": "<p>ChatGPTとApple Intelligenceの連携はそこまででもなかったし（それなりに長文書くときはなんだかんだでMacになるし、iOSでAI支援で編集するにしてもObsidianやCraftが使えるので）、画像作成機能が強いとはいえ無料で少し使えるようだし……。</p>\n<p>ということで、一旦Chat GPT Plusやめてコストダウンを図るかーという気持ちになった。今の契約期限がそろそろ来るのでちょうどいい。</p>\n<p>AnthropicのClaudeと比べるとユーザーは十分に多いから、自分が続けなくてもサービスは続くだろう、とか、Github Copilot Proの実質値上げがあるからなあ、というのもある。</p>\n<p>んで、Claude Proはまだ使うので、雑用系のチャットAIとしてはChatGPTの無料と並行して、ChatWiseというアプリからOpenRouter経由で無料のLlama 4使ったり、Google AIでGeminiの無料枠使ったりすれば良さそう。どうせしばらくの間はどこかがAPI無料だろうし。</p>\n<p>Claudeは優秀な対抗馬なので、応援する意味でも有料プランを続けたい。Geminiも試してみたいけどまだ無料の試用すらやってないので、購入のことは後でいいや。</p>\n<p>で。上でも触れたChatWiseというアプリなのだけど、これは各社のAPIをデスクトップアプリとして使うためのツール。</p>\n<p>現在はPro版が$29で、近々$49になりそう。無料版もあるが、Web検索とかMCPとかArtifactsの機能がなくて、Pro版にするとその辺が使える。</p>\n<p>それに加えて、今後一年間の新機能は使える。一年以上経ってもそれらの機能は使えるが、一年以上経ってから増えた新機能を使いたい場合はまたお金払ってね、という方式。</p>\n<p>数年前から割と見かける方式で、サブスクと買い切りの折衷案みたいな感じだが、開発者にとっても利用者にとってもなかなかいいと思う。完全買い切りだと開発者の機能追加のモチベがなくなるので。</p>\n<p>現状、優秀なLLMが無料でAPIアクセスを提供していることが多いので、それなりに使えそうだと思っている。APIへのアクセスキーを保存することになるし、やり取りするデータが見られてしまうのでは？　みたいな不安はあるだろうけど。</p>\n<p>ただ、そんなにセンシティブなデータのやり取りには使わないし、OpenRouterで利用数を調べてみると結構使われているのでまあいいのかなと思う。</p>\n<p>ChatWiseはアフィリエイトリンクあったので付けておきますね。（OpenRouterからアクセスの多いアプリとかサービスを見ると何が流行ってるのか分かりやすくていいね）</p>\n<p>ChatWise\n<a href=\"https://chatwise.app?atp=cdE2Vm\">https://chatwise.app?atp=cdE2Vm</a></p>\n<p>あ、ちなみにmacOSでSetAppに加入している場合はBoltAIなんかも良さげかもです。</p>\n<h2 id=\"追記\">追記</h2>\n<p>でもなんだかんだでmacOS/iOS環境ではChatGPTが一番アプリの出来がいいと思うので、悩ましいかもしれない。たった$20だしなあという感覚もあるし……円安すぎて昔の$20とはだいぶ違うけど。</p>\n",
+				"content_text": "ChatGPTとApple Intelligenceの連携はそこまででもなかったし（それなりに長文書くときはなんだかんだでMacになるし、iOSでAI支援で編集するにしてもObsidianやCraftが使えるので）、画像作成機能が強いとはいえ無料で少し使えるようだし……。\n\nということで、一旦Chat GPT Plusやめてコストダウンを図るかーという気持ちになった。今の契約期限がそろそろ来るのでちょうどいい。\n\nAnthropicのClaudeと比べるとユーザーは十分に多いから、自分が続けなくてもサービスは続くだろう、とか、Github Copilot Proの実質値上げがあるからなあ、というのもある。\n\nんで、Claude Proはまだ使うので、雑用系のチャットAIとしてはChatGPTの無料と並行して、ChatWiseというアプリからOpenRouter経由で無料のLlama 4使ったり、Google AIでGeminiの無料枠使ったりすれば良さそう。どうせしばらくの間はどこかがAPI無料だろうし。\n\nClaudeは優秀な対抗馬なので、応援する意味でも有料プランを続けたい。Geminiも試してみたいけどまだ無料の試用すらやってないので、購入のことは後でいいや。\n\nで。上でも触れたChatWiseというアプリなのだけど、これは各社のAPIをデスクトップアプリとして使うためのツール。\n\n現在はPro版が$29で、近々$49になりそう。無料版もあるが、Web検索とかMCPとかArtifactsの機能がなくて、Pro版にするとその辺が使える。\n\nそれに加えて、今後一年間の新機能は使える。一年以上経ってもそれらの機能は使えるが、一年以上経ってから増えた新機能を使いたい場合はまたお金払ってね、という方式。\n\n数年前から割と見かける方式で、サブスクと買い切りの折衷案みたいな感じだが、開発者にとっても利用者にとってもなかなかいいと思う。完全買い切りだと開発者の機能追加のモチベがなくなるので。\n\n現状、優秀なLLMが無料でAPIアクセスを提供していることが多いので、それなりに使えそうだと思っている。APIへのアクセスキーを保存することになるし、やり取りするデータが見られてしまうのでは？　みたいな不安はあるだろうけど。\n\nただ、そんなにセンシティブなデータのやり取りには使わないし、OpenRouterで利用数を調べてみると結構使われているのでまあいいのかなと思う。\n\nChatWiseはアフィリエイトリンクあったので付けておきますね。（OpenRouterからアクセスの多いアプリとかサービスを見ると何が流行ってるのか分かりやすくていいね）\n\nChatWise\n<https://chatwise.app?atp=cdE2Vm>\n\nあ、ちなみにmacOSでSetAppに加入している場合はBoltAIなんかも良さげかもです。\n\n\n## 追記\n\nでもなんだかんだでmacOS/iOS環境ではChatGPTが一番アプリの出来がいいと思うので、悩ましいかもしれない。たった$20だしなあという感覚もあるし……円安すぎて昔の$20とはだいぶ違うけど。\n",
+				"date_published": "2025-04-07T13:58:56+09:00",
+				"url": "https://oeight.space/2025/04/07/chatgpt-plus.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/07/123425.html",
+				"title": "紙上の迷宮 #19",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p name=\"a937742a-304e-48da-959c-e91a3fb198e3\" id=\"a937742a-304e-48da-959c-e91a3fb198e3\"># 第19話：記録という迷宮</p><p name=\"33ec381f-1667-4795-9d8b-57079709043c\" id=\"33ec381f-1667-4795-9d8b-57079709043c\">（視点：小牧澄人）</p><br/><a href='https://note.com/o_eight/n/nec7cbbf02d89'>続きをみる</a>\n",
+				"date_published": "2025-04-07T12:34:25+09:00",
+				"url": "https://oeight.space/2025/04/07/123425.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/06/yaml.html",
+				
+				"content_html": "<p>小説の設定資料が徐々にYAMLになっていく……。</p>\n",
+				"content_text": "小説の設定資料が徐々にYAMLになっていく……。\n",
+				"date_published": "2025-04-06T22:38:23+09:00",
+				"url": "https://oeight.space/2025/04/06/yaml.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/06/213845.html",
+				"title": "紙上の迷宮 #18",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p name=\"ac69df9a-4938-4a3b-80bd-d3d6573b318d\" id=\"ac69df9a-4938-4a3b-80bd-d3d6573b318d\"># 第18話：共有される下書き</p><p name=\"bc36900f-9ea0-415f-8e2a-4d7f3312f83d\" id=\"bc36900f-9ea0-415f-8e2a-4d7f3312f83d\">（視点：伊吹杏奈）</p><br/><a href='https://note.com/o_eight/n/ncdd1890af26a'>続きをみる</a>\n",
+				"date_published": "2025-04-06T21:38:45+09:00",
+				"url": "https://oeight.space/2025/04/06/213845.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/06/diablotwitchrss.html",
+				
+				"content_html": "<p>まだDiablo4やってるけど、小説の方のやりたいことが進まないな……。Twitchの配信ってRSSみたいなのあるんだろうか……。</p>\n",
+				"content_text": "まだDiablo4やってるけど、小説の方のやりたいことが進まないな……。Twitchの配信ってRSSみたいなのあるんだろうか……。\n",
+				"date_published": "2025-04-06T19:19:28+09:00",
+				"url": "https://oeight.space/2025/04/06/diablotwitchrss.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/06/github-copilotchatgpt.html",
+				"title": "最近のGithub CopilotやChatGPTの変更で世界が変わりつつある件について",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>最近、GitHub CopilotとVS Codeの組み合わせに「エージェントモード」という新機能が追加された。元々ベータ版では使えるようになってきていたのだが、その時点では試していなかった。が、安定版に降りてきたのでちょっと触ってみた。</p>\n<h2 id=\"エージェントモードとは\">エージェントモードとは</h2>\n<p>VSCode(+ GitHub Copilot)のエージェントモードは、複雑なタスクを一連の指示で実行できる機能で、これまでCursorやClineといったツールで実現できていた機能なのだが、そちらは使っていなかったのでその辺と比べとどうなのか、という点については知らない。</p>\n<h2 id=\"小説執筆への応用例\">小説執筆への応用例</h2>\n<p>実際に小説執筆に応用してみたところ、驚くべき効率化がみられた。</p>\n<p>例えば：</p>\n<pre tabindex=\"0\"><code>添付したプロットに基づいて4話から8話を作成してください。draftフォルダ以下にある既存のファイル名の合わせたファイル名を付加してください。\n</code></pre><p>という指示を出すだけで、AIが複数の話を自動生成し、適切なファイル名でdraftフォルダに保存してくれる。</p>\n<p>ChatGPTやClaudeでも同様の文章生成はできるが、これまでのそれらではファイルの保存は手動で行う必要があった。が、エージェントモードではAIが提案する内容を承認するだけで、ファイル操作まで自動的に行ってくれる。細かな作業が格段に減る。</p>\n<h2 id=\"制約と課題\">制約と課題</h2>\n<p>ただし、幸運か不幸かこの革命的な機能にも制約がある。5月からGitHub Copilotのプランでの利用制限が厳しくなるので、費用面の負担を考えるとそこまでは使えない機能のように思われる。</p>\n<p>なので、現時点では根本的なゲームチェンジャーとは言い切れない……が。</p>\n<h2 id=\"chatgptの編集機能も進化\">ChatGPTの編集機能も進化</h2>\n<p>一方、ChatGPTの方でも静かな変化があって、いつの間にか、VS Codeなどの編集画面と接続した状態で指示をすると、文書を直接書き換えてくれるようになっていた。</p>\n<p>エージェントモードほど完全自動化されてはいないが、テキストのコピー＆ペーストなどの手間がかなり省けるようになっている。</p>\n<p>ただし、ChatGPT Plus（GPT-4o）レベルでは、元々の日本語生成能力に若干難があるので（小説っぽいテキストを書かせるのに苦労する）、小説執筆に使う、という観点で十分な品質かというと、まだ課題があるようだ。</p>\n<h2 id=\"展望\">展望</h2>\n<p>こうした技術が技術者向けのツールから、一般向けの原稿執筆環境へと広がるのは時間の問題だと思われる（Apple Intelligenceの作文ツールとかある……）。</p>\n<p>そして、実装されるようになる頃には、AIの性能もさらに向上していることが予想される。</p>\n<p>そのような、本格的なAI執筆支援環境が一般化する日が来たら、物書きの創作プロセスは根本から変わってしまうかもしれない。少なくとも、作家が編集者のようになる未来は近そうだ。</p>\n<h2 id=\"まとめ\">まとめ</h2>\n<p>AIの進化は、物書きの世界を変える可能性がある。作家が編集者のようになる未来は近そうだ。</p>\n",
+				"date_published": "2025-04-06T12:51:16+09:00",
+				"url": "https://oeight.space/2025/04/06/github-copilotchatgpt.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/06/ai.html",
+				
+				"content_html": "<p>AIに毎回プロンプトでこう指示してくれよ、という面倒臭いことを要求されて、それに対応するためにはプロットのデータ形式を変えてスクリプトかなんかで都度のプロンプトを作るしかないとなったでござるの巻。明日やるか……。</p>\n",
+				"content_text": "AIに毎回プロンプトでこう指示してくれよ、という面倒臭いことを要求されて、それに対応するためにはプロットのデータ形式を変えてスクリプトかなんかで都度のプロンプトを作るしかないとなったでござるの巻。明日やるか……。\n",
+				"date_published": "2025-04-06T02:32:23+09:00",
+				"url": "https://oeight.space/2025/04/06/ai.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/06/012549.html",
+				
+				"content_html": "<p>さっきモデル名間違えたなあ、と思ったけど「俺は悪くない！」したかっただけです。流石に悪くないと思うんですけども。</p>\n",
+				"content_text": "さっきモデル名間違えたなあ、と思ったけど「俺は悪くない！」したかっただけです。流石に悪くないと思うんですけども。\n",
+				"date_published": "2025-04-06T01:25:49+09:00",
+				"url": "https://oeight.space/2025/04/06/012549.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/06/openaigpto-miniopen-ai-omini-openai.html",
+				
+				"content_html": "<p>OpenAIのモデル名、「GPT-4o mini」とか「Open AI o3-mini」とか紛らわしすぎる名称なんとかしてほしい。</p>\n<p>ちなみに今度は「OpenAI o4-mini」が出るらしい。嫌がらせかな？</p>\n<p>現状はoが前につくのはリーズニングモデルで、後ろにつくのは4oしかないはず。GPT-4系列のGPT-4 Turboのリネームだったっけ、最適化版だっけ？</p>\n",
+				"content_text": "OpenAIのモデル名、「GPT-4o mini」とか「Open AI o3-mini」とか紛らわしすぎる名称なんとかしてほしい。\n\nちなみに今度は「OpenAI o4-mini」が出るらしい。嫌がらせかな？\n\n現状はoが前につくのはリーズニングモデルで、後ろにつくのは4oしかないはず。GPT-4系列のGPT-4 Turboのリネームだったっけ、最適化版だっけ？\n",
+				"date_published": "2025-04-06T01:25:02+09:00",
+				"url": "https://oeight.space/2025/04/06/openaigpto-miniopen-ai-omini-openai.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/06/011115.html",
+				"title": "紙上の迷宮 #17",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p name=\"ed21e6c9-6ee3-4059-b524-1a0a6391c4e0\" id=\"ed21e6c9-6ee3-4059-b524-1a0a6391c4e0\"># 第17話：句読点のない夜</p><p name=\"e68a9066-bd22-4f75-a2dd-4c779d3d0ede\" id=\"e68a9066-bd22-4f75-a2dd-4c779d3d0ede\">（視点：清水まどか）</p><br/><a href='https://note.com/o_eight/n/nef49812d2510'>続きをみる</a>\n",
+				"date_published": "2025-04-06T01:11:15+09:00",
+				"url": "https://oeight.space/2025/04/06/011115.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/06/omini.html",
+				
+				"content_html": "<p>割とマジで4o-miniになんの問題が解けるんだよという疑問はある。ファイル名変換のコマンド組み立てたり、コマンドのオプション探してくるぐらいならいいんだろうけど。</p>\n",
+				"content_text": "割とマジで4o-miniになんの問題が解けるんだよという疑問はある。ファイル名変換のコマンド組み立てたり、コマンドのオプション探してくるぐらいならいいんだろうけど。\n",
+				"date_published": "2025-04-06T01:06:05+09:00",
+				"url": "https://oeight.space/2025/04/06/omini.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/06/gpto-copilotgpto-minichatgptoo-minillm.html",
+				
+				"content_html": "<p>GPT-4o CopilotがGPT-4o miniベースらしいので、多分それがベースモデルでは？　というのがChatGPTの推測だった。まあ4oがプレミアム扱いだしなぁ……嫌だなあ、4o miniと話すなんて人間のすることじゃないよ……（LLM差別）。</p>\n",
+				"content_text": "GPT-4o CopilotがGPT-4o miniベースらしいので、多分それがベースモデルでは？　というのがChatGPTの推測だった。まあ4oがプレミアム扱いだしなぁ……嫌だなあ、4o miniと話すなんて人間のすることじゃないよ……（LLM差別）。\n",
+				"date_published": "2025-04-06T01:04:51+09:00",
+				"url": "https://oeight.space/2025/04/06/gpto-copilotgpto-minichatgptoo-minillm.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/06/claude-sonnetgptoextended-thinkinggptgemini-pro.html",
+				
+				"content_html": "<p>しかし、Claude 3.7 SonnetがGPT-4oと同じ1倍で、Extended Thinkingで1.25倍なのにGPT-4.5が50倍なの本当に笑う。何を考えてリリースしたんだろう4.5……。Gemini 2.5 Proがどうなるか楽しみですね。</p>\n",
+				"content_text": "しかし、Claude 3.7 SonnetがGPT-4oと同じ1倍で、Extended Thinkingで1.25倍なのにGPT-4.5が50倍なの本当に笑う。何を考えてリリースしたんだろう4.5……。Gemini 2.5 Proがどうなるか楽しみですね。\n",
+				"date_published": "2025-04-06T00:59:07+09:00",
+				"url": "https://oeight.space/2025/04/06/claude-sonnetgptoextended-thinkinggptgemini-pro.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/06/claude-sonnet.html",
+				
+				"content_html": "<p>元々（自分が入った時には）プレミアムリクエストは制限あったような気はするけど……いやどうだったかな。当時はClaude 3.7 Sonnet追加されたばかりだったし。</p>\n",
+				"content_text": "元々（自分が入った時には）プレミアムリクエストは制限あったような気はするけど……いやどうだったかな。当時はClaude 3.7 Sonnet追加されたばかりだったし。\n",
+				"date_published": "2025-04-06T00:57:17+09:00",
+				"url": "https://oeight.space/2025/04/06/claude-sonnet.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/06/005426.html",
+				
+				"content_html": "<p>まあ1回は$100払っておくか。月$8.33なら悪くないもんな……。$19/月になって年$199とか言われたらうーんってなるし。</p>\n",
+				"content_text": "まあ1回は$100払っておくか。月$8.33なら悪くないもんな……。$19/月になって年$199とか言われたらうーんってなるし。\n",
+				"date_published": "2025-04-06T00:54:26+09:00",
+				"url": "https://oeight.space/2025/04/06/005426.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/06/005234.html",
+				
+				"content_html": "<p>しかも5/5からはPremiumリクエストは月間制限があって、超えるとさらにお金かかるのね……ベースモデルだと費用的には制限ないっぽい書き方だけど（一時的なリミットはあるんだろうけど）、ベースモデルってなんだろうな。でも値上げ前に年契約で$100払っておくかどうか悩みどころだなあ。(ClaudeのThinking付きだと1回1.25計算で月300ptまでと……まあコーディング用ならそんだけあれば十分ではある)</p>\n<p><a href=\"https://docs.github.com/ja/copilot/managing-copilot/monitoring-usage-and-entitlements/about-premium-requests\">https://docs.github.com/ja/copilot/managing-copilot/monitoring-usage-and-entitlements/about-premium-requests</a></p>\n",
+				"content_text": "しかも5/5からはPremiumリクエストは月間制限があって、超えるとさらにお金かかるのね……ベースモデルだと費用的には制限ないっぽい書き方だけど（一時的なリミットはあるんだろうけど）、ベースモデルってなんだろうな。でも値上げ前に年契約で$100払っておくかどうか悩みどころだなあ。(ClaudeのThinking付きだと1回1.25計算で月300ptまでと……まあコーディング用ならそんだけあれば十分ではある)\n\n<https://docs.github.com/ja/copilot/managing-copilot/monitoring-usage-and-entitlements/about-premium-requests>\n",
+				"date_published": "2025-04-06T00:52:34+09:00",
+				"url": "https://oeight.space/2025/04/06/005234.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/06/github-copilot-pro.html",
+				
+				"content_html": "<p>Github Copilot Proのお値段、$19に訂正線が入って$10って昔からだっけ？　まあエージェントモードとか有効にして同じ値段でいられるはずもなく……って感じではあるけども。</p>\n",
+				"content_text": "Github Copilot Proのお値段、$19に訂正線が入って$10って昔からだっけ？　まあエージェントモードとか有効にして同じ値段でいられるはずもなく……って感じではあるけども。\n",
+				"date_published": "2025-04-06T00:39:00+09:00",
+				"url": "https://oeight.space/2025/04/06/github-copilot-pro.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/06/002806.html",
+				
+				"content_html": "<p>おーリミットかかった。流石にかかるんだな、そりゃそうか。</p>\n",
+				"content_text": "おーリミットかかった。流石にかかるんだな、そりゃそうか。\n",
+				"date_published": "2025-04-06T00:28:06+09:00",
+				"url": "https://oeight.space/2025/04/06/002806.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/05/dlgithub-copilot.html",
+				
+				"content_html": "<p>それはそれとして、いちいちDLしてファイルを更新していたのがGitHub Copilotのエージェント機能で全部まとめてやってくれるようになった。</p>\n",
+				"content_text": "それはそれとして、いちいちDLしてファイルを更新していたのがGitHub Copilotのエージェント機能で全部まとめてやってくれるようになった。\n",
+				"date_published": "2025-04-05T22:54:54+09:00",
+				"url": "https://oeight.space/2025/04/05/dlgithub-copilot.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/05/llm.html",
+				
+				"content_html": "<p>やっとLLMを「分からせ」ることに成功した。</p>\n",
+				"content_text": "やっとLLMを「分からせ」ることに成功した。\n",
+				"date_published": "2025-04-05T22:53:24+09:00",
+				"url": "https://oeight.space/2025/04/05/llm.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/05/apigithub-copilot-proclinegithub-copilot.html",
+				
+				"content_html": "<p>何がやばいってAPI消費じゃなくてGithub Copilot Proの枠内なのがやばい。今はClineもGithub Copilotに接続できるようになってるらしいから（実験的プレビューみたいな扱いっぽいけど）、みんなこんなので小説書いてたのか（小説ではなくコードを書いていました）</p>\n",
+				"content_text": "何がやばいってAPI消費じゃなくてGithub Copilot Proの枠内なのがやばい。今はClineもGithub Copilotに接続できるようになってるらしいから（実験的プレビューみたいな扱いっぽいけど）、みんなこんなので小説書いてたのか（小説ではなくコードを書いていました）\n",
+				"date_published": "2025-04-05T21:03:14+09:00",
+				"url": "https://oeight.space/2025/04/05/apigithub-copilot-proclinegithub-copilot.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/05/210137.html",
+				
+				"content_html": "<p>エージェントモードがやばい……ちょっと待って、これやりたかったあれとこれの自動化ができるということになるのか……あーまずいかもです。近い未来に小説が終わる……。</p>\n",
+				"content_text": "エージェントモードがやばい……ちょっと待って、これやりたかったあれとこれの自動化ができるということになるのか……あーまずいかもです。近い未来に小説が終わる……。\n",
+				"date_published": "2025-04-05T21:01:37+09:00",
+				"url": "https://oeight.space/2025/04/05/210137.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/05/api.html",
+				
+				"content_html": "<p>ちょっと違った。編集モードに3.7の拡張思考版が表示されてない方が普通で、そこはオプションで追加できるのか。エージェントモードにはAPIキー追加以外ではなさそう。まあでも実験的な実装で事前思考のオプションあるから、これをオンにすればまあいいかな……。</p>\n",
+				"content_text": "ちょっと違った。編集モードに3.7の拡張思考版が表示されてない方が普通で、そこはオプションで追加できるのか。エージェントモードにはAPIキー追加以外ではなさそう。まあでも実験的な実装で事前思考のオプションあるから、これをオンにすればまあいいかな……。\n",
+				"date_published": "2025-04-05T20:58:09+09:00",
+				"url": "https://oeight.space/2025/04/05/api.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/05/gemini-proapi.html",
+				
+				"content_html": "<p>Gemini 2.5 ProはAPIキーで追加できるから、無料枠で使えば良さそうだな。使い方的にはエージェントモードよりは編集モードとかの方がいいだろうけど。</p>\n",
+				"content_text": "Gemini 2.5 ProはAPIキーで追加できるから、無料枠で使えば良さそうだな。使い方的にはエージェントモードよりは編集モードとかの方がいいだろうけど。\n",
+				"date_published": "2025-04-05T20:50:13+09:00",
+				"url": "https://oeight.space/2025/04/05/gemini-proapi.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/05/vs-codegithub-copilotreadmemd-github-copilot.html",
+				
+				"content_html": "<p>VS Codeのアップデートで、通常版でもGitHub Copilotのエージェントモードが使えるようになった。これのおかげで「フォルダ内の資料まとめのREADME.mdが古くなってるから更新して」とか「日本語ファイル名のファイルを他のファイル名のスタイルに合わせて変更して」とか「更新内容に適切なコメントをつけてコミットして」とかができるようになった。</p>\n<p>Github Copilot Proだけで小説やれそうな気がしてきたぞ。</p>\n<p>エージェントモードにはClaude 3.7 SonnetのExtended Thinkingがデフォルトではない（まだ検証が済んでないっぽい手動では足せる）、ってのと、Gemini 2.5 Proが使えないことが問題かな。リミット関係はどうなってるんだろうな。</p>\n<p>あえてたくさん使ってみるか……。</p>\n",
+				"content_text": "VS Codeのアップデートで、通常版でもGitHub Copilotのエージェントモードが使えるようになった。これのおかげで「フォルダ内の資料まとめのREADME.mdが古くなってるから更新して」とか「日本語ファイル名のファイルを他のファイル名のスタイルに合わせて変更して」とか「更新内容に適切なコメントをつけてコミットして」とかができるようになった。\n\nGithub Copilot Proだけで小説やれそうな気がしてきたぞ。\n\nエージェントモードにはClaude 3.7 SonnetのExtended Thinkingがデフォルトではない（まだ検証が済んでないっぽい手動では足せる）、ってのと、Gemini 2.5 Proが使えないことが問題かな。リミット関係はどうなってるんだろうな。\n\nあえてたくさん使ってみるか……。\n",
+				"date_published": "2025-04-05T20:43:21+09:00",
+				"url": "https://oeight.space/2025/04/05/vs-codegithub-copilotreadmemd-github-copilot.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://o-eight.micro.blog/2025/04/05/pivot.html",
 				
 				"content_html": "<p>今作業中の小説が二つあるのだけれど、「もしかしたらこれ……面白いんじゃない？」というのが思いついてしまったのでpivotしてる</p>\n",
@@ -14,6 +356,15 @@
 				"date_published": "2025-04-05T00:46:15+09:00",
 				"url": "https://oeight.space/2025/04/05/pivot.html",
 				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/04/195649.html",
+				"title": "紙上の迷宮 #16",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p name=\"600b0346-76f7-4023-8504-d7bd14408d55\" id=\"600b0346-76f7-4023-8504-d7bd14408d55\"># 第16話：印字されない言葉</p><p name=\"0e2d32b7-f5d9-4cc8-b367-262c447279a7\" id=\"0e2d32b7-f5d9-4cc8-b367-262c447279a7\">（視点：小牧澄人）</p><br/><a href='https://note.com/o_eight/n/n40bd874d41c6'>続きをみる</a>\n",
+				"date_published": "2025-04-04T19:56:49+09:00",
+				"url": "https://oeight.space/2025/04/04/195649.html",
+				"tags": ["Longform"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/04/03/macosiosctrls.html",
@@ -923,6 +1274,15 @@
 				"date_published": "2025-03-30T21:49:42+09:00",
 				"url": "https://oeight.space/2025/03/30/claudeai.html",
 				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/03/30/214553.html",
+				"title": "紙上の迷宮 #11",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p name=\"f26ff3aa-716c-4802-8fa1-de584c99894b\" id=\"f26ff3aa-716c-4802-8fa1-de584c99894b\"># 第11話：削除線の向こう</p><p name=\"8a1853db-cadf-4329-9f88-89cb47490238\" id=\"8a1853db-cadf-4329-9f88-89cb47490238\">（視点：狩谷隆志）</p><br/><a href='https://note.com/o_eight/n/n45d87b57e426'>続きをみる</a>\n",
+				"date_published": "2025-03-30T21:45:53+09:00",
+				"url": "https://oeight.space/2025/03/30/214553.html",
+				"tags": ["Longform"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/03/30/ai.html",
