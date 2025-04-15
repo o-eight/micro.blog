@@ -7,6 +7,564 @@
 	"items": [
 		
 			{
+				"id": "http://o-eight.micro.blog/2025/04/15/175151.html",
+				
+				"content_html": "<p>oeight.meでの先行公開タイトルを一つ増やしました。追放されたけど辺境の村でのんびり最強生活 | oeight.me\n<a href=\"https://oeight.me/early-access-novels/bannished-but/\">oeight.me/early-acc&hellip;</a></p>\n",
+				"content_text": "oeight.meでの先行公開タイトルを一つ増やしました。追放されたけど辺境の村でのんびり最強生活 | oeight.me\n[oeight.me/early-acc...](https://oeight.me/early-access-novels/bannished-but/)\n",
+				"date_published": "2025-04-15T17:51:51+09:00",
+				"url": "https://oeight.space/2025/04/15/175151.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/14/boujourr.html",
+				"title": "ブラウザのスタートページに地味に欲しかった機能が全部ある、Boujourr",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<h2 id=\"bonjourrmomentum\">Bonjourr、Momentum</h2>\n<p>Bonjourrという機能拡張がある。ブラウザのスタートページや新規ページを拡張する機能だ。ミニマリズム的なデザインで、すっきりしている。</p>\n<p>似た機能拡張としてはMomentumが有名だろう。</p>\n<p>ただし、Momentumはフリーミアムモデルなので、優れた機能を使うためには月額約5ドルが必要だ（年契約で月3.33ドルになる）。</p>\n<p>これで、もたらされる機能にはAIチャット、癒されるBGM、複数のタスクリスト……などなど20ぐらいの機能があるらしいが、スタートページで色々なものを管理したいと思わないのであれば、ちょっと過剰だと思う。</p>\n<h2 id=\"bonjourrは無料\">Bonjourrは無料</h2>\n<p>それと比較すると、Bonjourrは全ての機能が無料提供されている。</p>\n<p>自分の場合、スタートページに求める機能は、時刻や天気の表示、ブックマーク、検索、多少のメモ……ぐらいだ。だから、Bonjourrぐらいがちょうどいい。</p>\n<p>無料だとつけにくい設定の同期機能（同一ブラウザ内ならいいが、プラットフォーム違いのブラウザなどとの同期はサーバーが必要になりがちなので難しい）についても、Gistかその類似サービスを使うことで可能になる、という仕組みだ。</p>\n<p>なお、Gistは普通の人にはちょっと難しいかもしれないが、単純な設定ファイルのエクスポート・インポートもサポートしている。</p>\n<h2 id=\"bonjourrならではの魅力は検索バーのカスタマイズ\">Bonjourrならではの魅力は、検索バーのカスタマイズ</h2>\n<p>設定の柔軟性が高い。無料プランしかないアプリにしては、項目のオンオフだったり、文字サイズ・フォントの変更などがかなり細かく設定できるのは嬉しい。いらない機能が出ているので気が散る、ということが少なくなるだろう。</p>\n<p>そして、一番大きいのは……。</p>\n<p><strong>検索エンジンを自分でカスタムできる。</strong></p>\n<p>これにつきる。</p>\n<p>Momentum（Safari版）は検索エンジンは選択式になっていて、Google, Bing, DuckDuckGo, Ecosiaと、まあ十分ではあるのだが、Kagiが設定できない。</p>\n<p>それに対して、Bonjourrは自分で検索クエリパラメーターの部分をカスタムできるので、検索バーをKagiにすることができるし、なんならRedditとかAmazonにしてしまうことも可能だ。</p>\n<p>まあスタートページから検索することはそんなにないのでは、という話はあるかもしれないが、とりあえず使える検索ボックスがそこにあれば使うし、先ほど述べたようにあえてReddit用なんかにしてしまうのも手だろう。</p>\n<h2 id=\"ブックマークも嬉しい作りになっている\">ブックマークも嬉しい作りになっている</h2>\n<p>また、ブックマーク機能はブラウザとは統合されていない別立ての方式だ。</p>\n<p>個人的にはこれは結構重要で、スタートページからアクセスしたい厳選された項目はブックマークとは違う、と常日頃思っていて、ブラウザの標準機能だとなんかあんまり上手く機能しないんだよな、と思っていたので、それが解消されるのは嬉しい。</p>\n<p>グルーピングができて、一行で表示される個数を調整できるので、OrionとかZen BrowserとかArcのようなタブのピン留め（Essentialsと呼ぶ場合も）でありがちな、よく使うやつがそこそこの数あるから全部登録して無駄にメモリを食ってしまいがち……という状況も防げるだろう。</p>\n<p>まあここはブラウザのメモリ管理を信用したほうがいいのかもしれないが。</p>\n<h2 id=\"より詳しい詳細は\">より詳しい詳細は……</h2>\n<p>公式の以下を参照してほしい。Bonjourr、いいですよ。</p>\n<p><a href=\"https://bonjourr.fr/docs/overview/\">https://bonjourr.fr/docs/overview/</a></p>\n",
+				"date_published": "2025-04-14T23:11:01+09:00",
+				"url": "https://oeight.space/2025/04/14/boujourr.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/14/164637.html",
+				
+				"content_html": "<p>実際に本契約するなら違う形になりそうではある。</p>\n",
+				"content_text": "実際に本契約するなら違う形になりそうではある。\n",
+				"date_published": "2025-04-14T16:46:37+09:00",
+				"url": "https://oeight.space/2025/04/14/164637.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/14/geminiui-geminichatgpt.html",
+				
+				"content_html": "<p>初めてみたのはいいんだけど、現状のGeminiって公式アプリのUIの方の制限で、やらせられる仕事があんまりないんだよな……。</p>\n<p>まあ、まずはGeminiとしばらく付き合ってみよう。（なんか苦手意識あるんだよね、ChatGPTとは別の意味で）</p>\n",
+				"content_text": "初めてみたのはいいんだけど、現状のGeminiって公式アプリのUIの方の制限で、やらせられる仕事があんまりないんだよな……。\n\nまあ、まずはGeminiとしばらく付き合ってみよう。（なんか苦手意識あるんだよね、ChatGPTとは別の意味で）\n",
+				"date_published": "2025-04-14T16:46:08+09:00",
+				"url": "https://oeight.space/2025/04/14/geminiui-geminichatgpt.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/14/chatgpt-plusgemini-advanced.html",
+				
+				"content_html": "<p>ChatGPT Plusの契約期限が来たので、いったんGemini Advancedのトライアルを始めてみた。</p>\n",
+				"content_text": "ChatGPT Plusの契約期限が来たので、いったんGemini Advancedのトライアルを始めてみた。\n",
+				"date_published": "2025-04-14T16:41:52+09:00",
+				"url": "https://oeight.space/2025/04/14/chatgpt-plusgemini-advanced.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/14/011819.html",
+				"title": "紙上の迷宮 #22",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p name=\"a4c20ad2-9ef3-4aaa-88b5-7b5cf95461c8\" id=\"a4c20ad2-9ef3-4aaa-88b5-7b5cf95461c8\"># 第22話：長谷川の引き出し</p><p name=\"86ae7d44-c540-48e0-baa5-7a88e3b619ca\" id=\"86ae7d44-c540-48e0-baa5-7a88e3b619ca\">（視点：長谷川樹）</p><br/><a href='https://note.com/o_eight/n/n0e5d71aad33a'>続きをみる</a>\n",
+				"date_published": "2025-04-14T01:18:19+09:00",
+				"url": "https://oeight.space/2025/04/14/011819.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/14/oeightmerssoeightspaceoeightspace.html",
+				
+				"content_html": "<p>あっ、oeight.meに投稿するとRSSをoeight.spaceで読みこんで表示する仕掛けだから、oeight.spaceにもクロスポストされたようになるんだ？　サイト管理者が今気付いててどうする。</p>\n",
+				"content_text": "あっ、oeight.meに投稿するとRSSをoeight.spaceで読みこんで表示する仕掛けだから、oeight.spaceにもクロスポストされたようになるんだ？　サイト管理者が今気付いててどうする。\n",
+				"date_published": "2025-04-14T01:14:19+09:00",
+				"url": "https://oeight.space/2025/04/14/oeightmerssoeightspaceoeightspace.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/13/225613.html",
+				
+				"content_html": "<p>やるべきこと終わったから配信できるわ。ってこんな時間だからもう無理だわ……悲しい。</p>\n",
+				"content_text": "やるべきこと終わったから配信できるわ。ってこんな時間だからもう無理だわ……悲しい。\n",
+				"date_published": "2025-04-13T22:56:13+09:00",
+				"url": "https://oeight.space/2025/04/13/225613.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/13/claude-maxgithub-copilot-proraycast-proai.html",
+				
+				"content_html": "<p>まあ毎月Claude MAXいるわけじゃないので、Github Copilot Proを年の100ドル、Raycast Proを96ドル、AI強化を96ドルを先に払っておいてうまく倹約するという手もある。まあでもボーナス月にしてほしいな……。</p>\n",
+				"content_text": "まあ毎月Claude MAXいるわけじゃないので、Github Copilot Proを年の100ドル、Raycast Proを96ドル、AI強化を96ドルを先に払っておいてうまく倹約するという手もある。まあでもボーナス月にしてほしいな……。\n",
+				"date_published": "2025-04-13T22:51:56+09:00",
+				"url": "https://oeight.space/2025/04/13/claude-maxgithub-copilot-proraycast-proai.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/13/aiclaude-maxraycast-pro-advanced-ai.html",
+				
+				"content_html": "<p>AI環境、Claude MAXとRaycast Pro + Advanced AIにする手があるか……？ Advanced AIは機能的にはあんまりいらないけど、全社の最先端のAIをテストする目的だと思えば悪くない気がする。4oの新しい画像生成がAPIに来たら追加するつもりあるらしいし。しかし、GitHub Copilot Proは迷うところ……。</p>\n",
+				"content_text": "AI環境、Claude MAXとRaycast Pro + Advanced AIにする手があるか……？ Advanced AIは機能的にはあんまりいらないけど、全社の最先端のAIをテストする目的だと思えば悪くない気がする。4oの新しい画像生成がAPIに来たら追加するつもりあるらしいし。しかし、GitHub Copilot Proは迷うところ……。\n",
+				"date_published": "2025-04-13T22:46:40+09:00",
+				"url": "https://oeight.space/2025/04/13/aiclaude-maxraycast-pro-advanced-ai.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/13/152839.html",
+				
+				"content_html": "<p>インプットも大事だから漫画読む（言い訳）</p>\n",
+				"content_text": "インプットも大事だから漫画読む（言い訳）\n",
+				"date_published": "2025-04-13T15:28:39+09:00",
+				"url": "https://oeight.space/2025/04/13/152839.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/13/135446.html",
+				
+				"content_html": "<p>寝過ぎた、目覚ましかかっているものだと思い込んだなあ</p>\n",
+				"content_text": "寝過ぎた、目覚ましかかっているものだと思い込んだなあ\n",
+				"date_published": "2025-04-13T13:54:46+09:00",
+				"url": "https://oeight.space/2025/04/13/135446.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/px.html",
+				
+				"content_html": "<p>だから、わりときっちり分ける傾向のウィンドウ管理ツールが合わないんじゃないかなと。わりと10px広いか狭いかで気にしてるとこあるし……。</p>\n",
+				"content_text": "だから、わりときっちり分ける傾向のウィンドウ管理ツールが合わないんじゃないかなと。わりと10px広いか狭いかで気にしてるとこあるし……。\n",
+				"date_published": "2025-04-12T23:43:55+09:00",
+				"url": "https://oeight.space/2025/04/12/px.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/234217.html",
+				
+				"content_html": "<p>今トランプというとプレイングカードではなくてみんなの脳裏には大統領が出てくるのか……</p>\n",
+				"content_text": "今トランプというとプレイングカードではなくてみんなの脳裏には大統領が出てくるのか……\n",
+				"date_published": "2025-04-12T23:42:17+09:00",
+				"url": "https://oeight.space/2025/04/12/234217.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/234134.html",
+				
+				"content_html": "<p>自分はウィンドウをトランプでファンスプレッド（扇状に広げるやつ）というかなんか、重なったときに少しずつはみ出てる状態にするのが好きなんですよね。</p>\n<p>少しはみ出てると重なっててもすぐアクセスできるし、一つ一つは大きめにスペースとれるので。</p>\n",
+				"content_text": "自分はウィンドウをトランプでファンスプレッド（扇状に広げるやつ）というかなんか、重なったときに少しずつはみ出てる状態にするのが好きなんですよね。\n\n少しはみ出てると重なっててもすぐアクセスできるし、一つ一つは大きめにスペースとれるので。\n",
+				"date_published": "2025-04-12T23:41:34+09:00",
+				"url": "https://oeight.space/2025/04/12/234134.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/233408.html",
+				
+				"content_html": "<p>ウィンドウの配置を操作・変更する系のツール、使おうと思ったことないんだよな……。よさがいまいち分かってない。</p>\n",
+				"content_text": "ウィンドウの配置を操作・変更する系のツール、使おうと思ったことないんだよな……。よさがいまいち分かってない。\n",
+				"date_published": "2025-04-12T23:34:08+09:00",
+				"url": "https://oeight.space/2025/04/12/233408.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/fat.html",
+				
+				"content_html": "<p>とりあえず完結まで書いてある話が公開しやすいから、フラブレからいくかなあ。昨夜13話分ぐらい直して大分よくなったはず。ただなんかfatなんだよな……。</p>\n",
+				"content_text": "とりあえず完結まで書いてある話が公開しやすいから、フラブレからいくかなあ。昨夜13話分ぐらい直して大分よくなったはず。ただなんかfatなんだよな……。\n",
+				"date_published": "2025-04-12T22:53:56+09:00",
+				"url": "https://oeight.space/2025/04/12/fat.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/223301.html",
+				
+				"content_html": "<p>出し惜しまずに小説出さないとな……いや、出し惜しんでいるわけではないか。</p>\n",
+				"content_text": "出し惜しまずに小説出さないとな……いや、出し惜しんでいるわけではないか。\n",
+				"date_published": "2025-04-12T22:33:01+09:00",
+				"url": "https://oeight.space/2025/04/12/223301.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/222304.html",
+				
+				"content_html": "<p>まあ流し読みだったから自分が意図を汲み取れていない可能性も高いか（英文は苦手です）。</p>\n",
+				"content_text": "まあ流し読みだったから自分が意図を汲み取れていない可能性も高いか（英文は苦手です）。\n",
+				"date_published": "2025-04-12T22:23:04+09:00",
+				"url": "https://oeight.space/2025/04/12/222304.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/222120.html",
+				
+				"content_html": "<p>言わんとすることは汲み取れるんだけど、多言語対応については「あとで大変なことになるかもしれないけどごめんな」ぐらいでいいんじゃないかなとか……。</p>\n",
+				"content_text": "言わんとすることは汲み取れるんだけど、多言語対応については「あとで大変なことになるかもしれないけどごめんな」ぐらいでいいんじゃないかなとか……。\n",
+				"date_published": "2025-04-12T22:21:20+09:00",
+				"url": "https://oeight.space/2025/04/12/222120.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/221914.html",
+				
+				"content_html": "<p>多言語対応やった後で、ドキュメント見たら本体が多言語対応してないから独自のやり方ではやらないでくれ、みたいな記述があって、うーんってなった。</p>\n<p>まあでもその後にプリファレンスで分けるやり方はよさそうなこと書いてあったからいいんじゃないですかね。どっちにしてもストアに出す気ないので、ちゃんと読むのをやめてしまった。</p>\n",
+				"content_text": "多言語対応やった後で、ドキュメント見たら本体が多言語対応してないから独自のやり方ではやらないでくれ、みたいな記述があって、うーんってなった。\n\nまあでもその後にプリファレンスで分けるやり方はよさそうなこと書いてあったからいいんじゃないですかね。どっちにしてもストアに出す気ないので、ちゃんと読むのをやめてしまった。\n",
+				"date_published": "2025-04-12T22:19:14+09:00",
+				"url": "https://oeight.space/2025/04/12/221914.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/command.html",
+				
+				"content_html": "<p>公式のネーミングルールが、Commandが1つだけだと逆に変な感じになるなあと思った。他の人の見たらコマンド1つのやつはわりと適当な感じではあったが。</p>\n<p>中途半端に寄せたのでより変なことになってる面はある。</p>\n",
+				"content_text": "公式のネーミングルールが、Commandが1つだけだと逆に変な感じになるなあと思った。他の人の見たらコマンド1つのやつはわりと適当な感じではあったが。\n\n中途半端に寄せたのでより変なことになってる面はある。\n",
+				"date_published": "2025-04-12T22:17:16+09:00",
+				"url": "https://oeight.space/2025/04/12/command.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/221455.html",
+				
+				"content_html": "<p>RaycastからMicro.blogに投稿するためのExtensionを作りました。\n自分的にはこれで十分なので、これ以上更新とかするつもりはないです……。</p>\n<p>o-eight/Post-to-Micro.blog_RaycastExtension: Post to Micro.blog - Raycast Extension\n<a href=\"https://github.com/o-eight/Post-to-Micro.blog_RaycastExtension\">https://github.com/o-eight/Post-to-Micro.blog_RaycastExtension</a></p>\n",
+				"content_text": "RaycastからMicro.blogに投稿するためのExtensionを作りました。\n自分的にはこれで十分なので、これ以上更新とかするつもりはないです……。\n\no-eight/Post-to-Micro.blog_RaycastExtension: Post to Micro.blog - Raycast Extension\n<https://github.com/o-eight/Post-to-Micro.blog_RaycastExtension>\n",
+				"date_published": "2025-04-12T22:14:55+09:00",
+				"url": "https://oeight.space/2025/04/12/221455.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/213816.html",
+				
+				"content_html": "<p>とりあえずこの拡張機能はこれぐらいでいいか。ストア公開しようと思うと色々面倒くさいしな……。</p>\n",
+				"content_text": "とりあえずこの拡張機能はこれぐらいでいいか。ストア公開しようと思うと色々面倒くさいしな……。\n",
+				"date_published": "2025-04-12T21:38:16+09:00",
+				"url": "https://oeight.space/2025/04/12/213816.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/offerwall.html",
+				
+				"content_html": "<p>うん。Offerwallのリワード広告だけにしましょうか。それが一番フェアな感じはする。</p>\n",
+				"content_text": "うん。Offerwallのリワード広告だけにしましょうか。それが一番フェアな感じはする。\n",
+				"date_published": "2025-04-12T20:45:09+09:00",
+				"url": "https://oeight.space/2025/04/12/offerwall.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/204251.html",
+				
+				"content_html": "<p>自分のサイト見たら思ってもないところに広告出ててびっくりした。トップページは除外設定してみたけどどうだろう……。正直「もっと見たければ広告みたら24時間見れるよ」広告だけでいいような気はするなあ。</p>\n",
+				"content_text": "自分のサイト見たら思ってもないところに広告出ててびっくりした。トップページは除外設定してみたけどどうだろう……。正直「もっと見たければ広告みたら24時間見れるよ」広告だけでいいような気はするなあ。\n",
+				"date_published": "2025-04-12T20:42:51+09:00",
+				"url": "https://oeight.space/2025/04/12/204251.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/microblog.html",
+				
+				"content_html": "<p>とりあえずよさそうか。文字数カウントぐらいはしておくか……Micro.blog的には何文字までいけるんだっけ、試してみないとだな。</p>\n",
+				"content_text": "とりあえずよさそうか。文字数カウントぐらいはしておくか……Micro.blog的には何文字までいけるんだっけ、試してみないとだな。\n",
+				"date_published": "2025-04-12T20:25:34+09:00",
+				"url": "https://oeight.space/2025/04/12/microblog.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/202443.html",
+				
+				"content_html": "<p>多言語対応できたかなー？</p>\n",
+				"content_text": "多言語対応できたかなー？\n",
+				"date_published": "2025-04-12T20:24:43+09:00",
+				"url": "https://oeight.space/2025/04/12/202443.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/195001.html",
+				
+				"content_html": "<p>やりたいことは色々あるけど、時間はあんまりないという。</p>\n",
+				"content_text": "やりたいことは色々あるけど、時間はあんまりないという。\n",
+				"date_published": "2025-04-12T19:50:01+09:00",
+				"url": "https://oeight.space/2025/04/12/195001.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/raycast-alfredquicksilver.html",
+				"title": "Raycastを使い始めた - AlfredとかQuicksilverとか懐かしい",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<h2 id=\"raycastsの概要\">Raycastsの概要</h2>\n<p>RaycastはmacOS向けのランチャーアプリで、キーボードショートカットから素早くアプリ起動ができるだけでなく、ファイル検索・カレンダー管理・Todoリスト管理・翻訳・検索ができるアプリ。</p>\n<p>特に拡張機能という方式をとることで、本体にない機能が大量に追加可能なのがいいところ。nodeベースで開発しなければならないが、その分、何でもできる気がする。</p>\n<p>Alfredにも同じような機能として、Alfred Workflowsがあるけれど、こっちはモジュラー方式（子供向けのプログラミング言語のScratchとか、macOSのショートカットとかAutomatorみたいな方法で作るらしい）なので、ノンコーディング環境なのはいいけれども、「がっつり機能を作る」という感じはない。</p>\n<h2 id=\"使い始めるまでの背景\">使い始めるまでの背景</h2>\n<p>QuicksilverやAlfredは使っていたのだが、AppleがSpotlightを出してきて、アプリ起動やちょっとした電卓としては使えるようにしてきたので、なるべく環境カスタマイズをしない環境作りにしようということで止めてしまっていた。</p>\n<p>また、マシン性能の問題もあって、色々と追加する気にならなくなっていた。</p>\n<p>それで、多分AI機能があるとかその辺がきっかけだったと思ったが、アプリの存在を知って興味をもったので試してみた。</p>\n<h2 id=\"何がよかったか\">何がよかったか</h2>\n<p>拡張可能性が高いこと、現代のハードウェアなら十分軽快に動くこと、AI機能が使えること……まずはこの辺がよかった。</p>\n<p>また、多数使っているアプリの類いを一つに統合できたのは大きい。多数アプリを使うようになったのはSetAppに切り替えて試し始めたばかりだったのもあるが。</p>\n<p>Clipboardを管理するアプリ、URLのリンクから起動するブラウザを変えるアプリ、LoFi音楽を再生するアプリ、付箋的なメモ用のアプリ……などとなっていたのが、ある程度の割り切り込みではあるが、統合できるようになった。</p>\n<p>また、Micro.blogへのPost用にアプリを常に立ち上げていたのだが、日ごろは短文投稿の部分しか使っていないから、アプリ一個は過剰だなあと思っていたのを、拡張機能を作ることで、Raycastから投稿できるようになった。</p>\n<h2 id=\"細かいところ\">細かいところ</h2>\n<p>スニペットや、QuickLink、AIコマンドあたりの、良く使うテキストで何かする、良く使うリンクにテキスト渡してなんかする、AIにちょっとした定型的な作業をさせる、のような処理については、Raycastの画面内でちょっと作業するだけで自作のものが追加できる。</p>\n<p>スクリプトをコマンド化することもできるので、ちょっとアレ作るか……ぐらいの気持ちで作れるのはいいと思う。</p>\n<h2 id=\"どこから入手できるか\">どこから入手できるか</h2>\n<p>以下にアフィリエイトリンクを示す。なお、基本プランは無料なので、有料プランに加入してくれたら私に報酬が入ることになる……はず。</p>\n<p>Raycast<br>\n<a href=\"https://raycast.com/?via=oeight\">https://raycast.com/?via=oeight</a></p>\n<p>この有料プランはRaycast Proという名称で、月10ドル（年契約での割引では8ドルになる）で、AI機能、設定の同期機能、クリップボードの履歴無制限、ウィンドウの管理機能のより高度なオプション、ノート無制限などが使える。</p>\n<p>制限が元々緩めなので、無理に有料にするほどでは……というところだが、AI機能はまあまあよくて、GPT-4o miniとかClaude 3.5 HaikuとかGemini 2.0 Flashとかとチャットをしたり、コマンドの一部として活用できる感じになる（APIまである）のは面白い。</p>\n<p>さらにAdvanced AIオプションということで、月10ドル（これまた年契約で8ドルになる割引あり）追加で払うことでGPT-4oやClaude 3.7 SonnetやGemini 2.5 Proとかが使えるようになる。</p>\n<p>LLMをある程度触っている人なら分かるが、この辺から大分頭のよさが違ってくる（GPT-4oは早く4.1になって欲しい気もするが……）。</p>\n<p>なので一見、AIの上位プランはコストパフォーマンスがよさそうに見えるが、当然ではあるが価格に見合った呼び出し数の制限があるため、以下の資料はチェックしてから契約したほうがいい。（そんなには厳しくない感じですが）</p>\n<p>Raycast Manual / AI<br>\n<a href=\"https://manual.raycast.com/ai\">https://manual.raycast.com/ai</a></p>\n<h2 id=\"まとめ\">まとめ</h2>\n<p>独自性という意味で、Raycast紹介のメインになるAI機能について書きたかったのだが……思ったより長くなったのでこれぐらいで。</p>\n<p>端的に言うと「無料で結構使えるランチャー」で、Alfredの競合としても、この辺のツールを使ったことない人にもちょっと試してみて欲しいツールでしたね。ランチャーというには色々できるからコマンドセンター？　とでも呼べばいいのだろうか。なんて呼べばいいんだろう。</p>\n<p>Windows版は現在開発中らしいです。</p>\n",
+				"date_published": "2025-04-12T19:42:40+09:00",
+				"url": "https://oeight.space/2025/04/12/raycast-alfredquicksilver.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/181616.html",
+				
+				"content_html": "<p>10話くらいまでならすぐにお出しできる小説を3本抱えているが、20話あたりに若干の難を抱えていたり、30話より先が見えなかったりでちょっとどれも悩ましい。短期間に何度も直したので、読み返しすぎてよく分からなくなってしまっているし……。</p>\n",
+				"content_text": "10話くらいまでならすぐにお出しできる小説を3本抱えているが、20話あたりに若干の難を抱えていたり、30話より先が見えなかったりでちょっとどれも悩ましい。短期間に何度も直したので、読み返しすぎてよく分からなくなってしまっているし……。\n",
+				"date_published": "2025-04-12T18:16:16+09:00",
+				"url": "https://oeight.space/2025/04/12/181616.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/bonjourr.html",
+				
+				"content_html": "<p>ブラウザの拡張機能で、シンプルだけど必要な機能は全部あるスタートページを提供する「Bonjourr」ってやつが非常によかった。今度紹介記事を書く。</p>\n",
+				"content_text": "ブラウザの拡張機能で、シンプルだけど必要な機能は全部あるスタートページを提供する「Bonjourr」ってやつが非常によかった。今度紹介記事を書く。\n",
+				"date_published": "2025-04-12T18:04:37+09:00",
+				"url": "https://oeight.space/2025/04/12/bonjourr.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/143332.html",
+				
+				"content_html": "<p>お昼ごはん食べに行きたいけど、配信見たいな……。</p>\n",
+				"content_text": "お昼ごはん食べに行きたいけど、配信見たいな……。\n",
+				"date_published": "2025-04-12T14:33:32+09:00",
+				"url": "https://oeight.space/2025/04/12/143332.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/130520.html",
+				
+				"content_html": "<p>目覚まし鳴ったの気づいてなかったっぽい……。</p>\n",
+				"content_text": "目覚まし鳴ったの気づいてなかったっぽい……。\n",
+				"date_published": "2025-04-12T13:05:20+09:00",
+				"url": "https://oeight.space/2025/04/12/130520.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/074758.html",
+				"title": "紙上の迷宮 #21",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p name=\"4619dd17-be90-4f3f-937f-7329df55ee99\" id=\"4619dd17-be90-4f3f-937f-7329df55ee99\"># 第21話：声なき更新</p><p name=\"8e9ab2ba-95b8-40ef-afef-1de27643ad3a\" id=\"8e9ab2ba-95b8-40ef-afef-1de27643ad3a\">（視点：伊吹杏奈）</p><br/><a href='https://note.com/o_eight/n/n5c669769a705'>続きをみる</a>\n",
+				"date_published": "2025-04-12T07:47:58+09:00",
+				"url": "https://oeight.space/2025/04/12/074758.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/074423.html",
+				
+				"content_html": "<p>朝ごはんは食べてから寝るか……（なんか言ってることおかしいね）</p>\n",
+				"content_text": "朝ごはんは食べてから寝るか……（なんか言ってることおかしいね）\n",
+				"date_published": "2025-04-12T07:44:23+09:00",
+				"url": "https://oeight.space/2025/04/12/074423.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/raycast-extensionui.html",
+				
+				"content_html": "<p>Raycast ExtensionはUIの型がかなり決まってるみたいだから、あんまり悩まなくてよさそうね。</p>\n",
+				"content_text": "Raycast ExtensionはUIの型がかなり決まってるみたいだから、あんまり悩まなくてよさそうね。\n",
+				"date_published": "2025-04-12T07:34:01+09:00",
+				"url": "https://oeight.space/2025/04/12/raycast-extensionui.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/raycastmicroblog.html",
+				
+				"content_html": "<p>RaycastからMicro.blogに投稿できるようになった。ちょっと細かいところを色々直さなきゃだけれども。しかしまあ、そろそろ寝るかあ……ごはん食べたい気持ちもあるから迷うな。</p>\n",
+				"content_text": "RaycastからMicro.blogに投稿できるようになった。ちょっと細かいところを色々直さなきゃだけれども。しかしまあ、そろそろ寝るかあ……ごはん食べたい気持ちもあるから迷うな。\n",
+				"date_published": "2025-04-12T07:32:57+09:00",
+				"url": "https://oeight.space/2025/04/12/raycastmicroblog.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/073048.html",
+				
+				"content_html": "<p>テスト投稿です。</p>\n",
+				"content_text": "テスト投稿です。\n",
+				"date_published": "2025-04-12T07:30:48+09:00",
+				"url": "https://oeight.space/2025/04/12/073048.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/070330.html",
+				
+				"content_html": "<p>ようやく眠くなってきた（遅い）</p>\n",
+				"content_text": "ようやく眠くなってきた（遅い）\n",
+				"date_published": "2025-04-12T07:03:30+09:00",
+				"url": "https://oeight.space/2025/04/12/070330.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/12/kagi.html",
+				"title": "Kagiという有料の検索エンジンを使っている",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://kagi.com\">Kagi</a>を使い始めて一ヶ月以上たった。結論から言うと、まだ辞める気は無い。</p>\n<h2 id=\"kagiとは\">Kagiとは？</h2>\n<p>どういうサービスかといえば、みんながよく知っているGoogleみたいなサービスだといえば、一番わかりやすいだろう。大体同じだ。検索するためのキーワードを入れると、それに該当する記事を出してくれる。</p>\n<p>レンズという絞り込みのための機能があったり、Quick AnswerというAIがさっと結果をまとめてくれる機能があったりするが、後者なんかはGoogleにもBingにもあるし、レンズは確か昔のGoogleに似た機能があったりする。</p>\n<p>じゃあどこが違うのか？　……有料なのだ。</p>\n<h2 id=\"kagiの料金プラン\">Kagiの料金プラン</h2>\n<p>Kagiのプランは、個人向けにはシンプルに3通りになっている。</p>\n<ul>\n<li>Kagi Starter …… $5/月。一月に300回まで検索できる。</li>\n<li>Kagi Professional …… $10/月。無制限に検索できる。FastGPTというKagi独自のLLMと、Unversal Summarizerという要約機能が使える。</li>\n<li>Kagi Ultimate …… $25/月。Professionalの機能に加えて、Assistantという他社製のLLM（Claude 3.7 SonnetとかChatGPT 4oとかLlamaとかGemini 2.0 Flashとか）を切り替えて利用できるおまけ機能がある（検索と連携させることもできる）。</li>\n</ul>\n<p>ちゃんと消費税もかかってくるので、$1が150円近い現在、最低プランで月800円、一つ上で月1,600円というところだ。正直、安くはない。</p>\n<p>というか、なんで検索にお金払ってるの？　という感覚が普通だと思う。</p>\n<p>GoogleにせよBingにせよ、Duck Duck GoにせよEcosiaにせよ、それなりに機能はしているし、AI検索が使いたければPerplexityやGeminiやChatGPTの無料プランもある。</p>\n<p>でも——。</p>\n<h2 id=\"なぜkagiを使うのか\">なぜKagiを使うのか？</h2>\n<p>正直、今の検索に満足できている人は少ないんじゃないだろうか。</p>\n<p>特にここ数年、検索結果の質の低下が著しい。上位表示されるのはSEO対策されたアフィリエイトサイトばかり。個人ブログは埋もれ、本当に欲しい情報にたどり着くのが難しくなった。</p>\n<p>広告も多い。多すぎる。検索結果の上位を広告で埋め尽くし、スクロールしなければ自然検索の結果にたどり着けない、なんてこともザラだ。</p>\n<p>プライバシーの問題もある。Googleを始めとする無料の検索エンジンは、ユーザーの検索履歴を収集し、ターゲティング広告に利用している。便利さと引き換えに、個人情報を提供しているのだ。</p>\n<p>Kagiは、これらの問題に対するアンチテーゼとして登場した。</p>\n<p>有料であることの最大のメリットは、広告がないことだ。検索結果はオーガニックな情報のみで構成され、ノイズが少ない。</p>\n<p>プライバシーにも配慮している。Kagiはユーザーの検索履歴を収集せず、ターゲティング広告にも利用しない。安心して検索できる。</p>\n<h2 id=\"kagiのデメリット\">Kagiのデメリット</h2>\n<p>もちろん、Kagiにもデメリットはある。</p>\n<p>まず、料金が高い。無料の検索エンジンに慣れている人にとっては、月額数百円〜数千円を払うことに抵抗があるかもしれない。</p>\n<p>検索エンジンの規模もGoogleには及ばない。ニッチな情報を探す場合は、Googleの方が有利な場合もある。</p>\n<p>FastGPTやUnversal SummarizerといったAI機能も、まだ発展途上だ。精度や速度は、GoogleやChatGPTには及ばない。</p>\n<h2 id=\"まとめ\">まとめ</h2>\n<p>それでも、私はKagiを使い続けている。なぜなら、Kagiは「検索体験」を向上させてくれるからだ。</p>\n<p>広告に邪魔されず、質の高い情報にアクセスできる。プライバシーも守られる。検索結果にストレスを感じることが減った。</p>\n<p>Kagiは、単なる検索エンジンではない。情報が溢れかえる時代における、情報との付き合い方を提案するサービスなのかもしれない。</p>\n",
+				"date_published": "2025-04-12T06:56:00+09:00",
+				"url": "https://oeight.space/2025/04/12/kagi.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/11/claude-maxchatgpt-plus.html",
+				
+				"content_html": "<p>Claude MAXを契約して……よし、ChatGPT Plusをやめるぞ、と思ったら会話履歴とメモリ履歴の参照が強化されてうーんってなった。</p>\n<p>個人的にはこの辺の記憶機能あんまり好きじゃないけど、小説を書かせるとなったらめちゃくちゃいるんだよな……。</p>\n<p>人の質問を代わりにするとかで、興味があることと覚えられたりするの困るので、新規チャットを適切に使う技術が問われるようになるのはちょっとめんどいが。</p>\n",
+				"content_text": "Claude MAXを契約して……よし、ChatGPT Plusをやめるぞ、と思ったら会話履歴とメモリ履歴の参照が強化されてうーんってなった。\n\n個人的にはこの辺の記憶機能あんまり好きじゃないけど、小説を書かせるとなったらめちゃくちゃいるんだよな……。\n\n人の質問を代わりにするとかで、興味があることと覚えられたりするの困るので、新規チャットを適切に使う技術が問われるようになるのはちょっとめんどいが。\n",
+				"date_published": "2025-04-11T23:07:43+09:00",
+				"url": "https://oeight.space/2025/04/11/claude-maxchatgpt-plus.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/11/221123.html",
+				
+				"content_html": "<p>プロットの情報量が多すぎるだろ、これ1話当たりどれぐらいになるんだろう？　って聞いたら15000文字ぐらいには……って返ってきたから、余計な描写を削って2/3を目指してみて、って言って直させて、もう一回チェックさせたら12000文字ぐらいってなった。</p>\n<p>計算は合ってるけど……でもこのプロット、本当にそこまでか？　と思って書かせたら1-4話が4000字以下3500字以上って感じで困惑している。</p>\n",
+				"content_text": "プロットの情報量が多すぎるだろ、これ1話当たりどれぐらいになるんだろう？　って聞いたら15000文字ぐらいには……って返ってきたから、余計な描写を削って2/3を目指してみて、って言って直させて、もう一回チェックさせたら12000文字ぐらいってなった。\n\n計算は合ってるけど……でもこのプロット、本当にそこまでか？　と思って書かせたら1-4話が4000字以下3500字以上って感じで困惑している。\n",
+				"date_published": "2025-04-11T22:11:23+09:00",
+				"url": "https://oeight.space/2025/04/11/221123.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/11/190232.html",
+				
+				"content_html": "<p>今は忙しくてゲームあんまできないからセーフだけど、残念ではある。</p>\n<p>2月に発売したObsidian新作『Avowed』日本語版は8月に延期…当初の予定より大幅遅れ、作業が予定通り進まず | Game*Spark - 国内・海外ゲーム情報サイト\n<a href=\"http://www.gamespark.jp/article/2025/04/11/151378.html\">www.gamespark.jp/article/2&hellip;</a></p>\n",
+				"content_text": "今は忙しくてゲームあんまできないからセーフだけど、残念ではある。\n\n2月に発売したObsidian新作『Avowed』日本語版は8月に延期…当初の予定より大幅遅れ、作業が予定通り進まず | Game*Spark - 国内・海外ゲーム情報サイト\n[www.gamespark.jp/article/2...](http://www.gamespark.jp/article/2025/04/11/151378.html)\n",
+				"date_published": "2025-04-11T19:02:32+09:00",
+				"url": "https://oeight.space/2025/04/11/190232.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/11/182803.html",
+				
+				"content_html": "<p>日本語にもいい組版の概念は当然あるけど、そういうのがブラウザに搭載されるようになるまで後何年どれだけかかるだろうか。</p>\n<p>テキストをキレイに折り返す「text-wrap: pretty」を使うべき理由をSafariのWebkit開発チームが公式で解説 - GIGAZINE\n<a href=\"https://gigazine.net/news/20250409-safari-better-typography-text-wrap-pretty/\">gigazine.net/news/2025&hellip;</a></p>\n",
+				"content_text": "日本語にもいい組版の概念は当然あるけど、そういうのがブラウザに搭載されるようになるまで後何年どれだけかかるだろうか。\n\nテキストをキレイに折り返す「text-wrap: pretty」を使うべき理由をSafariのWebkit開発チームが公式で解説 - GIGAZINE\n[gigazine.net/news/2025...](https://gigazine.net/news/20250409-safari-better-typography-text-wrap-pretty/)\n",
+				"date_published": "2025-04-11T18:28:03+09:00",
+				"url": "https://oeight.space/2025/04/11/182803.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/10/claude-max-x.html",
+				
+				"content_html": "<p>Claude MAX 5xでも使い切れないかもしれない。コード書かせてる人はもっと使うんだろうけど……。基本的には5時間ぐらいでリセットかかるはずだから、小説だと無限に到達しない感あるな。</p>\n",
+				"content_text": "Claude MAX 5xでも使い切れないかもしれない。コード書かせてる人はもっと使うんだろうけど……。基本的には5時間ぐらいでリセットかかるはずだから、小説だと無限に到達しない感あるな。\n",
+				"date_published": "2025-04-10T23:41:09+09:00",
+				"url": "https://oeight.space/2025/04/10/claude-max-x.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/10/231915.html",
+				
+				"content_html": "<p>これはでもなんかコード書いてみたいな……どっちかというとありがちなことやる方がうまいんだよな……。</p>\n",
+				"content_text": "これはでもなんかコード書いてみたいな……どっちかというとありがちなことやる方がうまいんだよな……。\n",
+				"date_published": "2025-04-10T23:19:15+09:00",
+				"url": "https://oeight.space/2025/04/10/231915.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/10/max-xmax-x.html",
+				
+				"content_html": "<p>でもMAX 2xかMAX 3xで十分だったとは思うがね……。</p>\n",
+				"content_text": "でもMAX 2xかMAX 3xで十分だったとは思うがね……。\n",
+				"date_published": "2025-04-10T23:16:08+09:00",
+				"url": "https://oeight.space/2025/04/10/max-xmax-x.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/10/claude-maxpro.html",
+				
+				"content_html": "<p>Claude MAX、現時点ではかなり良くて、Proに戻るの辛そうだ……となってきた。容量制限を頻繁に意識するのってやっぱ悪影響あったんだなあと。小説をゴリゴリ進ませるためのパワーを手に入れた感がある。</p>\n",
+				"content_text": "Claude MAX、現時点ではかなり良くて、Proに戻るの辛そうだ……となってきた。容量制限を頻繁に意識するのってやっぱ悪影響あったんだなあと。小説をゴリゴリ進ませるためのパワーを手に入れた感がある。\n",
+				"date_published": "2025-04-10T23:14:46+09:00",
+				"url": "https://oeight.space/2025/04/10/claude-maxpro.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/10/212056.html",
+				
+				"content_html": "<p>macOS版のClaude Desktop、MCP経由(Claude CodeのMCPサーバーモード か Filesystem MCP Server)のファイルアクセスでもGitHubのリポジトリ参照と同じで、なんか前のファイルの参照かキャッシュ持ってて変なことになる感じあるな……？</p>\n<p>これもしかして唯一絶対の解は、「なんか作業したらClaude Desktopを終了させて開き直す」ことだったりします？</p>\n",
+				"content_text": "macOS版のClaude Desktop、MCP経由(Claude CodeのMCPサーバーモード か Filesystem MCP Server)のファイルアクセスでもGitHubのリポジトリ参照と同じで、なんか前のファイルの参照かキャッシュ持ってて変なことになる感じあるな……？\n\nこれもしかして唯一絶対の解は、「なんか作業したらClaude Desktopを終了させて開き直す」ことだったりします？\n",
+				"date_published": "2025-04-10T21:20:56+09:00",
+				"url": "https://oeight.space/2025/04/10/212056.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/10/205427.html",
+				
+				"content_html": "<p>今度は打ち切りっぽかったな。順次で6話目の処理を始めたかと思ったら突然前の画面に戻った。6話は手付かずで終わってるのはありがたい。</p>\n",
+				"content_text": "今度は打ち切りっぽかったな。順次で6話目の処理を始めたかと思ったら突然前の画面に戻った。6話は手付かずで終わってるのはありがたい。\n",
+				"date_published": "2025-04-10T20:54:27+09:00",
+				"url": "https://oeight.space/2025/04/10/205427.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/10/x.html",
+				
+				"content_html": "<p>しかし5xが実際どの程度か全くわからないのは困るな。もう少しインジケーターみたいなの表示してほしい。全体の分量に対して緑、黄、赤ぐらいでいいので。</p>\n",
+				"content_text": "しかし5xが実際どの程度か全くわからないのは困るな。もう少しインジケーターみたいなの表示してほしい。全体の分量に対して緑、黄、赤ぐらいでいいので。\n",
+				"date_published": "2025-04-10T20:51:40+09:00",
+				"url": "https://oeight.space/2025/04/10/x.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/10/mcpclaude.html",
+				
+				"content_html": "<p>あー違うのかな、なんかよくわからん応答の返し方してそれでMCP側でアプリ的にエラーになって終わってるとかありそう。順次書き直してくださいで1話で打ち切られて、今度は2-4話まで処理できてるけどこの指示の仕方だと1話で返してくるのClaudeは良くやるからな</p>\n",
+				"content_text": "あー違うのかな、なんかよくわからん応答の返し方してそれでMCP側でアプリ的にエラーになって終わってるとかありそう。順次書き直してくださいで1話で打ち切られて、今度は2-4話まで処理できてるけどこの指示の仕方だと1話で返してくるのClaudeは良くやるからな\n",
+				"date_published": "2025-04-10T20:49:47+09:00",
+				"url": "https://oeight.space/2025/04/10/mcpclaude.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/10/extended-thinking.html",
+				
+				"content_html": "<p>出力トークンの限界なのかただのエラー落ちなのかわからんけどたまに中断されてチャット画面の前に戻ることあるな……ローカルファイルを弄ってるから処理はそのまま残ってるけど。（変なところでは終わってないから出力トークンかコンテキスト制限かな？　Extended Thinkingならもっといけるはずだけどなあ）</p>\n<p>そもそもデスクトップアプリで追加できるナレッジの量変わってないからコンテキストサイズは増えてるようで増えてなさそう（かナレッジにはまだ適用されてない）。</p>\n",
+				"content_text": "出力トークンの限界なのかただのエラー落ちなのかわからんけどたまに中断されてチャット画面の前に戻ることあるな……ローカルファイルを弄ってるから処理はそのまま残ってるけど。（変なところでは終わってないから出力トークンかコンテキスト制限かな？　Extended Thinkingならもっといけるはずだけどなあ）\n\nそもそもデスクトップアプリで追加できるナレッジの量変わってないからコンテキストサイズは増えてるようで増えてなさそう（かナレッジにはまだ適用されてない）。\n",
+				"date_published": "2025-04-10T20:47:27+09:00",
+				"url": "https://oeight.space/2025/04/10/extended-thinking.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/10/claude-codemcp-server.html",
+				
+				"content_html": "<p>執筆も書き換えも大半がClaude Code(MCP Serverモード)で動いてるな</p>\n",
+				"content_text": "執筆も書き換えも大半がClaude Code(MCP Serverモード)で動いてるな\n",
+				"date_published": "2025-04-10T20:39:47+09:00",
+				"url": "https://oeight.space/2025/04/10/claude-codemcp-server.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/10/claude-max-xx.html",
+				
+				"content_html": "<p>Claude Max 5x、確かに5xのパワーを感じるな……本来ならこれぐらいでそろそろリミットが見えてくる段階……いや流石に早いか。</p>\n",
+				"content_text": "Claude Max 5x、確かに5xのパワーを感じるな……本来ならこれぐらいでそろそろリミットが見えてくる段階……いや流石に早いか。\n",
+				"date_published": "2025-04-10T20:38:06+09:00",
+				"url": "https://oeight.space/2025/04/10/claude-max-xx.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/10/195833.html",
+				
+				"content_html": "<p>小説「執筆」とは一体……もう、元には戻れない。</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "小説「執筆」とは一体……もう、元には戻れない。\n\n<img src=\"uploads/2025/d00a99562c.png\" width=\"592\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-04-10T19:58:33+09:00",
+				"url": "https://oeight.space/2025/04/10/195833.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/10/gitfilesystem-mcp-serverclaudegitdiff.html",
+				
+				"content_html": "<p>自分は小説ごとにフォルダを作って、さらにその上のフォルダをgitリポジトリにしているんだけど、Filesystem MCP Serverには特定のフォルダ（つまり特定の作品）の下だけ見せるようにしてClaudeから操作させることで、エディタはチェックしてちょっと直してgitリポジトリに反映したりするだけのものとなった。（この編集方式だと変更点はdiffで見るのがいいので、エディタがないと流石に辛いが）</p>\n",
+				"content_text": "自分は小説ごとにフォルダを作って、さらにその上のフォルダをgitリポジトリにしているんだけど、Filesystem MCP Serverには特定のフォルダ（つまり特定の作品）の下だけ見せるようにしてClaudeから操作させることで、エディタはチェックしてちょっと直してgitリポジトリに反映したりするだけのものとなった。（この編集方式だと変更点はdiffで見るのがいいので、エディタがないと流石に辛いが）\n",
+				"date_published": "2025-04-10T19:49:36+09:00",
+				"url": "https://oeight.space/2025/04/10/gitfilesystem-mcp-serverclaudegitdiff.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/10/readme.html",
+				
+				"content_html": "<p>試しにREADMEを作り直させたけどやばー、もうエディタすら開かなくても良くなった（確認はしろ）</p>\n",
+				"content_text": "試しにREADMEを作り直させたけどやばー、もうエディタすら開かなくても良くなった（確認はしろ）\n",
+				"date_published": "2025-04-10T19:46:27+09:00",
+				"url": "https://oeight.space/2025/04/10/readme.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/10/mcp-serverclaude-codefilesystem-mcp-server.html",
+				
+				"content_html": "<p>MCP ServerとしてClaude Codeをちょっと試しに動かしてみた。小説執筆用にはFilesystem MCP Server入れときたいのでこれからやります。</p>\n",
+				"content_text": "MCP ServerとしてClaude Codeをちょっと試しに動かしてみた。小説執筆用にはFilesystem MCP Server入れときたいのでこれからやります。\n",
+				"date_published": "2025-04-10T19:39:07+09:00",
+				"url": "https://oeight.space/2025/04/10/mcp-serverclaude-codefilesystem-mcp-server.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/10/mcpclaude-codegithub-copilot-prochatgpt-pro.html",
+				
+				"content_html": "<p>とりま仕事終わったらMCPでClaude Code使うやつ設定しよう、それでGithub Copilot Proをなくして、ChatGPT Proを一旦切って、それで30ドル……残り50ドルどうしよう。</p>\n",
+				"content_text": "とりま仕事終わったらMCPでClaude Code使うやつ設定しよう、それでGithub Copilot Proをなくして、ChatGPT Proを一旦切って、それで30ドル……残り50ドルどうしよう。\n",
+				"date_published": "2025-04-10T12:27:22+09:00",
+				"url": "https://oeight.space/2025/04/10/mcpclaude-codegithub-copilot-prochatgpt-pro.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/10/claude-max.html",
+				
+				"content_html": "<p>Claude MAX!\nでもこんなにはいらないはずなんだよ……。どこからこのお金捻出すればいいんだ。</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Claude MAX!\nでもこんなにはいらないはずなんだよ……。どこからこのお金捻出すればいいんだ。\n\n\n<img src=\"uploads/2025/78c1cd4b99.png\" width=\"600\" height=\"254\" alt=\"\"><img src=\"uploads/2025/d812ff96b3.png\" width=\"600\" height=\"541\" alt=\"\">\n",
+				"date_published": "2025-04-10T12:19:52+09:00",
+				"url": "https://oeight.space/2025/04/10/claude-max.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://o-eight.micro.blog/2025/04/10/claude-promax.html",
 				
 				"content_html": "<p>年間契約のClaude Proがさらに安くなりました。そしてMAX……いいだろう、一月だけ契約する。</p>\n",
