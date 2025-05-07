@@ -7,6 +7,87 @@
 	"items": [
 		
 			{
+				"id": "http://o-eight.micro.blog/2025/05/07/chatgpt-plus.html",
+				
+				"content_html": "<p>今度こそChatGPT Plusをやめるぞという気持ちになるのだけれど、なんだかんだ機能が豊富かつ新機能の量で飽きさせないところはあるよね。実用ツールではあるんだけど、単純な実用ツールというよりはコンテンツ感ある。</p>\n",
+				"content_text": "今度こそChatGPT Plusをやめるぞという気持ちになるのだけれど、なんだかんだ機能が豊富かつ新機能の量で飽きさせないところはあるよね。実用ツールではあるんだけど、単純な実用ツールというよりはコンテンツ感ある。\n",
+				"date_published": "2025-05-07T20:56:46+09:00",
+				"url": "https://oeight.space/2025/05/07/chatgpt-plus.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/05/04/notetales.html",
+				
+				"content_html": "<p>とりあえず紙上の迷宮の最終話まで下書きにしたので、あとは公開を忘れないようにするだけ……予約投稿使えないから、今後はnote関係で小説出す時はtalesにすると思います。</p>\n",
+				"content_text": "とりあえず紙上の迷宮の最終話まで下書きにしたので、あとは公開を忘れないようにするだけ……予約投稿使えないから、今後はnote関係で小説出す時はtalesにすると思います。\n",
+				"date_published": "2025-05-04T04:40:43+09:00",
+				"url": "https://oeight.space/2025/05/04/notetales.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/05/04/note.html",
+				
+				"content_html": "<p>noteの『紙上の迷宮』の投稿（更新）をすっかり忘れてしまっていました。</p>\n",
+				"content_text": "noteの『紙上の迷宮』の投稿（更新）をすっかり忘れてしまっていました。\n",
+				"date_published": "2025-05-04T04:06:54+09:00",
+				"url": "https://oeight.space/2025/05/04/note.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/05/04/033404.html",
+				"title": "紙上の迷宮 #25",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p name=\"323df543-4357-4d6a-845e-dac3d0b6ad2b\" id=\"323df543-4357-4d6a-845e-dac3d0b6ad2b\"># 第25話：パスワードは過去形</p><p name=\"713c0865-ec3c-4618-a8dd-e54260c11203\" id=\"713c0865-ec3c-4618-a8dd-e54260c11203\">（視点：小牧澄人）</p><br/><a href='https://note.com/o_eight/n/nc53cef3562c0'>続きをみる</a>\n",
+				"date_published": "2025-05-04T03:34:04+09:00",
+				"url": "https://oeight.space/2025/05/04/033404.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/05/04/014648.html",
+				
+				"content_html": "<p>Claude MAXにClaude Codeが含まれると明言されるようになったのでかいな。</p>\n<p><a href=\"https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan\">support.anthropic.com/en/articl&hellip;</a></p>\n",
+				"content_text": "Claude MAXにClaude Codeが含まれると明言されるようになったのでかいな。\n\n[support.anthropic.com/en/articl...](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan)\n",
+				"date_published": "2025-05-04T01:46:48+09:00",
+				"url": "https://oeight.space/2025/05/04/014648.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/05/03/claude-desktopmacoscommandspace.html",
+				
+				"content_html": "<p>Claude DesktopがmacOSだと日本語入力がうまくできない（確定操作でメッセージ送信になる）現象、フィードバックで報告した甲斐があったのかちゃんと直ってるな。これでCommand+Spaceを割り当てられるか。</p>\n",
+				"content_text": "Claude DesktopがmacOSだと日本語入力がうまくできない（確定操作でメッセージ送信になる）現象、フィードバックで報告した甲斐があったのかちゃんと直ってるな。これでCommand+Spaceを割り当てられるか。\n",
+				"date_published": "2025-05-03T23:24:07+09:00",
+				"url": "https://oeight.space/2025/05/03/claude-desktopmacoscommandspace.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/05/01/raycast-proaiaaaaa.html",
+				
+				"content_html": "<p>Raycast ProのAI機能で、カレンダーに「5/3と5/4に「AAAAA」の予定を終日で入れて」とかの文でまとめて入れられるの大変に便利。</p>\n",
+				"content_text": "Raycast ProのAI機能で、カレンダーに「5/3と5/4に「AAAAA」の予定を終日で入れて」とかの文でまとめて入れられるの大変に便利。\n",
+				"date_published": "2025-05-01T22:13:08+09:00",
+				"url": "https://oeight.space/2025/05/01/raycast-proaiaaaaa.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/05/01/httpskickcomoeightvideoscbfdfabaeeddf.html",
+				
+				"content_html": "<p>配信します</p>\n<p><a href=\"https://kick.com/o-eight/videos/05cb8f3d-32fa-489b-ae0e-d523d76302f8\">kick.com/o-eight/v&hellip;</a></p>\n",
+				"content_text": "配信します\n\n[kick.com/o-eight/v...](https://kick.com/o-eight/videos/05cb8f3d-32fa-489b-ae0e-d523d76302f8)\n",
+				"date_published": "2025-05-01T15:28:27+09:00",
+				"url": "https://oeight.space/2025/05/01/httpskickcomoeightvideoscbfdfabaeeddf.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/05/01/142932.html",
+				
+				"content_html": "<p>ちょっと先に済ませておきたいことがありまして……15時ぐらいからになってしまうかも</p>\n",
+				"content_text": "ちょっと先に済ませておきたいことがありまして……15時ぐらいからになってしまうかも\n",
+				"date_published": "2025-05-01T14:29:32+09:00",
+				"url": "https://oeight.space/2025/05/01/142932.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://o-eight.micro.blog/2025/05/01/diablo-kicktwitchtwitchcmkickcmtwitchkick.html",
 				
 				"content_html": "<p>ちょっとDiablo 4の配信するんだけど、KickにしようかTwitchにしようか迷ってる。まだTwitchは収益化してないからCMなしだと思うけど、KickもCMないよね……。オブリビオンはTwitchでやるだろうからKickでやるか</p>\n",
@@ -307,7 +388,7 @@
 				"id": "http://o-eight.micro.blog/2025/04/19/gemini-flashhaikugpt-mini.html",
 				
 				"content_html": "<p>Gemini 2.5 Flash、プレビューだからあれだけど、思考ありのときの出力トークン結構お高いな。まあ思考ありでもHaikuクラスだと思えば安いんだけど、GPT-4.1 miniと比べると倍以上か……。</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Gemini 2.5 Flash、プレビューだからあれだけど、思考ありのときの出力トークン結構お高いな。まあ思考ありでもHaikuクラスだと思えば安いんだけど、GPT-4.1 miniと比べると倍以上か……。\n\n<img src=\"uploads/2025/cf53e8d469.png\" width=\"600\" height=\"513\" alt=\"\"><img src=\"uploads/2025/d3febf9471.png\" width=\"600\" height=\"402\" alt=\"\"><img src=\"uploads/2025/2868c76ff2.png\" width=\"600\" height=\"590\" alt=\"\">\n",
+				"content_text": "Gemini 2.5 Flash、プレビューだからあれだけど、思考ありのときの出力トークン結構お高いな。まあ思考ありでもHaikuクラスだと思えば安いんだけど、GPT-4.1 miniと比べると倍以上か……。\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/cf53e8d469.png\" width=\"600\" height=\"513\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/203843/2025/d3febf9471.png\" width=\"600\" height=\"402\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/203843/2025/2868c76ff2.png\" width=\"600\" height=\"590\" alt=\"\">\n",
 				"date_published": "2025-04-19T17:47:39+09:00",
 				"url": "https://oeight.space/2025/04/19/gemini-flashhaikugpt-mini.html",
 				"tags": ["Microposts"]
@@ -451,7 +532,7 @@
 				"id": "http://o-eight.micro.blog/2025/04/17/ios.html",
 				"title": "iOS 18.4で、コントロールセンターにアンビエントサウンドが追加されたらしい",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>少し前のiOSから、アクセシビリティ機能の一部に、バックグラウンドサウンドとして波の音や雨の音を流す機能が追加されていたのですが、iOS 18.4ではさらにアンビエントサウンドが追加されました。</p>\n<p>具体的には、以下のようにスリープ、チル、フォーカス（仕事効率化）、ウェルビーイングが追加されています。ボタンを押すだけでそれっぽい音楽が流れます。（もしかするとApple Musicを契約してないとダメとかあるのかな？）</p>\n\n\n  \n  \n  \n\n  <picture>\n    <source srcset=\"https://oeight.me/posts/20250417-2128/IMG_0442_hu_34b3c9508684acc5.webp\" type=\"image/webp\">\n    <img src=\"uploads/2025/img-0442-hu-f772c1e5cc123e96.jpg\" alt=\"iOS 18.4 アンビエントサウンド 設定画面\"  >\n  </picture>\n\n<p>それぞれ専用のボタンになっていて、切り替えやすいのはいいのではないでしょうか。</p>\n<p>これよりも前にiOSに追加された自然音を流してくれる「バックグラウンドサウンド」と合わせて、いわゆるフォーカス・リラックス系のBGMアプリの基礎的な部分はOS機能だけで代替できるようになってきているのかな、と思います。</p>\n\n\n  \n  \n  \n\n  <picture>\n    <source srcset=\"https://oeight.me/posts/20250417-2128/IMG_0443_hu_6d32a00acc951558.webp\" type=\"image/webp\">\n    <img src=\"uploads/2025/img-0443-hu-2f796fd10417f3e6.jpg\" alt=\"iOS バックグラウンドサウンド 設定画面\"  >\n  </picture>\n\n<p>この手の曲、Apple Musicで探せばあるものの、探すのが面倒という問題がありますので、こういう形でワンボタンになっているのはいいですね。</p>\n<p>私は前までEndelを契約していたのですが、正直あんまり使わないので、AIに払う費用を捻出するためにサブスクリプションを解約しようとしていました。</p>\n<p>そんな私には地味に嬉しい機能になると思います。</p>\n",
+				"content_text": "<p>少し前のiOSから、アクセシビリティ機能の一部に、バックグラウンドサウンドとして波の音や雨の音を流す機能が追加されていたのですが、iOS 18.4ではさらにアンビエントサウンドが追加されました。</p>\n<p>具体的には、以下のようにスリープ、チル、フォーカス（仕事効率化）、ウェルビーイングが追加されています。ボタンを押すだけでそれっぽい音楽が流れます。（もしかするとApple Musicを契約してないとダメとかあるのかな？）</p>\n\n\n  \n  \n  \n\n  <picture>\n    <source srcset=\"https://oeight.me/posts/20250417-2128/IMG_0442_hu_34b3c9508684acc5.webp\" type=\"image/webp\">\n    <img src=\"https://cdn.uploads.micro.blog/203843/2025/img-0442-hu-f772c1e5cc123e96.jpg\" alt=\"iOS 18.4 アンビエントサウンド 設定画面\"  >\n  </picture>\n\n<p>それぞれ専用のボタンになっていて、切り替えやすいのはいいのではないでしょうか。</p>\n<p>これよりも前にiOSに追加された自然音を流してくれる「バックグラウンドサウンド」と合わせて、いわゆるフォーカス・リラックス系のBGMアプリの基礎的な部分はOS機能だけで代替できるようになってきているのかな、と思います。</p>\n\n\n  \n  \n  \n\n  <picture>\n    <source srcset=\"https://oeight.me/posts/20250417-2128/IMG_0443_hu_6d32a00acc951558.webp\" type=\"image/webp\">\n    <img src=\"https://cdn.uploads.micro.blog/203843/2025/img-0443-hu-2f796fd10417f3e6.jpg\" alt=\"iOS バックグラウンドサウンド 設定画面\"  >\n  </picture>\n\n<p>この手の曲、Apple Musicで探せばあるものの、探すのが面倒という問題がありますので、こういう形でワンボタンになっているのはいいですね。</p>\n<p>私は前までEndelを契約していたのですが、正直あんまり使わないので、AIに払う費用を捻出するためにサブスクリプションを解約しようとしていました。</p>\n<p>そんな私には地味に嬉しい機能になると思います。</p>\n",
 				"date_published": "2025-04-17T21:28:01+09:00",
 				"url": "https://oeight.space/2025/04/17/ios.html",
 				"tags": ["Longform"]
@@ -478,7 +559,7 @@
 				"id": "http://o-eight.micro.blog/2025/04/17/003512.html",
 				
 				"content_html": "<p>このシリーズ結構好き（しょうゆ味は初めて食べるけど）。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "このシリーズ結構好き（しょうゆ味は初めて食べるけど）。\n\n<img src=\"uploads/2025/f49a1db42e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "このシリーズ結構好き（しょうゆ味は初めて食べるけど）。\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/f49a1db42e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-04-17T00:35:12+09:00",
 				"url": "https://oeight.space/2025/04/17/003512.html",
 				"tags": ["Microposts"]
@@ -793,7 +874,7 @@
 				"id": "http://o-eight.micro.blog/2025/04/15/181914.html",
 				
 				"content_html": "<p>いやそういう問題ではなく……なんでコンテキスト外を検索したんだろう、バグか？</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "いやそういう問題ではなく……なんでコンテキスト外を検索したんだろう、バグか？\n\n<img src=\"uploads/2025/7f35955e1f.png\" width=\"441\" height=\"600\" alt=\"\">\n",
+				"content_text": "いやそういう問題ではなく……なんでコンテキスト外を検索したんだろう、バグか？\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/7f35955e1f.png\" width=\"441\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-15T18:19:14+09:00",
 				"url": "https://oeight.space/2025/04/15/181914.html",
 				"tags": ["Microposts"]
@@ -842,6 +923,15 @@
 				"date_published": "2025-04-15T17:51:51+09:00",
 				"url": "https://oeight.space/2025/04/15/175151.html",
 				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/15/175040.html",
+				"title": "紙上の迷宮 #23",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p name=\"5d480b74-593d-4a97-8a09-d4b69ed4ec21\" id=\"5d480b74-593d-4a97-8a09-d4b69ed4ec21\"># 第23話：手ざわりの違和感</p><p name=\"8c6b633b-c251-4794-ba71-3dd29ff2e26c\" id=\"8c6b633b-c251-4794-ba71-3dd29ff2e26c\">（視点：アマンダ・フィッシャー）</p><br/><a href='https://note.com/o_eight/n/nd9d466f9832e'>続きをみる</a>\n",
+				"date_published": "2025-04-15T17:50:40+09:00",
+				"url": "https://oeight.space/2025/04/15/175040.html",
+				"tags": ["Longform"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/04/14/boujourr.html",
@@ -1342,7 +1432,7 @@
 				"id": "http://o-eight.micro.blog/2025/04/10/195833.html",
 				
 				"content_html": "<p>小説「執筆」とは一体……もう、元には戻れない。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "小説「執筆」とは一体……もう、元には戻れない。\n\n<img src=\"uploads/2025/d00a99562c.png\" width=\"592\" height=\"600\" alt=\"\">\n",
+				"content_text": "小説「執筆」とは一体……もう、元には戻れない。\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/d00a99562c.png\" width=\"592\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-10T19:58:33+09:00",
 				"url": "https://oeight.space/2025/04/10/195833.html",
 				"tags": ["Microposts"]
@@ -1387,7 +1477,7 @@
 				"id": "http://o-eight.micro.blog/2025/04/10/claude-max.html",
 				
 				"content_html": "<p>Claude MAX!\nでもこんなにはいらないはずなんだよ……。どこからこのお金捻出すればいいんだ。</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Claude MAX!\nでもこんなにはいらないはずなんだよ……。どこからこのお金捻出すればいいんだ。\n\n\n<img src=\"uploads/2025/78c1cd4b99.png\" width=\"600\" height=\"254\" alt=\"\"><img src=\"uploads/2025/d812ff96b3.png\" width=\"600\" height=\"541\" alt=\"\">\n",
+				"content_text": "Claude MAX!\nでもこんなにはいらないはずなんだよ……。どこからこのお金捻出すればいいんだ。\n\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/78c1cd4b99.png\" width=\"600\" height=\"254\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/203843/2025/d812ff96b3.png\" width=\"600\" height=\"541\" alt=\"\">\n",
 				"date_published": "2025-04-10T12:19:52+09:00",
 				"url": "https://oeight.space/2025/04/10/claude-max.html",
 				"tags": ["Microposts"]
@@ -1678,15 +1768,6 @@
 				"content_text": "それはそれとして、いちいちDLしてファイルを更新していたのがGitHub Copilotのエージェント機能で全部まとめてやってくれるようになった。\n",
 				"date_published": "2025-04-05T22:54:54+09:00",
 				"url": "https://oeight.space/2025/04/05/dlgithub-copilot.html",
-				"tags": ["Microposts"]
-			},
-			{
-				"id": "http://o-eight.micro.blog/2025/04/05/llm.html",
-				
-				"content_html": "<p>やっとLLMを「分からせ」ることに成功した。</p>\n",
-				"content_text": "やっとLLMを「分からせ」ることに成功した。\n",
-				"date_published": "2025-04-05T22:53:24+09:00",
-				"url": "https://oeight.space/2025/04/05/llm.html",
 				"tags": ["Microposts"]
 			},
 			{
