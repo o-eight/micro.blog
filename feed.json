@@ -7,6 +7,213 @@
 	"items": [
 		
 			{
+				"id": "http://o-eight.micro.blog/2025/06/08/apple-developer-program.html",
+				
+				"content_html": "<p>Apple Developer Programの登録でエラー。登録する前に読んだ体験記みたいなもので、よくエラー（というか個別の処理）になると聞いていたので、まあしゃーないとサポートに問い合わせる。半角で名前入れろって出るけど、身分証明書に書いてある公式の名前入れろって書いてあるし身分証明書送るし、そりゃ照合不可能だよな……とは思う。</p>\n",
+				"content_text": "Apple Developer Programの登録でエラー。登録する前に読んだ体験記みたいなもので、よくエラー（というか個別の処理）になると聞いていたので、まあしゃーないとサポートに問い合わせる。半角で名前入れろって出るけど、身分証明書に書いてある公式の名前入れろって書いてあるし身分証明書送るし、そりゃ照合不可能だよな……とは思う。\n",
+				"date_published": "2025-06-08T16:36:57+09:00",
+				"url": "https://oeight.space/2025/06/08/apple-developer-program.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/07/195035.html",
+				
+				"content_html": "<p>メンタルあんまりよくなくて小説の更新ができないけど、あれだけでもなんとかやっておこう……。</p>\n",
+				"content_text": "メンタルあんまりよくなくて小説の更新ができないけど、あれだけでもなんとかやっておこう……。\n",
+				"date_published": "2025-06-07T19:50:35+09:00",
+				"url": "https://oeight.space/2025/06/07/195035.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/07/stable-audiomau.html",
+				
+				"content_html": "<p>Stable Audio、ゲームのサウンドには使えない（エンタープライズプラン以上でお問い合わせください）ってライセンス、なんでだろうな。MAUベースの制限があるやつで十分だと思うけど、インディー開発者とかがスコープに入ってないのか。動画作成とかには使えるのにね。</p>\n",
+				"content_text": "Stable Audio、ゲームのサウンドには使えない（エンタープライズプラン以上でお問い合わせください）ってライセンス、なんでだろうな。MAUベースの制限があるやつで十分だと思うけど、インディー開発者とかがスコープに入ってないのか。動画作成とかには使えるのにね。\n",
+				"date_published": "2025-06-07T18:13:23+09:00",
+				"url": "https://oeight.space/2025/06/07/stable-audiomau.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/07/pixabay.html",
+				
+				"content_html": "<p>やっぱPixabayよ</p>\n",
+				"content_text": "やっぱPixabayよ\n",
+				"date_published": "2025-06-07T18:10:34+09:00",
+				"url": "https://oeight.space/2025/06/07/pixabay.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/07/171345.html",
+				
+				"content_html": "<p>こうなると素材を探してきた方が早いか……</p>\n",
+				"content_text": "こうなると素材を探してきた方が早いか……\n",
+				"date_published": "2025-06-07T17:13:45+09:00",
+				"url": "https://oeight.space/2025/06/07/171345.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/07/165925.html",
+				
+				"content_html": "<p>ライセンスダメじゃん、もう払っちゃったしミスったー！</p>\n",
+				"content_text": "ライセンスダメじゃん、もう払っちゃったしミスったー！\n",
+				"date_published": "2025-06-07T16:59:25+09:00",
+				"url": "https://oeight.space/2025/06/07/165925.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/07/165426.html",
+				
+				"content_html": "<p>あ……待てよ、ライセンスどうだっけ。配信とかには使えるけどゲームで使うやつはどうだ？</p>\n",
+				"content_text": "あ……待てよ、ライセンスどうだっけ。配信とかには使えるけどゲームで使うやつはどうだ？\n",
+				"date_published": "2025-06-07T16:54:26+09:00",
+				"url": "https://oeight.space/2025/06/07/165426.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/07/165301.html",
+				
+				"content_html": "<p>最長3分で最短1秒だけどまあそれはあんまり気にしなければ使えるかな</p>\n",
+				"content_text": "最長3分で最短1秒だけどまあそれはあんまり気にしなければ使えるかな\n",
+				"date_published": "2025-06-07T16:53:01+09:00",
+				"url": "https://oeight.space/2025/06/07/165301.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/07/165144.html",
+				
+				"content_html": "<p>でもまあ、今やってるけどなかなかいい感じの音が作れる。一発では完璧ではないけど、まあ使っちゃってもいいかと思える音。</p>\n",
+				"content_text": "でもまあ、今やってるけどなかなかいい感じの音が作れる。一発では完璧ではないけど、まあ使っちゃってもいいかと思える音。\n",
+				"date_published": "2025-06-07T16:51:44+09:00",
+				"url": "https://oeight.space/2025/06/07/165144.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/07/stable-audio.html",
+				
+				"content_html": "<p>Stable Audioで効果音も作っちゃえばいいじゃんという発想、一つ問題があった。月に250曲作れるけど1秒の&quot;曲&quot;でも1曲換算なんだよな……。</p>\n",
+				"content_text": "Stable Audioで効果音も作っちゃえばいいじゃんという発想、一つ問題があった。月に250曲作れるけど1秒の\"曲\"でも1曲換算なんだよな……。\n",
+				"date_published": "2025-06-07T16:50:35+09:00",
+				"url": "https://oeight.space/2025/06/07/stable-audio.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/07/aigimpsetapp.html",
+				
+				"content_html": "<p>画像の加工めんどい。透過の背景とキャンバスサイズはそのままで、アイコンだけ縮小とか、その逆とか、そういうのってAIで指示できるようにならないかな……GIMPだとパワフルすぎるし、Setappにあるやつは単機能すぎるしでバランスが悪い。</p>\n",
+				"content_text": "画像の加工めんどい。透過の背景とキャンバスサイズはそのままで、アイコンだけ縮小とか、その逆とか、そういうのってAIで指示できるようにならないかな……GIMPだとパワフルすぎるし、Setappにあるやつは単機能すぎるしでバランスが悪い。\n",
+				"date_published": "2025-06-07T16:27:40+09:00",
+				"url": "https://oeight.space/2025/06/07/aigimpsetapp.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/06/image.html",
+				
+				"content_html": "<p>このサービス、現状あんまりリミットなしでImage 1で生成できちゃう感じだけど、流石にコスト的にまずいだろうからいつまで使えるやら。</p>\n",
+				"content_text": "このサービス、現状あんまりリミットなしでImage 1で生成できちゃう感じだけど、流石にコスト的にまずいだろうからいつまで使えるやら。\n",
+				"date_published": "2025-06-06T23:31:05+09:00",
+				"url": "https://oeight.space/2025/06/06/image.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/06/image-apichatgptchatgpt-plus.html",
+				
+				"content_html": "<p>Image 1のAPIを使ってるサービスとChatGPTの無料プランだとちょっと出力イメージの方向性が違うなあ……。面倒だしChatGPT Plusにしたほうがいいかもしれん……。</p>\n",
+				"content_text": "Image 1のAPIを使ってるサービスとChatGPTの無料プランだとちょっと出力イメージの方向性が違うなあ……。面倒だしChatGPT Plusにしたほうがいいかもしれん……。\n",
+				"date_published": "2025-06-06T23:27:46+09:00",
+				"url": "https://oeight.space/2025/06/06/image-apichatgptchatgpt-plus.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/06/223035.html",
+				
+				"content_html": "<p>ゲーム的なものを作るときは、ちょっとした画像とか、ちょっとしたサウンドも必要なのでClaudeだけだと完結しないな（サウンドはこういう素材が必要なので、こういうライセンスで提供してるとこ探してって言うと探してくれるけど）</p>\n",
+				"content_text": "ゲーム的なものを作るときは、ちょっとした画像とか、ちょっとしたサウンドも必要なのでClaudeだけだと完結しないな（サウンドはこういう素材が必要なので、こういうライセンスで提供してるとこ探してって言うと探してくれるけど）\n",
+				"date_published": "2025-06-06T22:30:35+09:00",
+				"url": "https://oeight.space/2025/06/06/223035.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/06/claude-codeiosgpt-image.html",
+				
+				"content_html": "<p>Claude CodeでiOSのパズルゲームの実装してるんだけど、画像準備するのはGPT Image-1使ってもやっぱりめんどくさい……ってなった。</p>\n",
+				"content_text": "Claude CodeでiOSのパズルゲームの実装してるんだけど、画像準備するのはGPT Image-1使ってもやっぱりめんどくさい……ってなった。\n",
+				"date_published": "2025-06-06T22:24:56+09:00",
+				"url": "https://oeight.space/2025/06/06/claude-codeiosgpt-image.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/06/app-store.html",
+				
+				"content_html": "<p>今一個ゲームアプリ作ってるんだけど、これApp Storeで公開するとしたら実名でアカウント作ることになるしこのアカウントでは宣伝もできないんだなと思うと、なかなか面倒くさいなあとなってしまった。オーディオも必要だし。</p>\n",
+				"content_text": "今一個ゲームアプリ作ってるんだけど、これApp Storeで公開するとしたら実名でアカウント作ることになるしこのアカウントでは宣伝もできないんだなと思うと、なかなか面倒くさいなあとなってしまった。オーディオも必要だし。\n",
+				"date_published": "2025-06-06T20:47:54+09:00",
+				"url": "https://oeight.space/2025/06/06/app-store.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/06/claude.html",
+				
+				"content_html": "<p>Claudeのプロジェクトナレッジに登録できるデータ量が10倍に増えたやつ、前はコンテキストサイズぐらいで制限されたのかな？　必ずしも毎回全部読まなければコンテキストサイズはそこまで意識しなくていいわけで……ともかく、いちいち共有するデータを再設定して変更しなくてよくなったのはだいぶ助かる。</p>\n",
+				"content_text": "Claudeのプロジェクトナレッジに登録できるデータ量が10倍に増えたやつ、前はコンテキストサイズぐらいで制限されたのかな？　必ずしも毎回全部読まなければコンテキストサイズはそこまで意識しなくていいわけで……ともかく、いちいち共有するデータを再設定して変更しなくてよくなったのはだいぶ助かる。\n",
+				"date_published": "2025-06-06T20:46:55+09:00",
+				"url": "https://oeight.space/2025/06/06/claude.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/05/claude-codepro.html",
+				
+				"content_html": "<p>Claude CodeがProプランでも使えるように。1-2時間ぐらいの作業向けということなので、試せるってレベルですが。</p>\n",
+				"content_text": "Claude CodeがProプランでも使えるように。1-2時間ぐらいの作業向けということなので、試せるってレベルですが。\n",
+				"date_published": "2025-06-05T12:03:48+09:00",
+				"url": "https://oeight.space/2025/06/05/claude-codepro.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/04/diablo.html",
+				
+				"content_html": "<p>Diablo4の2周年報酬のコスメをもらっておいた</p>\n",
+				"content_text": "Diablo4の2周年報酬のコスメをもらっておいた\n",
+				"date_published": "2025-06-04T22:10:25+09:00",
+				"url": "https://oeight.space/2025/06/04/diablo.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/04/gemini.html",
+				
+				"content_html": "<p>まあ価格についていうとGeminiがだいぶ破壊する気あるから仕方ないんだが。</p>\n",
+				"content_text": "まあ価格についていうとGeminiがだいぶ破壊する気あるから仕方ないんだが。\n",
+				"date_published": "2025-06-04T19:05:56+09:00",
+				"url": "https://oeight.space/2025/06/04/gemini.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/04/190530.html",
+				
+				"content_html": "<p>CodexがChatGPT Plusに降りてくるニュース、詳しく背景は見てないけど、これまでOpen AIは資金が潤沢なので使用制限が結構緩めで、Anthropicはそこまで余裕ないのか使用制限が厳しめに感じとれていた。</p>\n<p>んで、Claude CodeをMAX（$100以上のプラン）で解放したAnthropic（Claude 4）に対抗するために、CodexをChatGPT Plusでも提供するしかない、と判断したという印象を受ける。（確かCodexはo3ベースだからminiのほうはともかく通常版のモデルは高いだろうから、$20のプランで使わせるのは厳しそうだけど……）</p>\n",
+				"content_text": "CodexがChatGPT Plusに降りてくるニュース、詳しく背景は見てないけど、これまでOpen AIは資金が潤沢なので使用制限が結構緩めで、Anthropicはそこまで余裕ないのか使用制限が厳しめに感じとれていた。\n\nんで、Claude CodeをMAX（$100以上のプラン）で解放したAnthropic（Claude 4）に対抗するために、CodexをChatGPT Plusでも提供するしかない、と判断したという印象を受ける。（確かCodexはo3ベースだからminiのほうはともかく通常版のモデルは高いだろうから、$20のプランで使わせるのは厳しそうだけど……）\n",
+				"date_published": "2025-06-04T19:05:30+09:00",
+				"url": "https://oeight.space/2025/06/04/190530.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/04/145527.html",
+				
+				"content_html": "<p>腱鞘炎だと思うんだけど昨日から左の手首痛くて結構困る</p>\n",
+				"content_text": "腱鞘炎だと思うんだけど昨日から左の手首痛くて結構困る\n",
+				"date_published": "2025-06-04T14:55:27+09:00",
+				"url": "https://oeight.space/2025/06/04/145527.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/03/claude-code.html",
+				
+				"content_html": "<p>Claude Codeすごいなあ</p>\n",
+				"content_text": "Claude Codeすごいなあ\n",
+				"date_published": "2025-06-03T22:25:09+09:00",
+				"url": "https://oeight.space/2025/06/03/claude-code.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://o-eight.micro.blog/2025/06/02/201422.html",
 				
 				"content_html": "<p>やはりレモン入りの緑茶いかんなあ、胃がずっと不調→まあセーフを繰り返している。早めに飲み切ろうとしているのが悪いのはある。</p>\n",
