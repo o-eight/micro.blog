@@ -7,6 +7,168 @@
 	"items": [
 		
 			{
+				"id": "http://o-eight.micro.blog/2025/06/21/rss.html",
+				
+				"content_html": "<p>気になっていた宿題のやつブログに書けたので（なんかRSS取得が遅いのかこちらでポストされないのが気になるが）、ご飯のことを考えよう。どうしようかなあ。</p>\n",
+				"content_text": "気になっていた宿題のやつブログに書けたので（なんかRSS取得が遅いのかこちらでポストされないのが気になるが）、ご飯のことを考えよう。どうしようかなあ。\n",
+				"date_published": "2025-06-21T11:58:54+09:00",
+				"url": "https://oeight.space/2025/06/21/rss.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/19/aix.html",
+				
+				"content_html": "<p>スタートアップとかの文脈で、すでに製品やサービスがあるからもう需要がないと判断するのは間違いで、むしろそこには確実に需要があるからバリエーションでなんとかなる市場性があるんだ、って話がされているし、物語だと「同じだけど違うもの」をみんな求めているという話あるよね、と思ったりした。</p>\n<p>AIがさらに優秀になったらアイデアだけでアプリが作れて、でもそうなると凡庸なアイデアには意味がなくなるのでは？　というXで見た話に対して。</p>\n",
+				"content_text": "スタートアップとかの文脈で、すでに製品やサービスがあるからもう需要がないと判断するのは間違いで、むしろそこには確実に需要があるからバリエーションでなんとかなる市場性があるんだ、って話がされているし、物語だと「同じだけど違うもの」をみんな求めているという話あるよね、と思ったりした。\n\nAIがさらに優秀になったらアイデアだけでアプリが作れて、でもそうなると凡庸なアイデアには意味がなくなるのでは？　というXで見た話に対して。\n",
+				"date_published": "2025-06-19T12:25:11+09:00",
+				"url": "https://oeight.space/2025/06/19/aix.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/18/212239.html",
+				
+				"content_html": "<p>コードを一切読まずに、バイブコーディングだけでバグフィックスするの難しいな……まさかそんなミス（完成時から後退で問題を作成する時に、パズルを解く時と同様に、「他の色には重ねられない」「同色の連続は一気に移動する縛りあり」）をしてるとは思わないわ……。</p>\n<p>特に他に色に重ねられないやつを「解法時と生成時は条件を別にしないとただしくパズル作れないけど、もしかしてこれやってない？」って指摘したら「指摘の通りです、そうしていました」と回答して修正したあとで、同色の連続を一気に移動させるもやっていたとはね……。それは何もやってなくて移動してるだけじゃないか。</p>\n",
+				"content_text": "コードを一切読まずに、バイブコーディングだけでバグフィックスするの難しいな……まさかそんなミス（完成時から後退で問題を作成する時に、パズルを解く時と同様に、「他の色には重ねられない」「同色の連続は一気に移動する縛りあり」）をしてるとは思わないわ……。\n\n特に他に色に重ねられないやつを「解法時と生成時は条件を別にしないとただしくパズル作れないけど、もしかしてこれやってない？」って指摘したら「指摘の通りです、そうしていました」と回答して修正したあとで、同色の連続を一気に移動させるもやっていたとはね……。それは何もやってなくて移動してるだけじゃないか。\n",
+				"date_published": "2025-06-18T21:22:39+09:00",
+				"url": "https://oeight.space/2025/06/18/212239.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/18/claude.html",
+				
+				"content_html": "<p>カラーソートパズルが好きで、Claudeに聞いたら余裕で作れるぜって言ってきたんだけど、パズル生成のアルゴリズムなかなかうまくできないな……こないだ一回やろうとしたときのほうが問題生成はうまかったな</p>\n",
+				"content_text": "カラーソートパズルが好きで、Claudeに聞いたら余裕で作れるぜって言ってきたんだけど、パズル生成のアルゴリズムなかなかうまくできないな……こないだ一回やろうとしたときのほうが問題生成はうまかったな\n",
+				"date_published": "2025-06-18T21:05:00+09:00",
+				"url": "https://oeight.space/2025/06/18/claude.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/18/145958.html",
+				
+				"content_html": "<p>作ったアプリのアプデ、審査提出したつもりで放置してたら審査に進めてなかったでござる。</p>\n",
+				"content_text": "作ったアプリのアプデ、審査提出したつもりで放置してたら審査に進めてなかったでござる。\n",
+				"date_published": "2025-06-18T14:59:58+09:00",
+				"url": "https://oeight.space/2025/06/18/145958.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/17/raycast-for-iosai-command.html",
+				
+				"content_html": "<p>Raycast for iOSでAI Commandを作れるようになったのはちょっといいかも。</p>\n",
+				"content_text": "Raycast for iOSでAI Commandを作れるようになったのはちょっといいかも。\n",
+				"date_published": "2025-06-17T21:15:57+09:00",
+				"url": "https://oeight.space/2025/06/17/raycast-for-iosai-command.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/17/iphone-ese.html",
+				
+				"content_html": "<p>iPhone 16e、サイドがなんとなくベタベタするんだけどなんでだろう。拭いたりウェットティッシュで拭いたりしてもわりとすぐになんか違和感が発生する……SE 2とかのときにはあんまり感じなかったんだけど、サイドが平たいかどうかの違いなのか金属素材か加工の違いなのか……。</p>\n",
+				"content_text": "iPhone 16e、サイドがなんとなくベタベタするんだけどなんでだろう。拭いたりウェットティッシュで拭いたりしてもわりとすぐになんか違和感が発生する……SE 2とかのときにはあんまり感じなかったんだけど、サイドが平たいかどうかの違いなのか金属素材か加工の違いなのか……。\n",
+				"date_published": "2025-06-17T17:38:28+09:00",
+				"url": "https://oeight.space/2025/06/17/iphone-ese.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/16/192610.html",
+				
+				"content_html": "<p>【APEX】ASGSスクリム#1　ｗでんでん・シンちゃん【碧依さくら】\n<a href=\"https://www.youtube.com/watch?v=6dVt49M28sQ\">www.youtube.com/watch</a>\nチャンネル: 碧依 さくら (<a href=\"https://www.youtube.com/@aoi_sakura3\">https://www.youtube.com/@aoi_sakura3</a>)\nサムネイル: <a href=\"https://i.ytimg.com/vi/6dVt49M28sQ/hqdefault.jpg\">i.ytimg.com/vi/6dVt49&hellip;</a></p>\n",
+				"content_text": "【APEX】ASGSスクリム#1　ｗでんでん・シンちゃん【碧依さくら】\n[www.youtube.com/watch](https://www.youtube.com/watch?v=6dVt49M28sQ)\nチャンネル: 碧依 さくら (https://www.youtube.com/@aoi_sakura3)\nサムネイル: [i.ytimg.com/vi/6dVt49...](https://i.ytimg.com/vi/6dVt49M28sQ/hqdefault.jpg)\n",
+				"date_published": "2025-06-16T19:26:10+09:00",
+				"url": "https://oeight.space/2025/06/16/192610.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/16/unityaigitignore.html",
+				
+				"content_html": "<p>Unityで遊んでたやつ、よし、リポジトリ作ろう、ぽちっとな……したら3万ファイルとかあってやべっとなった。でもこんなやらかしをしても、AIにごめんだけど適切に.gitignore作り直して対応してというだけでよしなにやってくれる。（まあこれは自分でやっても大した手間もないが……）</p>\n",
+				"content_text": "Unityで遊んでたやつ、よし、リポジトリ作ろう、ぽちっとな……したら3万ファイルとかあってやべっとなった。でもこんなやらかしをしても、AIにごめんだけど適切に.gitignore作り直して対応してというだけでよしなにやってくれる。（まあこれは自分でやっても大した手間もないが……）\n",
+				"date_published": "2025-06-16T00:50:12+09:00",
+				"url": "https://oeight.space/2025/06/16/unityaigitignore.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/15/unity.html",
+				
+				"content_html": "<p>Unity触ってみてて、面白いんだけど、これ作るの楽だけど面倒だな！　ってなってる。……でもアセット使えるのはおおきいよなあ。</p>\n",
+				"content_text": "Unity触ってみてて、面白いんだけど、これ作るの楽だけど面倒だな！　ってなってる。……でもアセット使えるのはおおきいよなあ。\n",
+				"date_published": "2025-06-15T22:01:23+09:00",
+				"url": "https://oeight.space/2025/06/15/unity.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/15/160035.html",
+				
+				"content_html": "<p>肉の間隔がなかったり、冷凍の解凍具合が悪かったりすると生焼けが発生するんだろうけど、冷凍→解凍→焼きで生はまあ衛生的にはそこまで致命的ではない気もするが……でもねえ。肉の感覚が足りないのはなんかこうあれですよね、消費者が求める見栄えで詰めるのが増えてるというか。</p>\n",
+				"content_text": "肉の間隔がなかったり、冷凍の解凍具合が悪かったりすると生焼けが発生するんだろうけど、冷凍→解凍→焼きで生はまあ衛生的にはそこまで致命的ではない気もするが……でもねえ。肉の感覚が足りないのはなんかこうあれですよね、消費者が求める見栄えで詰めるのが増えてるというか。\n",
+				"date_published": "2025-06-15T16:00:35+09:00",
+				"url": "https://oeight.space/2025/06/15/160035.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/15/155516.html",
+				
+				"content_html": "<p>行くのやめとくかってなるんですよね、近辺だと店舗の中で食べさせる店のほうにはすごくレベル高いとかあるんだけど、ただまあ行くのが手間だし……。</p>\n",
+				"content_text": "行くのやめとくかってなるんですよね、近辺だと店舗の中で食べさせる店のほうにはすごくレベル高いとかあるんだけど、ただまあ行くのが手間だし……。\n",
+				"date_published": "2025-06-15T15:55:16+09:00",
+				"url": "https://oeight.space/2025/06/15/155516.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/15/155433.html",
+				
+				"content_html": "<p>近くに焼き鳥屋ができたから時々買ってるけど、手元の方の肉にかなり生っぽいのが……前に近くにあった焼き鳥屋も時々生っぽいのがあって……焼き過ぎがよくないのはあるけど、鶏肉とか豚肉なんだから火入れはミスらずにお願いしたい。</p>\n",
+				"content_text": "近くに焼き鳥屋ができたから時々買ってるけど、手元の方の肉にかなり生っぽいのが……前に近くにあった焼き鳥屋も時々生っぽいのがあって……焼き過ぎがよくないのはあるけど、鶏肉とか豚肉なんだから火入れはミスらずにお願いしたい。\n",
+				"date_published": "2025-06-15T15:54:33+09:00",
+				"url": "https://oeight.space/2025/06/15/155433.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/15/apex-legends-global-series-year.html",
+				
+				"content_html": "<p>Apex Legends Global Series Year 5：Split 1 【APAC North Pro League Regional Finals】\n<a href=\"https://www.youtube.com/watch?v=cYWHwXYZOpQ\">www.youtube.com/watch</a></p>\n",
+				"content_text": "Apex Legends Global Series Year 5：Split 1 【APAC North Pro League Regional Finals】\n[www.youtube.com/watch](https://www.youtube.com/watch?v=cYWHwXYZOpQ)\n",
+				"date_published": "2025-06-15T15:45:44+09:00",
+				"url": "https://oeight.space/2025/06/15/apex-legends-global-series-year.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/15/152118.html",
+				
+				"content_html": "<p>あちこちで戦争起きてるけど、こうなってくると有事になりそうな地域残ってるよね</p>\n",
+				"content_text": "あちこちで戦争起きてるけど、こうなってくると有事になりそうな地域残ってるよね\n",
+				"date_published": "2025-06-15T15:21:18+09:00",
+				"url": "https://oeight.space/2025/06/15/152118.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/15/usbc-httpsamzntonb.html",
+				
+				"content_html": "<p>この系統の9ピンで向きも角度も変更できるマグネットのUSB-Cのコネクタね。今度ブログ記事も書くと思う。</p>\n<p><a href=\"https://amzn.to/4n3B759\">amzn.to/4n3B759</a></p>\n",
+				"content_text": "この系統の9ピンで向きも角度も変更できるマグネットのUSB-Cのコネクタね。今度ブログ記事も書くと思う。\n\n[amzn.to/4n3B759](https://amzn.to/4n3B759)\n",
+				"date_published": "2025-06-15T14:38:39+09:00",
+				"url": "https://oeight.space/2025/06/15/usbc-httpsamzntonb.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/15/usbc.html",
+				
+				"content_html": "<p>マグネット式のUSB-Cの接続コネクタ、充電等に問題が出る場合もあると言うことでずっと見送ってたけど、最近買ったら便利すぎてやめられなくなった。</p>\n",
+				"content_text": "マグネット式のUSB-Cの接続コネクタ、充電等に問題が出る場合もあると言うことでずっと見送ってたけど、最近買ったら便利すぎてやめられなくなった。\n",
+				"date_published": "2025-06-15T14:35:55+09:00",
+				"url": "https://oeight.space/2025/06/15/usbc.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/14/d.html",
+				
+				"content_html": "<p>もう主観視点の3Dゲームは諦めるしか……</p>\n",
+				"content_text": "もう主観視点の3Dゲームは諦めるしか……\n",
+				"date_published": "2025-06-14T16:27:46+09:00",
+				"url": "https://oeight.space/2025/06/14/d.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://o-eight.micro.blog/2025/06/14/vibrant-visual.html",
 				
 				"content_html": "<p>マイクラのビジュアル面のアップデート来てるんだっけ？　と思ってVibrant Visualの設定入れて起動してまだだっけか……？　ってベッド作るまでプレイしたら酔った。もうだめだ。</p>\n",
@@ -667,7 +829,7 @@
 				"id": "http://o-eight.micro.blog/2025/05/31/043501.html",
 				
 				"content_html": "<p>ぐぬぬ</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "ぐぬぬ\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/ee67ae6f4c.jpg\" width=\"338\" height=\"600\" alt=\"\">\n",
+				"content_text": "ぐぬぬ\n\n<img src=\"uploads/2025/ee67ae6f4c.jpg\" width=\"338\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-05-31T04:35:01+09:00",
 				"url": "https://oeight.space/2025/05/31/043501.html",
 				"tags": ["Microposts"]
@@ -1621,7 +1783,7 @@
 				"id": "http://o-eight.micro.blog/2025/05/18/usbcpc-httpsamzntoiamwd.html",
 				
 				"content_html": "<p>携帯用みたいなヒゲ剃り（USB-C充電で防水で洗えるやつ）を、今使ってるメインの電気シェーバーの追加で買ったんだけど、剃り残しに気づいたらPC見ながらちょっと剃れるのは想定通りに便利だった。</p>\n<p>本当はブラウンの同じようなモデルにしたかったんだけど、セールになかったし、あくまでサブだからなるべく安物で済ませたいしなーと思ってこれに。（この手の中華系のガジェットを買うときは「最安よりちょっと高い」ラインを狙ってます）</p>\n<p><a href=\"https://amzn.to/44IamwD\">https://amzn.to/44IamwD</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "携帯用みたいなヒゲ剃り（USB-C充電で防水で洗えるやつ）を、今使ってるメインの電気シェーバーの追加で買ったんだけど、剃り残しに気づいたらPC見ながらちょっと剃れるのは想定通りに便利だった。\n\n本当はブラウンの同じようなモデルにしたかったんだけど、セールになかったし、あくまでサブだからなるべく安物で済ませたいしなーと思ってこれに。（この手の中華系のガジェットを買うときは「最安よりちょっと高い」ラインを狙ってます）\n\n<https://amzn.to/44IamwD>\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/446bb8f45d.png\" width=\"600\" height=\"310\" alt=\"\">\n",
+				"content_text": "携帯用みたいなヒゲ剃り（USB-C充電で防水で洗えるやつ）を、今使ってるメインの電気シェーバーの追加で買ったんだけど、剃り残しに気づいたらPC見ながらちょっと剃れるのは想定通りに便利だった。\n\n本当はブラウンの同じようなモデルにしたかったんだけど、セールになかったし、あくまでサブだからなるべく安物で済ませたいしなーと思ってこれに。（この手の中華系のガジェットを買うときは「最安よりちょっと高い」ラインを狙ってます）\n\n<https://amzn.to/44IamwD>\n\n<img src=\"uploads/2025/446bb8f45d.png\" width=\"600\" height=\"310\" alt=\"\">\n",
 				"date_published": "2025-05-18T16:27:37+09:00",
 				"url": "https://oeight.space/2025/05/18/usbcpc-httpsamzntoiamwd.html",
 				"tags": ["Microposts"]
@@ -1684,7 +1846,7 @@
 				"id": "http://o-eight.micro.blog/2025/05/18/raycastmodel-context-protocol-registrymcp-server.html",
 				
 				"content_html": "<p>RaycastのModel Context Protocol Registry使うとMCP Serverのインストールがすごく楽にできるんだな……。</p>\n<p>んでもって、Basic MemoryってMCP Server、メモリ機能的なものを使いたいときになかなかよさそう。</p>\n<p><a href=\"https://mcp.so/server/basic-memory?tab=content\">mcp.so/server/ba&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "RaycastのModel Context Protocol Registry使うとMCP Serverのインストールがすごく楽にできるんだな……。\n\nんでもって、Basic MemoryってMCP Server、メモリ機能的なものを使いたいときになかなかよさそう。\n\n[mcp.so/server/ba...](https://mcp.so/server/basic-memory?tab=content)\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/a6fbf37198.png\" width=\"600\" height=\"371\" alt=\"\">\n",
+				"content_text": "RaycastのModel Context Protocol Registry使うとMCP Serverのインストールがすごく楽にできるんだな……。\n\nんでもって、Basic MemoryってMCP Server、メモリ機能的なものを使いたいときになかなかよさそう。\n\n[mcp.so/server/ba...](https://mcp.so/server/basic-memory?tab=content)\n\n<img src=\"uploads/2025/a6fbf37198.png\" width=\"600\" height=\"371\" alt=\"\">\n",
 				"date_published": "2025-05-18T01:29:31+09:00",
 				"url": "https://oeight.space/2025/05/18/raycastmodel-context-protocol-registrymcp-server.html",
 				"tags": ["Microposts"]
@@ -1711,7 +1873,7 @@
 				"id": "http://o-eight.micro.blog/2025/05/18/ai-raycastcustom-ai-chatai.html",
 				
 				"content_html": "<p>割といいんじゃないかと思っているAIの使い方。共通の指示を入れるところで「英語学習のため、回答の際は日本語と英文の双方で回答してください。単位は一文単位として、一文ごとに交互に日本語と英語が並ぶようにしてください。」的な指示を入れる。</p>\n<p>するとこうなる。（画面例はRaycastのCustom AI Chatでやってるけど、一般的なAIチャットでできます）</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "割といいんじゃないかと思っているAIの使い方。共通の指示を入れるところで「英語学習のため、回答の際は日本語と英文の双方で回答してください。単位は一文単位として、一文ごとに交互に日本語と英語が並ぶようにしてください。」的な指示を入れる。\n\nするとこうなる。（画面例はRaycastのCustom AI Chatでやってるけど、一般的なAIチャットでできます）\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/d16c7395d3.png\" width=\"534\" height=\"600\" alt=\"\">\n",
+				"content_text": "割といいんじゃないかと思っているAIの使い方。共通の指示を入れるところで「英語学習のため、回答の際は日本語と英文の双方で回答してください。単位は一文単位として、一文ごとに交互に日本語と英語が並ぶようにしてください。」的な指示を入れる。\n\nするとこうなる。（画面例はRaycastのCustom AI Chatでやってるけど、一般的なAIチャットでできます）\n\n<img src=\"uploads/2025/d16c7395d3.png\" width=\"534\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-05-18T00:41:16+09:00",
 				"url": "https://oeight.space/2025/05/18/ai-raycastcustom-ai-chatai.html",
 				"tags": ["Microposts"]
@@ -2152,7 +2314,7 @@
 				"id": "http://o-eight.micro.blog/2025/05/14/020717.html",
 				
 				"content_html": "<p>Le Chatに機能が追加されましたね。ConnectionsというBetaの機能で、今のところGoogle CalendarとGmailと接続して、チャット内から参照することができるようです。</p>\n<p>Le Chatは先日発表されたEnterprise版の機能（の一部）が数週間以内にPro版などにも追加されるっぽいので、それですかね。他にも何かが来てくれるといいのですが。</p>\n<p>ところで、Kagiで検索するとHacker NewsとRedditについてるコメント数まで拾ってくれる（クリックするとその記事に飛べる）のはクールですなあ。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Le Chatに機能が追加されましたね。ConnectionsというBetaの機能で、今のところGoogle CalendarとGmailと接続して、チャット内から参照することができるようです。\n\nLe Chatは先日発表されたEnterprise版の機能（の一部）が数週間以内にPro版などにも追加されるっぽいので、それですかね。他にも何かが来てくれるといいのですが。\n\nところで、Kagiで検索するとHacker NewsとRedditについてるコメント数まで拾ってくれる（クリックするとその記事に飛べる）のはクールですなあ。\n\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/f12e7e1723.png\" width=\"600\" height=\"297\" alt=\"\">\n",
+				"content_text": "Le Chatに機能が追加されましたね。ConnectionsというBetaの機能で、今のところGoogle CalendarとGmailと接続して、チャット内から参照することができるようです。\n\nLe Chatは先日発表されたEnterprise版の機能（の一部）が数週間以内にPro版などにも追加されるっぽいので、それですかね。他にも何かが来てくれるといいのですが。\n\nところで、Kagiで検索するとHacker NewsとRedditについてるコメント数まで拾ってくれる（クリックするとその記事に飛べる）のはクールですなあ。\n\n\n<img src=\"uploads/2025/f12e7e1723.png\" width=\"600\" height=\"297\" alt=\"\">\n",
 				"date_published": "2025-05-14T02:07:17+09:00",
 				"url": "https://oeight.space/2025/05/14/020717.html",
 				"tags": ["Microposts"]
@@ -2881,7 +3043,7 @@
 				"id": "http://o-eight.micro.blog/2025/04/19/gemini-flashhaikugpt-mini.html",
 				
 				"content_html": "<p>Gemini 2.5 Flash、プレビューだからあれだけど、思考ありのときの出力トークン結構お高いな。まあ思考ありでもHaikuクラスだと思えば安いんだけど、GPT-4.1 miniと比べると倍以上か……。</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Gemini 2.5 Flash、プレビューだからあれだけど、思考ありのときの出力トークン結構お高いな。まあ思考ありでもHaikuクラスだと思えば安いんだけど、GPT-4.1 miniと比べると倍以上か……。\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/cf53e8d469.png\" width=\"600\" height=\"513\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/203843/2025/d3febf9471.png\" width=\"600\" height=\"402\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/203843/2025/2868c76ff2.png\" width=\"600\" height=\"590\" alt=\"\">\n",
+				"content_text": "Gemini 2.5 Flash、プレビューだからあれだけど、思考ありのときの出力トークン結構お高いな。まあ思考ありでもHaikuクラスだと思えば安いんだけど、GPT-4.1 miniと比べると倍以上か……。\n\n<img src=\"uploads/2025/cf53e8d469.png\" width=\"600\" height=\"513\" alt=\"\"><img src=\"uploads/2025/d3febf9471.png\" width=\"600\" height=\"402\" alt=\"\"><img src=\"uploads/2025/2868c76ff2.png\" width=\"600\" height=\"590\" alt=\"\">\n",
 				"date_published": "2025-04-19T17:47:39+09:00",
 				"url": "https://oeight.space/2025/04/19/gemini-flashhaikugpt-mini.html",
 				"tags": ["Microposts"]
@@ -3025,7 +3187,7 @@
 				"id": "http://o-eight.micro.blog/2025/04/17/ios.html",
 				"title": "iOS 18.4で、コントロールセンターにアンビエントサウンドが追加されたらしい",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>少し前のiOSから、アクセシビリティ機能の一部に、バックグラウンドサウンドとして波の音や雨の音を流す機能が追加されていたのですが、iOS 18.4ではさらにアンビエントサウンドが追加されました。</p>\n<p>具体的には、以下のようにスリープ、チル、フォーカス（仕事効率化）、ウェルビーイングが追加されています。ボタンを押すだけでそれっぽい音楽が流れます。（もしかするとApple Musicを契約してないとダメとかあるのかな？）</p>\n\n\n  \n  \n  \n\n  <picture>\n    <source srcset=\"https://oeight.me/posts/20250417-2128/IMG_0442_hu_34b3c9508684acc5.webp\" type=\"image/webp\">\n    <img src=\"https://cdn.uploads.micro.blog/203843/2025/img-0442-hu-f772c1e5cc123e96.jpg\" alt=\"iOS 18.4 アンビエントサウンド 設定画面\"  >\n  </picture>\n\n<p>それぞれ専用のボタンになっていて、切り替えやすいのはいいのではないでしょうか。</p>\n<p>これよりも前にiOSに追加された自然音を流してくれる「バックグラウンドサウンド」と合わせて、いわゆるフォーカス・リラックス系のBGMアプリの基礎的な部分はOS機能だけで代替できるようになってきているのかな、と思います。</p>\n\n\n  \n  \n  \n\n  <picture>\n    <source srcset=\"https://oeight.me/posts/20250417-2128/IMG_0443_hu_6d32a00acc951558.webp\" type=\"image/webp\">\n    <img src=\"https://cdn.uploads.micro.blog/203843/2025/img-0443-hu-2f796fd10417f3e6.jpg\" alt=\"iOS バックグラウンドサウンド 設定画面\"  >\n  </picture>\n\n<p>この手の曲、Apple Musicで探せばあるものの、探すのが面倒という問題がありますので、こういう形でワンボタンになっているのはいいですね。</p>\n<p>私は前までEndelを契約していたのですが、正直あんまり使わないので、AIに払う費用を捻出するためにサブスクリプションを解約しようとしていました。</p>\n<p>そんな私には地味に嬉しい機能になると思います。</p>\n",
+				"content_text": "<p>少し前のiOSから、アクセシビリティ機能の一部に、バックグラウンドサウンドとして波の音や雨の音を流す機能が追加されていたのですが、iOS 18.4ではさらにアンビエントサウンドが追加されました。</p>\n<p>具体的には、以下のようにスリープ、チル、フォーカス（仕事効率化）、ウェルビーイングが追加されています。ボタンを押すだけでそれっぽい音楽が流れます。（もしかするとApple Musicを契約してないとダメとかあるのかな？）</p>\n\n\n  \n  \n  \n\n  <picture>\n    <source srcset=\"https://oeight.me/posts/20250417-2128/IMG_0442_hu_34b3c9508684acc5.webp\" type=\"image/webp\">\n    <img src=\"uploads/2025/img-0442-hu-f772c1e5cc123e96.jpg\" alt=\"iOS 18.4 アンビエントサウンド 設定画面\"  >\n  </picture>\n\n<p>それぞれ専用のボタンになっていて、切り替えやすいのはいいのではないでしょうか。</p>\n<p>これよりも前にiOSに追加された自然音を流してくれる「バックグラウンドサウンド」と合わせて、いわゆるフォーカス・リラックス系のBGMアプリの基礎的な部分はOS機能だけで代替できるようになってきているのかな、と思います。</p>\n\n\n  \n  \n  \n\n  <picture>\n    <source srcset=\"https://oeight.me/posts/20250417-2128/IMG_0443_hu_6d32a00acc951558.webp\" type=\"image/webp\">\n    <img src=\"uploads/2025/img-0443-hu-2f796fd10417f3e6.jpg\" alt=\"iOS バックグラウンドサウンド 設定画面\"  >\n  </picture>\n\n<p>この手の曲、Apple Musicで探せばあるものの、探すのが面倒という問題がありますので、こういう形でワンボタンになっているのはいいですね。</p>\n<p>私は前までEndelを契約していたのですが、正直あんまり使わないので、AIに払う費用を捻出するためにサブスクリプションを解約しようとしていました。</p>\n<p>そんな私には地味に嬉しい機能になると思います。</p>\n",
 				"date_published": "2025-04-17T21:28:01+09:00",
 				"url": "https://oeight.space/2025/04/17/ios.html",
 				"tags": ["Longform"]
@@ -3052,7 +3214,7 @@
 				"id": "http://o-eight.micro.blog/2025/04/17/003512.html",
 				
 				"content_html": "<p>このシリーズ結構好き（しょうゆ味は初めて食べるけど）。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "このシリーズ結構好き（しょうゆ味は初めて食べるけど）。\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/f49a1db42e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "このシリーズ結構好き（しょうゆ味は初めて食べるけど）。\n\n<img src=\"uploads/2025/f49a1db42e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-04-17T00:35:12+09:00",
 				"url": "https://oeight.space/2025/04/17/003512.html",
 				"tags": ["Microposts"]
@@ -3367,7 +3529,7 @@
 				"id": "http://o-eight.micro.blog/2025/04/15/181914.html",
 				
 				"content_html": "<p>いやそういう問題ではなく……なんでコンテキスト外を検索したんだろう、バグか？</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "いやそういう問題ではなく……なんでコンテキスト外を検索したんだろう、バグか？\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/7f35955e1f.png\" width=\"441\" height=\"600\" alt=\"\">\n",
+				"content_text": "いやそういう問題ではなく……なんでコンテキスト外を検索したんだろう、バグか？\n\n<img src=\"uploads/2025/7f35955e1f.png\" width=\"441\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-15T18:19:14+09:00",
 				"url": "https://oeight.space/2025/04/15/181914.html",
 				"tags": ["Microposts"]
@@ -3925,7 +4087,7 @@
 				"id": "http://o-eight.micro.blog/2025/04/10/195833.html",
 				
 				"content_html": "<p>小説「執筆」とは一体……もう、元には戻れない。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "小説「執筆」とは一体……もう、元には戻れない。\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/d00a99562c.png\" width=\"592\" height=\"600\" alt=\"\">\n",
+				"content_text": "小説「執筆」とは一体……もう、元には戻れない。\n\n<img src=\"uploads/2025/d00a99562c.png\" width=\"592\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-10T19:58:33+09:00",
 				"url": "https://oeight.space/2025/04/10/195833.html",
 				"tags": ["Microposts"]
@@ -3970,7 +4132,7 @@
 				"id": "http://o-eight.micro.blog/2025/04/10/claude-max.html",
 				
 				"content_html": "<p>Claude MAX!\nでもこんなにはいらないはずなんだよ……。どこからこのお金捻出すればいいんだ。</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Claude MAX!\nでもこんなにはいらないはずなんだよ……。どこからこのお金捻出すればいいんだ。\n\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/78c1cd4b99.png\" width=\"600\" height=\"254\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/203843/2025/d812ff96b3.png\" width=\"600\" height=\"541\" alt=\"\">\n",
+				"content_text": "Claude MAX!\nでもこんなにはいらないはずなんだよ……。どこからこのお金捻出すればいいんだ。\n\n\n<img src=\"uploads/2025/78c1cd4b99.png\" width=\"600\" height=\"254\" alt=\"\"><img src=\"uploads/2025/d812ff96b3.png\" width=\"600\" height=\"541\" alt=\"\">\n",
 				"date_published": "2025-04-10T12:19:52+09:00",
 				"url": "https://oeight.space/2025/04/10/claude-max.html",
 				"tags": ["Microposts"]
@@ -4357,7 +4519,7 @@
 				"id": "http://o-eight.micro.blog/2025/04/03/claude.html",
 				
 				"content_html": "<p>自分の文体をClaudeに学習させたのはいいんだけど、こう表現されるの凄いもやもやする。なろう向きではないまでも、ライトノベル向きの文体にしてあるはずなんだが？</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "自分の文体をClaudeに学習させたのはいいんだけど、こう表現されるの凄いもやもやする。なろう向きではないまでも、ライトノベル向きの文体にしてあるはずなんだが？\n\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/164185611e.png\" width=\"495\" height=\"600\" alt=\"\">\n",
+				"content_text": "自分の文体をClaudeに学習させたのはいいんだけど、こう表現されるの凄いもやもやする。なろう向きではないまでも、ライトノベル向きの文体にしてあるはずなんだが？\n\n\n<img src=\"uploads/2025/164185611e.png\" width=\"495\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-03T01:32:44+09:00",
 				"url": "https://oeight.space/2025/04/03/claude.html",
 				"tags": ["Microposts"]
@@ -4414,6 +4576,15 @@
 				"content_text": "真の陰キャは音声モードだとChatGPTやGeminiとすら上手く話すことができない\n",
 				"date_published": "2025-04-02T21:44:41+09:00",
 				"url": "https://oeight.space/2025/04/02/chatgptgemini.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/04/02/201949.html",
+				
+				"content_html": "<p>ちょっと思いついて面白そうだなと思ってたんだけど、それだけじゃなくてどこに出すかも決めてたんだった。</p>\n",
+				"content_text": "ちょっと思いついて面白そうだなと思ってたんだけど、それだけじゃなくてどこに出すかも決めてたんだった。\n",
+				"date_published": "2025-04-02T20:19:49+09:00",
+				"url": "https://oeight.space/2025/04/02/201949.html",
 				"tags": ["Microposts"]
 			},
 			{
