@@ -7,6 +7,195 @@
 	"items": [
 		
 			{
+				"id": "http://o-eight.micro.blog/2025/07/02/my-new-gear.html",
+				
+				"content_html": "<p>my new gear&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "my new gear...\n\n<img src=\"uploads/2025/038e676d62.jpg\" width=\"600\" height=\"450\" alt=\"Keychron B1 Pro\">\n",
+				"date_published": "2025-07-02T17:38:34+09:00",
+				"url": "https://oeight.space/2025/07/02/my-new-gear.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/07/01/202435.html",
+				
+				"content_html": "<p>暑いよー</p>\n",
+				"content_text": "暑いよー\n",
+				"date_published": "2025-07-01T20:24:35+09:00",
+				"url": "https://oeight.space/2025/07/01/202435.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/07/01/000654.html",
+				
+				"content_html": "<p>胃の調子が悪い</p>\n",
+				"content_text": "胃の調子が悪い\n",
+				"date_published": "2025-07-01T00:06:54+09:00",
+				"url": "https://oeight.space/2025/07/01/000654.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/29/raycast-aillmchatgptclaude-max.html",
+				
+				"content_html": "<p>Raycast AIを一つプランをあげて、もう少し好きにLLMのモデルを使い分けるようにしたい気持ちはあるんですよね。だから悩んでるけど……まあChatGPTでいいといえばいいんですよね。Claude MAXが一番最初に予約されてるから、残り一個をどうするかという話なんですが。</p>\n",
+				"content_text": "Raycast AIを一つプランをあげて、もう少し好きにLLMのモデルを使い分けるようにしたい気持ちはあるんですよね。だから悩んでるけど……まあChatGPTでいいといえばいいんですよね。Claude MAXが一番最初に予約されてるから、残り一個をどうするかという話なんですが。\n",
+				"date_published": "2025-06-29T21:32:26+09:00",
+				"url": "https://oeight.space/2025/06/29/raycast-aillmchatgptclaude-max.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/29/llmsupermemory-mcpmcp-memmemory-tool-chatgpt.html",
+				
+				"content_html": "<p>アシスタント的に使うLLMにはメモリ機能があったほうがいい、と思ってSupermemory MCPを試してみてるんだけど、対応環境だと導入はうまくいくんだけど接続時にエラーになって、他のMCP対応アプリだとインストール時にエラーになったりしてなかなかうまくいかない。</p>\n<p>Mem0のMemory Toolはそれなりに動くけどプラン的にずっと使えるのかな？　というのがあったり、ちょっと複雑かなあと思うとこがあったりして。</p>\n<p>結局それなりのコストかけるんなら「まあそこはChatGPTでいいか……」ってなるのが難しいとこですよね。</p>\n",
+				"content_text": "アシスタント的に使うLLMにはメモリ機能があったほうがいい、と思ってSupermemory MCPを試してみてるんだけど、対応環境だと導入はうまくいくんだけど接続時にエラーになって、他のMCP対応アプリだとインストール時にエラーになったりしてなかなかうまくいかない。\n\nMem0のMemory Toolはそれなりに動くけどプラン的にずっと使えるのかな？　というのがあったり、ちょっと複雑かなあと思うとこがあったりして。\n\n結局それなりのコストかけるんなら「まあそこはChatGPTでいいか……」ってなるのが難しいとこですよね。\n",
+				"date_published": "2025-06-29T21:31:20+09:00",
+				"url": "https://oeight.space/2025/06/29/llmsupermemory-mcpmcp-memmemory-tool-chatgpt.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/29/mpkbpskbpskbpskbpskbps.html",
+				
+				"content_html": "<p>MP3が一般に展開されたとき、128Kbpsだったけど、なんで128Kbpsを押し出したんだろう。256Kbpsとまでは言わないが192Kbpsか160Kbpsでスタートしていたら、もっと音がいいという印象だったのではないだろうか。</p>\n",
+				"content_text": "MP3が一般に展開されたとき、128Kbpsだったけど、なんで128Kbpsを押し出したんだろう。256Kbpsとまでは言わないが192Kbpsか160Kbpsでスタートしていたら、もっと音がいいという印象だったのではないだろうか。\n",
+				"date_published": "2025-06-29T15:36:26+09:00",
+				"url": "https://oeight.space/2025/06/29/mpkbpskbpskbpskbpskbps.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/29/140902.html",
+				
+				"content_html": "<p>あれ……ちょっと前にやったばかりだっけか？</p>\n",
+				"content_text": "あれ……ちょっと前にやったばかりだっけか？\n",
+				"date_published": "2025-06-29T14:09:02+09:00",
+				"url": "https://oeight.space/2025/06/29/140902.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/29/rocket-now-httpssharerocketnowcojpwbevkmpaub.html",
+				
+				"content_html": "<p>改めて紹介</p>\n<blockquote>\n<p>友達から5,000円のクーポンが届きました！送料·サービス料が何度でも無料のフードデリバリーRocket Now。今すぐ登録するとクーポンもらえる!\n*アプリをインストールしても5,000円のクーポンが確認できない場合は、下記のリンクに改めてアクセスしてください。登録リンク： <a href=\"https://share.rocketnow.co.jp/WbE6VKmpAUb\">share.rocketnow.co.jp/WbE6VKmpA&hellip;</a></p>\n</blockquote>\n",
+				"content_text": "改めて紹介\n\n> 友達から5,000円のクーポンが届きました！送料·サービス料が何度でも無料のフードデリバリーRocket Now。今すぐ登録するとクーポンもらえる! \n*アプリをインストールしても5,000円のクーポンが確認できない場合は、下記のリンクに改めてアクセスしてください。登録リンク： [share.rocketnow.co.jp/WbE6VKmpA...](https://share.rocketnow.co.jp/WbE6VKmpAUb)\n",
+				"date_published": "2025-06-29T14:08:35+09:00",
+				"url": "https://oeight.space/2025/06/29/rocket-now-httpssharerocketnowcojpwbevkmpaub.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/29/001139.html",
+				
+				"content_html": "<p>後でマイクラ配信できそうだな……曲のストック増えてないけど</p>\n",
+				"content_text": "後でマイクラ配信できそうだな……曲のストック増えてないけど\n",
+				"date_published": "2025-06-29T00:11:39+09:00",
+				"url": "https://oeight.space/2025/06/29/001139.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/28/233930.html",
+				
+				"content_html": "<p>同じところのでもうちょっと安いのもあるんだけど、容器にレンジ時間の目安書いてあるほうが忘れなくていいよな……と思ったのでこっちにしました。</p>\n",
+				"content_text": "同じところのでもうちょっと安いのもあるんだけど、容器にレンジ時間の目安書いてあるほうが忘れなくていいよな……と思ったのでこっちにしました。\n",
+				"date_published": "2025-06-28T23:39:30+09:00",
+				"url": "https://oeight.space/2025/06/28/233930.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/28/httpsamzntoenddc.html",
+				
+				"content_html": "<p>前にも紹介したと思うけど、レンチンで袋ラーメン作るやつはこれね。もうちょっと安いやつもありそうだけど。低炭水化物の食事をしながらたまに食べる袋麺で心の平穏を保っている。</p>\n<p><a href=\"https://amzn.to/4endd0C\">amzn.to/4endd0C</a></p>\n",
+				"content_text": "前にも紹介したと思うけど、レンチンで袋ラーメン作るやつはこれね。もうちょっと安いやつもありそうだけど。低炭水化物の食事をしながらたまに食べる袋麺で心の平穏を保っている。\n\n[amzn.to/4endd0C](https://amzn.to/4endd0C)\n",
+				"date_published": "2025-06-28T23:36:11+09:00",
+				"url": "https://oeight.space/2025/06/28/httpsamzntoenddc.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/28/qol.html",
+				
+				"content_html": "<p>レンチンで袋ラーメンを作る容器のおかげでQoLがかなり上がった</p>\n",
+				"content_text": "レンチンで袋ラーメンを作る容器のおかげでQoLがかなり上がった\n",
+				"date_published": "2025-06-28T23:33:39+09:00",
+				"url": "https://oeight.space/2025/06/28/qol.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/28/claude-codeclaude-sonnetaiai.html",
+				
+				"content_html": "<p>この記事を前提として話すんですけど、Claude Codeで小説を書かせることで昔のClaude 3.7 Sonnetでやってた頃より、さらに一段階クオリティがあがりそうなので、AIの世代があと2-3世代後になったらマジで小説はAIに書かせた方がよさそう。</p>\n",
+				"content_text": "この記事を前提として話すんですけど、Claude Codeで小説を書かせることで昔のClaude 3.7 Sonnetでやってた頃より、さらに一段階クオリティがあがりそうなので、AIの世代があと2-3世代後になったらマジで小説はAIに書かせた方がよさそう。\n",
+				"date_published": "2025-06-28T23:16:29+09:00",
+				"url": "https://oeight.space/2025/06/28/claude-codeclaude-sonnetaiai.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/28/note-sonnet-claude-code-httpsnotecomoeightnnfcdbb.html",
+				
+				"content_html": "<p>note連携を一部記事だけにしていたので、全記事になるように設定を変更した。\nただし、前に書いたのまでは連携されないみたいなので、手で書いておきますね。</p>\n<p>Sonnet 4世代のClaude Codeで小説を書くとどうなるか｜折口詠人\n<a href=\"https://note.com/o_eight/n/n0f73034cdb9b\">note.com/o_eight/n&hellip;</a></p>\n",
+				"content_text": "note連携を一部記事だけにしていたので、全記事になるように設定を変更した。\nただし、前に書いたのまでは連携されないみたいなので、手で書いておきますね。\n\nSonnet 4世代のClaude Codeで小説を書くとどうなるか｜折口詠人\n[note.com/o_eight/n...](https://note.com/o_eight/n/n0f73034cdb9b)\n",
+				"date_published": "2025-06-28T23:14:59+09:00",
+				"url": "https://oeight.space/2025/06/28/note-sonnet-claude-code-httpsnotecomoeightnnfcdbb.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/28/claude-codesonnet-sonnetmcpgithub-copilot.html",
+				
+				"content_html": "<p>Claude CodeでSonnet 4で小説書くの、3.7 Sonnetのデスクトップアプリ+MCPとかGithub Copilotで書いてた頃とはだいぶ違う感じになる。4は3.7と比べて余計なことをしない傾向がやっぱり関係してると思うんですよね。</p>\n<p>シンプルかつ端的に解を出そうとするから、小説だとちょっと都合が悪いことが多いんだけど、それを意識して指示してやれば急によくなる。適当な指示でなんとなく良さげな小説を書いてくれていた3.7と比べるとちょっと使い手の技術が問われるかもしれない。結果的に得られるものの質は高くなったと思うけど。</p>\n",
+				"content_text": "Claude CodeでSonnet 4で小説書くの、3.7 Sonnetのデスクトップアプリ+MCPとかGithub Copilotで書いてた頃とはだいぶ違う感じになる。4は3.7と比べて余計なことをしない傾向がやっぱり関係してると思うんですよね。\n\nシンプルかつ端的に解を出そうとするから、小説だとちょっと都合が悪いことが多いんだけど、それを意識して指示してやれば急によくなる。適当な指示でなんとなく良さげな小説を書いてくれていた3.7と比べるとちょっと使い手の技術が問われるかもしれない。結果的に得られるものの質は高くなったと思うけど。\n",
+				"date_published": "2025-06-28T21:08:00+09:00",
+				"url": "https://oeight.space/2025/06/28/claude-codesonnet-sonnetmcpgithub-copilot.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/28/raycastwindowsbeta-httpsraycastcomviaoeight.html",
+				
+				"content_html": "<p>RaycastのWindows版のBetaが出始めたようなので、紹介リンク貼っておきますね</p>\n<p><a href=\"https://raycast.com/?via=oeight\">https://raycast.com/?via=oeight</a></p>\n",
+				"content_text": "RaycastのWindows版のBetaが出始めたようなので、紹介リンク貼っておきますね\n\n<https://raycast.com/?via=oeight>\n",
+				"date_published": "2025-06-28T21:03:51+09:00",
+				"url": "https://oeight.space/2025/06/28/raycastwindowsbeta-httpsraycastcomviaoeight.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/28/claude-code.html",
+				
+				"content_html": "<p>Claude Codeでの小説執筆は非常によくて（最初の感触は「は？」だったけど）、特に伏線関連の処理を後からやらせるとうまいなあと思うんだけれども、監督役の人間の方に「アップデートされた物語に対応するまでの消化時間が必要」なのが困る。</p>\n",
+				"content_text": "Claude Codeでの小説執筆は非常によくて（最初の感触は「は？」だったけど）、特に伏線関連の処理を後からやらせるとうまいなあと思うんだけれども、監督役の人間の方に「アップデートされた物語に対応するまでの消化時間が必要」なのが困る。\n",
+				"date_published": "2025-06-28T17:12:06+09:00",
+				"url": "https://oeight.space/2025/06/28/claude-code.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/27/001616.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>あるいはYouTube。これもiframeだから全部のプラットフォームでいけるかは……私のブログ(oeight.space)ではちゃんと貼れてるはずなんですが。</p>\n",
+				"content_text": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/6QeQXZJmTik?si=Ag5vONpKt5J9n9NL\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n\nあるいはYouTube。これもiframeだから全部のプラットフォームでいけるかは……私のブログ(oeight.space)ではちゃんと貼れてるはずなんですが。\n",
+				"date_published": "2025-06-27T00:16:16+09:00",
+				"url": "https://oeight.space/2025/06/27/001616.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/27/001048.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>プラットフォームによってはうまく貼れてないかも。\nその場合はこちら。\n<a href=\"https://open.spotify.com/intl-ja/track/5IMgaerTTAv8Tthwi4OHZM?si=01779e02dcd74a24\">https://open.spotify.com/intl-ja/track/5IMgaerTTAv8Tthwi4OHZM?si=01779e02dcd74a24</a></p>\n",
+				"content_text": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5IMgaerTTAv8Tthwi4OHZM?utm_source=generator&theme=0\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>\n\nプラットフォームによってはうまく貼れてないかも。\nその場合はこちら。\n<https://open.spotify.com/intl-ja/track/5IMgaerTTAv8Tthwi4OHZM?si=01779e02dcd74a24>\n",
+				"date_published": "2025-06-27T00:10:48+09:00",
+				"url": "https://oeight.space/2025/06/27/001048.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/26/claude-codeclaude-codeclaude-opussonnet.html",
+				
+				"content_html": "<p>Claude Codeでコード書くの楽しくて半ばできかけてるアプリ二つあるんだけど、なんか違うのもやりたくなってるし、そろそろ小説やるべきだなと思って（契約更新が近かったので使っておくかと……）、最近は小説を書かせている。Claude Codeで書かせる時はすこし考え方変わるかなと思ったけど、Claude Opus/Sonnet 4系の違いのような気もする。</p>\n",
+				"content_text": "Claude Codeでコード書くの楽しくて半ばできかけてるアプリ二つあるんだけど、なんか違うのもやりたくなってるし、そろそろ小説やるべきだなと思って（契約更新が近かったので使っておくかと……）、最近は小説を書かせている。Claude Codeで書かせる時はすこし考え方変わるかなと思ったけど、Claude Opus/Sonnet 4系の違いのような気もする。\n",
+				"date_published": "2025-06-26T23:45:37+09:00",
+				"url": "https://oeight.space/2025/06/26/claude-codeclaude-codeclaude-opussonnet.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/06/26/234323.html",
+				
+				"content_html": "<p>あっ……マイクラ忘れてた……。</p>\n",
+				"content_text": "あっ……マイクラ忘れてた……。\n",
+				"date_published": "2025-06-26T23:43:23+09:00",
+				"url": "https://oeight.space/2025/06/26/234323.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://o-eight.micro.blog/2025/06/26/windowsraycastbeta.html",
 				
 				"content_html": "<p>ところでWindows版のRaycastのBetaが出たらしいんだけどもうみんな試した？</p>\n",
