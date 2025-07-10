@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://o-eight.micro.blog/2025/07/11/004646.html",
+				
+				"content_html": "<p>続きは明日。</p>\n",
+				"content_text": "続きは明日。\n",
+				"date_published": "2025-07-11T00:46:46+09:00",
+				"url": "https://oeight.space/2025/07/11/004646.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/07/11/004634.html",
+				
+				"content_html": "<p>結局コスパ最強なおつまみは冷凍食品では？　という感じになってきた。寝る前に思い出したので書いておきたい。</p>\n",
+				"content_text": "結局コスパ最強なおつまみは冷凍食品では？　という感じになってきた。寝る前に思い出したので書いておきたい。\n",
+				"date_published": "2025-07-11T00:46:34+09:00",
+				"url": "https://oeight.space/2025/07/11/004634.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/07/10/keychron-b-proapple-command.html",
+				
+				"content_html": "<p>Keychron B1 Pro、とても満足しているんだけどちょっとだけ最下層のキーが思ってる位置と違うんだよな。（Apple純正と違うということ）</p>\n<p>まあ当然違いはあるんだけど、1のとなりに半角/全角があるほうが違和感でるかと思ってたけど、Commandキーあたりで出るとは思わなかった。確かにちょっと違うんだが。</p>\n",
+				"content_text": "Keychron B1 Pro、とても満足しているんだけどちょっとだけ最下層のキーが思ってる位置と違うんだよな。（Apple純正と違うということ）\n\nまあ当然違いはあるんだけど、1のとなりに半角/全角があるほうが違和感でるかと思ってたけど、Commandキーあたりで出るとは思わなかった。確かにちょっと違うんだが。\n",
+				"date_published": "2025-07-10T00:24:05+09:00",
+				"url": "https://oeight.space/2025/07/10/keychron-b-proapple-command.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://o-eight.micro.blog/2025/07/09/androidmicroblog.html",
 				
 				"content_html": "<p>Android版のMicro.blogアプリ使うの初めてかも。前の端末はパフォーマンス悪く感じるようになって文字入力はあんまりしてなかったからなあ。</p>\n",
@@ -14,6 +41,15 @@
 				"date_published": "2025-07-09T18:15:53+09:00",
 				"url": "https://oeight.space/2025/07/09/androidmicroblog.html",
 				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/07/09/amazon-primepoco-m-pro-g.html",
+				"title": "Amazon Primeの先行セールで約24000円のPOCO M7 Pro 5Gをポチった",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Amazon Primeの先行セールで23000円台と、かなーり安かったのでXiaomiのPOCO M7 Pro 5Gを購入した。</p>\n<p><a href=\"https://amzn.to/4kyoRY6\">https://amzn.to/4kyoRY6</a></p>\n<p>元々、moto g13をiPhoneの予備機というかサブ機として使っていて、最近性能面でちょっと辛くなっていたのと、ガラスに少し擦り傷ができていたので、リプレースする端末を探していた、という背景があった。</p>\n<p>moto g13は2年ほど前に購入した端末だが、購入時に割引があって20500円程度だったので、ほぼ同じような<br>\n価格帯の端末、ということになる。</p>\n<p>できれば1万円台の端末を考えていたのだが、Antutuというベンチスコアで同じぐらいの性能になってしまうのは嫌だったので（moto g13は当時のAntutuでスコア25万ぐらいだったはず）、Antutuが45万程度出るXiaomiのPOCO M7 Pro 5Gは非常によかった。</p>\n<p>また、ハード仕様もmoto g13の4GB/128GBという構成からPOCO M7 Proは8GB/256GBとなり、IPS液晶から有機ELになって、Dolby Atmosのスピーカーはそのまま、イヤホンジャックも変わらず存在して、液晶サイズも6.5インチから6.61インチぐらいの非常によく似た感じなのもよかった。純粋なアップグレード感覚でいけそうだ。</p>\n<p>本音を言うと予備機もiPhoneにしたかったのだが、USB-Cの端末が欲しかったのもあって、コスト面でどうしても折り合いがつかなかった。まあAndroid端末があればAndroidのアプリを作れるのでいいのだが……。</p>\n<p>とりあえずちょっと触ってみた範囲だが、性能面では文句なしで、2年ぶりの更新にふさわしいぐらいの性能アップ感はある。</p>\n<p>まあ一番のポイントは今のPrime先行セールのおかげで安い（おそらく通常は29,980円で、多少セールでも26,000円台だと思う）というところなので、セールのうちに記事を公開しておこうと思う。</p>\n",
+				"date_published": "2025-07-09T16:22:47+09:00",
+				"url": "https://oeight.space/2025/07/09/amazon-primepoco-m-pro-g.html",
+				"tags": ["Longform"]
 			},
 			{
 				"id": "http://o-eight.micro.blog/2025/07/08/234050.html",
@@ -118,7 +154,7 @@
 				"id": "http://o-eight.micro.blog/2025/07/07/safariorion-chromeaudio-hijackozone-elements.html",
 				
 				"content_html": "<p>今日からサブブラウザをSafariにしてみよう……メインはまだOrionで。</p>\n<p>Chrome系のほうがコンプレッサー使えるのがよかったんだけど、機能拡張でやるんじゃなくて、Audio Hijackを採用してOzone 11 Elementsを通すようにしたので、分割ウィンドウぐらいの利点しかなくなってた。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "今日からサブブラウザをSafariにしてみよう……メインはまだOrionで。\n\nChrome系のほうがコンプレッサー使えるのがよかったんだけど、機能拡張でやるんじゃなくて、Audio Hijackを採用してOzone 11 Elementsを通すようにしたので、分割ウィンドウぐらいの利点しかなくなってた。\n\n<img src=\"uploads/2025/3a1264e27c.png\" width=\"600\" height=\"370\" alt=\"\">\n",
+				"content_text": "今日からサブブラウザをSafariにしてみよう……メインはまだOrionで。\n\nChrome系のほうがコンプレッサー使えるのがよかったんだけど、機能拡張でやるんじゃなくて、Audio Hijackを採用してOzone 11 Elementsを通すようにしたので、分割ウィンドウぐらいの利点しかなくなってた。\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/3a1264e27c.png\" width=\"600\" height=\"370\" alt=\"\">\n",
 				"date_published": "2025-07-07T20:44:28+09:00",
 				"url": "https://oeight.space/2025/07/07/safariorion-chromeaudio-hijackozone-elements.html",
 				"tags": ["Microposts"]
@@ -226,7 +262,7 @@
 				"id": "http://o-eight.micro.blog/2025/07/02/184527.html",
 				
 				"content_html": "<p>Keychron B1 Proの上のメディアキーのうち、輝度ボタンがMac miniの外部ディスプレイに対してうまく反応しなくて、調べたらMacは普通のキーコードじゃないらしい（ChatGPT）という情報と、外部ディスプレイはKC_SLCKとKC_PAUSに割り当てたらよくなったよという情報（Reddit）があったので、後者を割り当てたら期待通りに機能するようになった。</p>\n<p><a href=\"https://www.reddit.com/r/Keychron/comments/1034z92/brightness_keys_mac_external_display\">https://www.reddit.com/r/Keychron/comments/1034z92/brightness_keys_mac_external_display</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Keychron B1 Proの上のメディアキーのうち、輝度ボタンがMac miniの外部ディスプレイに対してうまく反応しなくて、調べたらMacは普通のキーコードじゃないらしい（ChatGPT）という情報と、外部ディスプレイはKC_SLCKとKC_PAUSに割り当てたらよくなったよという情報（Reddit）があったので、後者を割り当てたら期待通りに機能するようになった。\n\n<https://www.reddit.com/r/Keychron/comments/1034z92/brightness_keys_mac_external_display>\n\n<img src=\"uploads/2025/87f6e47d28.png\" width=\"537\" height=\"600\" alt=\"\">\n",
+				"content_text": "Keychron B1 Proの上のメディアキーのうち、輝度ボタンがMac miniの外部ディスプレイに対してうまく反応しなくて、調べたらMacは普通のキーコードじゃないらしい（ChatGPT）という情報と、外部ディスプレイはKC_SLCKとKC_PAUSに割り当てたらよくなったよという情報（Reddit）があったので、後者を割り当てたら期待通りに機能するようになった。\n\n<https://www.reddit.com/r/Keychron/comments/1034z92/brightness_keys_mac_external_display>\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/87f6e47d28.png\" width=\"537\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-07-02T18:45:27+09:00",
 				"url": "https://oeight.space/2025/07/02/184527.html",
 				"tags": ["Microposts"]
@@ -235,7 +271,7 @@
 				"id": "http://o-eight.micro.blog/2025/07/02/keychron-b-pro.html",
 				"title": "Keychron B1 Proを衝動買いした",
 				"content_html": "<p>Keychron B1 Proというキーボード（<a href=\"https://amzn.to/4lv1WO1\">https://amzn.to/4lv1WO1</a>）、昨日Amazon見て衝動買いしたんだけど、何がいいかってキー配列がだいたいApple純正と同じで（重要）、でもAの隣がControlじゃないなーって問題もリマップツールで変更できるし（超重要）、Apple純正みたいな小型&amp;薄型。</p>\n<p>そしてBluetooth, 2.4GHz無線, 有線接続（USB-C）に対応してて、MacとWinの配列変更がスイッチでできて、バッテリー持ちが良くて、それでもって7500円ぐらいとApple純正のほぼ半値（Touch ID付きのと比較すると1/3ぐらい）なんですよね。</p>\n<p>ポイントがちょっと付くので実際にはもう少し安いし、通常カラーだとさらに安い。</p>\n<p>そろそろApple純正をUSB-CにしたいけどTouch ID付きだと2万かぁ……どうしようかなー、でも古いのへたってきてるし予備機なし状態なんだよなあ……と思っていたので、予備機として一台入手した。</p>\n<p>個人的にはカラーはレトログリーンが欲しかったけど、在庫なさそうだったのでレトロレッドで。</p>\n<p>冷静に考えるとダンボールの中にHHKBとRealforce閉まってあったなあと気づいたけど、Realforceはテンキーレスでもでかいし、HHKBはカーソルなくてUS配列だから慣れ直すのが面倒、なにより薄型の方が個人的には好きだったのでまあいいんじゃないと。</p>\n<p>……サイズが少しApple純正より大きいのは承知の上で買ったけど、タイプ感だけはかなり期待外れだったなあ（シザー方式って言うけどなんかふにょふにょしてるし、ストロークが案外ある。まぁストロークはApple純正がなさすぎるのかもなんだけど、ふにょふにょしたキーを長く押し込むのって楽しくないし意味もないと思うんだよね……）。</p>\n<p>リマップツールの画像貼っておきますね。ツールというかWebサイトになっていて、アクセスして使う形。提供元が廃業したらサイトなくなりそうだけど、まあそのときはApple純正使ってるだろうし……。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Keychron B1 Proというキーボード（<https://amzn.to/4lv1WO1>）、昨日Amazon見て衝動買いしたんだけど、何がいいかってキー配列がだいたいApple純正と同じで（重要）、でもAの隣がControlじゃないなーって問題もリマップツールで変更できるし（超重要）、Apple純正みたいな小型&薄型。\n\nそしてBluetooth, 2.4GHz無線, 有線接続（USB-C）に対応してて、MacとWinの配列変更がスイッチでできて、バッテリー持ちが良くて、それでもって7500円ぐらいとApple純正のほぼ半値（Touch ID付きのと比較すると1/3ぐらい）なんですよね。\n\nポイントがちょっと付くので実際にはもう少し安いし、通常カラーだとさらに安い。\n\nそろそろApple純正をUSB-CにしたいけどTouch ID付きだと2万かぁ……どうしようかなー、でも古いのへたってきてるし予備機なし状態なんだよなあ……と思っていたので、予備機として一台入手した。\n\n個人的にはカラーはレトログリーンが欲しかったけど、在庫なさそうだったのでレトロレッドで。\n\n冷静に考えるとダンボールの中にHHKBとRealforce閉まってあったなあと気づいたけど、Realforceはテンキーレスでもでかいし、HHKBはカーソルなくてUS配列だから慣れ直すのが面倒、なにより薄型の方が個人的には好きだったのでまあいいんじゃないと。\n\n……サイズが少しApple純正より大きいのは承知の上で買ったけど、タイプ感だけはかなり期待外れだったなあ（シザー方式って言うけどなんかふにょふにょしてるし、ストロークが案外ある。まぁストロークはApple純正がなさすぎるのかもなんだけど、ふにょふにょしたキーを長く押し込むのって楽しくないし意味もないと思うんだよね……）。\n\nリマップツールの画像貼っておきますね。ツールというかWebサイトになっていて、アクセスして使う形。提供元が廃業したらサイトなくなりそうだけど、まあそのときはApple純正使ってるだろうし……。\n\n<img src=\"uploads/2025/23bfc59a3e.png\" width=\"600\" height=\"438\" alt=\"\">\n",
+				"content_text": "Keychron B1 Proというキーボード（<https://amzn.to/4lv1WO1>）、昨日Amazon見て衝動買いしたんだけど、何がいいかってキー配列がだいたいApple純正と同じで（重要）、でもAの隣がControlじゃないなーって問題もリマップツールで変更できるし（超重要）、Apple純正みたいな小型&薄型。\n\nそしてBluetooth, 2.4GHz無線, 有線接続（USB-C）に対応してて、MacとWinの配列変更がスイッチでできて、バッテリー持ちが良くて、それでもって7500円ぐらいとApple純正のほぼ半値（Touch ID付きのと比較すると1/3ぐらい）なんですよね。\n\nポイントがちょっと付くので実際にはもう少し安いし、通常カラーだとさらに安い。\n\nそろそろApple純正をUSB-CにしたいけどTouch ID付きだと2万かぁ……どうしようかなー、でも古いのへたってきてるし予備機なし状態なんだよなあ……と思っていたので、予備機として一台入手した。\n\n個人的にはカラーはレトログリーンが欲しかったけど、在庫なさそうだったのでレトロレッドで。\n\n冷静に考えるとダンボールの中にHHKBとRealforce閉まってあったなあと気づいたけど、Realforceはテンキーレスでもでかいし、HHKBはカーソルなくてUS配列だから慣れ直すのが面倒、なにより薄型の方が個人的には好きだったのでまあいいんじゃないと。\n\n……サイズが少しApple純正より大きいのは承知の上で買ったけど、タイプ感だけはかなり期待外れだったなあ（シザー方式って言うけどなんかふにょふにょしてるし、ストロークが案外ある。まぁストロークはApple純正がなさすぎるのかもなんだけど、ふにょふにょしたキーを長く押し込むのって楽しくないし意味もないと思うんだよね……）。\n\nリマップツールの画像貼っておきますね。ツールというかWebサイトになっていて、アクセスして使う形。提供元が廃業したらサイトなくなりそうだけど、まあそのときはApple純正使ってるだろうし……。\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/23bfc59a3e.png\" width=\"600\" height=\"438\" alt=\"\">\n",
 				"date_published": "2025-07-02T18:02:01+09:00",
 				"url": "https://oeight.space/2025/07/02/keychron-b-pro.html",
 				"tags": ["Longform"]
@@ -244,7 +280,7 @@
 				"id": "http://o-eight.micro.blog/2025/07/02/my-new-gear.html",
 				
 				"content_html": "<p>my new gear&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "my new gear...\n\n<img src=\"uploads/2025/038e676d62.jpg\" width=\"600\" height=\"450\" alt=\"Keychron B1 Pro\">\n",
+				"content_text": "my new gear...\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/038e676d62.jpg\" width=\"600\" height=\"450\" alt=\"Keychron B1 Pro\">\n",
 				"date_published": "2025-07-02T17:38:34+09:00",
 				"url": "https://oeight.space/2025/07/02/my-new-gear.html",
 				"tags": ["Microposts"]
@@ -1585,7 +1621,7 @@
 				"id": "http://o-eight.micro.blog/2025/05/31/043501.html",
 				
 				"content_html": "<p>ぐぬぬ</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "ぐぬぬ\n\n<img src=\"uploads/2025/ee67ae6f4c.jpg\" width=\"338\" height=\"600\" alt=\"\">\n",
+				"content_text": "ぐぬぬ\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/ee67ae6f4c.jpg\" width=\"338\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-05-31T04:35:01+09:00",
 				"url": "https://oeight.space/2025/05/31/043501.html",
 				"tags": ["Microposts"]
@@ -2539,7 +2575,7 @@
 				"id": "http://o-eight.micro.blog/2025/05/18/usbcpc-httpsamzntoiamwd.html",
 				
 				"content_html": "<p>携帯用みたいなヒゲ剃り（USB-C充電で防水で洗えるやつ）を、今使ってるメインの電気シェーバーの追加で買ったんだけど、剃り残しに気づいたらPC見ながらちょっと剃れるのは想定通りに便利だった。</p>\n<p>本当はブラウンの同じようなモデルにしたかったんだけど、セールになかったし、あくまでサブだからなるべく安物で済ませたいしなーと思ってこれに。（この手の中華系のガジェットを買うときは「最安よりちょっと高い」ラインを狙ってます）</p>\n<p><a href=\"https://amzn.to/44IamwD\">https://amzn.to/44IamwD</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "携帯用みたいなヒゲ剃り（USB-C充電で防水で洗えるやつ）を、今使ってるメインの電気シェーバーの追加で買ったんだけど、剃り残しに気づいたらPC見ながらちょっと剃れるのは想定通りに便利だった。\n\n本当はブラウンの同じようなモデルにしたかったんだけど、セールになかったし、あくまでサブだからなるべく安物で済ませたいしなーと思ってこれに。（この手の中華系のガジェットを買うときは「最安よりちょっと高い」ラインを狙ってます）\n\n<https://amzn.to/44IamwD>\n\n<img src=\"uploads/2025/446bb8f45d.png\" width=\"600\" height=\"310\" alt=\"\">\n",
+				"content_text": "携帯用みたいなヒゲ剃り（USB-C充電で防水で洗えるやつ）を、今使ってるメインの電気シェーバーの追加で買ったんだけど、剃り残しに気づいたらPC見ながらちょっと剃れるのは想定通りに便利だった。\n\n本当はブラウンの同じようなモデルにしたかったんだけど、セールになかったし、あくまでサブだからなるべく安物で済ませたいしなーと思ってこれに。（この手の中華系のガジェットを買うときは「最安よりちょっと高い」ラインを狙ってます）\n\n<https://amzn.to/44IamwD>\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/446bb8f45d.png\" width=\"600\" height=\"310\" alt=\"\">\n",
 				"date_published": "2025-05-18T16:27:37+09:00",
 				"url": "https://oeight.space/2025/05/18/usbcpc-httpsamzntoiamwd.html",
 				"tags": ["Microposts"]
@@ -2602,7 +2638,7 @@
 				"id": "http://o-eight.micro.blog/2025/05/18/raycastmodel-context-protocol-registrymcp-server.html",
 				
 				"content_html": "<p>RaycastのModel Context Protocol Registry使うとMCP Serverのインストールがすごく楽にできるんだな……。</p>\n<p>んでもって、Basic MemoryってMCP Server、メモリ機能的なものを使いたいときになかなかよさそう。</p>\n<p><a href=\"https://mcp.so/server/basic-memory?tab=content\">mcp.so/server/ba&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "RaycastのModel Context Protocol Registry使うとMCP Serverのインストールがすごく楽にできるんだな……。\n\nんでもって、Basic MemoryってMCP Server、メモリ機能的なものを使いたいときになかなかよさそう。\n\n[mcp.so/server/ba...](https://mcp.so/server/basic-memory?tab=content)\n\n<img src=\"uploads/2025/a6fbf37198.png\" width=\"600\" height=\"371\" alt=\"\">\n",
+				"content_text": "RaycastのModel Context Protocol Registry使うとMCP Serverのインストールがすごく楽にできるんだな……。\n\nんでもって、Basic MemoryってMCP Server、メモリ機能的なものを使いたいときになかなかよさそう。\n\n[mcp.so/server/ba...](https://mcp.so/server/basic-memory?tab=content)\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/a6fbf37198.png\" width=\"600\" height=\"371\" alt=\"\">\n",
 				"date_published": "2025-05-18T01:29:31+09:00",
 				"url": "https://oeight.space/2025/05/18/raycastmodel-context-protocol-registrymcp-server.html",
 				"tags": ["Microposts"]
@@ -2629,7 +2665,7 @@
 				"id": "http://o-eight.micro.blog/2025/05/18/ai-raycastcustom-ai-chatai.html",
 				
 				"content_html": "<p>割といいんじゃないかと思っているAIの使い方。共通の指示を入れるところで「英語学習のため、回答の際は日本語と英文の双方で回答してください。単位は一文単位として、一文ごとに交互に日本語と英語が並ぶようにしてください。」的な指示を入れる。</p>\n<p>するとこうなる。（画面例はRaycastのCustom AI Chatでやってるけど、一般的なAIチャットでできます）</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "割といいんじゃないかと思っているAIの使い方。共通の指示を入れるところで「英語学習のため、回答の際は日本語と英文の双方で回答してください。単位は一文単位として、一文ごとに交互に日本語と英語が並ぶようにしてください。」的な指示を入れる。\n\nするとこうなる。（画面例はRaycastのCustom AI Chatでやってるけど、一般的なAIチャットでできます）\n\n<img src=\"uploads/2025/d16c7395d3.png\" width=\"534\" height=\"600\" alt=\"\">\n",
+				"content_text": "割といいんじゃないかと思っているAIの使い方。共通の指示を入れるところで「英語学習のため、回答の際は日本語と英文の双方で回答してください。単位は一文単位として、一文ごとに交互に日本語と英語が並ぶようにしてください。」的な指示を入れる。\n\nするとこうなる。（画面例はRaycastのCustom AI Chatでやってるけど、一般的なAIチャットでできます）\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/d16c7395d3.png\" width=\"534\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-05-18T00:41:16+09:00",
 				"url": "https://oeight.space/2025/05/18/ai-raycastcustom-ai-chatai.html",
 				"tags": ["Microposts"]
@@ -3070,7 +3106,7 @@
 				"id": "http://o-eight.micro.blog/2025/05/14/020717.html",
 				
 				"content_html": "<p>Le Chatに機能が追加されましたね。ConnectionsというBetaの機能で、今のところGoogle CalendarとGmailと接続して、チャット内から参照することができるようです。</p>\n<p>Le Chatは先日発表されたEnterprise版の機能（の一部）が数週間以内にPro版などにも追加されるっぽいので、それですかね。他にも何かが来てくれるといいのですが。</p>\n<p>ところで、Kagiで検索するとHacker NewsとRedditについてるコメント数まで拾ってくれる（クリックするとその記事に飛べる）のはクールですなあ。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Le Chatに機能が追加されましたね。ConnectionsというBetaの機能で、今のところGoogle CalendarとGmailと接続して、チャット内から参照することができるようです。\n\nLe Chatは先日発表されたEnterprise版の機能（の一部）が数週間以内にPro版などにも追加されるっぽいので、それですかね。他にも何かが来てくれるといいのですが。\n\nところで、Kagiで検索するとHacker NewsとRedditについてるコメント数まで拾ってくれる（クリックするとその記事に飛べる）のはクールですなあ。\n\n\n<img src=\"uploads/2025/f12e7e1723.png\" width=\"600\" height=\"297\" alt=\"\">\n",
+				"content_text": "Le Chatに機能が追加されましたね。ConnectionsというBetaの機能で、今のところGoogle CalendarとGmailと接続して、チャット内から参照することができるようです。\n\nLe Chatは先日発表されたEnterprise版の機能（の一部）が数週間以内にPro版などにも追加されるっぽいので、それですかね。他にも何かが来てくれるといいのですが。\n\nところで、Kagiで検索するとHacker NewsとRedditについてるコメント数まで拾ってくれる（クリックするとその記事に飛べる）のはクールですなあ。\n\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/f12e7e1723.png\" width=\"600\" height=\"297\" alt=\"\">\n",
 				"date_published": "2025-05-14T02:07:17+09:00",
 				"url": "https://oeight.space/2025/05/14/020717.html",
 				"tags": ["Microposts"]
