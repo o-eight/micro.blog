@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://o-eight.micro.blog/2025/07/15/144734.html",
+				
+				"content_html": "<p>次に公開する小説、準備はしていたんだけど……うーんこれクオリティ的になんか違うなとなってしまった。今ちょっと別のプログラム手がけてるのですぐには次が出せそうにもないけど、別のを考えよう。</p>\n",
+				"content_text": "次に公開する小説、準備はしていたんだけど……うーんこれクオリティ的になんか違うなとなってしまった。今ちょっと別のプログラム手がけてるのですぐには次が出せそうにもないけど、別のを考えよう。\n",
+				"date_published": "2025-07-15T14:47:34+09:00",
+				"url": "https://oeight.space/2025/07/15/144734.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/07/13/firefoxai.html",
+				
+				"content_html": "<p>Firefox、しばらく触ってないうちに一気に縦型タブにもAIにも対応してて、わりと一気に今風になったよねって感じあるよね。</p>\n",
+				"content_text": "Firefox、しばらく触ってないうちに一気に縦型タブにもAIにも対応してて、わりと一気に今風になったよねって感じあるよね。\n",
+				"date_published": "2025-07-13T20:58:55+09:00",
+				"url": "https://oeight.space/2025/07/13/firefoxai.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/07/13/echokindlealexa.html",
+				
+				"content_html": "<p>EchoとかKindleとかAlexaは値上げ激しくなっちゃったし急速にアドがなくなりつつある</p>\n",
+				"content_text": "EchoとかKindleとかAlexaは値上げ激しくなっちゃったし急速にアドがなくなりつつある\n",
+				"date_published": "2025-07-13T19:08:41+09:00",
+				"url": "https://oeight.space/2025/07/13/echokindlealexa.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/07/13/switchbot.html",
+				
+				"content_html": "<p>SwitchBot自体はこれにしかないハードが多々あるので、音声から操作するかどうかは別としてハードは残すと思う。</p>\n",
+				"content_text": "SwitchBot自体はこれにしかないハードが多々あるので、音声から操作するかどうかは別としてハードは残すと思う。\n",
+				"date_published": "2025-07-13T19:07:33+09:00",
+				"url": "https://oeight.space/2025/07/13/switchbot.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/07/13/190653.html",
+				
+				"content_html": "<p>ハード的には操作パネルとかついてるSwitchBotのが魅力あるんだけど、エアコンの操作をすごいガバにしかできないのが困りものだった。</p>\n<p>あと、最近になって、そろそろAlexa/Echoをスマートホームの中心にするのをやめてHomePod miniに一本化するか……と思ってたのもあるし、Appleの方をNature Remoにして徐々にAlxea使うのは止めていこう。</p>\n",
+				"content_text": "ハード的には操作パネルとかついてるSwitchBotのが魅力あるんだけど、エアコンの操作をすごいガバにしかできないのが困りものだった。\n\nあと、最近になって、そろそろAlexa/Echoをスマートホームの中心にするのをやめてHomePod miniに一本化するか……と思ってたのもあるし、Appleの方をNature Remoにして徐々にAlxea使うのは止めていこう。\n",
+				"date_published": "2025-07-13T19:06:53+09:00",
+				"url": "https://oeight.space/2025/07/13/190653.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://o-eight.micro.blog/2025/07/13/185720.html",
 				
 				"content_html": "<p>プライムセールでNature Remo nanoを買った。SwitchBotが既にあるんだけど、ダイキンのエアコンの対応具合とかがNatureの方がいいんですよね。</p>\n<p>昔両方あって、Natureが先に壊れて、Matter対応もあってSwitchBotに一本化したんだけど、エアコン対応がよくなくて。</p>\n",
@@ -181,7 +226,7 @@
 				"id": "http://o-eight.micro.blog/2025/07/07/safariorion-chromeaudio-hijackozone-elements.html",
 				
 				"content_html": "<p>今日からサブブラウザをSafariにしてみよう……メインはまだOrionで。</p>\n<p>Chrome系のほうがコンプレッサー使えるのがよかったんだけど、機能拡張でやるんじゃなくて、Audio Hijackを採用してOzone 11 Elementsを通すようにしたので、分割ウィンドウぐらいの利点しかなくなってた。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "今日からサブブラウザをSafariにしてみよう……メインはまだOrionで。\n\nChrome系のほうがコンプレッサー使えるのがよかったんだけど、機能拡張でやるんじゃなくて、Audio Hijackを採用してOzone 11 Elementsを通すようにしたので、分割ウィンドウぐらいの利点しかなくなってた。\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/3a1264e27c.png\" width=\"600\" height=\"370\" alt=\"\">\n",
+				"content_text": "今日からサブブラウザをSafariにしてみよう……メインはまだOrionで。\n\nChrome系のほうがコンプレッサー使えるのがよかったんだけど、機能拡張でやるんじゃなくて、Audio Hijackを採用してOzone 11 Elementsを通すようにしたので、分割ウィンドウぐらいの利点しかなくなってた。\n\n<img src=\"uploads/2025/3a1264e27c.png\" width=\"600\" height=\"370\" alt=\"\">\n",
 				"date_published": "2025-07-07T20:44:28+09:00",
 				"url": "https://oeight.space/2025/07/07/safariorion-chromeaudio-hijackozone-elements.html",
 				"tags": ["Microposts"]
@@ -289,7 +334,7 @@
 				"id": "http://o-eight.micro.blog/2025/07/02/184527.html",
 				
 				"content_html": "<p>Keychron B1 Proの上のメディアキーのうち、輝度ボタンがMac miniの外部ディスプレイに対してうまく反応しなくて、調べたらMacは普通のキーコードじゃないらしい（ChatGPT）という情報と、外部ディスプレイはKC_SLCKとKC_PAUSに割り当てたらよくなったよという情報（Reddit）があったので、後者を割り当てたら期待通りに機能するようになった。</p>\n<p><a href=\"https://www.reddit.com/r/Keychron/comments/1034z92/brightness_keys_mac_external_display\">https://www.reddit.com/r/Keychron/comments/1034z92/brightness_keys_mac_external_display</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Keychron B1 Proの上のメディアキーのうち、輝度ボタンがMac miniの外部ディスプレイに対してうまく反応しなくて、調べたらMacは普通のキーコードじゃないらしい（ChatGPT）という情報と、外部ディスプレイはKC_SLCKとKC_PAUSに割り当てたらよくなったよという情報（Reddit）があったので、後者を割り当てたら期待通りに機能するようになった。\n\n<https://www.reddit.com/r/Keychron/comments/1034z92/brightness_keys_mac_external_display>\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/87f6e47d28.png\" width=\"537\" height=\"600\" alt=\"\">\n",
+				"content_text": "Keychron B1 Proの上のメディアキーのうち、輝度ボタンがMac miniの外部ディスプレイに対してうまく反応しなくて、調べたらMacは普通のキーコードじゃないらしい（ChatGPT）という情報と、外部ディスプレイはKC_SLCKとKC_PAUSに割り当てたらよくなったよという情報（Reddit）があったので、後者を割り当てたら期待通りに機能するようになった。\n\n<https://www.reddit.com/r/Keychron/comments/1034z92/brightness_keys_mac_external_display>\n\n<img src=\"uploads/2025/87f6e47d28.png\" width=\"537\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-07-02T18:45:27+09:00",
 				"url": "https://oeight.space/2025/07/02/184527.html",
 				"tags": ["Microposts"]
@@ -298,7 +343,7 @@
 				"id": "http://o-eight.micro.blog/2025/07/02/keychron-b-pro.html",
 				"title": "Keychron B1 Proを衝動買いした",
 				"content_html": "<p>Keychron B1 Proというキーボード（<a href=\"https://amzn.to/4lv1WO1\">https://amzn.to/4lv1WO1</a>）、昨日Amazon見て衝動買いしたんだけど、何がいいかってキー配列がだいたいApple純正と同じで（重要）、でもAの隣がControlじゃないなーって問題もリマップツールで変更できるし（超重要）、Apple純正みたいな小型&amp;薄型。</p>\n<p>そしてBluetooth, 2.4GHz無線, 有線接続（USB-C）に対応してて、MacとWinの配列変更がスイッチでできて、バッテリー持ちが良くて、それでもって7500円ぐらいとApple純正のほぼ半値（Touch ID付きのと比較すると1/3ぐらい）なんですよね。</p>\n<p>ポイントがちょっと付くので実際にはもう少し安いし、通常カラーだとさらに安い。</p>\n<p>そろそろApple純正をUSB-CにしたいけどTouch ID付きだと2万かぁ……どうしようかなー、でも古いのへたってきてるし予備機なし状態なんだよなあ……と思っていたので、予備機として一台入手した。</p>\n<p>個人的にはカラーはレトログリーンが欲しかったけど、在庫なさそうだったのでレトロレッドで。</p>\n<p>冷静に考えるとダンボールの中にHHKBとRealforce閉まってあったなあと気づいたけど、Realforceはテンキーレスでもでかいし、HHKBはカーソルなくてUS配列だから慣れ直すのが面倒、なにより薄型の方が個人的には好きだったのでまあいいんじゃないと。</p>\n<p>……サイズが少しApple純正より大きいのは承知の上で買ったけど、タイプ感だけはかなり期待外れだったなあ（シザー方式って言うけどなんかふにょふにょしてるし、ストロークが案外ある。まぁストロークはApple純正がなさすぎるのかもなんだけど、ふにょふにょしたキーを長く押し込むのって楽しくないし意味もないと思うんだよね……）。</p>\n<p>リマップツールの画像貼っておきますね。ツールというかWebサイトになっていて、アクセスして使う形。提供元が廃業したらサイトなくなりそうだけど、まあそのときはApple純正使ってるだろうし……。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Keychron B1 Proというキーボード（<https://amzn.to/4lv1WO1>）、昨日Amazon見て衝動買いしたんだけど、何がいいかってキー配列がだいたいApple純正と同じで（重要）、でもAの隣がControlじゃないなーって問題もリマップツールで変更できるし（超重要）、Apple純正みたいな小型&薄型。\n\nそしてBluetooth, 2.4GHz無線, 有線接続（USB-C）に対応してて、MacとWinの配列変更がスイッチでできて、バッテリー持ちが良くて、それでもって7500円ぐらいとApple純正のほぼ半値（Touch ID付きのと比較すると1/3ぐらい）なんですよね。\n\nポイントがちょっと付くので実際にはもう少し安いし、通常カラーだとさらに安い。\n\nそろそろApple純正をUSB-CにしたいけどTouch ID付きだと2万かぁ……どうしようかなー、でも古いのへたってきてるし予備機なし状態なんだよなあ……と思っていたので、予備機として一台入手した。\n\n個人的にはカラーはレトログリーンが欲しかったけど、在庫なさそうだったのでレトロレッドで。\n\n冷静に考えるとダンボールの中にHHKBとRealforce閉まってあったなあと気づいたけど、Realforceはテンキーレスでもでかいし、HHKBはカーソルなくてUS配列だから慣れ直すのが面倒、なにより薄型の方が個人的には好きだったのでまあいいんじゃないと。\n\n……サイズが少しApple純正より大きいのは承知の上で買ったけど、タイプ感だけはかなり期待外れだったなあ（シザー方式って言うけどなんかふにょふにょしてるし、ストロークが案外ある。まぁストロークはApple純正がなさすぎるのかもなんだけど、ふにょふにょしたキーを長く押し込むのって楽しくないし意味もないと思うんだよね……）。\n\nリマップツールの画像貼っておきますね。ツールというかWebサイトになっていて、アクセスして使う形。提供元が廃業したらサイトなくなりそうだけど、まあそのときはApple純正使ってるだろうし……。\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/23bfc59a3e.png\" width=\"600\" height=\"438\" alt=\"\">\n",
+				"content_text": "Keychron B1 Proというキーボード（<https://amzn.to/4lv1WO1>）、昨日Amazon見て衝動買いしたんだけど、何がいいかってキー配列がだいたいApple純正と同じで（重要）、でもAの隣がControlじゃないなーって問題もリマップツールで変更できるし（超重要）、Apple純正みたいな小型&薄型。\n\nそしてBluetooth, 2.4GHz無線, 有線接続（USB-C）に対応してて、MacとWinの配列変更がスイッチでできて、バッテリー持ちが良くて、それでもって7500円ぐらいとApple純正のほぼ半値（Touch ID付きのと比較すると1/3ぐらい）なんですよね。\n\nポイントがちょっと付くので実際にはもう少し安いし、通常カラーだとさらに安い。\n\nそろそろApple純正をUSB-CにしたいけどTouch ID付きだと2万かぁ……どうしようかなー、でも古いのへたってきてるし予備機なし状態なんだよなあ……と思っていたので、予備機として一台入手した。\n\n個人的にはカラーはレトログリーンが欲しかったけど、在庫なさそうだったのでレトロレッドで。\n\n冷静に考えるとダンボールの中にHHKBとRealforce閉まってあったなあと気づいたけど、Realforceはテンキーレスでもでかいし、HHKBはカーソルなくてUS配列だから慣れ直すのが面倒、なにより薄型の方が個人的には好きだったのでまあいいんじゃないと。\n\n……サイズが少しApple純正より大きいのは承知の上で買ったけど、タイプ感だけはかなり期待外れだったなあ（シザー方式って言うけどなんかふにょふにょしてるし、ストロークが案外ある。まぁストロークはApple純正がなさすぎるのかもなんだけど、ふにょふにょしたキーを長く押し込むのって楽しくないし意味もないと思うんだよね……）。\n\nリマップツールの画像貼っておきますね。ツールというかWebサイトになっていて、アクセスして使う形。提供元が廃業したらサイトなくなりそうだけど、まあそのときはApple純正使ってるだろうし……。\n\n<img src=\"uploads/2025/23bfc59a3e.png\" width=\"600\" height=\"438\" alt=\"\">\n",
 				"date_published": "2025-07-02T18:02:01+09:00",
 				"url": "https://oeight.space/2025/07/02/keychron-b-pro.html",
 				"tags": ["Longform"]
@@ -307,7 +352,7 @@
 				"id": "http://o-eight.micro.blog/2025/07/02/my-new-gear.html",
 				
 				"content_html": "<p>my new gear&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "my new gear...\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/038e676d62.jpg\" width=\"600\" height=\"450\" alt=\"Keychron B1 Pro\">\n",
+				"content_text": "my new gear...\n\n<img src=\"uploads/2025/038e676d62.jpg\" width=\"600\" height=\"450\" alt=\"Keychron B1 Pro\">\n",
 				"date_published": "2025-07-02T17:38:34+09:00",
 				"url": "https://oeight.space/2025/07/02/my-new-gear.html",
 				"tags": ["Microposts"]
@@ -1648,7 +1693,7 @@
 				"id": "http://o-eight.micro.blog/2025/05/31/043501.html",
 				
 				"content_html": "<p>ぐぬぬ</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "ぐぬぬ\n\n<img src=\"https://cdn.uploads.micro.blog/203843/2025/ee67ae6f4c.jpg\" width=\"338\" height=\"600\" alt=\"\">\n",
+				"content_text": "ぐぬぬ\n\n<img src=\"uploads/2025/ee67ae6f4c.jpg\" width=\"338\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-05-31T04:35:01+09:00",
 				"url": "https://oeight.space/2025/05/31/043501.html",
 				"tags": ["Microposts"]
