@@ -7,6 +7,96 @@
 	"items": [
 		
 			{
+				"id": "http://o-eight.micro.blog/2025/08/14/ollamagui.html",
+				
+				"content_html": "<p>とかいいつつOllama開いたら今普通にGUIあるのか……</p>\n",
+				"content_text": "とかいいつつOllama開いたら今普通にGUIあるのか……\n",
+				"date_published": "2025-08-14T20:37:31+09:00",
+				"url": "https://oeight.space/2025/08/14/ollamagui.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/08/14/raycastchatwiseollamallm.html",
+				
+				"content_html": "<p>RaycastやChatWiseはOllamaで導入したローカルLLMのホストにすることができるので、それでもいいけど、まあそこまでできる人はどれだってできるから……。</p>\n",
+				"content_text": "RaycastやChatWiseはOllamaで導入したローカルLLMのホストにすることができるので、それでもいいけど、まあそこまでできる人はどれだってできるから……。\n",
+				"date_published": "2025-08-14T20:34:19+09:00",
+				"url": "https://oeight.space/2025/08/14/raycastchatwiseollamallm.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/08/14/203024.html",
+				
+				"content_html": "<p>まあでも一般人向けという意味ではスマートフォンアプリの方が一般的か……？　でもスマートフォンだったら別にローカルでなくてもいいような……ああでも性格を固定したアシスタントとして使いたいならやっぱりローカルか。</p>\n",
+				"content_text": "まあでも一般人向けという意味ではスマートフォンアプリの方が一般的か……？　でもスマートフォンだったら別にローカルでなくてもいいような……ああでも性格を固定したアシスタントとして使いたいならやっぱりローカルか。\n",
+				"date_published": "2025-08-14T20:30:24+09:00",
+				"url": "https://oeight.space/2025/08/14/203024.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/08/14/llmjanollamallamacppmac-webserper.html",
+				
+				"content_html": "<p>ローカルLLMを簡単に始めるのに、Janは良い選択かもね。OllamaとかLlama.cppを使うのに特に手間取らない人は別として、一般の人でも使い始めるまでに困るところがなさそう。(Mac版しか試してないけど)</p>\n<p>Web検索させようとするとちょっと設定が必要だし、デフォルトが進めてるSerperは一般人向けではないような気もするが。</p>\n",
+				"content_text": "ローカルLLMを簡単に始めるのに、Janは良い選択かもね。OllamaとかLlama.cppを使うのに特に手間取らない人は別として、一般の人でも使い始めるまでに困るところがなさそう。(Mac版しか試してないけど)\n\nWeb検索させようとするとちょっと設定が必要だし、デフォルトが進めてるSerperは一般人向けではないような気もするが。\n",
+				"date_published": "2025-08-14T20:29:22+09:00",
+				"url": "https://oeight.space/2025/08/14/llmjanollamallamacppmac-webserper.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/08/09/xmicroblog.html",
+				
+				"content_html": "<p>XよりもMicro.blogクライアントのほうが遥かにポストしやすいのなんかではあるなあ。</p>\n",
+				"content_text": "XよりもMicro.blogクライアントのほうが遥かにポストしやすいのなんかではあるなあ。\n",
+				"date_published": "2025-08-09T20:43:41+09:00",
+				"url": "https://oeight.space/2025/08/09/xmicroblog.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/08/09/204320.html",
+				
+				"content_html": "<p>収入が増えない日本人の感覚ではあるけれどもね</p>\n",
+				"content_text": "収入が増えない日本人の感覚ではあるけれどもね\n",
+				"date_published": "2025-08-09T20:43:20+09:00",
+				"url": "https://oeight.space/2025/08/09/204320.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/08/09/204243.html",
+				
+				"content_html": "<p>$5〜$10ぐらいじゃないかなあ、落ち着くラインとしては。</p>\n",
+				"content_text": "$5〜$10ぐらいじゃないかなあ、落ち着くラインとしては。\n",
+				"date_published": "2025-08-09T20:42:43+09:00",
+				"url": "https://oeight.space/2025/08/09/204243.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/08/09/diadia-prollm.html",
+				
+				"content_html": "<p>DiaはDia Proという有料プラン（$20/月）が始まったのか。ブラウザに$20/月は難しそうだけどなあ。まあLLMありだとだいたい$20/月ってのが今の価格感だけど、おそらくそうはならないと思うんだよな。</p>\n",
+				"content_text": "DiaはDia Proという有料プラン（$20/月）が始まったのか。ブラウザに$20/月は難しそうだけどなあ。まあLLMありだとだいたい$20/月ってのが今の価格感だけど、おそらくそうはならないと思うんだよな。\n",
+				"date_published": "2025-08-09T20:42:26+09:00",
+				"url": "https://oeight.space/2025/08/09/diadia-prollm.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/08/09/raycast-aiai-commandchatgpturldiaurl-llmllm.html",
+				
+				"content_html": "<p>まぁRaycast AIでも開いてるブラウザ窓に対してアクションを起こすAI Commandを作れば全く同じことができるし、ChatGPTならURL渡して同じことすれば同じことはできるけど、Diaのチャット欄は今のところ無料みたいだしURL渡す手間がないからね。</p>\n<p>現在のLLMのコストからすると、すべてのアプリにLLMが「別に」組み込まれている必要はあんまり感じないんだけど、将来コストがめちゃくちゃ下がってきたときのことを考えるとまぁ付いてて損はないって感じかなあ。</p>\n",
+				"content_text": "まぁRaycast AIでも開いてるブラウザ窓に対してアクションを起こすAI Commandを作れば全く同じことができるし、ChatGPTならURL渡して同じことすれば同じことはできるけど、Diaのチャット欄は今のところ無料みたいだしURL渡す手間がないからね。\n\n現在のLLMのコストからすると、すべてのアプリにLLMが「別に」組み込まれている必要はあんまり感じないんだけど、将来コストがめちゃくちゃ下がってきたときのことを考えるとまぁ付いてて損はないって感じかなあ。\n",
+				"date_published": "2025-08-09T20:39:08+09:00",
+				"url": "https://oeight.space/2025/08/09/raycast-aiai-commandchatgpturldiaurl-llmllm.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/08/09/diallmxurldiaskill.html",
+				
+				"content_html": "<p>DiaみたいなLLMチャット欄の付いているブラウザ、実際にはどう利用するものなんだ……？　と思っていたけど、たとえばページについてXでポストしようとするときのタイトル・URLをまとめたものを生成するためのスラッシュコマンド（Dia用語ならskill）を作っておくという作業をすればそれなりに便利なんだなと気付いた。</p>\n",
+				"content_text": "DiaみたいなLLMチャット欄の付いているブラウザ、実際にはどう利用するものなんだ……？　と思っていたけど、たとえばページについてXでポストしようとするときのタイトル・URLをまとめたものを生成するためのスラッシュコマンド（Dia用語ならskill）を作っておくという作業をすればそれなりに便利なんだなと気付いた。\n",
+				"date_published": "2025-08-09T20:36:52+09:00",
+				"url": "https://oeight.space/2025/08/09/diallmxurldiaskill.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://o-eight.micro.blog/2025/08/09/024940.html",
 				
 				"content_html": "<p>ぐぬぬ、胃の調子がずっと不調だししばらく冷たいもの控えようかな……とりあえず今日は寝ますが。</p>\n",
