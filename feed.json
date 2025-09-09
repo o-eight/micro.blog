@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://o-eight.micro.blog/2025/09/09/211518.html",
+				
+				"content_html": "<p>カフェインゼロのコーラ、とても良い。今年のトップ3に入るドリンク。</p>\n",
+				"content_text": "カフェインゼロのコーラ、とても良い。今年のトップ3に入るドリンク。\n",
+				"date_published": "2025-09-09T21:15:18+09:00",
+				"url": "https://oeight.space/2025/09/09/211518.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/09/05/kagi-summarizeweb.html",
+				
+				"content_html": "<p>Kagi Summarizeという、Webページの要約をするアプリが結構いい。</p>\n<p>ブラウザから共有で起動して要約で、通常の要約、箇条書き、5歳にもわかるように説明しての3通りから選べるんだけど、一番いいのは日本語以外の記事を渡したときに日本語でまとめてくれること。</p>\n<p>日本語なら読む方が楽しい活字中毒でも、外国語なら要約の方が便利だなあと感じた。</p>\n",
+				"content_text": "Kagi Summarizeという、Webページの要約をするアプリが結構いい。\n\nブラウザから共有で起動して要約で、通常の要約、箇条書き、5歳にもわかるように説明しての3通りから選べるんだけど、一番いいのは日本語以外の記事を渡したときに日本語でまとめてくれること。\n\n日本語なら読む方が楽しい活字中毒でも、外国語なら要約の方が便利だなあと感じた。\n",
+				"date_published": "2025-09-05T13:06:21+09:00",
+				"url": "https://oeight.space/2025/09/05/kagi-summarizeweb.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://o-eight.micro.blog/2025/09/05/microblogurl.html",
+				
+				"content_html": "<p>たまーにMicro.blogのフィード取得がおかしくなって、タイトルとURLじゃなくて、違うフォーマットで取得してしまったままポストするバグだ……。</p>\n",
+				"content_text": "たまーにMicro.blogのフィード取得がおかしくなって、タイトルとURLじゃなくて、違うフォーマットで取得してしまったままポストするバグだ……。\n",
+				"date_published": "2025-09-05T13:03:19+09:00",
+				"url": "https://oeight.space/2025/09/05/microblogurl.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://o-eight.micro.blog/2025/09/04/xbuffermicroblog.html",
 				
 				"content_html": "<p>使える時間の問題で、どうしてもXに偏りがちになってしまっているが、こっちを忘れているわけではないのである……。BufferがMicro.blogに対応してくれればなあ。</p>\n",
@@ -9331,15 +9358,6 @@
 				"tags": ["Longform"]
 			},
 			{
-				"id": "http://o-eight.micro.blog/2025/03/20/022627.html",
-				
-				"content_html": "<p>さっきのにリンクを貼るのを忘れていた。</p>\n<p>Kagiは本当にいいので、おすすめです。</p>\n<p><a href=\"https://www.theverge.com/web/631636/kagi-review-best-search-engine\">www.theverge.com/web/63163&hellip;</a></p>\n",
-				"content_text": "さっきのにリンクを貼るのを忘れていた。\n\nKagiは本当にいいので、おすすめです。\n\n[www.theverge.com/web/63163...](https://www.theverge.com/web/631636/kagi-review-best-search-engine)\n",
-				"date_published": "2025-03-20T02:26:27+09:00",
-				"url": "https://oeight.space/2025/03/20/022627.html",
-				"tags": ["Microposts"]
-			},
-			{
 				"id": "http://o-eight.micro.blog/2025/03/20/kagi.html",
 				
 				"content_html": "<p>Kagiについてブログ記事を書き掛けているけど、まあこういう感じのことを書いているのです……。</p>\n",
@@ -9667,7 +9685,7 @@
 				"id": "http://o-eight.micro.blog/2025/03/18/kaweco-liliput.html",
 				"title": "Kaweco liliputが好きすぎる",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Kaweco liliputはポケット万年筆の部類で、とにかく小さいが、キャップを後ろに付ける（ポストする、と言う）ことができて、そうすれば一般的なショート軸の万年筆ぐらいにはなる。</p>\n<p>細身なので、細身のペンが苦手な人には向いてないだろう。ボールペンモデルもあり、一般的なD1規格の替え芯が使える。</p>\n\n\n  \n  \n\n  <picture>\n    <source srcset=\"https://oeight.me/posts/20250318-1659/IMG_0304_hu_cb2c52044e1ed8cf.webp\" type=\"image/webp\">\n    <img src=\"https://cdn.uploads.micro.blog/203843/2025/img-0304-hu-1e13dc9aa863d5c9.jpg\" alt=\"kaweco lilipu blue photo\">\n  </picture>\n\n<p>キャップやボディ素材は、アルミが基本で、ステンレスやブラスのオプションあり。アルミ軸は限定カラーとかも出る。（画像の青軸は新色です）</p>\n<p>キャップは嵌合式ではなく、ねじ式。後ろにポストするときもねじ式で、回転数多めなので使い始めるときにちょっと一手間という感じ。</p>\n<p>ただし、その代わりに密閉性は高いので、水性で粘度の低いインクを使う万年筆にとっては、ペン先の乾燥の心配や、いつのまにか乾いていて濡らさないと書けない、というトラブルが少ないのは魅力。</p>\n<p>インクは原則カートリッジのみの対応で、ペン先は交換可能だが、初期状態でEF（極細）があるのは一部モデルのみ。</p>\n<p>交換用ペン先はステンレスや金ペンから選べるが、ステンレスならまあ安い。</p>\n<p>とはいえ、本体価格はステンレス万年筆にしては少し高いといったところ。だが、持ち運びの容易さ、ちょっとしたスペースに忍ばせておける機動性は評価したい。</p>\n<p>そして何より、小さくて愛らしい。</p>\n<p>私は5本ぐらい持ってます。</p>\n",
+				"content_text": "<p>Kaweco liliputはポケット万年筆の部類で、とにかく小さいが、キャップを後ろに付ける（ポストする、と言う）ことができて、そうすれば一般的なショート軸の万年筆ぐらいにはなる。</p>\n<p>細身なので、細身のペンが苦手な人には向いてないだろう。ボールペンモデルもあり、一般的なD1規格の替え芯が使える。</p>\n\n\n  \n  \n\n  <picture>\n    <source srcset=\"https://oeight.me/posts/20250318-1659/IMG_0304_hu_cb2c52044e1ed8cf.webp\" type=\"image/webp\">\n    <img src=\"uploads/2025/img-0304-hu-1e13dc9aa863d5c9.jpg\" alt=\"kaweco lilipu blue photo\">\n  </picture>\n\n<p>キャップやボディ素材は、アルミが基本で、ステンレスやブラスのオプションあり。アルミ軸は限定カラーとかも出る。（画像の青軸は新色です）</p>\n<p>キャップは嵌合式ではなく、ねじ式。後ろにポストするときもねじ式で、回転数多めなので使い始めるときにちょっと一手間という感じ。</p>\n<p>ただし、その代わりに密閉性は高いので、水性で粘度の低いインクを使う万年筆にとっては、ペン先の乾燥の心配や、いつのまにか乾いていて濡らさないと書けない、というトラブルが少ないのは魅力。</p>\n<p>インクは原則カートリッジのみの対応で、ペン先は交換可能だが、初期状態でEF（極細）があるのは一部モデルのみ。</p>\n<p>交換用ペン先はステンレスや金ペンから選べるが、ステンレスならまあ安い。</p>\n<p>とはいえ、本体価格はステンレス万年筆にしては少し高いといったところ。だが、持ち運びの容易さ、ちょっとしたスペースに忍ばせておける機動性は評価したい。</p>\n<p>そして何より、小さくて愛らしい。</p>\n<p>私は5本ぐらい持ってます。</p>\n",
 				"date_published": "2025-03-18T16:59:42+09:00",
 				"url": "https://oeight.space/2025/03/18/kaweco-liliput.html",
 				"tags": ["Longform"]
